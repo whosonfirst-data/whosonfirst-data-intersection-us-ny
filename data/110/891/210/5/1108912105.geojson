@@ -1,0 +1,62 @@
+{
+  "id": 1108912105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5952.37934,
+    "geom:bbox":"-74.0213908492,40.6896078187,-74.0200972077,40.690804737",
+    "geom:latitude":40.690215,
+    "geom:longitude":-74.020753,
+    "intersection:latitude":40.690214,
+    "intersection:longitude":-74.020689,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.690214,
+    "reversegeo:longitude":-74.020689,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907131741,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818152,
+    "wof:geomhash":"9784e726bb51d421ff1fcb2e0d59a6d2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912105,
+            "locality_id":85977539,
+            "neighbourhood_id":907131741,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912105,
+    "wof:lastmodified":1490900137,
+    "wof:name":"Main St  & Wheeler Ave",
+    "wof:parent_id":907131741,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.02139084921079,
+    40.68960781871942,
+    -74.02009720771228,
+    40.69080473701985
+],
+  "geometry": {"coordinates":[[[-74.02096622371836,40.68960781871942],[-74.02139084921079,40.68985687790249],[-74.02057810159042,40.69080473701985],[-74.02009720771228,40.69057484404948],[-74.02096622371836,40.68960781871942]]],"type":"Polygon"}
+}

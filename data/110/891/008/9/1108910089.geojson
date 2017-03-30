@@ -1,0 +1,64 @@
+{
+  "id": 1108910089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24797.092739,
+    "geom:bbox":"-73.9468917878,40.781075994,-73.9444432622,40.7832557355",
+    "geom:latitude":40.782179,
+    "geom:longitude":-73.94565,
+    "intersection:latitude":40.781947,
+    "intersection:longitude":-73.94567,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.781947,
+    "reversegeo:longitude":-73.94567,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818051,
+    "wof:geomhash":"01de2ec85e96e5fc5d5eb28b2b67aa37",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910089,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910089,
+    "wof:lastmodified":1490900142,
+    "wof:name":"1st Ave  & E 94th St",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9468917877846,
+    40.78107599401874,
+    -73.94444326216305,
+    40.78325573545328
+],
+  "geometry": {"coordinates":[[[-73.94514014365684,40.78107599401874],[-73.94689178778459,40.78235572134498],[-73.94681592915781,40.78253633349257],[-73.94631835707412,40.78312275773406],[-73.94610078309321,40.78325573545328],[-73.94469915056598,40.78223470006614],[-73.94444326216305,40.78177837457741],[-73.94514014365684,40.78107599401874]]],"type":"Polygon"}
+}

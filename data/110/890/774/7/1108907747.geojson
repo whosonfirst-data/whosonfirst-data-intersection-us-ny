@@ -1,0 +1,64 @@
+{
+  "id": 1108907747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3836.294639,
+    "geom:bbox":"-74.0136904019,40.70675202,-74.0128214933,40.7075888173",
+    "geom:latitude":40.707215,
+    "geom:longitude":-74.013267,
+    "intersection:latitude":40.707147,
+    "intersection:longitude":-74.013374,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.707147,
+    "reversegeo:longitude":-74.013374,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817936,
+    "wof:geomhash":"8c106deaa28a09f6b1754770e219a1ad",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907747,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907747,
+    "wof:lastmodified":1490900175,
+    "wof:name":"Exchange Aly  & Trinity Pl",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01369040192435,
+    40.70675202001868,
+    -74.01282149329242,
+    40.70758881727228
+],
+  "geometry": {"coordinates":[[[-74.01303094502644,40.70675202001868],[-74.0136721381062,40.70720462689849],[-74.01369040192435,40.70750242859987],[-74.01336505742871,40.70758881727228],[-74.01282149329242,40.70722934949675],[-74.01303094502644,40.70675202001868]]],"type":"Polygon"}
+}

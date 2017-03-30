@@ -1,0 +1,66 @@
+{
+  "id": 1108910615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6230.461302,
+    "geom:bbox":"-74.0056562492,40.7389609053,-74.004626181,40.7397682791",
+    "geom:latitude":40.739362,
+    "geom:longitude":-74.005143,
+    "intersection:latitude":40.739412,
+    "intersection:longitude":-74.00539,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.739412,
+    "reversegeo:longitude":-74.00539,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214383,
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818076,
+    "wof:geomhash":"fe43b008c92124d9c8ee5dfaa092de85",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910615,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907214383,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910615,
+    "wof:lastmodified":1490900130,
+    "wof:name":"Gansevoort St  & Hudson St",
+    "wof:parent_id":907214383,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0056562491749,
+    40.73896090528935,
+    -74.00462618101523,
+    40.73976827906976
+],
+  "geometry": {"coordinates":[[[-74.00467737314661,40.73896090528935],[-74.0056562491749,40.73911710891089],[-74.00565131606764,40.73976827906976],[-74.00462823881158,40.73960278127835],[-74.00462618101523,40.7390797580375],[-74.00467737314661,40.73896090528935]]],"type":"Polygon"}
+}

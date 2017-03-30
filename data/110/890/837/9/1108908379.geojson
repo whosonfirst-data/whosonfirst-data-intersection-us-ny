@@ -1,0 +1,64 @@
+{
+  "id": 1108908379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9893.142789,
+    "geom:bbox":"-74.0022144187,40.7299567002,-74.0010663978,40.7314539877",
+    "geom:latitude":40.730766,
+    "geom:longitude":-74.001702,
+    "intersection:latitude":40.730581,
+    "intersection:longitude":-74.001684,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.730581,
+    "reversegeo:longitude":-74.001684,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817965,
+    "wof:geomhash":"729418893b3c304ab4666c9190d03053",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908379,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908379,
+    "wof:lastmodified":1490900172,
+    "wof:name":"Ave of the Americas  & Minetta Ln",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00221441865692,
+    40.72995670017935,
+    -74.00106639776106,
+    40.731453987717
+],
+  "geometry": {"coordinates":[[[-74.00158246376492,40.72995670017935],[-74.00199010858337,40.73018861960293],[-74.00221441865692,40.73087376904937],[-74.00204469830656,40.731453987717],[-74.00179279805083,40.73145094229077],[-74.00106639776106,40.73097958921385],[-74.00158246376492,40.72995670017935]]],"type":"Polygon"}
+}

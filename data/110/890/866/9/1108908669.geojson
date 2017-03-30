@@ -1,0 +1,64 @@
+{
+  "id": 1108908669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19084.473059,
+    "geom:bbox":"-73.948291595,40.8296479115,-73.945791248,40.8318810397",
+    "geom:latitude":40.83074,
+    "geom:longitude":-73.947072,
+    "intersection:latitude":40.830846,
+    "intersection:longitude":-73.947226,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.830846,
+    "reversegeo:longitude":-73.947226,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817976,
+    "wof:geomhash":"4701dedde92e60f406ace657143e0412",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908669,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908669,
+    "wof:lastmodified":1490900167,
+    "wof:name":"Broadway  & W 152nd St",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94829159500512,
+    40.8296479114549,
+    -73.9457912479703,
+    40.83188103970652
+],
+  "geometry": {"coordinates":[[[-73.94624900728471,40.8296479114549],[-73.94829159500512,40.83114952489942],[-73.94798565605377,40.83188103970652],[-73.94579124797031,40.83027648851589],[-73.94581759496472,40.83021374077858],[-73.94624900728471,40.8296479114549]]],"type":"Polygon"}
+}

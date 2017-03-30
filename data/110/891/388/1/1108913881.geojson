@@ -1,0 +1,64 @@
+{
+  "id": 1108913881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10942.493695,
+    "geom:bbox":"-73.9566513938,40.805599505,-73.9550591438,40.807052962",
+    "geom:latitude":40.806327,
+    "geom:longitude":-73.955856,
+    "intersection:latitude":40.806336,
+    "intersection:longitude":-73.955869,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.806336,
+    "reversegeo:longitude":-73.955869,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818239,
+    "wof:geomhash":"4f1a246a2032228334a004409c4d4712",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913881,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913881,
+    "wof:lastmodified":1490900159,
+    "wof:name":"W 118th St  & Manhattan Ave",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95665139382334,
+    40.80559950498098,
+    -73.95505914380352,
+    40.80705296203986
+],
+  "geometry": {"coordinates":[[[-73.95551667972218,40.80559950498098],[-73.95665139382334,40.80642393160137],[-73.9564837347525,40.80682775870818],[-73.95619291721638,40.80705296203986],[-73.95505914380352,40.80622872676509],[-73.95522547909991,40.80583316999643],[-73.95551667972218,40.80559950498098]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108908995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":93005.802895,
+    "geom:bbox":"-73.9194566859,40.8539731303,-73.9083525,40.8626423548",
+    "geom:latitude":40.858449,
+    "geom:longitude":-73.913913,
+    "intersection:latitude":40.861775,
+    "intersection:longitude":-73.918469,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.861775,
+    "reversegeo:longitude":-73.918469,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817990,
+    "wof:geomhash":"c7d2ad66bea9b1c9ac32ca146cefa8a0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908995,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908995,
+    "wof:lastmodified":1490900162,
+    "wof:name":"9th Ave  & W 204th St",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91945668593782,
+    40.85397313033176,
+    -73.9083525,
+    40.86264235484148
+],
+  "geometry": {"coordinates":[[[-73.90835250000001,40.85397313033176],[-73.91945668593782,40.86200743864063],[-73.91930568965724,40.86233577832657],[-73.91900259944244,40.86264235484148],[-73.90835250000001,40.85483113489483],[-73.90835250000001,40.85397313033176]]],"type":"Polygon"}
+}

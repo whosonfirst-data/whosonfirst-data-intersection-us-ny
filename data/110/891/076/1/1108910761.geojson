@@ -1,0 +1,64 @@
+{
+  "id": 1108910761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27721.498466,
+    "geom:bbox":"-73.9506002235,40.8146634659,-73.9479530541,40.8165813579",
+    "geom:latitude":40.815628,
+    "geom:longitude":-73.949278,
+    "intersection:latitude":40.815692,
+    "intersection:longitude":-73.948677,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.815692,
+    "reversegeo:longitude":-73.948677,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818082,
+    "wof:geomhash":"b5c24042598b753852f5fef74fedd9fb",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910761,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910761,
+    "wof:lastmodified":1490900148,
+    "wof:name":"W 133rd St  & St Nicholas Ave",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95060022350758,
+    40.81466346588458,
+    -73.94795305412822,
+    40.816581357945
+],
+  "geometry": {"coordinates":[[[-73.94957819704823,40.81466346588458],[-73.95060022350758,40.81614591356614],[-73.94968154709805,40.816581357945],[-73.94795305412822,40.81576780040344],[-73.94817400188623,40.8152265922869],[-73.94887402603256,40.81476704406134],[-73.94957819704823,40.81466346588458]]],"type":"Polygon"}
+}

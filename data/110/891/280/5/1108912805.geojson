@@ -1,0 +1,64 @@
+{
+  "id": 1108912805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14956.115752,
+    "geom:bbox":"-73.9314616103,40.8568627741,-73.9301542086,40.8587253025",
+    "geom:latitude":40.857779,
+    "geom:longitude":-73.930897,
+    "intersection:latitude":40.857978,
+    "intersection:longitude":-73.930904,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.857978,
+    "reversegeo:longitude":-73.930904,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212535,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818187,
+    "wof:geomhash":"b332ea17bd026bf454f4d597f655e8e2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912805,
+            "locality_id":85977539,
+            "microhood_id":907212535,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912805,
+    "wof:lastmodified":1490900143,
+    "wof:name":"Broadway Ter  & W 193rd St",
+    "wof:parent_id":907212535,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93146161031822,
+    40.85686277408917,
+    -73.93015420855858,
+    40.85872530249438
+],
+  "geometry": {"coordinates":[[[-73.9312684711055,40.85686277408917],[-73.93135095033571,40.8568906381926],[-73.93146161031822,40.85781065074791],[-73.93120051595869,40.85862512257251],[-73.9308698487349,40.85872530249438],[-73.93015420855858,40.85799471422037],[-73.9306457603016,40.85702802314644],[-73.9312684711055,40.85686277408917]]],"type":"Polygon"}
+}

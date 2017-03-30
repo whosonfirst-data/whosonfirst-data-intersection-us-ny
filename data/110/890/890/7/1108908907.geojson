@@ -1,0 +1,62 @@
+{
+  "id": 1108908907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14608.506323,
+    "geom:bbox":"-73.9430139283,40.8367582644,-73.9410779181,40.8386428236",
+    "geom:latitude":40.837722,
+    "geom:longitude":-73.942036,
+    "intersection:latitude":40.837803,
+    "intersection:longitude":-73.942141,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.837803,
+    "reversegeo:longitude":-73.942141,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817986,
+    "wof:geomhash":"27f3daef8f41a33490fbc0109970e62b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908907,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908907,
+    "wof:lastmodified":1490900171,
+    "wof:name":"W 163rd St  & Broadway",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94301392833881,
+    40.83675826443645,
+    -73.94107791806084,
+    40.83864282356232
+],
+  "geometry": {"coordinates":[[[-73.94138059814297,40.83675826443645],[-73.94301392833881,40.83796687634702],[-73.94278815550051,40.83850283560709],[-73.94264319818434,40.83864282356232],[-73.94107791806084,40.83750717891414],[-73.9410792795418,40.8374743350982],[-73.94138059814297,40.83675826443645]]],"type":"Polygon"}
+}

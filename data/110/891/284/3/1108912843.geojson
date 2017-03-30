@@ -1,0 +1,62 @@
+{
+  "id": 1108912843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":49801.871964,
+    "geom:bbox":"-73.9750167034,40.7777574239,-73.9719410096,40.7813899035",
+    "geom:latitude":40.779815,
+    "geom:longitude":-73.973318,
+    "intersection:latitude":40.779478,
+    "intersection:longitude":-73.973571,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.779478,
+    "reversegeo:longitude":-73.973571,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818188,
+    "wof:geomhash":"2a843b2195bcdd5fe4a270e335285c46",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912843,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912843,
+    "wof:lastmodified":1490900133,
+    "wof:name":"Central Park W  & W 77th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97501670341875,
+    40.77775742387978,
+    -73.97194100961914,
+    40.78138990349969
+],
+  "geometry": {"coordinates":[[[-73.97194100961914,40.77775742387978],[-73.97501670341875,40.78002420563996],[-73.97499449363595,40.78007816256979],[-73.97451759624717,40.7807206011986],[-73.97381888918267,40.78125995897705],[-73.97352922501339,40.78138990349969],[-73.97246655011999,40.78061807474307],[-73.97194100961914,40.77775742387978]]],"type":"Polygon"}
+}

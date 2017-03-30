@@ -1,0 +1,64 @@
+{
+  "id": 1108912601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":37799.947885,
+    "geom:bbox":"-73.9488785431,40.7986731959,-73.9460743223,40.801308161",
+    "geom:latitude":40.799903,
+    "geom:longitude":-73.947476,
+    "intersection:latitude":40.799961,
+    "intersection:longitude":-73.946974,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.799961,
+    "reversegeo:longitude":-73.946974,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818177,
+    "wof:geomhash":"5f77fd679ee4437c9b710ac5e6d5c104",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912601,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912601,
+    "wof:lastmodified":1490900134,
+    "wof:name":"E 115th St  & W 115th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94887854311186,
+    40.7986731959135,
+    -73.94607432234312,
+    40.80130816101146
+],
+  "geometry": {"coordinates":[[[-73.94713304219411,40.7986731959135],[-73.94887854311186,40.7999470685811],[-73.9485662826195,40.80067863729113],[-73.94808634639074,40.80130816101146],[-73.94607432234312,40.799844870795],[-73.9465361225564,40.79873833170829],[-73.94713304219411,40.7986731959135]]],"type":"Polygon"}
+}

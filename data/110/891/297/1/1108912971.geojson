@@ -1,0 +1,62 @@
+{
+  "id": 1108912971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13370.841534,
+    "geom:bbox":"-73.9835298799,40.7784415,-73.9816408843,40.7795566799",
+    "geom:latitude":40.77891,
+    "geom:longitude":-73.98261,
+    "intersection:latitude":40.778765,
+    "intersection:longitude":-73.981992,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.778765,
+    "reversegeo:longitude":-73.981992,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818194,
+    "wof:geomhash":"65648ab6247439bad5655a8ebe95d876",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912971,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912971,
+    "wof:lastmodified":1490900158,
+    "wof:name":"Broadway  & W 72nd St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98352987991342,
+    40.7784415,
+    -73.98164088433548,
+    40.7795566798902
+],
+  "geometry": {"coordinates":[[[-73.98270654761896,40.7784415],[-73.98352987991342,40.77856470649538],[-73.98352698038116,40.77858874039616],[-73.9831898434675,40.77939166282523],[-73.98304651293523,40.7795566798902],[-73.98164088433548,40.77907785930912],[-73.98191017924528,40.7784415],[-73.98270654761896,40.7784415]]],"type":"Polygon"}
+}

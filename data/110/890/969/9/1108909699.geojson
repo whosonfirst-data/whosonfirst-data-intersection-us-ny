@@ -1,0 +1,64 @@
+{
+  "id": 1108909699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17454.186984,
+    "geom:bbox":"-74.0145651138,40.7169467568,-74.0130293583,40.7192622473",
+    "geom:latitude":40.718043,
+    "geom:longitude":-74.013787,
+    "intersection:latitude":40.717664,
+    "intersection:longitude":-74.013932,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.717664,
+    "reversegeo:longitude":-74.013932,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85804741,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818036,
+    "wof:geomhash":"b69144394cfc4c287ce8d5cc24ed87b6",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909699,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85804741,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909699,
+    "wof:lastmodified":1490900168,
+    "wof:name":"N End Ave  & Chambers St",
+    "wof:parent_id":85804741,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01456511376256,
+    40.71694675676247,
+    -74.01302935832454,
+    40.71926224730456
+],
+  "geometry": {"coordinates":[[[-74.01365835352298,40.71694675676247],[-74.01456511376256,40.71766362727657],[-74.01387560113915,40.71926224730456],[-74.01302935832454,40.71825260269559],[-74.01361049034882,40.71698126277175],[-74.01365835352298,40.71694675676247]]],"type":"Polygon"}
+}

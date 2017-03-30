@@ -1,0 +1,62 @@
+{
+  "id": 1108909417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5634.790337,
+    "geom:bbox":"-73.9835513562,40.7775165313,-73.9820324345,40.7785647065",
+    "geom:latitude":40.778112,
+    "geom:longitude":-73.982669,
+    "intersection:latitude":40.777923,
+    "intersection:longitude":-73.982118,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.777923,
+    "reversegeo:longitude":-73.982118,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818017,
+    "wof:geomhash":"76699152f393306c048194c7c5a23fd4",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909417,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909417,
+    "wof:lastmodified":1490900176,
+    "wof:name":"W 71st St  & Amsterdam Ave",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98355135623089,
+    40.77751653125004,
+    -73.9820324344978,
+    40.77856470649538
+],
+  "geometry": {"coordinates":[[[-73.98222187500004,40.77751653125004],[-73.98355135623089,40.77851364217314],[-73.98352987991342,40.77856470649538],[-73.98270654761896,40.7784415],[-73.9820324344978,40.77800591921396],[-73.98222187500004,40.77751653125004]]],"type":"Polygon"}
+}

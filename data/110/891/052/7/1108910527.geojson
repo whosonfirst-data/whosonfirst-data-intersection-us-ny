@@ -1,0 +1,66 @@
+{
+  "id": 1108910527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12941.088077,
+    "geom:bbox":"-73.9441690562,40.8250879333,-73.9422866699,40.826580208",
+    "geom:latitude":40.825871,
+    "geom:longitude":-73.943213,
+    "intersection:latitude":40.825956,
+    "intersection:longitude":-73.943357,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.825956,
+    "reversegeo:longitude":-73.943357,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215743,
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818072,
+    "wof:geomhash":"8972bdcf059ab1ac70894d5fde286ab9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910527,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "microhood_id":907215743,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910527,
+    "wof:lastmodified":1490900144,
+    "wof:name":"W 148th St  & Donnellon Sq",
+    "wof:parent_id":907215743,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94416905620056,
+    40.82508793333332,
+    -73.94228666988347,
+    40.82658020797567
+],
+  "geometry": {"coordinates":[[[-73.94282406666666,40.82508793333332],[-73.94416905620056,40.82607081030042],[-73.9440067598554,40.82645662697789],[-73.94385470736657,40.82658020797567],[-73.94228666988347,40.82590201469559],[-73.94248984798877,40.82542215201121],[-73.94282406666666,40.82508793333332]]],"type":"Polygon"}
+}

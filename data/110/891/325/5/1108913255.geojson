@@ -1,0 +1,64 @@
+{
+  "id": 1108913255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13004.282574,
+    "geom:bbox":"-73.942028308,40.8042447237,-73.9402715972,40.8058853123",
+    "geom:latitude":40.80507,
+    "geom:longitude":-73.941148,
+    "intersection:latitude":40.805063,
+    "intersection:longitude":-73.941167,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.805063,
+    "reversegeo:longitude":-73.941167,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818207,
+    "wof:geomhash":"e99c98cbad17e80d10fe7075d12ccb99",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913255,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913255,
+    "wof:lastmodified":1490900145,
+    "wof:name":"Madison Ave  & E 124th St",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94202830797889,
+    40.80424472372152,
+    -73.94027159720346,
+    40.80588531225661
+],
+  "geometry": {"coordinates":[[[-73.94076082053986,40.80424472372152],[-73.94202830797889,40.80524548052493],[-73.94187049240963,40.80561325337135],[-73.9415343319788,40.80588531225661],[-73.94027159720346,40.80490922202227],[-73.94042018400074,40.8045517396688],[-73.94076082053986,40.80424472372152]]],"type":"Polygon"}
+}

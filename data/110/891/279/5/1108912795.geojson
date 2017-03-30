@@ -1,0 +1,64 @@
+{
+  "id": 1108912795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13328.319742,
+    "geom:bbox":"-73.9471755497,40.7914397473,-73.9453913683,40.7930587661",
+    "geom:latitude":40.792248,
+    "geom:longitude":-73.946283,
+    "intersection:latitude":40.792246,
+    "intersection:longitude":-73.94628,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.792246,
+    "reversegeo:longitude":-73.94628,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818186,
+    "wof:geomhash":"b4890224ff575c30a507768ea2c14250",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912795,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912795,
+    "wof:lastmodified":1490900147,
+    "wof:name":"Lexington Ave  & E 106th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94717554968956,
+    40.79143974734416,
+    -73.94539136832918,
+    40.79305876610291
+],
+  "geometry": {"coordinates":[[[-73.94588236473983,40.79143974734416],[-73.94717554968956,40.79237955088221],[-73.94700278008328,40.79278892871762],[-73.94667878350698,40.79305876610291],[-73.94539136832918,40.79211275435745],[-73.94556538649115,40.79170045726467],[-73.94588236473983,40.79143974734416]]],"type":"Polygon"}
+}

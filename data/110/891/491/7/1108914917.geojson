@@ -1,0 +1,64 @@
+{
+  "id": 1108914917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18034.703855,
+    "geom:bbox":"-73.9537614157,40.7883771773,-73.9517243898,40.7902093593",
+    "geom:latitude":40.789314,
+    "geom:longitude":-73.952662,
+    "intersection:latitude":40.789168,
+    "intersection:longitude":-73.952743,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.789168,
+    "reversegeo:longitude":-73.952743,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818300,
+    "wof:geomhash":"d3e60b61050d74710af2451e9d94d17d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914917,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914917,
+    "wof:lastmodified":1490900159,
+    "wof:name":"E 99th St  & Madison Ave",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95376141569817,
+    40.78837717730541,
+    -73.9517243897643,
+    40.79020935926949
+],
+  "geometry": {"coordinates":[[[-73.95233290276003,40.78837717730541],[-73.95376141569817,40.78942775296229],[-73.95288029013656,40.79020271067035],[-73.95286195148255,40.79020935926949],[-73.95172438976429,40.78938369496881],[-73.95205038734052,40.78862173645483],[-73.95233290276003,40.78837717730541]]],"type":"Polygon"}
+}

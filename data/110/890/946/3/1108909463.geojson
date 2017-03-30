@@ -1,0 +1,43 @@
+{
+  "id": 1108909463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21392.669776,
+    "geom:bbox":"-73.9935127541,40.7529058537,-73.9906478221,40.755274219",
+    "geom:latitude":40.75409,
+    "geom:longitude":-73.992079,
+    "intersection:latitude":40.754091,
+    "intersection:longitude":-73.992079,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.754091,
+    "reversegeo:longitude":-73.992079,
+    "src:geom":"mapzen",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818021,
+    "wof:geomhash":"07d75808aac501dc68a7f1d365068318",
+    "wof:hierarchy":[],
+    "wof:id":1108909463,
+    "wof:lastmodified":1490900173,
+    "wof:name":"W 37th St  & 8th Ave",
+    "wof:parent_id":-1,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99351275414018,
+    40.75290585373822,
+    -73.99064782213584,
+    40.755274219007
+],
+  "geometry": {"coordinates":[[[-73.99109884355559,40.75290585373822],[-73.99351275414018,40.75466249207281],[-73.99349081108319,40.75471443554576],[-73.99306482266439,40.755274219007],[-73.99064782213584,40.75352424784511],[-73.99067098527722,40.75346932253662],[-73.99109884355559,40.75290585373822]]],"type":"Polygon"}
+}

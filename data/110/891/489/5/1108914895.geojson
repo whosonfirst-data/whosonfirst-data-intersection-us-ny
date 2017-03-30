@@ -1,0 +1,64 @@
+{
+  "id": 1108914895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14751.229501,
+    "geom:bbox":"-73.966545317,40.7618070227,-73.9645032819,40.7635890623",
+    "geom:latitude":40.762705,
+    "geom:longitude":-73.965531,
+    "intersection:latitude":40.762805,
+    "intersection:longitude":-73.96567,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.762805,
+    "reversegeo:longitude":-73.96567,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818299,
+    "wof:geomhash":"104fcf603cbb3498aa0ced59c926700d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914895,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914895,
+    "wof:lastmodified":1490900146,
+    "wof:name":"3rd Ave  & E 61st St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96654531696429,
+    40.76180702273739,
+    -73.96450328186776,
+    40.76358906231228
+],
+  "geometry": {"coordinates":[[[-73.96496357797133,40.76180702273739],[-73.96654531696429,40.76296612107143],[-73.96639689763171,40.76331836962074],[-73.96608902317939,40.76358906231228],[-73.96450328186776,40.76243579590383],[-73.96458874995277,40.76223287696205],[-73.96496357797133,40.76180702273739]]],"type":"Polygon"}
+}

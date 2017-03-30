@@ -1,0 +1,64 @@
+{
+  "id": 1108910427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21493.689822,
+    "geom:bbox":"-73.9980909367,40.7466342037,-73.9952181398,40.7490136631",
+    "geom:latitude":40.747824,
+    "geom:longitude":-73.996649,
+    "intersection:latitude":40.747823,
+    "intersection:longitude":-73.996648,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.747823,
+    "reversegeo:longitude":-73.996648,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818065,
+    "wof:geomhash":"70f31b9597f9b772db9ebd5f91de3145",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910427,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910427,
+    "wof:lastmodified":1490900136,
+    "wof:name":"W 27th St  & 8th Ave",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99809093667541,
+    40.74663420366071,
+    -73.99521813982685,
+    40.74901366309378
+],
+  "geometry": {"coordinates":[[[-73.99566792541539,40.74663420366071],[-73.99809093667541,40.74840245297838],[-73.99762619165678,40.74901366309378],[-73.99521813982685,40.74724957974349],[-73.99524252816278,40.74719220137634],[-73.99566792541539,40.74663420366071]]],"type":"Polygon"}
+}

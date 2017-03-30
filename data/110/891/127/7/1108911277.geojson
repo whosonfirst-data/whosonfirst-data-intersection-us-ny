@@ -1,0 +1,62 @@
+{
+  "id": 1108911277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21474.493383,
+    "geom:bbox":"-73.9792585065,40.7726891993,-73.9761282209,40.7748472821",
+    "geom:latitude":40.773674,
+    "geom:longitude":-73.977826,
+    "intersection:latitude":40.773656,
+    "intersection:longitude":-73.977827,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.773656,
+    "reversegeo:longitude":-73.977827,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818116,
+    "wof:geomhash":"5d0fa171042373b224f20997589f6d60",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911277,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911277,
+    "wof:lastmodified":1490900153,
+    "wof:name":"Central Park W  & W 68th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97925850654691,
+    40.77268919930025,
+    -73.97612822088436,
+    40.77484728212777
+],
+  "geometry": {"coordinates":[[[-73.97715325564464,40.77268919930025],[-73.97925850654691,40.77421845355568],[-73.97922877721092,40.77428887429887],[-73.97880033551391,40.77484728212777],[-73.97612822088436,40.77289343191065],[-73.97715325564464,40.77268919930025]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108914443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7944.704432,
+    "geom:bbox":"-74.0095546999,40.7314316702,-74.0082642668,40.7323579415",
+    "geom:latitude":40.731887,
+    "geom:longitude":-74.00886,
+    "intersection:latitude":40.731873,
+    "intersection:longitude":-74.008784,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.731873,
+    "reversegeo:longitude":-74.008784,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818268,
+    "wof:geomhash":"7efe2d57ba92cb0b855ed3a26a43631c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914443,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914443,
+    "wof:lastmodified":1490900137,
+    "wof:name":"Barrow St  & Washington St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00955469986098,
+    40.73143167021229,
+    -74.00826426677028,
+    40.73235794148589
+],
+  "geometry": {"coordinates":[[[-74.0084352603718,40.73143167021229],[-74.00955469986098,40.73165150442953],[-74.00954569353289,40.73174932498581],[-74.00922203296095,40.73235794148589],[-74.00826426677028,40.73217136365655],[-74.00832167444442,40.73154116930109],[-74.0084352603718,40.73143167021229]]],"type":"Polygon"}
+}

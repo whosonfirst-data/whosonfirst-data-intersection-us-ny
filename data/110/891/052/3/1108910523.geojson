@@ -1,0 +1,62 @@
+{
+  "id": 1108910523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19140.327269,
+    "geom:bbox":"-73.9241447636,40.8660502301,-73.9220453188,40.8679151297",
+    "geom:latitude":40.866975,
+    "geom:longitude":-73.923093,
+    "intersection:latitude":40.867016,
+    "intersection:longitude":-73.92311,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.867016,
+    "reversegeo:longitude":-73.92311,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818072,
+    "wof:geomhash":"3610c4e5e9a513a357868a0da67da0c3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910523,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910523,
+    "wof:lastmodified":1490900144,
+    "wof:name":"Broadway  & W 204th St",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92414476356743,
+    40.86605023012014,
+    -73.9220453187793,
+    40.86791512969717
+],
+  "geometry": {"coordinates":[[[-73.92356586425754,40.86605023012014],[-73.92393533620327,40.86633555824299],[-73.92414476356743,40.86691918302981],[-73.92258774752997,40.86791512969717],[-73.92224922371362,40.8675987779336],[-73.9220453187793,40.86702772364188],[-73.92356586425754,40.86605023012014]]],"type":"Polygon"}
+}

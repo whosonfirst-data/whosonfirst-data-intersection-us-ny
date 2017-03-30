@@ -1,0 +1,64 @@
+{
+  "id": 1108909531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14748.145778,
+    "geom:bbox":"-73.9525310392,40.7810048058,-73.9504964542,40.7827951772",
+    "geom:latitude":40.781907,
+    "geom:longitude":-73.951521,
+    "intersection:latitude":40.782008,
+    "intersection:longitude":-73.951659,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.782008,
+    "reversegeo:longitude":-73.951659,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818026,
+    "wof:geomhash":"c1bdcbda34ef2689af8d5b86c7eea6ad",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909531,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909531,
+    "wof:lastmodified":1490900168,
+    "wof:name":"3rd Ave  & E 91st St",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9525310391971,
+    40.78100480579587,
+    -73.95049645419832,
+    40.78279517719697
+],
+  "geometry": {"coordinates":[[[-73.9509614220286,40.78100480579587],[-73.9525310391971,40.78217506787159],[-73.95238468082795,40.78252272328552],[-73.95207429331589,40.78279517719697],[-73.95049645419832,40.78163574270165],[-73.9505811845338,40.78143511273178],[-73.9509614220286,40.78100480579587]]],"type":"Polygon"}
+}

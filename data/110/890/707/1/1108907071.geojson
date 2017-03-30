@@ -1,0 +1,66 @@
+{
+  "id": 1108907071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18735.320208,
+    "geom:bbox":"-73.9785790827,40.7207075685,-73.9760953788,40.722915144",
+    "geom:latitude":40.721838,
+    "geom:longitude":-73.97731,
+    "intersection:latitude":40.721861,
+    "intersection:longitude":-73.977364,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.721861,
+    "reversegeo:longitude":-73.977364,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189647,
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817902,
+    "wof:geomhash":"1899845140a13d528960e1582dfd0fb8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907071,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189647,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907071,
+    "wof:lastmodified":1490900172,
+    "wof:name":"Ave D  & E 5 St",
+    "wof:parent_id":907189647,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97857908268085,
+    40.72070756849312,
+    -73.9760953787956,
+    40.72291514403269
+],
+  "geometry": {"coordinates":[[[-73.9763895,40.72070756849312],[-73.97857908268085,40.72229726550805],[-73.97850245253161,40.72247316483995],[-73.97812341560262,40.72291514403269],[-73.97609537879561,40.72141560661343],[-73.97609780009068,40.72139184137384],[-73.9763619675885,40.72075131862645],[-73.9763895,40.72070756849312]]],"type":"Polygon"}
+}

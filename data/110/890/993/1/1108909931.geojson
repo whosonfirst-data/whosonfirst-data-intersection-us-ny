@@ -1,0 +1,77 @@
+{
+  "id": 1108909931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":1063380.051684,
+    "geom:bbox":"-74.026017,40.7616513044,-74.000911591,40.7876440593",
+    "geom:latitude":40.775346,
+    "geom:longitude":-74.014142,
+    "intersection:latitude":40.762076,
+    "intersection:longitude":-74.001278,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.762076,
+    "reversegeo:longitude":-74.001278,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543,
+        85865537,
+        404478147,
+        102080719,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818044,
+    "wof:geomhash":"ef6ec5f5b9cb1998ae2fc1a83b655936",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909931,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "intersection_id":1108909931,
+            "localadmin_id":404478147,
+            "neighbourhood_id":85865537,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":1108909931,
+    "wof:lastmodified":1490900164,
+    "wof:name":"W 42nd St  & Lincoln Hwy",
+    "wof:parent_id":-1,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.026017,
+    40.76165130442947,
+    -74.00091159104484,
+    40.78764405930738
+],
+  "geometry": {"coordinates":[[[-74.00132243438684,40.76165130442947],[-74.0015815567281,40.76177357889502],[-74.026017,40.78360461755441],[-74.026017,40.78764405930738],[-74.01582085428218,40.77992422095385],[-74.01196045038691,40.77623414275772],[-74.00769643220616,40.77197743432242],[-74.00521020478804,40.76914672298137],[-74.00170947674701,40.76427151554355],[-74.00091159104484,40.76257189784391],[-74.00132243438684,40.76165130442947]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108912705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17424.294412,
+    "geom:bbox":"-73.9561895462,40.8032070146,-73.9540727217,40.8051770564",
+    "geom:latitude":40.804213,
+    "geom:longitude":-73.955092,
+    "intersection:latitude":40.80442,
+    "intersection:longitude":-73.955368,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.80442,
+    "reversegeo:longitude":-73.955368,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907139469,
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818182,
+    "wof:geomhash":"ea1d390b952891ab972c7e8170183243",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912705,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "microhood_id":907139469,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912705,
+    "wof:lastmodified":1490900144,
+    "wof:name":"Frederick Douglass Blvd  & W 116th St",
+    "wof:parent_id":907139469,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95618954623936,
+    40.80320701464636,
+    -73.95407272169811,
+    40.80517705641093
+],
+  "geometry": {"coordinates":[[[-73.95441472292281,40.80320701464636],[-73.95618954623936,40.80450137543788],[-73.95600128151396,40.80494865797173],[-73.95569444561495,40.80517705641093],[-73.95407272169811,40.80399195047169],[-73.95410787493219,40.80358768827966],[-73.95441472292281,40.80320701464636]]],"type":"Polygon"}
+}

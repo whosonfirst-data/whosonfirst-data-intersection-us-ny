@@ -1,0 +1,62 @@
+{
+  "id": 1108911639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22005.153335,
+    "geom:bbox":"-73.9703643402,40.7897323677,-73.9674949619,40.7921249791",
+    "geom:latitude":40.790929,
+    "geom:longitude":-73.968928,
+    "intersection:latitude":40.790928,
+    "intersection:longitude":-73.968928,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.790928,
+    "reversegeo:longitude":-73.968928,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818132,
+    "wof:geomhash":"58d976731b896b43173988309b351767",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911639,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911639,
+    "wof:lastmodified":1490900141,
+    "wof:name":"Columbus Ave  & W 93rd St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97036434019859,
+    40.78973236770333,
+    -73.96749496193466,
+    40.79212497907
+],
+  "geometry": {"coordinates":[[[-73.96795879241579,40.78973236770333],[-73.97036434019859,40.79149465982903],[-73.97033733727858,40.79155873264588],[-73.96990459032548,40.79212497907],[-73.96749496193466,40.79036906689877],[-73.96752414722336,40.79029979461389],[-73.96795879241579,40.78973236770333]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108908991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10131.516045,
+    "geom:bbox":"-73.9651065626,40.7534559425,-73.9637335428,40.7550369373",
+    "geom:latitude":40.75429,
+    "geom:longitude":-73.964415,
+    "intersection:latitude":40.753935,
+    "intersection:longitude":-73.964347,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.753935,
+    "reversegeo:longitude":-73.964347,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189661,
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817989,
+    "wof:geomhash":"0230432a1e867dbf195b10fdea3213c1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908991,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907189661,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908991,
+    "wof:lastmodified":1490900162,
+    "wof:name":"Beekman Pl  & E 51st St",
+    "wof:parent_id":907189661,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96510656257435,
+    40.75345594251375,
+    -73.9637335428166,
+    40.75503693728777
+],
+  "geometry": {"coordinates":[[[-73.96435340905396,40.75345594251375],[-73.96510656257435,40.75401868524072],[-73.9649337383085,40.75442770266989],[-73.96428327947396,40.75491377776547],[-73.96377240592022,40.75503693728777],[-73.9637335428166,40.75495739628866],[-73.96435340905396,40.75345594251375]]],"type":"Polygon"}
+}

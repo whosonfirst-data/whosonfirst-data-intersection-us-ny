@@ -1,0 +1,64 @@
+{
+  "id": 1108912963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2421.436533,
+    "geom:bbox":"-73.9610023089,40.8178176066,-73.9603526618,40.8186134302",
+    "geom:latitude":40.818172,
+    "geom:longitude":-73.960618,
+    "intersection:latitude":40.818089,
+    "intersection:longitude":-73.960476,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.818089,
+    "reversegeo:longitude":-73.960476,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818194,
+    "wof:geomhash":"fbd866c41aded1346d4e8fb1033ed568",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912963,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912963,
+    "wof:lastmodified":1490900131,
+    "wof:name":"W 125th St  & 12th Ave",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96100230887032,
+    40.81781760656,
+    -73.96035266183395,
+    40.81861343019376
+],
+  "geometry": {"coordinates":[[[-73.96064197182525,40.81781760656],[-73.96100230887032,40.81808485063565],[-73.96042788594407,40.81861343019376],[-73.96035266183395,40.81808243647506],[-73.96064197182525,40.81781760656]]],"type":"Polygon"}
+}

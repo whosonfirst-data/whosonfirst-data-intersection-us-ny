@@ -1,0 +1,64 @@
+{
+  "id": 1108911695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14816.400128,
+    "geom:bbox":"-73.9980251049,40.7305782335,-73.9962083757,40.7321501285",
+    "geom:latitude":40.731291,
+    "geom:longitude":-73.997161,
+    "intersection:latitude":40.731409,
+    "intersection:longitude":-73.996974,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.731409,
+    "reversegeo:longitude":-73.996974,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529189,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818134,
+    "wof:geomhash":"c8f311b2bfa530e4c3848860d63b3ec3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911695,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":420529189,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911695,
+    "wof:lastmodified":1490900134,
+    "wof:name":"5th Ave  & Washington Sq N",
+    "wof:parent_id":420529189,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99802510487667,
+    40.73057823350326,
+    -73.99620837566246,
+    40.73215012845456
+],
+  "geometry": {"coordinates":[[[-73.99679898648397,40.73057823350326],[-73.99741150253992,40.73073929017738],[-73.99802510487667,40.73134030299251],[-73.99777456786369,40.73184945885763],[-73.99749718632602,40.73215012845456],[-73.99620837566246,40.73118424126834],[-73.99634379176192,40.73090892121601],[-73.99679898648397,40.73057823350326]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108909131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12684.954945,
+    "geom:bbox":"-73.9422825677,40.8424210423,-73.9404361753,40.8441377214",
+    "geom:latitude":40.843274,
+    "geom:longitude":-73.941373,
+    "intersection:latitude":40.843437,
+    "intersection:longitude":-73.941634,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.843437,
+    "reversegeo:longitude":-73.941634,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817995,
+    "wof:geomhash":"b35642fc3a469d26c0c397ed2dc696e6",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909131,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909131,
+    "wof:lastmodified":1490900177,
+    "wof:name":"Fort Washington Ave  & W 170th St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94228256765155,
+    40.84242104228616,
+    -73.94043617528583,
+    40.84413772139443
+],
+  "geometry": {"coordinates":[[[-73.94066138657904,40.84242104228616],[-73.94228256765155,40.84340099065383],[-73.94199643277523,40.84405448579074],[-73.94187899490528,40.84413772139443],[-73.94043617528583,40.84297780758276],[-73.9404385392196,40.84295066653002],[-73.94066138657904,40.84242104228616]]],"type":"Polygon"}
+}

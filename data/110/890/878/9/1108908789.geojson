@@ -1,0 +1,64 @@
+{
+  "id": 1108908789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18153.894057,
+    "geom:bbox":"-73.9421989212,40.7915000157,-73.9397586938,40.7935511789",
+    "geom:latitude":40.792525,
+    "geom:longitude":-73.941002,
+    "intersection:latitude":40.792546,
+    "intersection:longitude":-73.941035,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.792546,
+    "reversegeo:longitude":-73.941035,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817981,
+    "wof:geomhash":"a3aace42761b2fb30d83973a67c5f865",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908789,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908789,
+    "wof:lastmodified":1490900182,
+    "wof:name":"2nd Ave  & E 109th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94219892124832,
+    40.79150001570557,
+    -73.9397586938322,
+    40.79355117889579
+],
+  "geometry": {"coordinates":[[[-73.94027794021397,40.79150001570557],[-73.94219892124832,40.79290913658966],[-73.94210456200278,40.79313321475554],[-73.94172959926081,40.79355117889579],[-73.9397586938322,40.79210216431279],[-73.94027794021397,40.79150001570557]]],"type":"Polygon"}
+}

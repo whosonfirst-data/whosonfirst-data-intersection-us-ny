@@ -1,0 +1,62 @@
+{
+  "id": 1108912835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23254.525982,
+    "geom:bbox":"-73.9250001747,40.8633204233,-73.9226931279,40.8653729001",
+    "geom:latitude":40.864348,
+    "geom:longitude":-73.923843,
+    "intersection:latitude":40.864403,
+    "intersection:longitude":-73.923767,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.864403,
+    "reversegeo:longitude":-73.923767,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818188,
+    "wof:geomhash":"3cf53ade0e876e42899cf064619d0b21",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912835,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912835,
+    "wof:lastmodified":1490900141,
+    "wof:name":"Academy St  & Sherman Ave",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92500017465937,
+    40.86332042328147,
+    -73.92269312790762,
+    40.86537290006301
+],
+  "geometry": {"coordinates":[[[-73.92437488685898,40.86332042328147],[-73.9247713093926,40.86367004139732],[-73.92500017465937,40.86429029943918],[-73.92331496139059,40.86537290006301],[-73.92295321223004,40.8650965245755],[-73.92269312790762,40.86439388644196],[-73.92437488685898,40.86332042328147]]],"type":"Polygon"}
+}

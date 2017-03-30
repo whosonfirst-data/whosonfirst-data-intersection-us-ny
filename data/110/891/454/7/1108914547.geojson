@@ -1,0 +1,62 @@
+{
+  "id": 1108914547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10061.590276,
+    "geom:bbox":"-74.0200613503,40.6900395964,-74.0188112455,40.6917077589",
+    "geom:latitude":40.690739,
+    "geom:longitude":-74.019468,
+    "intersection:latitude":40.69099,
+    "intersection:longitude":-74.019497,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.69099,
+    "reversegeo:longitude":-74.019497,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907131741,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818278,
+    "wof:geomhash":"ce3689f9c30398e90e3a50c7bd4e5c6e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914547,
+            "locality_id":85977539,
+            "neighbourhood_id":907131741,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914547,
+    "wof:lastmodified":1490900151,
+    "wof:name":"Clayton Rd  & Wheeler Ave",
+    "wof:parent_id":907131741,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.02006135027497,
+    40.69003959635985,
+    -74.01881124548062,
+    40.69170775894995
+],
+  "geometry": {"coordinates":[[[-74.01944509607159,40.69003959635985],[-74.02006135027497,40.69056924985264],[-74.01961402000012,40.69170775894995],[-74.01881124548062,40.69049321119898],[-74.01927110989963,40.69004773552901],[-74.01944509607159,40.69003959635985]]],"type":"Polygon"}
+}

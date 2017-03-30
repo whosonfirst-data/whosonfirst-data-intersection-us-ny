@@ -1,0 +1,64 @@
+{
+  "id": 1108913327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9146.607708,
+    "geom:bbox":"-74.0093983485,40.7107593027,-74.0079803088,40.7121990235",
+    "geom:latitude":40.711506,
+    "geom:longitude":-74.008698,
+    "intersection:latitude":40.711392,
+    "intersection:longitude":-74.008601,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.711392,
+    "reversegeo:longitude":-74.008601,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818210,
+    "wof:geomhash":"f1e479304f43414200a457d9cbab8005",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913327,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913327,
+    "wof:lastmodified":1490900133,
+    "wof:name":"Ann St  & Broadway",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00939834848532,
+    40.71075930272204,
+    -74.00798030884597,
+    40.71219902347864
+],
+  "geometry": {"coordinates":[[[-74.00841641639532,40.71075930272204],[-74.00939834848532,40.71165762475294],[-74.00926231592111,40.71195618973155],[-74.00895894442638,40.71219902347864],[-74.00798030884597,40.71138592824518],[-74.00841641639532,40.71075930272204]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12359.517948,
+    "geom:bbox":"-74.0122516633,40.7150206511,-74.0101651493,40.7161436306",
+    "geom:latitude":40.71562,
+    "geom:longitude":-74.011189,
+    "intersection:latitude":40.715592,
+    "intersection:longitude":-74.011108,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.715592,
+    "reversegeo:longitude":-74.011108,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818134,
+    "wof:geomhash":"1ff6ce61d6952ca48193208aba1e933c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911689,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911689,
+    "wof:lastmodified":1490900155,
+    "wof:name":"Warren St  & Greenwich St",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01225166328175,
+    40.71502065106863,
+    -74.01016514932577,
+    40.71614363059938
+],
+  "geometry": {"coordinates":[[[-74.01057710240613,40.71502065106863],[-74.01224025030109,40.71560750120434],[-74.01225166328175,40.71565315312699],[-74.01203406325823,40.71614363059938],[-74.01016514932577,40.71577563066892],[-74.01046624941927,40.71511050708776],[-74.01057710240613,40.71502065106863]]],"type":"Polygon"}
+}

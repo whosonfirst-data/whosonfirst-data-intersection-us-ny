@@ -1,0 +1,64 @@
+{
+  "id": 1108906989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21962.263404,
+    "geom:bbox":"-73.9363470369,40.8559642277,-73.934792987,40.8587514822",
+    "geom:latitude":40.857336,
+    "geom:longitude":-73.9356,
+    "intersection:latitude":40.857109,
+    "intersection:longitude":-73.935602,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.857109,
+    "reversegeo:longitude":-73.935602,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214331,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817899,
+    "wof:geomhash":"1d63d5e99536436909e3485b00635b06",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906989,
+            "locality_id":85977539,
+            "microhood_id":907214331,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906989,
+    "wof:lastmodified":1490900162,
+    "wof:name":"Fort Washington Ave  & W 190th St",
+    "wof:parent_id":907214331,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93634703691966,
+    40.85596422771819,
+    -73.93479298703782,
+    40.85875148215978
+],
+  "geometry": {"coordinates":[[[-73.93557960461858,40.85596422771819],[-73.93618044245353,40.85608362849121],[-73.93634703691966,40.85619145471181],[-73.93571691368136,40.85872757055522],[-73.93560464164412,40.85875148215978],[-73.93479298703782,40.85821085520249],[-73.93557960461858,40.85596422771819]]],"type":"Polygon"}
+}

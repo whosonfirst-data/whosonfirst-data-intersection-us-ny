@@ -1,0 +1,64 @@
+{
+  "id": 1108911369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12834.046589,
+    "geom:bbox":"-73.9668085755,40.7703135892,-73.9650393669,40.7719096703",
+    "geom:latitude":40.771114,
+    "geom:longitude":-73.965923,
+    "intersection:latitude":40.771099,
+    "intersection:longitude":-73.965934,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.771099,
+    "reversegeo:longitude":-73.965934,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818120,
+    "wof:geomhash":"53e06becdbc9a8056fb9cdd45a7b4068",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911369,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911369,
+    "wof:lastmodified":1490900143,
+    "wof:name":"E 71st St  & Madison Ave",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96680857547983,
+    40.77031358920148,
+    -73.96503936691535,
+    40.77190967034439
+],
+  "geometry": {"coordinates":[[[-73.96550946334243,40.77031358920148],[-73.96680857547983,40.77126125071235],[-73.96664270104255,40.77165327301612],[-73.9663266710325,40.77190967034439],[-73.96503936691535,40.77096916557945],[-73.96519881366642,40.77058823879991],[-73.96550946334243,40.77031358920148]]],"type":"Polygon"}
+}

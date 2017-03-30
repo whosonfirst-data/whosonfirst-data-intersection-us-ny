@@ -1,0 +1,64 @@
+{
+  "id": 1108908437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21784.889664,
+    "geom:bbox":"-73.99093882,40.7666210925,-73.988068502,40.7690064852",
+    "geom:latitude":40.767814,
+    "geom:longitude":-73.989504,
+    "intersection:latitude":40.767816,
+    "intersection:longitude":-73.989505,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.767816,
+    "reversegeo:longitude":-73.989505,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817967,
+    "wof:geomhash":"09b23bd17ac82c00fbd2a5b322a31de7",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908437,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908437,
+    "wof:lastmodified":1490900164,
+    "wof:name":"W 55th St  & 10th Ave",
+    "wof:parent_id":85882233,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99093881997402,
+    40.76662109251634,
+    -73.98806850202696,
+    40.76900648518985
+],
+  "geometry": {"coordinates":[[[-73.98852924967379,40.76662109251634],[-73.99093881997402,40.76838222749694],[-73.99091055114705,40.76844984443881],[-73.99048543338873,40.76900648518985],[-73.98806850202696,40.76724801269271],[-73.98809282031861,40.76719033781102],[-73.98852924967379,40.76662109251634]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108913159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4083.418956,
+    "geom:bbox":"-73.9880891862,40.7175642304,-73.987089376,40.7183716325",
+    "geom:latitude":40.717958,
+    "geom:longitude":-73.987569,
+    "intersection:latitude":40.718074,
+    "intersection:longitude":-73.98751,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.718074,
+    "reversegeo:longitude":-73.98751,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818203,
+    "wof:geomhash":"c47847aac497acccdaf27c1234fda3c9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913159,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913159,
+    "wof:lastmodified":1490900141,
+    "wof:name":"Norfolk St  & Delancey St S",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98808918623946,
+    40.71756423036442,
+    -73.98708937601116,
+    40.71837163252535
+],
+  "geometry": {"coordinates":[[[-73.98737503033153,40.71756423036442],[-73.98808918623946,40.71796050634941],[-73.98781705707309,40.71837163252535],[-73.98708937601116,40.71799357293909],[-73.98719990958261,40.71765398690967],[-73.98737503033153,40.71756423036442]]],"type":"Polygon"}
+}

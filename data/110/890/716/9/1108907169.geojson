@@ -1,0 +1,66 @@
+{
+  "id": 1108907169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16445.219957,
+    "geom:bbox":"-74.00219176,40.7094963985,-73.9998386632,40.7110427014",
+    "geom:latitude":40.710221,
+    "geom:longitude":-74.001071,
+    "intersection:latitude":40.710176,
+    "intersection:longitude":-74.001136,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.710176,
+    "reversegeo:longitude":-74.001136,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212755,
+        85869743,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817906,
+    "wof:geomhash":"7996e64fadc24e747ae97a3e4f091da3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907169,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907212755,
+            "neighbourhood_id":85869743,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907169,
+    "wof:lastmodified":1490900169,
+    "wof:name":"Pearl St  & Ave of the Finest",
+    "wof:parent_id":907212755,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0021917600068,
+    40.7094963985429,
+    -73.99983866320723,
+    40.71104270140779
+],
+  "geometry": {"coordinates":[[[-74.00093327361623,40.7094963985429],[-74.0021917600068,40.71049882066786],[-74.00161869141159,40.71104270140779],[-74.00136320406629,40.7109985244375],[-73.99983866320723,40.70981738263331],[-73.99993085295301,40.70969615890611],[-74.00093327361623,40.7094963985429]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108913937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11712.014946,
+    "geom:bbox":"-73.9753338301,40.7502059091,-73.9734426146,40.751569938",
+    "geom:latitude":40.750838,
+    "geom:longitude":-73.974499,
+    "intersection:latitude":40.750766,
+    "intersection:longitude":-73.974449,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.750766,
+    "reversegeo:longitude":-73.974449,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215757,
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818241,
+    "wof:geomhash":"42c8040ec710f6034892b2a6138ee042",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913937,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907215757,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913937,
+    "wof:lastmodified":1490900148,
+    "wof:name":"E 42nd St  & 3rd Ave",
+    "wof:parent_id":907215757,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97533383008992,
+    40.75020590910177,
+    -73.97344261456409,
+    40.75156993798734
+],
+  "geometry": {"coordinates":[[[-73.97438080136169,40.75020590910177],[-73.97533383008992,40.75090136249807],[-73.97516045787457,40.75131206201266],[-73.97484654212542,40.75156993798734],[-73.97344261456409,40.75055079057247],[-73.97438080136169,40.75020590910177]]],"type":"Polygon"}
+}

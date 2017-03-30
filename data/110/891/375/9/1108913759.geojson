@@ -1,0 +1,66 @@
+{
+  "id": 1108913759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14775.548655,
+    "geom:bbox":"-73.9810261227,40.7381348039,-73.9790480803,40.7400065852",
+    "geom:latitude":40.739111,
+    "geom:longitude":-73.979921,
+    "intersection:latitude":40.739168,
+    "intersection:longitude":-73.979967,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.739168,
+    "reversegeo:longitude":-73.979967,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189665,
+        85868041,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818234,
+    "wof:geomhash":"7fc477b9d0f7503723020a2ce35d8135",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913759,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907189665,
+            "neighbourhood_id":85868041,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913759,
+    "wof:lastmodified":1490900134,
+    "wof:name":"2nd Ave  & E 25th St",
+    "wof:parent_id":907189665,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98102612273793,
+    40.73813480388504,
+    -73.97904808026269,
+    40.74000658520567
+],
+  "geometry": {"coordinates":[[[-73.97920014257417,40.73813480388504],[-73.98102612273793,40.7394673557521],[-73.98047042981443,40.74000658520567],[-73.97907233439092,40.73898751889857],[-73.97904808026269,40.73831522478126],[-73.97920014257417,40.73813480388504]]],"type":"Polygon"}
+}

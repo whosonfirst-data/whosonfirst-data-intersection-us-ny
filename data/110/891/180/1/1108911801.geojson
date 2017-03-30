@@ -1,0 +1,62 @@
+{
+  "id": 1108911801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1454275.91841,
+    "geom:bbox":"-74.0133185984,40.684656,-73.9880467438,40.6948584186",
+    "geom:latitude":40.688827,
+    "geom:longitude":-74.001694,
+    "intersection:latitude":40.691049,
+    "intersection:longitude":-74.012669,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.691049,
+    "reversegeo:longitude":-74.012669,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907131741,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818138,
+    "wof:geomhash":"8e89a5e947b819c2210bd32d599db416",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911801,
+            "locality_id":85977539,
+            "neighbourhood_id":907131741,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911801,
+    "wof:lastmodified":1490900134,
+    "wof:name":"Kimmel Rd  & Andes Rd",
+    "wof:parent_id":907131741,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01331859836338,
+    40.684656,
+    -73.98804674375914,
+    40.69485841858484
+],
+  "geometry": {"coordinates":[[[-74.00555954777066,40.684656],[-74.00864352070703,40.68639430123255],[-74.01331859836338,40.68934364797611],[-74.01268660264903,40.69117131125827],[-74.00443812543269,40.69485841858484],[-74.00063532890483,40.69336391191483],[-73.99705240152659,40.69163128051824],[-73.99524807800125,40.69062371918986],[-73.99420018929071,40.69002398872478],[-73.99318211216276,40.68941634638037],[-73.99292948442513,40.68925791177315],[-73.99157992059496,40.68836676355143],[-73.9894220572165,40.68618420342894],[-73.98804674375914,40.684656],[-74.00555954777066,40.684656]]],"type":"Polygon"}
+}

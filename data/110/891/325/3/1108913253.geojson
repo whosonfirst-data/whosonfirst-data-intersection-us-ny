@@ -1,0 +1,64 @@
+{
+  "id": 1108913253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19210.899601,
+    "geom:bbox":"-73.9825727228,40.7316183901,-73.9805659673,40.7336689368",
+    "geom:latitude":40.732706,
+    "geom:longitude":-73.981432,
+    "intersection:latitude":40.732643,
+    "intersection:longitude":-73.981562,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.732643,
+    "reversegeo:longitude":-73.981562,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85851295,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818207,
+    "wof:geomhash":"c634a6635493f94280498865aa7cccd6",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913253,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85851295,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913253,
+    "wof:lastmodified":1490900145,
+    "wof:name":"1st Ave  & Stuyvesant Loop W",
+    "wof:parent_id":85851295,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98257272280108,
+    40.73161839007902,
+    -73.98056596726015,
+    40.7336689367681
+],
+  "geometry": {"coordinates":[[[-73.98081928617364,40.73161839007902],[-73.98257272280108,40.73289664815928],[-73.98174272328869,40.7336689367681],[-73.98056596726015,40.73281302276786],[-73.9807596312648,40.73165165550426],[-73.98081928617364,40.73161839007902]]],"type":"Polygon"}
+}

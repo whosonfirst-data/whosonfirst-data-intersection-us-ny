@@ -1,0 +1,64 @@
+{
+  "id": 1108912295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13125.040209,
+    "geom:bbox":"-73.9856421209,40.7387057703,-73.9838637869,40.7403141615",
+    "geom:latitude":40.739509,
+    "geom:longitude":-73.984753,
+    "intersection:latitude":40.739506,
+    "intersection:longitude":-73.984749,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.739506,
+    "reversegeo:longitude":-73.984749,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869245,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818160,
+    "wof:geomhash":"df577dde74701a91414cb5010b98a505",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912295,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85869245,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912295,
+    "wof:lastmodified":1490900139,
+    "wof:name":"E 23rd St  & Lexington Ave",
+    "wof:parent_id":85869245,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9856421209148,
+    40.73870577027755,
+    -73.98386378693893,
+    40.74031416154719
+],
+  "geometry": {"coordinates":[[[-73.98434624535165,40.73870577027755],[-73.9856421209148,40.7396455719247],[-73.98547366834104,40.74004555402718],[-73.98515347866895,40.74031416154719],[-73.98386378693893,40.73936916220153],[-73.98403317882307,40.73896654232261],[-73.98434624535165,40.73870577027755]]],"type":"Polygon"}
+}

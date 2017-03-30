@@ -1,0 +1,64 @@
+{
+  "id": 1108907219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4590.39858,
+    "geom:bbox":"-73.9613498843,40.8180755824,-73.9603659572,40.8191623401",
+    "geom:latitude":40.818587,
+    "geom:longitude":-73.960805,
+    "intersection:latitude":40.818609,
+    "intersection:longitude":-73.960954,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.818609,
+    "reversegeo:longitude":-73.960954,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817908,
+    "wof:geomhash":"2e90da022a1a68b0a4319e6716fd270c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907219,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907219,
+    "wof:lastmodified":1490900172,
+    "wof:name":"W 125th St  & Henry Hudson Pkwy",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96134988429678,
+    40.81807558237434,
+    -73.96036595723716,
+    40.81916234008286
+],
+  "geometry": {"coordinates":[[[-73.96109673501772,40.81807558237434],[-73.96134988429678,40.81833118574784],[-73.96054717250543,40.81916234008286],[-73.96041154055676,40.81906674552598],[-73.96036595723716,40.81870498528824],[-73.96042788594407,40.81861343019376],[-73.96100230887032,40.81808485063565],[-73.96109673501772,40.81807558237434]]],"type":"Polygon"}
+}

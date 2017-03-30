@@ -1,0 +1,66 @@
+{
+  "id": 1108912241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8533.498336,
+    "geom:bbox":"-73.9932441152,40.720666444,-73.9921969115,40.7222862737",
+    "geom:latitude":40.721435,
+    "geom:longitude":-73.992761,
+    "intersection:latitude":40.721395,
+    "intersection:longitude":-73.992731,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.721395,
+    "reversegeo:longitude":-73.992731,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189673,
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818157,
+    "wof:geomhash":"11db00728c69cab1d9e4eb2c3d76f831",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912241,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189673,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912241,
+    "wof:lastmodified":1490900135,
+    "wof:name":"Freeman Aly  & Rivington St",
+    "wof:parent_id":907189673,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9932441151643,
+    40.72066644395631,
+    -73.99219691148224,
+    40.72228627365825
+],
+  "geometry": {"coordinates":[[[-73.99267892558386,40.72066644395631],[-73.9930675020653,40.72071183012548],[-73.9932441151643,40.72112212780529],[-73.9930238874195,40.72185807875],[-73.99228896148765,40.72226313187318],[-73.99219691148224,40.72228627365825],[-73.99267892558386,40.72066644395631]]],"type":"Polygon"}
+}

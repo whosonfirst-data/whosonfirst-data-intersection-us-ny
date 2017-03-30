@@ -1,0 +1,64 @@
+{
+  "id": 1108911427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3149.744915,
+    "geom:bbox":"-74.0135692401,40.7086957382,-74.0125884541,40.709425939",
+    "geom:latitude":40.709069,
+    "geom:longitude":-74.013055,
+    "intersection:latitude":40.709147,
+    "intersection:longitude":-74.013082,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.709147,
+    "reversegeo:longitude":-74.013082,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818123,
+    "wof:geomhash":"d2aee0324f9c371af89dc703c6f6d3a5",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911427,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911427,
+    "wof:lastmodified":1490900138,
+    "wof:name":"Albany St  & Greenwich St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01356924010659,
+    40.70869573820558,
+    -74.01258845414633,
+    40.70942593903765
+],
+  "geometry": {"coordinates":[[[-74.01261340106916,40.70869573820558],[-74.01356789602362,40.70911103528912],[-74.01356924010659,40.70912996932758],[-74.01344050978659,40.70942593903765],[-74.01258845414633,40.70905548006362],[-74.01261340106916,40.70869573820558]]],"type":"Polygon"}
+}

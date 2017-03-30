@@ -1,0 +1,64 @@
+{
+  "id": 1108913209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9805.179297,
+    "geom:bbox":"-74.009978414,40.7124925299,-74.0084009325,40.7139255417",
+    "geom:latitude":40.713212,
+    "geom:longitude":-74.009193,
+    "intersection:latitude":40.713256,
+    "intersection:longitude":-74.009254,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.713256,
+    "reversegeo:longitude":-74.009254,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818204,
+    "wof:geomhash":"d63bbb27be774428039ca7af43509ee2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913209,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913209,
+    "wof:lastmodified":1490900141,
+    "wof:name":"Church St  & Park Pl",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00997841397849,
+    40.71249252989881,
+    -74.00840093248216,
+    40.7139255417496
+],
+  "geometry": {"coordinates":[[[-74.00882229921801,40.71249252989881],[-74.00997841397849,40.71339390750865],[-74.00983762505105,40.71370579077674],[-74.00955426195446,40.7139255417496],[-74.00840093248216,40.71302423612494],[-74.00851495630866,40.71277379375084],[-74.00882229921801,40.71249252989881]]],"type":"Polygon"}
+}

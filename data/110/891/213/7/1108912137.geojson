@@ -1,0 +1,64 @@
+{
+  "id": 1108912137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6936.231595,
+    "geom:bbox":"-74.0073775486,40.704127361,-74.0060553695,40.7052467031",
+    "geom:latitude":40.704781,
+    "geom:longitude":-74.006802,
+    "intersection:latitude":40.704824,
+    "intersection:longitude":-74.0069,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.704824,
+    "reversegeo:longitude":-74.0069,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818153,
+    "wof:geomhash":"a7cb3d9d005159338bee276c277a80ab",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912137,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912137,
+    "wof:lastmodified":1490900138,
+    "wof:name":"Wall St  & Front St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.007377548598,
+    40.7041273609741,
+    -74.00605536945183,
+    40.70524670308983
+],
+  "geometry": {"coordinates":[[[-74.00698689048644,40.7041273609741],[-74.007377548598,40.70468616877377],[-74.00696854083485,40.70524670308983],[-74.00606175058336,40.70509481572271],[-74.00605536945183,40.70508572244531],[-74.00698689048644,40.7041273609741]]],"type":"Polygon"}
+}

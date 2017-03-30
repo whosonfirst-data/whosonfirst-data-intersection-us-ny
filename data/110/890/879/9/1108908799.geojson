@@ -1,0 +1,62 @@
+{
+  "id": 1108908799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13399.420169,
+    "geom:bbox":"-73.9418789949,40.8429778076,-73.9400889155,40.8447285794",
+    "geom:latitude":40.843895,
+    "geom:longitude":-73.940951,
+    "intersection:latitude":40.844049,
+    "intersection:longitude":-73.941142,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.844049,
+    "reversegeo:longitude":-73.941142,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817981,
+    "wof:geomhash":"35cee9cd984c9b1ab5720c9425a46f4c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908799,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908799,
+    "wof:lastmodified":1490900166,
+    "wof:name":"Fort Washington Ave  & W 171st St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94187899490528,
+    40.84297780758276,
+    -73.94008891548997,
+    40.84472857937619
+],
+  "geometry": {"coordinates":[[[-73.94043617528583,40.84297780758276],[-73.94187899490528,40.84413772139443],[-73.94163134600177,40.84472857937619],[-73.94008891548997,40.84388835427786],[-73.94009376656426,40.84379237554626],[-73.94043617528583,40.84297780758276]]],"type":"Polygon"}
+}

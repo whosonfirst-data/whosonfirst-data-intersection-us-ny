@@ -1,0 +1,62 @@
+{
+  "id": 1108912251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19947.588731,
+    "geom:bbox":"-73.9908104319,40.7716749321,-73.9881052329,40.7738760402",
+    "geom:latitude":40.772795,
+    "geom:longitude":-73.989444,
+    "intersection:latitude":40.772866,
+    "intersection:longitude":-73.98954,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.772866,
+    "reversegeo:longitude":-73.98954,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818158,
+    "wof:geomhash":"228d816b0b29987b6fe5ab90bd5954f6",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912251,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912251,
+    "wof:lastmodified":1490900130,
+    "wof:name":"W End Ave  & W 61st St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.990810431905,
+    40.77167493208734,
+    -73.98810523292188,
+    40.77387604018686
+],
+  "geometry": {"coordinates":[[[-73.98855876568827,40.77167493208734],[-73.990810431905,40.77331316359754],[-73.99040190957385,40.77379900797289],[-73.99026721288726,40.77387604018686],[-73.98810523292188,40.77229613175061],[-73.98812610971753,40.77224655371754],[-73.98855876568827,40.77167493208734]]],"type":"Polygon"}
+}

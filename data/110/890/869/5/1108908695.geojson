@@ -1,0 +1,64 @@
+{
+  "id": 1108908695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7004.361366,
+    "geom:bbox":"-74.0138644528,40.7037177511,-74.0124522531,40.7045591119",
+    "geom:latitude":40.704121,
+    "geom:longitude":-74.013261,
+    "intersection:latitude":40.704043,
+    "intersection:longitude":-74.013188,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.704043,
+    "reversegeo:longitude":-74.013188,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817977,
+    "wof:geomhash":"3bd0de67a177a01836e595ad3e566992",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908695,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908695,
+    "wof:lastmodified":1490900163,
+    "wof:name":"Broadway  & Whitehall St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01386445276158,
+    40.703717751065,
+    -74.01245225313855,
+    40.7045591118771
+],
+  "geometry": {"coordinates":[[[-74.01375202385708,40.703717751065],[-74.01386445276158,40.70402194073022],[-74.01365317202445,40.70448166423141],[-74.0130986917784,40.7045591118771],[-74.01245225313855,40.70394046598131],[-74.01247189186873,40.70392594835541],[-74.01375202385708,40.703717751065]]],"type":"Polygon"}
+}

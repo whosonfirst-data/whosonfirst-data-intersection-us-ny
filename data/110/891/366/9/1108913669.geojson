@@ -1,0 +1,64 @@
+{
+  "id": 1108913669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7151.875912,
+    "geom:bbox":"-73.992267869,40.7269026592,-73.9901639566,40.7280054449",
+    "geom:latitude":40.727441,
+    "geom:longitude":-73.991252,
+    "intersection:latitude":40.72756,
+    "intersection:longitude":-73.991364,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.72756,
+    "reversegeo:longitude":-73.991364,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865699,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818231,
+    "wof:geomhash":"6e922ca28118cf47bc0490c8ca1f3875",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913669,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865699,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913669,
+    "wof:lastmodified":1490900147,
+    "wof:name":"Stable Ct  & Cooper Sq",
+    "wof:parent_id":85865699,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99226786897468,
+    40.72690265923421,
+    -73.99016395658919,
+    40.72800544486225
+],
+  "geometry": {"coordinates":[[[-73.99037617934401,40.72690265923421],[-73.99226786897468,40.72764166325123],[-73.99220523243257,40.72800544486225],[-73.99016395658919,40.7272071241116],[-73.99016701031428,40.72719766074479],[-73.99037617934401,40.72690265923421]]],"type":"Polygon"}
+}

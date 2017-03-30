@@ -1,0 +1,64 @@
+{
+  "id": 1108913691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7768.778416,
+    "geom:bbox":"-74.0050431102,40.7207077563,-74.0039124996,40.7220446349",
+    "geom:latitude":40.721431,
+    "geom:longitude":-74.004513,
+    "intersection:latitude":40.721354,
+    "intersection:longitude":-74.004635,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.721354,
+    "reversegeo:longitude":-74.004635,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818232,
+    "wof:geomhash":"bd6e6857e38a74b8d3fbe716cbc89541",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913691,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913691,
+    "wof:lastmodified":1490900158,
+    "wof:name":"W Broadway  & Canal St",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0050431102347,
+    40.72070775633372,
+    -74.00391249957782,
+    40.72204463487343
+],
+  "geometry": {"coordinates":[[[-74.00456262582597,40.72070775633372],[-74.00477136898148,40.72087250816308],[-74.00504311023469,40.72137882241297],[-74.00460448378269,40.72204463487343],[-74.00437234646326,40.72201280959577],[-74.00391249957782,40.7216257345961],[-74.00456262582597,40.72070775633372]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108913999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16557.460404,
+    "geom:bbox":"-73.9494040856,40.8277836051,-73.9471572883,40.8297411934",
+    "geom:latitude":40.828767,
+    "geom:longitude":-73.948304,
+    "intersection:latitude":40.828976,
+    "intersection:longitude":-73.948593,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.828976,
+    "reversegeo:longitude":-73.948593,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818244,
+    "wof:geomhash":"fc6c98571d0459034b6c4f4a3bc18d9d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913999,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913999,
+    "wof:lastmodified":1490900146,
+    "wof:name":"W 149th St  & Broadway",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94940408564399,
+    40.82778360507512,
+    -73.94715728826264,
+    40.82974119338883
+],
+  "geometry": {"coordinates":[[[-73.9476125194783,40.82778360507512],[-73.94940408564399,40.82908656228653],[-73.949209669616,40.82955026756346],[-73.94898857925384,40.82974119338883],[-73.94715728826264,40.82840667314805],[-73.9471816979669,40.82834873318284],[-73.9476125194783,40.82778360507512]]],"type":"Polygon"}
+}

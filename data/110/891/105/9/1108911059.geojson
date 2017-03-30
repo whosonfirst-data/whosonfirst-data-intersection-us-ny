@@ -1,0 +1,64 @@
+{
+  "id": 1108911059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21621.209623,
+    "geom:bbox":"-73.9917495842,40.7604213442,-73.9888776461,40.7627918245",
+    "geom:latitude":40.761607,
+    "geom:longitude":-73.990312,
+    "intersection:latitude":40.761606,
+    "intersection:longitude":-73.990316,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.761606,
+    "reversegeo:longitude":-73.990316,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818095,
+    "wof:geomhash":"17602ffc2c9b18886fb8a04799b290e3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911059,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911059,
+    "wof:lastmodified":1490900131,
+    "wof:name":"9th Ave  & W 47th St",
+    "wof:parent_id":85882233,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99174958421438,
+    40.76042134422908,
+    -73.9888776460733,
+    40.76279182449107
+],
+  "geometry": {"coordinates":[[[-73.98933206413739,40.76042134422908],[-73.99174958421438,40.7621738506926],[-73.99172166566134,40.76223992460145],[-73.99129935232862,40.76279182449107],[-73.98887764607331,40.76104773397646],[-73.98890457933497,40.76098402257232],[-73.98933206413739,40.76042134422908]]],"type":"Polygon"}
+}

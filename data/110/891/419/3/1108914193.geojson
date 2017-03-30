@@ -1,0 +1,62 @@
+{
+  "id": 1108914193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12091.563476,
+    "geom:bbox":"-73.9755311422,40.7925971886,-73.9739023574,40.7942435536",
+    "geom:latitude":40.793388,
+    "geom:longitude":-73.974702,
+    "intersection:latitude":40.793325,
+    "intersection:longitude":-73.974616,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.793325,
+    "reversegeo:longitude":-73.974616,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818258,
+    "wof:geomhash":"dd33881a814d0cdd4ed8b4783362ff3d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914193,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914193,
+    "wof:lastmodified":1490900131,
+    "wof:name":"W End Ave  & W 93rd St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9755311421544,
+    40.79259718859534,
+    -73.97390235741292,
+    40.79424355359957
+],
+  "geometry": {"coordinates":[[[-73.97427911029732,40.79259718859534],[-73.9755311421544,40.793510833464],[-73.97522461367164,40.79424355359957],[-73.9739882064378,40.7933482922213],[-73.97390235741292,40.79303244269369],[-73.97399072619626,40.7928231559585],[-73.97427911029732,40.79259718859534]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108908309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8386.794713,
+    "geom:bbox":"-74.009066488,40.7234454839,-74.0081255959,40.7250764708",
+    "geom:latitude":40.724227,
+    "geom:longitude":-74.00862,
+    "intersection:latitude":40.724222,
+    "intersection:longitude":-74.008644,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.724222,
+    "reversegeo:longitude":-74.008644,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865687,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817962,
+    "wof:geomhash":"8eac6860fd15f6c9b38fbc61a5d83965",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908309,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865687,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908309,
+    "wof:lastmodified":1490900178,
+    "wof:name":"Renwick St  & Canal St",
+    "wof:parent_id":85865687,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00906648801879,
+    40.72344548394582,
+    -74.0081255959347,
+    40.72507647082566
+],
+  "geometry": {"coordinates":[[[-74.00875121642342,40.72344548394582],[-74.00895158798042,40.72367175905013],[-74.00906648801879,40.72434143763196],[-74.00854224443339,40.72507647082566],[-74.00852026608344,40.72507264116634],[-74.00845509461388,40.72500713376137],[-74.0081255959347,40.72417471604558],[-74.00854050083345,40.72359289538296],[-74.00875121642342,40.72344548394582]]],"type":"Polygon"}
+}

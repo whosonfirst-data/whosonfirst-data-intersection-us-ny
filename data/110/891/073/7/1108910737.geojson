@@ -1,0 +1,64 @@
+{
+  "id": 1108910737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9812.683156,
+    "geom:bbox":"-74.0012891129,40.7201909238,-74.0000192978,40.721511949",
+    "geom:latitude":40.720853,
+    "geom:longitude":-74.000653,
+    "intersection:latitude":40.72084,
+    "intersection:longitude":-74.000661,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.72084,
+    "reversegeo:longitude":-74.000661,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865687,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818081,
+    "wof:geomhash":"8e1a0f93fad3a3185ea129ae84db4e8c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910737,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865687,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910737,
+    "wof:lastmodified":1490900157,
+    "wof:name":"Grand St  & Broadway",
+    "wof:parent_id":85865687,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00128911293884,
+    40.7201909237743,
+    -74.00001929777669,
+    40.72151194903078
+],
+  "geometry": {"coordinates":[[[-74.00080914560787,40.7201909237743],[-74.00128911293884,40.72059745929631],[-74.00080976208564,40.72151194903078],[-74.0004867370771,40.72151098693098],[-74.00001929777669,40.72111425273484],[-74.0004882002151,40.72020064184131],[-74.00080914560787,40.7201909237743]]],"type":"Polygon"}
+}

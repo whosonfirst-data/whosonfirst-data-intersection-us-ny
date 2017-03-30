@@ -1,0 +1,64 @@
+{
+  "id": 1108913069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8265.966982,
+    "geom:bbox":"-73.9402899302,40.8465753896,-73.9389705674,40.8476776065",
+    "geom:latitude":40.847131,
+    "geom:longitude":-73.939631,
+    "intersection:latitude":40.84721,
+    "intersection:longitude":-73.939779,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.84721,
+    "reversegeo:longitude":-73.939779,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214331,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818198,
+    "wof:geomhash":"d1262cd24da0dc46ce52f93f9cadc0c1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913069,
+            "locality_id":85977539,
+            "microhood_id":907214331,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913069,
+    "wof:lastmodified":1490900132,
+    "wof:name":"Fort Washington Ave  & W 176th St",
+    "wof:parent_id":907214331,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.940289930155,
+    40.84657538960531,
+    -73.93897056736053,
+    40.84767760646301
+],
+  "geometry": {"coordinates":[[[-73.93921157701159,40.84657538960531],[-73.940289930155,40.84701547004878],[-73.94018605195416,40.84755070688023],[-73.94002979356381,40.84767760646301],[-73.93897056736053,40.84724750665116],[-73.93906362095254,40.8467685908309],[-73.93921157701159,40.84657538960531]]],"type":"Polygon"}
+}

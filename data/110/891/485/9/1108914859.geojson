@@ -1,0 +1,64 @@
+{
+  "id": 1108914859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6031.169756,
+    "geom:bbox":"-74.0098521495,40.7383910493,-74.0088522282,40.7391431712",
+    "geom:latitude":40.73876,
+    "geom:longitude":-74.00932,
+    "intersection:latitude":40.738735,
+    "intersection:longitude":-74.009609,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.738735,
+    "reversegeo:longitude":-74.009609,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818296,
+    "wof:geomhash":"443c022b2596ce395a42c3375e153222",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914859,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914859,
+    "wof:lastmodified":1490900133,
+    "wof:name":"Horatio St  & West St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0098521495091,
+    40.73839104933775,
+    -74.00885222823815,
+    40.73914317121532
+],
+  "geometry": {"coordinates":[[[-74.00890083899841,40.73839104933775],[-74.00978960753383,40.73845140713303],[-74.0098521495091,40.73901495740478],[-74.0098016145522,40.73904020521982],[-74.0088662192412,40.73914317121532],[-74.00886215584684,40.73913327938968],[-74.00885222823815,40.73851032194513],[-74.00890083899841,40.73839104933775]]],"type":"Polygon"}
+}

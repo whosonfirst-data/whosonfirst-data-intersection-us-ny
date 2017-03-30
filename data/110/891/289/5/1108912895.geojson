@@ -1,0 +1,64 @@
+{
+  "id": 1108912895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17720.060511,
+    "geom:bbox":"-73.9515015918,40.7787743738,-73.9491137665,40.7808060686",
+    "geom:latitude":40.779791,
+    "geom:longitude":-73.950311,
+    "intersection:latitude":40.77981,
+    "intersection:longitude":-73.950336,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.77981,
+    "reversegeo:longitude":-73.950336,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818191,
+    "wof:geomhash":"3e38087522d8152127228ea4847b7a3e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912895,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912895,
+    "wof:lastmodified":1490900162,
+    "wof:name":"2nd Ave  & E 89th St",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95150159184686,
+    40.77877437382811,
+    -73.94911376653779,
+    40.7808060685889
+],
+  "geometry": {"coordinates":[[[-73.94956750961745,40.77877437382811],[-73.95150159184686,40.78017206241234],[-73.95140679523122,40.78039714154534],[-73.95104572135234,40.7808060685889],[-73.94911376653779,40.77939876604035],[-73.94919049141194,40.77921762496162],[-73.94956750961745,40.77877437382811]]],"type":"Polygon"}
+}

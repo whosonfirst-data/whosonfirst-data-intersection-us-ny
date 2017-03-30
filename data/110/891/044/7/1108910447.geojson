@@ -1,0 +1,62 @@
+{
+  "id": 1108910447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":242855.16432,
+    "geom:bbox":"-74.0144224276,40.6911713113,-74.0044381254,40.6963632916",
+    "geom:latitude":40.694014,
+    "geom:longitude":-74.010084,
+    "intersection:latitude":40.691266,
+    "intersection:longitude":-74.012766,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.691266,
+    "reversegeo:longitude":-74.012766,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907131741,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818066,
+    "wof:geomhash":"1dd698ff09f7cc763567fabe7e27184f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910447,
+            "locality_id":85977539,
+            "neighbourhood_id":907131741,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910447,
+    "wof:lastmodified":1490900148,
+    "wof:name":"Kimmel Rd  & Carder Rd",
+    "wof:parent_id":907131741,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01442242762162,
+    40.69117131125827,
+    -74.00443812543269,
+    40.69636329162203
+],
+  "geometry": {"coordinates":[[[-74.01268660264903,40.69117131125827],[-74.01442242762162,40.69126774597914],[-74.01406497332843,40.69208486828289],[-74.01161444903592,40.69635963608546],[-74.01157694748663,40.69636329162203],[-74.01080687281015,40.69634712306193],[-74.00646750215954,40.69568682890682],[-74.00443812543269,40.69485841858484],[-74.01268660264903,40.69117131125827]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108909561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15879.954591,
+    "geom:bbox":"-73.9414289347,40.8362266798,-73.9394947741,40.8374743351",
+    "geom:latitude":40.836855,
+    "geom:longitude":-73.940551,
+    "intersection:latitude":40.836945,
+    "intersection:longitude":-73.940102,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.836945,
+    "reversegeo:longitude":-73.940102,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818028,
+    "wof:geomhash":"f5dc81d6244f2edb9a0107f9f94b38bb",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909561,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909561,
+    "wof:lastmodified":1490900169,
+    "wof:name":"W 163rd St  & St Nicholas Ave",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94142893467412,
+    40.83622667981506,
+    -73.93949477411388,
+    40.8374743350982
+],
+  "geometry": {"coordinates":[[[-73.94118943205808,40.83622667981506],[-73.94142893467412,40.83624404601987],[-73.94138059814297,40.83675826443645],[-73.9410792795418,40.8374743350982],[-73.93950852187791,40.83725373454202],[-73.93949477411388,40.8371926441258],[-73.93986396397763,40.8364670769],[-73.94118943205808,40.83622667981506]]],"type":"Polygon"}
+}

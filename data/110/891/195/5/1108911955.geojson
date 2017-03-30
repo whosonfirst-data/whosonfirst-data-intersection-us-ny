@@ -1,0 +1,62 @@
+{
+  "id": 1108911955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16871.587253,
+    "geom:bbox":"-73.9458794414,40.8355573635,-73.9438934289,40.8371745845",
+    "geom:latitude":40.836367,
+    "geom:longitude":-73.944915,
+    "intersection:latitude":40.836382,
+    "intersection:longitude":-73.944574,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.836382,
+    "reversegeo:longitude":-73.944574,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818145,
+    "wof:geomhash":"99db182ca4a373e6491344660d320728",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911955,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911955,
+    "wof:lastmodified":1490900153,
+    "wof:name":"Fort Washington Ave  & W 160th St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94587944139467,
+    40.83555736349009,
+    -73.9438934289162,
+    40.83717458450172
+],
+  "geometry": {"coordinates":[[[-73.94477984180418,40.83555736349009],[-73.94587944139467,40.83637638162702],[-73.94555257874795,40.83717458450172],[-73.9438934289162,40.83651426193934],[-73.9441464058125,40.83591570053291],[-73.94477984180418,40.83555736349009]]],"type":"Polygon"}
+}

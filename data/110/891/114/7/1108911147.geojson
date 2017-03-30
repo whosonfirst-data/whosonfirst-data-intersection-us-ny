@@ -1,0 +1,62 @@
+{
+  "id": 1108911147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9149.816437,
+    "geom:bbox":"-73.9411894321,40.8355524368,-73.9391057207,40.8364670769",
+    "geom:latitude":40.836017,
+    "geom:longitude":-73.940042,
+    "intersection:latitude":40.835936,
+    "intersection:longitude":-73.939919,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.835936,
+    "reversegeo:longitude":-73.939919,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818102,
+    "wof:geomhash":"94edfcd89be8e02beba3099cc8f03d9e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911147,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911147,
+    "wof:lastmodified":1490900157,
+    "wof:name":"St Nicholas Ave  & W 162nd St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94118943205808,
+    40.83555243679631,
+    -73.93910572070794,
+    40.8364670769
+],
+  "geometry": {"coordinates":[[[-73.93988393466934,40.83555243679631],[-73.94118943205808,40.83622667981506],[-73.93986396397763,40.8364670769],[-73.93910572070794,40.83575591809139],[-73.93913711261249,40.83569525535699],[-73.93988393466934,40.83555243679631]]],"type":"Polygon"}
+}

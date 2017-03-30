@@ -1,0 +1,64 @@
+{
+  "id": 1108907045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6841.882434,
+    "geom:bbox":"-74.0065550046,40.7346833872,-74.0054394565,40.7355400175",
+    "geom:latitude":40.735113,
+    "geom:longitude":-74.005987,
+    "intersection:latitude":40.735134,
+    "intersection:longitude":-74.006069,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.735134,
+    "reversegeo:longitude":-74.006069,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817901,
+    "wof:geomhash":"cfdbd548a5f3ae5435d297f0ab1efe28",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907045,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907045,
+    "wof:lastmodified":1490900175,
+    "wof:name":"Perry St  & Hudson St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0065550046363,
+    40.73468338721487,
+    -74.00543945650078,
+    40.73554001746906
+],
+  "geometry": {"coordinates":[[[-74.00548514834227,40.73468338721487],[-74.00649228806878,40.73484568886863],[-74.0065550046363,40.73527852820967],[-74.00634402220646,40.73554001746906],[-74.00552983483948,40.73541519830872],[-74.00543945650078,40.73481072671406],[-74.00548514834227,40.73468338721487]]],"type":"Polygon"}
+}

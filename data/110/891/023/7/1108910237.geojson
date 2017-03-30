@@ -1,0 +1,64 @@
+{
+  "id": 1108910237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4466.132826,
+    "geom:bbox":"-73.991557936,40.738961713,-73.990268159,40.739673",
+    "geom:latitude":40.739429,
+    "geom:longitude":-73.990792,
+    "intersection:latitude":40.739673,
+    "intersection:longitude":-73.990945,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.739673,
+    "reversegeo:longitude":-73.990945,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869245,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818057,
+    "wof:geomhash":"d17aef5f284c3620f15e1cf1d1bdf8a2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910237,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85869245,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910237,
+    "wof:lastmodified":1490900143,
+    "wof:name":"E 20th St  & 5th Ave",
+    "wof:parent_id":85869245,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99155793604652,
+    40.73896171299366,
+    -73.99026815903186,
+    40.739673
+],
+  "geometry": {"coordinates":[[[-73.99059025488671,40.73896171299366],[-73.99155793604652,40.739673],[-73.99032526932085,40.739673],[-73.99026815903186,40.73963159746452],[-73.99052770566102,40.73901412766127],[-73.99059025488671,40.73896171299366]]],"type":"Polygon"}
+}

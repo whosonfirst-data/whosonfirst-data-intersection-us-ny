@@ -1,0 +1,64 @@
+{
+  "id": 1108910775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12309.307994,
+    "geom:bbox":"-73.9373536323,40.8048844285,-73.9355953235,40.8064598831",
+    "geom:latitude":40.805672,
+    "geom:longitude":-73.936474,
+    "intersection:latitude":40.80567,
+    "intersection:longitude":-73.936471,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.80567,
+    "reversegeo:longitude":-73.936471,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818082,
+    "wof:geomhash":"0bbdf1955c1a140098f8f56a89cbe901",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910775,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910775,
+    "wof:lastmodified":1490900150,
+    "wof:name":"Lexington Ave  & E 127th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93735363228241,
+    40.80488442849526,
+    -73.93559532351144,
+    40.80645988311799
+],
+  "geometry": {"coordinates":[[[-73.93605287282503,40.80488442849526],[-73.93735363228241,40.80583706803375],[-73.93720630003344,40.80618609230733],[-73.93689960732277,40.80645988311799],[-73.93559532351144,40.80551188130623],[-73.93574586669156,40.80515503821259],[-73.93605287282503,40.80488442849526]]],"type":"Polygon"}
+}

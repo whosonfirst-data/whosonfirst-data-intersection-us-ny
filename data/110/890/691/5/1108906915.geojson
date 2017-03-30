@@ -1,0 +1,64 @@
+{
+  "id": 1108906915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12317.768015,
+    "geom:bbox":"-73.9722905494,40.762799445,-73.9705310731,40.7643719568",
+    "geom:latitude":40.763587,
+    "geom:longitude":-73.97141,
+    "intersection:latitude":40.763588,
+    "intersection:longitude":-73.971411,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.763588,
+    "reversegeo:longitude":-73.971411,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817894,
+    "wof:geomhash":"df1a50c32ba7f185cb27208b7e162c68",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906915,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906915,
+    "wof:lastmodified":1490900174,
+    "wof:name":"E 59th St  & Madison Ave",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97229054941725,
+    40.76279944501442,
+    -73.97053107312867,
+    40.76437195676858
+],
+  "geometry": {"coordinates":[[[-73.97099071984498,40.76279944501442],[-73.97229054941725,40.7637534865915],[-73.97213840662273,40.76410665163117],[-73.97183407235828,40.76437195676858],[-73.97053107312867,40.76342997961846],[-73.97067947050638,40.7630754992355],[-73.97099071984498,40.76279944501442]]],"type":"Polygon"}
+}

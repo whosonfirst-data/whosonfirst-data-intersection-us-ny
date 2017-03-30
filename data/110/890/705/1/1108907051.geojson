@@ -1,0 +1,64 @@
+{
+  "id": 1108907051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27157.380591,
+    "geom:bbox":"-73.9572508734,40.761804804,-73.9537909964,40.7646763025",
+    "geom:latitude":40.763256,
+    "geom:longitude":-73.955517,
+    "intersection:latitude":40.763667,
+    "intersection:longitude":-73.956083,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.763667,
+    "reversegeo:longitude":-73.956083,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817901,
+    "wof:geomhash":"2e3d6eaa753d7f0789da9f5b0707c3b0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907051,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907051,
+    "wof:lastmodified":1490900164,
+    "wof:name":"E 67th St  & York Ave",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95725087343578,
+    40.76180480402341,
+    -73.95379099638205,
+    40.76467630253739
+],
+  "geometry": {"coordinates":[[[-73.95412092824066,40.76180480402341],[-73.95725087343578,40.76402686447445],[-73.95715598412329,40.76425040371797],[-73.95678040145779,40.76467630253739],[-73.9538638055276,40.76249002597334],[-73.95379099638205,40.7622287170767],[-73.95412092824066,40.76180480402341]]],"type":"Polygon"}
+}

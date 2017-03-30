@@ -1,0 +1,64 @@
+{
+  "id": 1108909655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5037.250815,
+    "geom:bbox":"-74.0100437266,40.717625624,-74.0091949385,40.7184572091",
+    "geom:latitude":40.718036,
+    "geom:longitude":-74.009624,
+    "intersection:latitude":40.717995,
+    "intersection:longitude":-74.009494,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.717995,
+    "reversegeo:longitude":-74.009494,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818033,
+    "wof:geomhash":"ee4ededaa65c438d38a2ea29e9ced76c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909655,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909655,
+    "wof:lastmodified":1490900178,
+    "wof:name":"Jay St  & Staple St",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0100437265834,
+    40.71762562401926,
+    -74.00919493847137,
+    40.71845720912211
+],
+  "geometry": {"coordinates":[[[-74.00938432340962,40.71762562401926],[-74.0100437265834,40.71776607091882],[-74.00997434780859,40.71836832532541],[-74.00989526376897,40.71845720912211],[-74.00926801736746,40.71830962173351],[-74.00919493847137,40.71814546288972],[-74.00923782015508,40.71780792277932],[-74.00938432340962,40.71762562401926]]],"type":"Polygon"}
+}

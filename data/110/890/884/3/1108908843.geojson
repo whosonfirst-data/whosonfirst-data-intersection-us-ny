@@ -1,0 +1,64 @@
+{
+  "id": 1108908843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4320.981838,
+    "geom:bbox":"-74.0069248083,40.7065073221,-74.0060392845,40.7075294505",
+    "geom:latitude":40.707034,
+    "geom:longitude":-74.006453,
+    "intersection:latitude":40.706982,
+    "intersection:longitude":-74.006456,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.706982,
+    "reversegeo:longitude":-74.006456,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817983,
+    "wof:geomhash":"9fd1dd923c5d2396e5732655eeb660f2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908843,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908843,
+    "wof:lastmodified":1490900173,
+    "wof:name":"Pearl St  & Fletcher St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0069248083005,
+    40.70650732209329,
+    -74.00603928445078,
+    40.70752945048771
+],
+  "geometry": {"coordinates":[[[-74.0063440849233,40.70650732209329],[-74.0069248083005,40.70723885347931],[-74.00690900169015,40.70730574812142],[-74.00639600882923,40.70752945048771],[-74.00603928445078,40.70672162173831],[-74.00611532640568,40.70662578632563],[-74.0063440849233,40.70650732209329]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108910633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16552.163316,
+    "geom:bbox":"-73.9982823976,40.7569704734,-73.9959855589,40.7589153476",
+    "geom:latitude":40.757927,
+    "geom:longitude":-73.997125,
+    "intersection:latitude":40.757733,
+    "intersection:longitude":-73.996852,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.757733,
+    "reversegeo:longitude":-73.996852,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85868039,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818077,
+    "wof:geomhash":"329fac4c4d77aca7cd6afc1dcc4f278c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910633,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85868039,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910633,
+    "wof:lastmodified":1490900161,
+    "wof:name":"W 39th St  & 10th Ave",
+    "wof:parent_id":85868039,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99828239755266,
+    40.75697047342834,
+    -73.9959855589008,
+    40.75891534756036
+],
+  "geometry": {"coordinates":[[[-73.99646008027722,40.75697047342834],[-73.99828239755266,40.75829845423583],[-73.99826480458141,40.75834038168663],[-73.99783339982295,40.75891534756036],[-73.9959855589008,40.75756453315684],[-73.99611361148574,40.75726245064932],[-73.99646008027722,40.75697047342834]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108908877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13651.777118,
+    "geom:bbox":"-73.9895119111,40.7305180202,-73.9875699548,40.7321993196",
+    "geom:latitude":40.731351,
+    "geom:longitude":-73.988619,
+    "intersection:latitude":40.731323,
+    "intersection:longitude":-73.988613,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.731323,
+    "reversegeo:longitude":-73.988613,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817985,
+    "wof:geomhash":"930ddf8bf8f9d32f26d795ffed4b7296",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908877,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908877,
+    "wof:lastmodified":1490900173,
+    "wof:name":"3rd Ave  & E 11th St",
+    "wof:parent_id":85816887,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98951191110659,
+    40.7305180201564,
+    -73.98756995482223,
+    40.73219931955344
+],
+  "geometry": {"coordinates":[[[-73.9881402467896,40.7305180201564],[-73.98950549216404,40.73151464927975],[-73.98951191110659,40.73185013342309],[-73.98915803294194,40.73219931955344],[-73.98756995482223,40.73106144426514],[-73.9881402467896,40.7305180201564]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108913169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20050.833115,
+    "geom:bbox":"-73.958108141,40.7989162639,-73.9562651649,40.800832277",
+    "geom:latitude":40.800043,
+    "geom:longitude":-73.957249,
+    "intersection:latitude":40.800479,
+    "intersection:longitude":-73.957798,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.800479,
+    "reversegeo:longitude":-73.957798,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818203,
+    "wof:geomhash":"306b179a5a946f52ed2154a02f8255e2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913169,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913169,
+    "wof:lastmodified":1490900136,
+    "wof:name":"Central Park N  & Frederick Douglass Cir",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9581081409679,
+    40.79891626394527,
+    -73.956265164927,
+    40.80083227698801
+],
+  "geometry": {"coordinates":[[[-73.95740643970829,40.79891626394527],[-73.95790201221311,40.79972675204576],[-73.95810814096789,40.80053384773348],[-73.95757555952912,40.80083227698801],[-73.956265164927,40.80065477333672],[-73.95627208947506,40.80060926916383],[-73.95647799342794,40.80011442910849],[-73.95715042427142,40.79898057502301],[-73.95740643970829,40.79891626394527]]],"type":"Polygon"}
+}

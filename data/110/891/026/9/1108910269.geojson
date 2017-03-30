@@ -1,0 +1,66 @@
+{
+  "id": 1108910269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11188.152936,
+    "geom:bbox":"-73.9856262122,40.760295124,-73.9839679754,40.7616700899",
+    "geom:latitude":40.760962,
+    "geom:longitude":-73.984793,
+    "intersection:latitude":40.760773,
+    "intersection:longitude":-73.984464,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.760773,
+    "reversegeo:longitude":-73.984464,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907216453,
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818058,
+    "wof:geomhash":"ce4461760548166d1ac28842bd08c069",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910269,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907216453,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910269,
+    "wof:lastmodified":1490900131,
+    "wof:name":"Broadway  & W 49th St",
+    "wof:parent_id":907216453,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98562621220962,
+    40.76029512399683,
+    -73.98396797541477,
+    40.76167008987379
+],
+  "geometry": {"coordinates":[[[-73.98435716701711,40.76029512399683],[-73.98562621220962,40.76094766741421],[-73.98545952308294,40.76134174531575],[-73.98515580436674,40.76167008987379],[-73.98396797541477,40.76091469634671],[-73.98421577095711,40.76033912062493],[-73.98435716701711,40.76029512399683]]],"type":"Polygon"}
+}

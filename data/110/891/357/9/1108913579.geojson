@@ -1,0 +1,64 @@
+{
+  "id": 1108913579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8136.683948,
+    "geom:bbox":"-73.9974971863,40.7311842413,-73.995853482,40.7325556651",
+    "geom:latitude":40.731863,
+    "geom:longitude":-73.996674,
+    "intersection:latitude":40.731856,
+    "intersection:longitude":-73.996639,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.731856,
+    "reversegeo:longitude":-73.996639,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529189,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818227,
+    "wof:geomhash":"c49f4d7f1061169f460e0ff4100f3e20",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913579,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":420529189,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913579,
+    "wof:lastmodified":1490900161,
+    "wof:name":"Washington Mews  & 5th Ave",
+    "wof:parent_id":420529189,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99749718632602,
+    40.73118424126834,
+    -73.99585348204502,
+    40.73255566505827
+],
+  "geometry": {"coordinates":[[[-73.99620837566246,40.73118424126834],[-73.99749718632602,40.73215012845456],[-73.99747239408173,40.73220387777782],[-73.99718793700778,40.73255566505827],[-73.99585348204502,40.731592449446],[-73.99590577063869,40.73146960761855],[-73.99620837566246,40.73118424126834]]],"type":"Polygon"}
+}

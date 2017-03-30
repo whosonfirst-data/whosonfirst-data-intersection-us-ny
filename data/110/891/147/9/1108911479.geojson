@@ -1,0 +1,62 @@
+{
+  "id": 1108911479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":466572.811522,
+    "geom:bbox":"-74.0109804088,40.7885367542,-73.9795571334,40.8115279262",
+    "geom:latitude":40.796701,
+    "geom:longitude":-73.991881,
+    "intersection:latitude":40.789254,
+    "intersection:longitude":-73.980853,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.789254,
+    "reversegeo:longitude":-73.980853,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818126,
+    "wof:geomhash":"553e6905d49c2cb408cc373629b3ac8f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911479,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911479,
+    "wof:lastmodified":1490900151,
+    "wof:name":"Riverside Dr  & W 85th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01098040881644,
+    40.78853675423976,
+    -73.97955713336819,
+    40.81152792616123
+],
+  "geometry": {"coordinates":[[[-73.97972904148969,40.78853675423976],[-73.9857763713734,40.79022644935433],[-74.01098040881644,40.81152792616123],[-73.97955713336819,40.78884096164575],[-73.97964013979967,40.78864420566001],[-73.97972904148969,40.78853675423976]]],"type":"Polygon"}
+}

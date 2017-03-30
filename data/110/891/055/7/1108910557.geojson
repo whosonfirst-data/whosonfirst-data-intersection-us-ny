@@ -1,0 +1,62 @@
+{
+  "id": 1108910557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8310.86055,
+    "geom:bbox":"-73.9396917751,40.8385246386,-73.938433286,40.8398340288",
+    "geom:latitude":40.839158,
+    "geom:longitude":-73.939078,
+    "intersection:latitude":40.839296,
+    "intersection:longitude":-73.939239,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.839296,
+    "reversegeo:longitude":-73.939239,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818073,
+    "wof:geomhash":"e3100a9a7461b0f93fd13fbb145e9c3f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910557,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910557,
+    "wof:lastmodified":1490900152,
+    "wof:name":"Audubon Ave  & W 166th St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93969177513418,
+    40.83852463863096,
+    -73.93843328602344,
+    40.83983402881486
+],
+  "geometry": {"coordinates":[[[-73.93891152870407,40.83852463863096],[-73.93969177513418,40.83911421014637],[-73.93939875941219,40.83980551020161],[-73.9393377117557,40.83983402881486],[-73.93843328602344,40.83916100297731],[-73.93868198250716,40.83867292514316],[-73.93891152870407,40.83852463863096]]],"type":"Polygon"}
+}

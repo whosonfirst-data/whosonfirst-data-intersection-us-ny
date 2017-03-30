@@ -1,0 +1,64 @@
+{
+  "id": 1108910875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18175.976598,
+    "geom:bbox":"-73.9352700694,40.8011261195,-73.9328336935,40.8030928834",
+    "geom:latitude":40.802105,
+    "geom:longitude":-73.934074,
+    "intersection:latitude":40.802077,
+    "intersection:longitude":-73.934062,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.802077,
+    "reversegeo:longitude":-73.934062,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818086,
+    "wof:geomhash":"6a3914d1becae9c518f149c7942ff21c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910875,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910875,
+    "wof:lastmodified":1490900131,
+    "wof:name":"2nd Ave  & E 124th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93527006942846,
+    40.80112611951452,
+    -73.93283369354488,
+    40.80309288344443
+],
+  "geometry": {"coordinates":[[[-73.93321412918517,40.80112611951452],[-73.93527006942846,40.80235093497868],[-73.93513071722872,40.80268173090793],[-73.93475048898556,40.80309288344443],[-73.93283369354488,40.80170271127115],[-73.9329231299951,40.80151626315227],[-73.93321412918517,40.80112611951452]]],"type":"Polygon"}
+}

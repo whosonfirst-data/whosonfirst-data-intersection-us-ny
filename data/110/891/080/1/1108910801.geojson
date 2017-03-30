@@ -1,0 +1,66 @@
+{
+  "id": 1108910801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12155.237757,
+    "geom:bbox":"-73.9852202337,40.749724,-73.9829702919,40.7510290017",
+    "geom:latitude":40.75024,
+    "geom:longitude":-73.984265,
+    "intersection:latitude":40.749724,
+    "intersection:longitude":-73.983621,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.749724,
+    "reversegeo:longitude":-73.983621,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212749,
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818083,
+    "wof:geomhash":"6316912696a791c4fd94fe2e7e670461",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910801,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907212749,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910801,
+    "wof:lastmodified":1490900146,
+    "wof:name":"W 36th St  & 5th Ave",
+    "wof:parent_id":907212749,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98522023370721,
+    40.749724,
+    -73.98297029194629,
+    40.75102900166433
+],
+  "geometry": {"coordinates":[[[-73.98427364725272,40.749724],[-73.98522023370721,40.75041643864439],[-73.98480213285319,40.75100423427823],[-73.98477452243525,40.75102900166433],[-73.98297029194629,40.749724],[-73.98427364725272,40.749724]]],"type":"Polygon"}
+}

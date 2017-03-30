@@ -1,0 +1,64 @@
+{
+  "id": 1108907321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15532.012556,
+    "geom:bbox":"-73.9954590069,40.7102413886,-73.9930562247,40.7111817016",
+    "geom:latitude":40.710693,
+    "geom:longitude":-73.994213,
+    "intersection:latitude":40.710557,
+    "intersection:longitude":-73.994138,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.710557,
+    "reversegeo:longitude":-73.994138,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869743,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817917,
+    "wof:geomhash":"1f22b72bb91446eb997fdcef2c9d1b30",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907321,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85869743,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907321,
+    "wof:lastmodified":1490900179,
+    "wof:name":"Cherry St  & Market Slip",
+    "wof:parent_id":85869743,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99545900694395,
+    40.71024138859087,
+    -73.99305622470905,
+    40.71118170155611
+],
+  "geometry": {"coordinates":[[[-73.9952029960652,40.71024138859087],[-73.99545900694395,40.71092315311969],[-73.99331615750307,40.71118170155611],[-73.99314739441559,40.71094470009407],[-73.99305622470905,40.71040125454297],[-73.9952029960652,40.71024138859087]]],"type":"Polygon"}
+}

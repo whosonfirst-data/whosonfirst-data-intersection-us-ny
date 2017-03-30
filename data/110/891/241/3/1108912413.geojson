@@ -1,0 +1,64 @@
+{
+  "id": 1108912413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7553.135149,
+    "geom:bbox":"-74.0072824029,40.738439435,-74.0059775,40.7390928476",
+    "geom:latitude":40.738761,
+    "geom:longitude":-74.006641,
+    "intersection:latitude":40.738754,
+    "intersection:longitude":-74.00646,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.738754,
+    "reversegeo:longitude":-74.00646,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818170,
+    "wof:geomhash":"f6e997e79a64c99921175c0981439db9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912413,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912413,
+    "wof:lastmodified":1490900137,
+    "wof:name":"Horatio St  & Greenwich St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00728240294855,
+    40.73843943495935,
+    -74.0059775,
+    40.73909284760187
+],
+  "geometry": {"coordinates":[[[-74.00603049999999,40.73843943495935],[-74.00728240294855,40.73845979110486],[-74.00728075963205,40.73899978490399],[-74.00724443534834,40.73909284760187],[-74.00617654583284,40.73907480338581],[-74.0059775,40.73891183836858],[-74.0059775,40.73851432439024],[-74.00603049999999,40.73843943495935]]],"type":"Polygon"}
+}

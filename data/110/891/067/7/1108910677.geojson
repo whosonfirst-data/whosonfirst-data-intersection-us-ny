@@ -1,0 +1,64 @@
+{
+  "id": 1108910677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25600.944425,
+    "geom:bbox":"-73.9807596313,40.731211512,-73.9785197473,40.7330586456",
+    "geom:latitude":40.732107,
+    "geom:longitude":-73.979719,
+    "intersection:latitude":40.732329,
+    "intersection:longitude":-73.979679,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.732329,
+    "reversegeo:longitude":-73.979679,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85851295,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818078,
+    "wof:geomhash":"6ef07a624093049e1f9663c7d8684473",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910677,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85851295,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910677,
+    "wof:lastmodified":1490900144,
+    "wof:name":"Stuyvesant Walk  & Stuyvesant Loop W",
+    "wof:parent_id":85851295,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9807596312648,
+    40.73121151196907,
+    -73.97851974731928,
+    40.73305864563588
+],
+  "geometry": {"coordinates":[[[-73.97950331868562,40.73121151196907],[-73.9807596312648,40.73165165550426],[-73.98056596726015,40.73281302276786],[-73.98021276538405,40.73305864563588],[-73.97851974731928,40.732374926802],[-73.97876136999568,40.73163022752613],[-73.97950331868562,40.73121151196907]]],"type":"Polygon"}
+}

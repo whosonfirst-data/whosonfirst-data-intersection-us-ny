@@ -1,0 +1,64 @@
+{
+  "id": 1108909565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12339.679341,
+    "geom:bbox":"-73.9755589307,40.7583271267,-73.9737988767,40.7599017065",
+    "geom:latitude":40.759114,
+    "geom:longitude":-73.97468,
+    "intersection:latitude":40.759114,
+    "intersection:longitude":-73.97468,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.759114,
+    "reversegeo:longitude":-73.97468,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818029,
+    "wof:geomhash":"64e7a77e3dac7a6146e994b5d9e3b01e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909565,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909565,
+    "wof:lastmodified":1490900169,
+    "wof:name":"E 52nd St  & Madison Ave",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97555893073758,
+    40.75832712671582,
+    -73.9737988767075,
+    40.75990170646145
+],
+  "geometry": {"coordinates":[[[-73.97425324438507,40.75832712671582],[-73.97555893073758,40.75927255192162],[-73.97540932762995,40.75963022116406],[-73.97510175436513,40.75990170646145],[-73.97379887670751,40.7589505641459],[-73.97394852655367,40.75859684632768],[-73.97425324438507,40.75832712671582]]],"type":"Polygon"}
+}

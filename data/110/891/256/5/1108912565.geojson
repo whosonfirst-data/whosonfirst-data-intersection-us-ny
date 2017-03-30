@@ -1,0 +1,64 @@
+{
+  "id": 1108912565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9531.294761,
+    "geom:bbox":"-73.9904762818,40.7339648104,-73.9891199031,40.7349028907",
+    "geom:latitude":40.73445,
+    "geom:longitude":-73.989806,
+    "intersection:latitude":40.734435,
+    "intersection:longitude":-73.989903,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.734435,
+    "reversegeo:longitude":-73.989903,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818176,
+    "wof:geomhash":"6053558f543cf017ed47217f799c15a5",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912565,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912565,
+    "wof:lastmodified":1490900135,
+    "wof:name":"E 14th St  & 4th Ave",
+    "wof:parent_id":85816887,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9904762818157,
+    40.73396481036981,
+    -73.98911990306429,
+    40.73490289068776
+],
+  "geometry": {"coordinates":[[[-73.99031799984549,40.73396481036981],[-73.9904762818157,40.73432570711591],[-73.99020946788089,40.7348877334984],[-73.98914380087449,40.73490289068776],[-73.98911990306429,40.73473037837039],[-73.98942496456566,40.73399927148863],[-73.99031799984549,40.73396481036981]]],"type":"Polygon"}
+}

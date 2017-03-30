@@ -1,0 +1,64 @@
+{
+  "id": 1108911385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9172.37576,
+    "geom:bbox":"-73.9592792144,40.8034942726,-73.9578225908,40.8043261778",
+    "geom:latitude":40.803916,
+    "geom:longitude":-73.95858,
+    "intersection:latitude":40.803894,
+    "intersection:longitude":-73.958204,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.803894,
+    "reversegeo:longitude":-73.958204,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818121,
+    "wof:geomhash":"b3922ec52cc073e8b087a8c4074a8cb8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911385,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911385,
+    "wof:lastmodified":1490900139,
+    "wof:name":"W 114th St  & Morningside Ave",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9592792144462,
+    40.80349427258645,
+    -73.95782259079326,
+    40.8043261777557
+],
+  "geometry": {"coordinates":[[[-73.95811758945652,40.80349427258645],[-73.9592792144462,40.80356069332919],[-73.95925761550464,40.8040268337516],[-73.95916196532689,40.8042471118703],[-73.95786528480625,40.8043261777557],[-73.95782259079326,40.80424420894723],[-73.95811758945652,40.80349427258645]]],"type":"Polygon"}
+}

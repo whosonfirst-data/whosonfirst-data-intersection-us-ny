@@ -1,0 +1,62 @@
+{
+  "id": 1108913441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11689.163238,
+    "geom:bbox":"-73.9825248249,40.7766433518,-73.9806342746,40.7775058264",
+    "geom:latitude":40.777055,
+    "geom:longitude":-73.981584,
+    "intersection:latitude":40.777096,
+    "intersection:longitude":-73.982102,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.777096,
+    "reversegeo:longitude":-73.982102,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818215,
+    "wof:geomhash":"063351b06ed75849c876773a98eaf555",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913441,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913441,
+    "wof:lastmodified":1490900152,
+    "wof:name":"Broadway  & W 70th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98252482494141,
+    40.77664335184712,
+    -73.98063427455779,
+    40.77750582641709
+],
+  "geometry": {"coordinates":[[[-73.98090620359564,40.77664335184712],[-73.98249738621928,40.77671305321361],[-73.98252482494141,40.77677583673034],[-73.9822106713756,40.77750582641709],[-73.98063427455779,40.77735237185956],[-73.98064593568095,40.77726273690471],[-73.98090620359564,40.77664335184712]]],"type":"Polygon"}
+}

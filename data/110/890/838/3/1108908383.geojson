@@ -1,0 +1,64 @@
+{
+  "id": 1108908383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22621.2779,
+    "geom:bbox":"-73.9866640283,40.7673767135,-73.9837834565,40.7697810209",
+    "geom:latitude":40.768577,
+    "geom:longitude":-73.985223,
+    "intersection:latitude":40.768595,
+    "intersection:longitude":-73.985218,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.768595,
+    "reversegeo:longitude":-73.985218,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817965,
+    "wof:geomhash":"d3722da64672f078f6ab2941b22470c8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908383,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908383,
+    "wof:lastmodified":1490900177,
+    "wof:name":"9th Ave  & W 58th St",
+    "wof:parent_id":85882233,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98666402825684,
+    40.76737671353762,
+    -73.98378345653617,
+    40.76978102093886
+],
+  "geometry": {"coordinates":[[[-73.98427098507018,40.76737671353762],[-73.98666402825684,40.76913703186394],[-73.98662450288002,40.76923105334976],[-73.98620692214904,40.76978102093886],[-73.98378345653617,40.7680344141007],[-73.98382826895282,40.76792798929864],[-73.98427098507018,40.76737671353762]]],"type":"Polygon"}
+}

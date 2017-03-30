@@ -1,0 +1,64 @@
+{
+  "id": 1108908361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3494.023494,
+    "geom:bbox":"-74.0036928381,40.7313317869,-74.0024804879,40.7322520647",
+    "geom:latitude":40.731836,
+    "geom:longitude":-74.003109,
+    "intersection:latitude":40.731743,
+    "intersection:longitude":-74.003299,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.731743,
+    "reversegeo:longitude":-74.003299,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817964,
+    "wof:geomhash":"f8d87191df0c7ad3bd50e59d941a100a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908361,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908361,
+    "wof:lastmodified":1490900179,
+    "wof:name":"Jones St  & Bleecker St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0036928381273,
+    40.73133178693507,
+    -74.00248048789156,
+    40.73225206467507
+],
+  "geometry": {"coordinates":[[[-74.00369197020029,40.73133178693507],[-74.00369283812729,40.73133309094246],[-74.00355503351486,40.73178509007123],[-74.00268176998945,40.73224999295525],[-74.00267418171337,40.73225206467507],[-74.00248935766702,40.73205427937955],[-74.00248048789156,40.73202904294013],[-74.00369197020029,40.73133178693507]]],"type":"Polygon"}
+}

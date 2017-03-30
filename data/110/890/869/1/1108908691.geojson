@@ -1,0 +1,64 @@
+{
+  "id": 1108908691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12679.25052,
+    "geom:bbox":"-73.9503172221,40.7902037649,-73.9484209833,40.7917882284",
+    "geom:latitude":40.791003,
+    "geom:longitude":-73.949322,
+    "intersection:latitude":40.790999,
+    "intersection:longitude":-73.949303,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.790999,
+    "reversegeo:longitude":-73.949303,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817976,
+    "wof:geomhash":"813c6b56819233e080fc74d60272e33f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908691,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908691,
+    "wof:lastmodified":1490900163,
+    "wof:name":"E 103rd St  & Park Ave",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95031722211452,
+    40.79020376494645,
+    -73.94842098330787,
+    40.79178822837642
+],
+  "geometry": {"coordinates":[[[-73.94888212877194,40.79020376494645],[-73.95031722211452,40.7912634909713],[-73.94972575772104,40.79178822837642],[-73.94842098330787,40.7908311145613],[-73.94857081348324,40.79047764658552],[-73.94888212877194,40.79020376494645]]],"type":"Polygon"}
+}

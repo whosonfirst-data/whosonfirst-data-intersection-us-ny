@@ -1,0 +1,66 @@
+{
+  "id": 1108913475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18613.758279,
+    "geom:bbox":"-73.9758568793,40.7349617852,-73.9724925044,40.7361987134",
+    "geom:latitude":40.735763,
+    "geom:longitude":-73.974539,
+    "intersection:latitude":40.735391,
+    "intersection:longitude":-73.974912,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.735391,
+    "reversegeo:longitude":-73.974912,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189665,
+        85868041,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818218,
+    "wof:geomhash":"bd8355013a4fa296fc7aaf80cbc1e028",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913475,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907189665,
+            "neighbourhood_id":85868041,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913475,
+    "wof:lastmodified":1490900153,
+    "wof:name":"E 23rd St  & F D R Dr",
+    "wof:parent_id":907189665,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97585687925238,
+    40.73496178517505,
+    -73.97249250439256,
+    40.73619871340676
+],
+  "geometry": {"coordinates":[[[-73.97585687925238,40.73496178517505],[-73.97545109866552,40.73619871340676],[-73.97297977426226,40.73616081203092],[-73.97249250439256,40.73605070114514],[-73.97585687925238,40.73496178517505]]],"type":"Polygon"}
+}

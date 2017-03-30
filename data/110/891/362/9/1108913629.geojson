@@ -1,0 +1,64 @@
+{
+  "id": 1108913629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5945.907322,
+    "geom:bbox":"-74.0004307656,40.7161667778,-73.9992073525,40.7171186758",
+    "geom:latitude":40.716658,
+    "geom:longitude":-73.999857,
+    "intersection:latitude":40.716544,
+    "intersection:longitude":-73.999932,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.716544,
+    "reversegeo:longitude":-73.999932,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818229,
+    "wof:geomhash":"1959175ad0c864d3db1622739cb3a7d5",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913629,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913629,
+    "wof:lastmodified":1490900161,
+    "wof:name":"White St  & Baxter St",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00043076559979,
+    40.71616677779974,
+    -73.99920735250778,
+    40.71711867578109
+],
+  "geometry": {"coordinates":[[[-73.99969229885002,40.71616677779974],[-74.00043076559979,40.71660899916731],[-74.00024452943306,40.71703647389199],[-73.99998614630215,40.71711867578109],[-73.99920735250778,40.71664010402196],[-73.99969229885002,40.71616677779974]]],"type":"Polygon"}
+}

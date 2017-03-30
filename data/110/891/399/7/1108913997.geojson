@@ -1,0 +1,64 @@
+{
+  "id": 1108913997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15891.360402,
+    "geom:bbox":"-73.9975423554,40.714184869,-73.9956733506,40.7158104288",
+    "geom:latitude":40.715118,
+    "geom:longitude":-73.996569,
+    "intersection:latitude":40.715037,
+    "intersection:longitude":-73.996806,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.715037,
+    "reversegeo:longitude":-73.996806,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818244,
+    "wof:geomhash":"ee7016a0b3f29fd5924e9ff1311022c9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913997,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913997,
+    "wof:lastmodified":1490900146,
+    "wof:name":"Bowery  & Bayard St",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99754235536824,
+    40.71418486900625,
+    -73.99567335055183,
+    40.71581042877029
+],
+  "geometry": {"coordinates":[[[-73.99600752312452,40.71418486900625],[-73.99746371603868,40.71517883362067],[-73.99754235536824,40.71563509010823],[-73.99751382102274,40.71571576187363],[-73.99671393892973,40.71581042877029],[-73.99578443837835,40.71522939369759],[-73.99567335055183,40.71497832707136],[-73.99600752312452,40.71418486900625]]],"type":"Polygon"}
+}

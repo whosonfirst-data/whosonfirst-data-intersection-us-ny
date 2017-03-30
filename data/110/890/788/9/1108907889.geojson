@@ -1,0 +1,64 @@
+{
+  "id": 1108907889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19487.18911,
+    "geom:bbox":"-73.996191533,40.733840066,-73.9936203829,40.7359950478",
+    "geom:latitude":40.734902,
+    "geom:longitude":-73.994896,
+    "intersection:latitude":40.734672,
+    "intersection:longitude":-73.994585,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.734672,
+    "reversegeo:longitude":-73.994585,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529189,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817941,
+    "wof:geomhash":"323ed893604ba255f4696881700dab31",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907889,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":420529189,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907889,
+    "wof:lastmodified":1490900165,
+    "wof:name":"E 12th St  & W 12th St",
+    "wof:parent_id":420529189,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99619153302031,
+    40.73384006602474,
+    -73.9936203829052,
+    40.7359950477662
+],
+  "geometry": {"coordinates":[[[-73.99411373252426,40.73384006602474],[-73.99619153302031,40.73535445039881],[-73.9957275880474,40.7359950477662],[-73.99362038290521,40.73445984526791],[-73.99373234556985,40.73419217985765],[-73.99411373252426,40.73384006602474]]],"type":"Polygon"}
+}

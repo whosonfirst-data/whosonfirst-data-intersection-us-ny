@@ -1,0 +1,62 @@
+{
+  "id": 1108909893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":44284.687339,
+    "geom:bbox":"-73.967986676,40.786225827,-73.9625286939,40.7902997946",
+    "geom:latitude":40.788195,
+    "geom:longitude":-73.965294,
+    "intersection:latitude":40.789108,
+    "intersection:longitude":-73.966552,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.789108,
+    "reversegeo:longitude":-73.966552,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818042,
+    "wof:geomhash":"f4555097d0945e6de83a2ced13aa2466",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909893,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909893,
+    "wof:lastmodified":1490900165,
+    "wof:name":"W 92nd St  & Central Park W",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96798667596495,
+    40.78622582704293,
+    -73.9625286939485,
+    40.79029979461389
+],
+  "geometry": {"coordinates":[[[-73.96292797490624,40.78622582704293],[-73.96331667988306,40.78628146421902],[-73.96798667596495,40.78966573353157],[-73.96795879241579,40.78973236770333],[-73.96752414722336,40.79029979461389],[-73.9625286939485,40.7866449741668],[-73.96262144380762,40.78649698167701],[-73.9627636785719,40.78630666293906],[-73.96292797490624,40.78622582704293]]],"type":"Polygon"}
+}

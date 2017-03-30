@@ -1,0 +1,64 @@
+{
+  "id": 1108909045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14781.483345,
+    "geom:bbox":"-73.9957844384,40.7149783271,-73.9943899138,40.7167495141",
+    "geom:latitude":40.71582,
+    "geom:longitude":-73.995084,
+    "intersection:latitude":40.715856,
+    "intersection:longitude":-73.994955,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.715856,
+    "reversegeo:longitude":-73.994955,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817991,
+    "wof:geomhash":"75f54d6483337e1e4a4cb36378e6fef1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909045,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909045,
+    "wof:lastmodified":1490900162,
+    "wof:name":"Chrystie St  & Canal St",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99578443837835,
+    40.71497832707136,
+    -73.99438991382829,
+    40.71674951408311
+],
+  "geometry": {"coordinates":[[[-73.99567335055183,40.71497832707136],[-73.99578443837835,40.71522939369759],[-73.99534620001896,40.71651613611455],[-73.9946455737547,40.71674951408311],[-73.99438991382829,40.71638981317769],[-73.99485803294111,40.71503525574484],[-73.99567335055183,40.71497832707136]]],"type":"Polygon"}
+}

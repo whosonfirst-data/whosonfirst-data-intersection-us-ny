@@ -1,0 +1,66 @@
+{
+  "id": 1108909321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18129.941268,
+    "geom:bbox":"-73.9689500511,40.7511352398,-73.9664462333,40.7532804073",
+    "geom:latitude":40.75222,
+    "geom:longitude":-73.967872,
+    "intersection:latitude":40.752041,
+    "intersection:longitude":-73.967698,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.752041,
+    "reversegeo:longitude":-73.967698,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215757,
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818012,
+    "wof:geomhash":"7b9c8a6e748cb92cc06cc7b5de7e63c2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909321,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907215757,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909321,
+    "wof:lastmodified":1490900173,
+    "wof:name":"1st Ave  & E 47th St",
+    "wof:parent_id":907215757,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96895005111847,
+    40.75113523982184,
+    -73.96644623325994,
+    40.75328040733644
+],
+  "geometry": {"coordinates":[[[-73.96644623325994,40.75113523982184],[-73.96895005111847,40.75215902312399],[-73.96873864939919,40.75264184876259],[-73.9682108835554,40.75321962400411],[-73.96810593733315,40.75328040733644],[-73.96644623325994,40.75113523982184]]],"type":"Polygon"}
+}

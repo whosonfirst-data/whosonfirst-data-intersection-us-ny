@@ -1,0 +1,79 @@
+{
+  "id": 1108907101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13074.531368,
+    "geom:bbox":"-73.9877848637,40.7445183677,-73.9859715247,40.7462347475",
+    "geom:latitude":40.745345,
+    "geom:longitude":-73.986894,
+    "intersection:latitude":40.745301,
+    "intersection:longitude":-73.986846,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.745301,
+    "reversegeo:longitude":-73.986846,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543,
+        85865709,
+        404478137,
+        85975297,
+        102080719,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817904,
+    "wof:geomhash":"c03a141cdd4e382fe142b64d9275e402",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907101,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "intersection_id":1108907101,
+            "localadmin_id":404478137,
+            "locality_id":85975297,
+            "neighbourhood_id":85865709,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":1108907101,
+    "wof:lastmodified":1490900180,
+    "wof:name":"W 29th St  & E 29th St",
+    "wof:parent_id":-1,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98778486366609,
+    40.74451836773444,
+    -73.98597152468939,
+    40.74623474747693
+],
+  "geometry": {"coordinates":[[[-73.98642406001684,40.74451836773444],[-73.98778486366609,40.74551204018913],[-73.98748682378859,40.74622003695936],[-73.98747319411851,40.74623474747693],[-73.98597152468939,40.74513755997465],[-73.98611706862896,40.74479140725189],[-73.98642406001684,40.74451836773444]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108908777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":41915.037015,
+    "geom:bbox":"-73.945447844,40.7802277868,-73.9401665268,40.7817783746",
+    "geom:latitude":40.781012,
+    "geom:longitude":-73.943288,
+    "intersection:latitude":40.780553,
+    "intersection:longitude":-73.944265,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.780553,
+    "reversegeo:longitude":-73.944265,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817980,
+    "wof:geomhash":"9dcf9cd0d9959c2a4d8db02669a1f059",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908777,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908777,
+    "wof:lastmodified":1490900173,
+    "wof:name":"F D R Dr  & E 93rd St",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94544784399302,
+    40.78022778684249,
+    -73.94016652679929,
+    40.78177837457741
+],
+  "geometry": {"coordinates":[[[-73.9449143298846,40.78022778684249],[-73.94544784399302,40.78029043433248],[-73.94544553125716,40.78032913522163],[-73.94514014365684,40.78107599401874],[-73.94444326216305,40.78177837457741],[-73.94049585607628,40.78124703587673],[-73.94016652679929,40.78100977793914],[-73.9449143298846,40.78022778684249]]],"type":"Polygon"}
+}

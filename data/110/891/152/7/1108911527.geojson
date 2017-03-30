@@ -1,0 +1,64 @@
+{
+  "id": 1108911527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13035.977454,
+    "geom:bbox":"-73.9838433275,40.7469596915,-73.9820862551,40.7485655823",
+    "geom:latitude":40.747765,
+    "geom:longitude":-73.982959,
+    "intersection:latitude":40.747765,
+    "intersection:longitude":-73.982957,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.747765,
+    "reversegeo:longitude":-73.982957,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818127,
+    "wof:geomhash":"673f62eabd7f7f4a8583c41f39f471a3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911527,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911527,
+    "wof:lastmodified":1490900159,
+    "wof:name":"E 34th St  & Madison Ave",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98384332754436,
+    40.74695969147289,
+    -73.98208625513918,
+    40.74856558234558
+],
+  "geometry": {"coordinates":[[[-73.9825524767745,40.74695969147289],[-73.98384332754436,40.74790025140414],[-73.98367483622989,40.74830098074701],[-73.98335868579443,40.74856558234558],[-73.98208625513918,40.74764225935137],[-73.98225508131297,40.74720766810402],[-73.9825524767745,40.74695969147289]]],"type":"Polygon"}
+}

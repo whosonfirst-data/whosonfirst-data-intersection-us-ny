@@ -1,0 +1,64 @@
+{
+  "id": 1108908293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14784.109999,
+    "geom:bbox":"-73.9670031463,40.7611777446,-73.964963578,40.7629661211",
+    "geom:latitude":40.762078,
+    "geom:longitude":-73.965988,
+    "intersection:latitude":40.76218,
+    "intersection:longitude":-73.966128,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.76218,
+    "reversegeo:longitude":-73.966128,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817961,
+    "wof:geomhash":"0cc7349854bb5119a82617278dc0ab27",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908293,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908293,
+    "wof:lastmodified":1490900169,
+    "wof:name":"3rd Ave  & E 60th St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9670031462664,
+    40.7611777446465,
+    -73.96496357797133,
+    40.76296612107143
+],
+  "geometry": {"coordinates":[[[-73.96540555634724,40.7611777446465],[-73.96700314626641,40.76233523415798],[-73.96685145262366,40.76269672169119],[-73.96654531696429,40.76296612107143],[-73.96496357797133,40.76180702273739],[-73.96506353035892,40.76157017674188],[-73.96540555634724,40.7611777446465]]],"type":"Polygon"}
+}

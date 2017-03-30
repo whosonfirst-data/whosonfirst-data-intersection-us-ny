@@ -1,0 +1,64 @@
+{
+  "id": 1108908787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10060.670792,
+    "geom:bbox":"-73.9978743173,40.7185815232,-73.9966961708,40.7200712739",
+    "geom:latitude":40.719306,
+    "geom:longitude":-73.997288,
+    "intersection:latitude":40.719324,
+    "intersection:longitude":-73.997303,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.719324,
+    "reversegeo:longitude":-73.997303,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85830947,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817981,
+    "wof:geomhash":"87a3a4dc7d42f5c29279c473c7fb11c9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908787,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85830947,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908787,
+    "wof:lastmodified":1490900182,
+    "wof:name":"Grand St  & Mulberry St",
+    "wof:parent_id":85830947,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99787431734943,
+    40.71858152320159,
+    -73.99669617079913,
+    40.72007127391826
+],
+  "geometry": {"coordinates":[[[-73.99732090135836,40.71858152320159],[-73.99787431734943,40.7188795894472],[-73.99746596680401,40.72007127391826],[-73.99669617079913,40.71976687532869],[-73.997082006512,40.7186135620565],[-73.99732090135836,40.71858152320159]]],"type":"Polygon"}
+}

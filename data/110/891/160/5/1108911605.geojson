@@ -1,0 +1,64 @@
+{
+  "id": 1108911605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19281.760563,
+    "geom:bbox":"-73.9483032136,40.7748686937,-73.9458256332,40.7769495627",
+    "geom:latitude":40.775907,
+    "geom:longitude":-73.947094,
+    "intersection:latitude":40.775929,
+    "intersection:longitude":-73.947122,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.775929,
+    "reversegeo:longitude":-73.947122,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818131,
+    "wof:geomhash":"469525a2e55a9555d1d43818887ea171",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911605,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911605,
+    "wof:lastmodified":1490900160,
+    "wof:name":"E 86th St  & York Ave",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94830321356486,
+    40.7748686936809,
+    -73.94582563323603,
+    40.77694956266056
+],
+  "geometry": {"coordinates":[[[-73.94639502247823,40.7748686936809],[-73.94830321356486,40.77627120016043],[-73.94819310369489,40.77653304538445],[-73.94780833460706,40.77694956266056],[-73.94582563323603,40.77549851899054],[-73.94639502247823,40.7748686936809]]],"type":"Polygon"}
+}

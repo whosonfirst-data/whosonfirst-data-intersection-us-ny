@@ -1,0 +1,64 @@
+{
+  "id": 1108908773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6239.147897,
+    "geom:bbox":"-74.0068596926,40.7182423153,-74.005837606,40.719407618",
+    "geom:latitude":40.718788,
+    "geom:longitude":-74.006364,
+    "intersection:latitude":40.718972,
+    "intersection:longitude":-74.006512,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.718972,
+    "reversegeo:longitude":-74.006512,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817980,
+    "wof:geomhash":"b8217c79193272797b607ae1be11974f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908773,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908773,
+    "wof:lastmodified":1490900173,
+    "wof:name":"Franklin St  & W Broadway",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00685969259526,
+    40.71824231527456,
+    -74.00583760604346,
+    40.71940761802615
+],
+  "geometry": {"coordinates":[[[-74.00628945322153,40.71824231527456],[-74.00685969259526,40.71867993140845],[-74.00659738750065,40.7193983089095],[-74.00657208177377,40.71940761802615],[-74.00583912274016,40.71882109583966],[-74.00583760604346,40.71875957770243],[-74.00606699692764,40.71836866014263],[-74.00628945322153,40.71824231527456]]],"type":"Polygon"}
+}

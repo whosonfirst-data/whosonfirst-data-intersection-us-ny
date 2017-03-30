@@ -1,0 +1,64 @@
+{
+  "id": 1108907205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7996.844202,
+    "geom:bbox":"-73.9396086507,40.8001084692,-73.9385165848,40.8013903915",
+    "geom:latitude":40.800765,
+    "geom:longitude":-73.939104,
+    "intersection:latitude":40.800911,
+    "intersection:longitude":-73.939095,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.800911,
+    "reversegeo:longitude":-73.939095,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817907,
+    "wof:geomhash":"63761d2088788f1805f99eb9e70d1b0a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907205,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907205,
+    "wof:lastmodified":1490900173,
+    "wof:name":"Sylvan Pl  & E 120th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93960865067402,
+    40.80010846918859,
+    -73.9385165847959,
+    40.80139039154417
+],
+  "geometry": {"coordinates":[[[-73.93945186519133,40.80010846918859],[-73.93960865067402,40.80060097047885],[-73.93929719113983,40.801340971051],[-73.93906424558605,40.80139039154417],[-73.93851658479591,40.8009545707209],[-73.93872708822353,40.80045534688134],[-73.93945186519133,40.80010846918859]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108909007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13253.89487,
+    "geom:bbox":"-73.9892791579,40.7288502447,-73.9881050834,40.7304519592",
+    "geom:latitude":40.729698,
+    "geom:longitude":-73.988688,
+    "intersection:latitude":40.729906,
+    "intersection:longitude":-73.988913,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.729906,
+    "reversegeo:longitude":-73.988913,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817990,
+    "wof:geomhash":"9fbbd9a240ea1dc591a7b66ba3bc7d78",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909007,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909007,
+    "wof:lastmodified":1490900172,
+    "wof:name":"E 9th St  & Stuyvesant St",
+    "wof:parent_id":85816887,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98927915789083,
+    40.72885024467751,
+    -73.98810508339784,
+    40.73045195920553
+],
+  "geometry": {"coordinates":[[[-73.98874754939439,40.72885024467751],[-73.98925762565254,40.72922626783642],[-73.98927915789083,40.72981481568328],[-73.98908687842493,40.73029678491719],[-73.98816820166006,40.73045195920553],[-73.98810508339784,40.72948081287395],[-73.98814292733734,40.72939208632674],[-73.98869033862032,40.72887390371638],[-73.98874754939439,40.72885024467751]]],"type":"Polygon"}
+}

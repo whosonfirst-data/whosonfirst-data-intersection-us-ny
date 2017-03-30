@@ -1,0 +1,64 @@
+{
+  "id": 1108908931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7050.378132,
+    "geom:bbox":"-74.0034370762,40.7164751944,-74.0023852569,40.7176073221",
+    "geom:latitude":40.717029,
+    "geom:longitude":-74.002945,
+    "intersection:latitude":40.717148,
+    "intersection:longitude":-74.002919,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.717148,
+    "reversegeo:longitude":-74.002919,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817987,
+    "wof:geomhash":"98ed9ef418ef79b3b46e0a64dbe372f3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908931,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908931,
+    "wof:lastmodified":1490900166,
+    "wof:name":"Franklin St  & Cortlandt Aly",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00343707618644,
+    40.71647519443214,
+    -74.00238525693682,
+    40.71760732209491
+],
+  "geometry": {"coordinates":[[[-74.00333880294281,40.71647519443214],[-74.00343707618644,40.71686793262961],[-74.00309235934134,40.71757110918411],[-74.00284200551704,40.71760732209491],[-74.00238525693682,40.71716788708903],[-74.00261131230853,40.7167119816511],[-74.00321685601371,40.71648592035062],[-74.00333880294281,40.71647519443214]]],"type":"Polygon"}
+}

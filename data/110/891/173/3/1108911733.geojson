@@ -1,0 +1,64 @@
+{
+  "id": 1108911733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20372.605174,
+    "geom:bbox":"-73.9928507557,40.7436501978,-73.9901831093,40.7459920441",
+    "geom:latitude":40.744844,
+    "geom:longitude":-73.991483,
+    "intersection:latitude":40.744802,
+    "intersection:longitude":-73.991419,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.744802,
+    "reversegeo:longitude":-73.991419,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818136,
+    "wof:geomhash":"55b13b9a8436ad50b9b335eae012cfd2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911733,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911733,
+    "wof:lastmodified":1490900150,
+    "wof:name":"Ave of the Americas  & W 26th St",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99285075574743,
+    40.74365019782395,
+    -73.9901831092715,
+    40.74599204414791
+],
+  "geometry": {"coordinates":[[[-73.99049503951233,40.74365019782395],[-73.99285075574743,40.74537874285364],[-73.99282994956113,40.74542795415787],[-73.99240205172404,40.74599204414791],[-73.9901831092715,40.74437533486501],[-73.99047576409677,40.74367482510434],[-73.99049503951233,40.74365019782395]]],"type":"Polygon"}
+}

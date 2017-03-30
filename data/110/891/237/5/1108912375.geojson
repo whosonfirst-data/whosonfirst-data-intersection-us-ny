@@ -1,0 +1,64 @@
+{
+  "id": 1108912375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6780.663163,
+    "geom:bbox":"-74.0009728524,40.7293831589,-73.999895812,40.730450864",
+    "geom:latitude":40.729809,
+    "geom:longitude":-74.000418,
+    "intersection:latitude":40.729988,
+    "intersection:longitude":-74.000499,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.729988,
+    "reversegeo:longitude":-74.000499,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529189,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818168,
+    "wof:geomhash":"5f04ba23c7f9de8c02688de792970f26",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912375,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":420529189,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912375,
+    "wof:lastmodified":1490900160,
+    "wof:name":"Macdougal St  & Minetta Ln",
+    "wof:parent_id":420529189,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00097285243055,
+    40.72938315893629,
+    -73.9998958119709,
+    40.73045086397941
+],
+  "geometry": {"coordinates":[[[-74.00061328484479,40.72938315893629],[-74.00097285243055,40.72968616040185],[-74.00059417004472,40.73045086397941],[-73.99992428494723,40.72988206514664],[-73.9998958119709,40.72942161644377],[-74.00061328484479,40.72938315893629]]],"type":"Polygon"}
+}

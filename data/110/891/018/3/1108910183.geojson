@@ -1,0 +1,64 @@
+{
+  "id": 1108910183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21770.919999,
+    "geom:bbox":"-73.9955911362,40.7397413138,-73.9925826437,40.7422046606",
+    "geom:latitude":40.740972,
+    "geom:longitude":-73.994085,
+    "intersection:latitude":40.741031,
+    "intersection:longitude":-73.994165,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.741031,
+    "reversegeo:longitude":-73.994165,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869245,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818055,
+    "wof:geomhash":"8dd34fc47f618fbfde56eb3aa4c2fc34",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910183,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85869245,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910183,
+    "wof:lastmodified":1490900146,
+    "wof:name":"Ave of the Americas  & W 20th St",
+    "wof:parent_id":85869245,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99559113620877,
+    40.73974131376359,
+    -73.9925826436984,
+    40.74220466058193
+],
+  "geometry": {"coordinates":[[[-73.9930094563242,40.73974131376359],[-73.99559113620877,40.74161730525868],[-73.99558419594625,40.74163378330888],[-73.99516342511973,40.74220466058193],[-73.9925826436984,40.740328529378],[-73.9929580686052,40.73978944780826],[-73.9930094563242,40.73974131376359]]],"type":"Polygon"}
+}

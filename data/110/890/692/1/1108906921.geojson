@@ -1,0 +1,64 @@
+{
+  "id": 1108906921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25421.972556,
+    "geom:bbox":"-73.9882276761,40.7108290502,-73.9857711977,40.7123289005",
+    "geom:latitude":40.71155,
+    "geom:longitude":-73.98694,
+    "intersection:latitude":40.711536,
+    "intersection:longitude":-73.986742,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.711536,
+    "reversegeo:longitude":-73.986742,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817895,
+    "wof:geomhash":"84df2742b8cb07ea20fa6ff9e6d97c96",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906921,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906921,
+    "wof:lastmodified":1490900169,
+    "wof:name":"Clinton St  & Cherry St",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98822767613538,
+    40.71082905018825,
+    -73.98577119773402,
+    40.71232890045223
+],
+  "geometry": {"coordinates":[[[-73.98818311637872,40.71082905018825],[-73.98822767613538,40.71128407678195],[-73.98764261511657,40.71211065934056],[-73.98602122598793,40.71232890045223],[-73.9858241188856,40.71189762337362],[-73.98577119773402,40.7113334300798],[-73.98580791662501,40.7110993621005],[-73.98818311637872,40.71082905018825]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108908139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22359.008143,
+    "geom:bbox":"-74.006047441,40.7458313408,-74.0032081712,40.7482349741",
+    "geom:latitude":40.747032,
+    "geom:longitude":-74.004641,
+    "intersection:latitude":40.747023,
+    "intersection:longitude":-74.004653,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.747023,
+    "reversegeo:longitude":-74.004653,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817952,
+    "wof:geomhash":"786b813201339be7623b75022b949b30",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908139,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908139,
+    "wof:lastmodified":1490900175,
+    "wof:name":"W 22nd St  & 10th Ave",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00604744104756,
+    40.74583134083466,
+    -74.00320817115627,
+    40.74823497405869
+],
+  "geometry": {"coordinates":[[[-74.00367471400511,40.74583134083466],[-74.00604744104756,40.7475659915227],[-74.0059361740707,40.7478318762466],[-74.00561862824152,40.74823497405869],[-74.00320817115627,40.74648224289474],[-74.00324351367775,40.74639835976735],[-74.00367471400511,40.74583134083466]]],"type":"Polygon"}
+}

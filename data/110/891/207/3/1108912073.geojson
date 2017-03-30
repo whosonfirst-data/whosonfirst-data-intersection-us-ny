@@ -1,0 +1,64 @@
+{
+  "id": 1108912073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:area_square_m":65473.376922,
+    "geom:bbox":"-74.026017,40.7343464288,-74.009240701,40.7361634153",
+    "geom:latitude":40.735247,
+    "geom:longitude":-74.016813,
+    "intersection:latitude":40.734589,
+    "intersection:longitude":-74.010043,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.734589,
+    "reversegeo:longitude":-74.010043,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818150,
+    "wof:geomhash":"9fbf60e043af9397854ada547f7f6ed2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912073,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912073,
+    "wof:lastmodified":1490900149,
+    "wof:name":"Lincoln Hwy  & Perry St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.026017,
+    40.73434642881215,
+    -74.00924070104696,
+    40.73616341525402
+],
+  "geometry": {"coordinates":[[[-74.00926571693424,40.73434642881215],[-74.026017,40.73586927272833],[-74.026017,40.73616341525402],[-74.00926409336662,40.73488565118898],[-74.00924070104696,40.73469955486373],[-74.00926571693424,40.73434642881215]]],"type":"Polygon"}
+}

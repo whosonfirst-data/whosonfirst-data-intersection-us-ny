@@ -1,0 +1,64 @@
+{
+  "id": 1108911623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7009.669939,
+    "geom:bbox":"-73.984201186,40.7154770747,-73.9831645702,40.7165942633",
+    "geom:latitude":40.716022,
+    "geom:longitude":-73.983687,
+    "intersection:latitude":40.716115,
+    "intersection:longitude":-73.983619,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.716115,
+    "reversegeo:longitude":-73.983619,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818131,
+    "wof:geomhash":"564acb47efb096498cceafa7d9b939b7",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911623,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911623,
+    "wof:lastmodified":1490900159,
+    "wof:name":"Pitt St  & Broome St",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98420118596144,
+    40.7154770747259,
+    -73.98316457018338,
+    40.71659426333525
+],
+  "geometry": {"coordinates":[[[-73.98367588674013,40.7154770747259],[-73.98420118596144,40.71584797660703],[-73.98401085339252,40.71647354996075],[-73.98384551145773,40.71659426333525],[-73.98316457018338,40.71622929840764],[-73.98337048906322,40.71554967772693],[-73.98367588674013,40.7154770747259]]],"type":"Polygon"}
+}

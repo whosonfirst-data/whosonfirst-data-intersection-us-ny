@@ -1,0 +1,64 @@
+{
+  "id": 1108907265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":111389.707498,
+    "geom:bbox":"-73.9250621742,40.8548227088,-73.9199527845,40.8605663405",
+    "geom:latitude":40.858137,
+    "geom:longitude":-73.922505,
+    "intersection:latitude":40.858914,
+    "intersection:longitude":-73.922958,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.858914,
+    "reversegeo:longitude":-73.922958,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212535,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817910,
+    "wof:geomhash":"dc233fb672b098de6381a0edb926f3d8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907265,
+            "locality_id":85977539,
+            "microhood_id":907212535,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907265,
+    "wof:lastmodified":1490900171,
+    "wof:name":"Dyckman St  & Harlem River Dr",
+    "wof:parent_id":907212535,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9250621742191,
+    40.85482270878978,
+    -73.91995278452733,
+    40.86056634054564
+],
+  "geometry": {"coordinates":[[[-73.91995278452733,40.85482270878978],[-73.92506217421909,40.85872221659152],[-73.92486751264194,40.85944567728798],[-73.92475327781314,40.85957769280441],[-73.9244555855075,40.85983443335024],[-73.92420187215137,40.86001976868728],[-73.92338078886638,40.86056634054564],[-73.92129548653091,40.8590691403295],[-73.91995278452733,40.85482270878978]]],"type":"Polygon"}
+}

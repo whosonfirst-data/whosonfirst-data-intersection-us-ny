@@ -1,0 +1,64 @@
+{
+  "id": 1108908215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18221.939866,
+    "geom:bbox":"-73.9511179255,40.7711526077,-73.9487194029,40.773072524",
+    "geom:latitude":40.77206,
+    "geom:longitude":-73.949934,
+    "intersection:latitude":40.772073,
+    "intersection:longitude":-73.949937,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.772073,
+    "reversegeo:longitude":-73.949937,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817955,
+    "wof:geomhash":"cf2dcf852800e8087f644ddad34512f8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908215,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908215,
+    "wof:lastmodified":1490900176,
+    "wof:name":"E 80th St  & York Ave",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95111792548906,
+    40.77115260768741,
+    -73.94871940293493,
+    40.77307252399302
+],
+  "geometry": {"coordinates":[[[-73.94939253502574,40.77115260768741],[-73.95111792548906,40.77241249691139],[-73.95101541971934,40.77265593458412],[-73.95064594736567,40.77307252399302],[-73.94871940293493,40.77167388307561],[-73.94881732048306,40.77144185891576],[-73.94898970720391,40.77125047782722],[-73.94939253502574,40.77115260768741]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108907617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20384.781044,
+    "geom:bbox":"-74.0016980091,40.7416617219,-73.9988506328,40.7440148774",
+    "geom:latitude":40.742838,
+    "geom:longitude":-74.000274,
+    "intersection:latitude":40.742839,
+    "intersection:longitude":-74.000275,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.742839,
+    "reversegeo:longitude":-74.000275,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817930,
+    "wof:geomhash":"915a529ed1f6d0ffd6db760f9296845f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907617,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907617,
+    "wof:lastmodified":1490900181,
+    "wof:name":"8th Ave  & W 19th St",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0016980090509,
+    40.74166172192511,
+    -73.99885063275612,
+    40.74401487743675
+],
+  "geometry": {"coordinates":[[[-73.99927966548177,40.74166172192511],[-74.0016980090509,40.74343103995518],[-74.00169005278596,40.74344993941059],[-74.00127313039332,40.74401487743675],[-73.99885063275612,40.74224967864651],[-73.99885781916291,40.74223262218725],[-73.99927966548177,40.74166172192511]]],"type":"Polygon"}
+}

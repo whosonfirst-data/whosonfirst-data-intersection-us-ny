@@ -1,0 +1,62 @@
+{
+  "id": 1108911225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12327.619393,
+    "geom:bbox":"-73.9827928648,40.7758538728,-73.9809062036,40.7767130532",
+    "geom:latitude":40.776282,
+    "geom:longitude":-73.981844,
+    "intersection:latitude":40.776297,
+    "intersection:longitude":-73.982137,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.776297,
+    "reversegeo:longitude":-73.982137,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818112,
+    "wof:geomhash":"25788836a1931524734b6fdad74a7bf0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911225,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911225,
+    "wof:lastmodified":1490900145,
+    "wof:name":"Broadway  & W 69th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98279286483452,
+    40.7758538727808,
+    -73.98090620359564,
+    40.77671305321361
+],
+  "geometry": {"coordinates":[[[-73.98118443436675,40.7758538727808],[-73.98277582906999,40.77591894840063],[-73.98279286483452,40.77601645855074],[-73.98249738621928,40.77671305321361],[-73.98090620359564,40.77664335184712],[-73.98091916960824,40.77648103909247],[-73.98118443436675,40.7758538727808]]],"type":"Polygon"}
+}

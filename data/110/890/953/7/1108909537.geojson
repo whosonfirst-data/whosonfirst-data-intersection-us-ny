@@ -1,0 +1,66 @@
+{
+  "id": 1108909537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16501.98467,
+    "geom:bbox":"-73.9833712404,40.7268379601,-73.9810339806,40.72882369",
+    "geom:latitude":40.727833,
+    "geom:longitude":-73.982203,
+    "intersection:latitude":40.727846,
+    "intersection:longitude":-73.982228,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.727846,
+    "reversegeo:longitude":-73.982228,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189647,
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818027,
+    "wof:geomhash":"b79497e77135bec3014ddaf8abfd0fa8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909537,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189647,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909537,
+    "wof:lastmodified":1490900168,
+    "wof:name":"Ave A  & E 10th St",
+    "wof:parent_id":907189647,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98337124039233,
+    40.72683796012269,
+    -73.98103398057549,
+    40.72882368997949
+],
+  "geometry": {"coordinates":[[[-73.9814667638037,40.72683796012269],[-73.98337124039233,40.72823457628773],[-73.98330066873797,40.72840213679327],[-73.98293734243767,40.72882368997949],[-73.98103398057549,40.72743423582012],[-73.98109633111214,40.72728650322203],[-73.9814667638037,40.72683796012269]]],"type":"Polygon"}
+}

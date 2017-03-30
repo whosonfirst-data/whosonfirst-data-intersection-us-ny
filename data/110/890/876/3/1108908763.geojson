@@ -1,0 +1,66 @@
+{
+  "id": 1108908763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20610.748584,
+    "geom:bbox":"-73.9794863829,40.7407136592,-73.9772390973,40.7426859211",
+    "geom:latitude":40.741653,
+    "geom:longitude":-73.978453,
+    "intersection:latitude":40.741643,
+    "intersection:longitude":-73.978168,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.741643,
+    "reversegeo:longitude":-73.978168,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189665,
+        85868041,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817980,
+    "wof:geomhash":"d9b1eecf6067b5200292b433ac76c690",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908763,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907189665,
+            "neighbourhood_id":85868041,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908763,
+    "wof:lastmodified":1490900172,
+    "wof:name":"2nd Ave  & E 29th St",
+    "wof:parent_id":907189665,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97948638288955,
+    40.74071365921366,
+    -73.97723909728612,
+    40.7426859211248
+],
+  "geometry": {"coordinates":[[[-73.97820398956776,40.74071365921366],[-73.97948638288955,40.74164621563729],[-73.97924793811075,40.74221252198696],[-73.9788350685109,40.7426859211248],[-73.97723909728612,40.74140344424779],[-73.97820398956776,40.74071365921366]]],"type":"Polygon"}
+}

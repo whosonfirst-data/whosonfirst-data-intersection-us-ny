@@ -1,0 +1,66 @@
+{
+  "id": 1108912465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9346.983967,
+    "geom:bbox":"-73.9678860068,40.7524788892,-73.9659660813,40.754051503",
+    "geom:latitude":40.753279,
+    "geom:longitude":-73.966959,
+    "intersection:latitude":40.753244,
+    "intersection:longitude":-73.966616,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.753244,
+    "reversegeo:longitude":-73.966616,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215757,
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818172,
+    "wof:geomhash":"d0db8bb36896a5b81bea27673e0e4333",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912465,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907215757,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912465,
+    "wof:lastmodified":1490900142,
+    "wof:name":"1st Ave  & E 49th St",
+    "wof:parent_id":907215757,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9678860068107,
+    40.75247888915285,
+    -73.96596608129956,
+    40.75405150298386
+],
+  "geometry": {"coordinates":[[[-73.96607852388911,40.75247888915285],[-73.9678860068107,40.75353872732186],[-73.96775800727438,40.75383896059373],[-73.96757571645344,40.75405150298386],[-73.96596608129956,40.75283668399958],[-73.96607852388911,40.75247888915285]]],"type":"Polygon"}
+}

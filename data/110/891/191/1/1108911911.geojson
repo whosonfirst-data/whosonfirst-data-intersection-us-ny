@@ -1,0 +1,64 @@
+{
+  "id": 1108911911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1618.452051,
+    "geom:bbox":"-74.0048529773,40.7304960347,-74.0040670809,40.7309510193",
+    "geom:latitude":40.730723,
+    "geom:longitude":-74.00446,
+    "intersection:latitude":40.730719,
+    "intersection:longitude":-74.00446,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.730719,
+    "reversegeo:longitude":-74.00446,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818143,
+    "wof:geomhash":"953f89adcc75d0a4970e9007e2bd6a87",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911911,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911911,
+    "wof:lastmodified":1490900152,
+    "wof:name":"7th Ave S  & Bedford St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00485297725118,
+    40.73049603474643,
+    -74.00406708091967,
+    40.73095101928966
+],
+  "geometry": {"coordinates":[[[-74.00453216591701,40.73049603474643],[-74.00485297725118,40.73067981611374],[-74.00438899109481,40.73095101928966],[-74.00406708091967,40.73076448454269],[-74.00453216591701,40.73049603474643]]],"type":"Polygon"}
+}

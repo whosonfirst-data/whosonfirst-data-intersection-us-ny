@@ -1,0 +1,64 @@
+{
+  "id": 1108909789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18597.017731,
+    "geom:bbox":"-73.9510922033,40.7751880134,-73.9486917852,40.7772575445",
+    "geom:latitude":40.776225,
+    "geom:longitude":-73.949888,
+    "intersection:latitude":40.776196,
+    "intersection:longitude":-73.949872,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.776196,
+    "reversegeo:longitude":-73.949872,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818039,
+    "wof:geomhash":"0c96e2f1ba413542d930df6aa0392a0e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909789,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909789,
+    "wof:lastmodified":1490900171,
+    "wof:name":"1st Ave  & E 85th St",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95109220329485,
+    40.77518801342335,
+    -73.94869178515691,
+    40.77725754449158
+],
+  "geometry": {"coordinates":[[[-73.94916902137807,40.77518801342335],[-73.95109220329485,40.7766090987954],[-73.95100547273991,40.77681488832854],[-73.95060824147443,40.77725754449158],[-73.94869178515691,40.77585402207079],[-73.94879487506704,40.77561007878873],[-73.94916902137807,40.77518801342335]]],"type":"Polygon"}
+}

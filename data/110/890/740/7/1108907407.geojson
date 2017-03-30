@@ -1,0 +1,62 @@
+{
+  "id": 1108907407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13115.242501,
+    "geom:bbox":"-73.9179946084,40.869575145,-73.9162659137,40.8708766929",
+    "geom:latitude":40.870224,
+    "geom:longitude":-73.91706,
+    "intersection:latitude":40.870148,
+    "intersection:longitude":-73.916973,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.870148,
+    "reversegeo:longitude":-73.916973,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817921,
+    "wof:geomhash":"69da74229e155b22ca880c8dc055c38f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907407,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907407,
+    "wof:lastmodified":1490900173,
+    "wof:name":"Park Ter E  & W 215th St",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9179946083548,
+    40.86957514500664,
+    -73.91626591367846,
+    40.87087669289856
+],
+  "geometry": {"coordinates":[[[-73.91740277317777,40.86957514500664],[-73.9179946083548,40.86986614235023],[-73.91717670634451,40.87086134440919],[-73.91656447215738,40.87087669289856],[-73.91626591367846,40.87046784105298],[-73.91658332621628,40.86981139087371],[-73.91740277317777,40.86957514500664]]],"type":"Polygon"}
+}

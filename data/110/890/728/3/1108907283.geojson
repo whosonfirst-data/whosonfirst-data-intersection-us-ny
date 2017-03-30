@@ -1,0 +1,64 @@
+{
+  "id": 1108907283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20036.956783,
+    "geom:bbox":"-74.0059227082,40.7406945372,-74.0034108805,40.7428071519",
+    "geom:latitude":40.741643,
+    "geom:longitude":-74.004844,
+    "intersection:latitude":40.741642,
+    "intersection:longitude":-74.004861,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.741642,
+    "reversegeo:longitude":-74.004861,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817916,
+    "wof:geomhash":"c69d6ba54cfa297cb016696bb2660ec1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907283,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907283,
+    "wof:lastmodified":1490900171,
+    "wof:name":"9th Ave  & W 15th St",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00592270824681,
+    40.74069453722714,
+    -74.00341088045886,
+    40.74280715185292
+],
+  "geometry": {"coordinates":[[[-74.00399559960523,40.74069453722714],[-74.00591616097482,40.74173457113558],[-74.00592270824681,40.74272087089569],[-74.00585635503275,40.74280715185292],[-74.00341088045886,40.74111207991309],[-74.00346961553137,40.74097274345561],[-74.00352361135748,40.74090591325896],[-74.00399559960523,40.74069453722714]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108908199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7955.68791,
+    "geom:bbox":"-74.0048870872,40.7094431818,-74.0034489078,40.7107782411",
+    "geom:latitude":40.710041,
+    "geom:longitude":-74.004214,
+    "intersection:latitude":40.710166,
+    "intersection:longitude":-74.004253,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.710166,
+    "reversegeo:longitude":-74.004253,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817954,
+    "wof:geomhash":"cb2c29ff98b4774fcc99ec44667d8d96",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908199,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908199,
+    "wof:lastmodified":1490900162,
+    "wof:name":"Gold St  & Spruce St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00488708723125,
+    40.70944318184227,
+    -74.00344890779455,
+    40.71077824108264
+],
+  "geometry": {"coordinates":[[[-74.00412583974249,40.70944318184227],[-74.00488708723125,40.71030673136512],[-74.00443040486334,40.71077824108264],[-74.00344890779455,40.70957621777371],[-74.00412583974249,40.70944318184227]]],"type":"Polygon"}
+}

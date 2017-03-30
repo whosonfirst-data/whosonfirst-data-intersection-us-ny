@@ -1,0 +1,64 @@
+{
+  "id": 1108909403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10506.654354,
+    "geom:bbox":"-74.0091143638,40.7135698685,-74.007508089,40.7150457331",
+    "geom:latitude":40.71431,
+    "geom:longitude":-74.008318,
+    "intersection:latitude":40.714362,
+    "intersection:longitude":-74.008387,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.714362,
+    "reversegeo:longitude":-74.008387,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818017,
+    "wof:geomhash":"dd3cf74245065d56f1ec7f6cb860fbb6",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909403,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909403,
+    "wof:lastmodified":1490900178,
+    "wof:name":"Church St  & Warren St",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0091143638273,
+    40.71356986854791,
+    -74.00750808896795,
+    40.71504573311272
+],
+  "geometry": {"coordinates":[[[-74.00796193055756,40.71356986854791],[-74.00911436382729,40.71447593357446],[-74.00894994676706,40.71484024123873],[-74.00867065147355,40.71504573311272],[-74.00750808896795,40.71412597127198],[-74.00762483730284,40.71386956431071],[-74.00796193055756,40.71356986854791]]],"type":"Polygon"}
+}

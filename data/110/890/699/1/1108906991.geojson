@@ -1,0 +1,62 @@
+{
+  "id": 1108906991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18680.493351,
+    "geom:bbox":"-73.9811852118,40.7742888743,-73.9787714351,40.7764810391",
+    "geom:latitude":40.775359,
+    "geom:longitude":-73.98003,
+    "intersection:latitude":40.775479,
+    "intersection:longitude":-73.980203,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.775479,
+    "reversegeo:longitude":-73.980203,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817899,
+    "wof:geomhash":"32d08690d653ccaaa77faba4a92d0841",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906991,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906991,
+    "wof:lastmodified":1490900173,
+    "wof:name":"Columbus Ave  & W 69th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98118521178581,
+    40.77428887429887,
+    -73.97877143514782,
+    40.77648103909247
+],
+  "geometry": {"coordinates":[[[-73.97922877721092,40.77428887429887],[-73.98118521178581,40.7757148561182],[-73.98118443436675,40.7758538727808],[-73.98091916960824,40.77648103909247],[-73.97877143514782,40.77491562498013],[-73.97880033551391,40.77484728212777],[-73.97922877721092,40.77428887429887]]],"type":"Polygon"}
+}

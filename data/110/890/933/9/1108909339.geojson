@@ -1,0 +1,64 @@
+{
+  "id": 1108909339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17731.965527,
+    "geom:bbox":"-73.9599994743,40.762987137,-73.957612231,40.7650301299",
+    "geom:latitude":40.764008,
+    "geom:longitude":-73.958804,
+    "intersection:latitude":40.76399,
+    "intersection:longitude":-73.958781,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.76399,
+    "reversegeo:longitude":-73.958781,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818012,
+    "wof:geomhash":"cb6ddd8b3e17cddc46c4024912739c5b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909339,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909339,
+    "wof:lastmodified":1490900168,
+    "wof:name":"1st Ave  & E 66th St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95999947431913,
+    40.76298713699357,
+    -73.95761223098316,
+    40.76503012994995
+],
+  "geometry": {"coordinates":[[[-73.95807128754679,40.76298713699357],[-73.95999947431913,40.76440546668665],[-73.95992753095939,40.76457626902616],[-73.95954142821438,40.76503012994995],[-73.95761223098316,40.7636147699398],[-73.95769534873421,40.76341684963503],[-73.95807128754679,40.76298713699357]]],"type":"Polygon"}
+}

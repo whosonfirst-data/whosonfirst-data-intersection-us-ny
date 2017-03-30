@@ -1,0 +1,62 @@
+{
+  "id": 1108907933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":33957.157097,
+    "geom:bbox":"-73.9612962449,40.7845552171,-73.9567563783,40.7876254831",
+    "geom:latitude":40.78621,
+    "geom:longitude":-73.958837,
+    "intersection:latitude":40.785344,
+    "intersection:longitude":-73.957636,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.785344,
+    "reversegeo:longitude":-73.957636,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817943,
+    "wof:geomhash":"2f9b9a3e3ac6e7c90da0e8540eea1979",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907933,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907933,
+    "wof:lastmodified":1490900173,
+    "wof:name":"5th Ave  & E 92nd St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.961296244861,
+    40.78455521711048,
+    -73.95675637831117,
+    40.78762548310277
+],
+  "geometry": {"coordinates":[[[-73.95721852154601,40.78455521711048],[-73.961296244861,40.78755162721418],[-73.96120188511379,40.78762548310277],[-73.95998339948393,40.7875541024389],[-73.95675637831117,40.78519065031242],[-73.9569079481424,40.78482971621875],[-73.95721852154601,40.78455521711048]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108906979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11712.782546,
+    "geom:bbox":"-73.9426141259,40.8419657169,-73.9406613866,40.8434009907",
+    "geom:latitude":40.842646,
+    "geom:longitude":-73.941666,
+    "intersection:latitude":40.84281,
+    "intersection:longitude":-73.942013,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.84281,
+    "reversegeo:longitude":-73.942013,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817899,
+    "wof:geomhash":"3c399d0a4151f14a664bc0146912877d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906979,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906979,
+    "wof:lastmodified":1490900177,
+    "wof:name":"W 169th St  & Fort Washington Ave",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9426141258802,
+    40.84196571690573,
+    -73.94066138657904,
+    40.84340099065383
+],
+  "geometry": {"coordinates":[[[-73.94087276048921,40.84196571690573],[-73.9426141258802,40.84267181933556],[-73.94232509872619,40.84337438925824],[-73.94228256765155,40.84340099065383],[-73.94066138657904,40.84242104228616],[-73.94069073783287,40.842204596409],[-73.9406932793012,40.842198565768],[-73.94087276048921,40.84196571690573]]],"type":"Polygon"}
+}

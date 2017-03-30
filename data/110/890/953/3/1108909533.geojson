@@ -1,0 +1,64 @@
+{
+  "id": 1108909533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":4751.928524,
+    "geom:bbox":"-74.0092657169,40.7342367639,-74.0077851932,40.7346995549",
+    "geom:latitude":40.734466,
+    "geom:longitude":-74.008535,
+    "intersection:latitude":40.734477,
+    "intersection:longitude":-74.008462,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.734477,
+    "reversegeo:longitude":-74.008462,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818026,
+    "wof:geomhash":"c0532af1829bc0a9c6089e58dc5532c5",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909533,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909533,
+    "wof:lastmodified":1490900168,
+    "wof:name":"Washington St  & Charles Ln",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00926571693424,
+    40.73423676393772,
+    -74.00778519318924,
+    40.73469955486373
+],
+  "geometry": {"coordinates":[[[-74.00783284786712,40.73423676393772],[-74.00926554879207,40.73434524520879],[-74.00926571693424,40.73434642881215],[-74.00924070104696,40.73469955486373],[-74.00778519318924,40.73457903510486],[-74.00783284786712,40.73423676393772]]],"type":"Polygon"}
+}

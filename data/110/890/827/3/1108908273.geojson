@@ -1,0 +1,62 @@
+{
+  "id": 1108908273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":29940.041436,
+    "geom:bbox":"-73.9623338352,40.7820499461,-73.9585908961,40.7854217049",
+    "geom:latitude":40.783573,
+    "geom:longitude":-73.960441,
+    "intersection:latitude":40.782833,
+    "intersection:longitude":-73.959469,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.782833,
+    "reversegeo:longitude":-73.959469,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817958,
+    "wof:geomhash":"dd5088b84037ec321063ccb330e5cca0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908273,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908273,
+    "wof:lastmodified":1490900180,
+    "wof:name":"5th Ave  & E 88th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96233383522565,
+    40.78204994606084,
+    -73.95859089614063,
+    40.78542170485793
+],
+  "geometry": {"coordinates":[[[-73.95904612070292,40.78204994606084],[-73.96184857507969,40.78409302570325],[-73.96233383522565,40.78542170485793],[-73.95859089614063,40.78267648928296],[-73.95873977858098,40.78232067797462],[-73.95904612070292,40.78204994606084]]],"type":"Polygon"}
+}

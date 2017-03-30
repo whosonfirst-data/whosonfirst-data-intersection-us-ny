@@ -1,0 +1,66 @@
+{
+  "id": 1108908161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22329.859676,
+    "geom:bbox":"-73.994421628,40.7516449472,-73.991544667,40.7540404742",
+    "geom:latitude":40.752842,
+    "geom:longitude":-73.992985,
+    "intersection:latitude":40.752854,
+    "intersection:longitude":-73.992979,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.752854,
+    "reversegeo:longitude":-73.992979,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212749,
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817953,
+    "wof:geomhash":"2a81533553e3fd0250661c4b4edaad3d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908161,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907212749,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908161,
+    "wof:lastmodified":1490900182,
+    "wof:name":"W 35th St  & 8th Ave",
+    "wof:parent_id":907212749,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99442162803867,
+    40.75164494719169,
+    -73.99154466699126,
+    40.75404047424026
+],
+  "geometry": {"coordinates":[[[-73.99202075141302,40.75164494719169],[-73.99442162803867,40.75339859954637],[-73.9943821149033,40.75349178222716],[-73.99395840915508,40.75404047424026],[-73.99154466699126,40.75228467147267],[-73.99157813496133,40.75220499249789],[-73.99202075141302,40.75164494719169]]],"type":"Polygon"}
+}

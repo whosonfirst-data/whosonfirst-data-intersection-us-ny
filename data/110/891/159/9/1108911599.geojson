@@ -1,0 +1,62 @@
+{
+  "id": 1108911599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7558.165245,
+    "geom:bbox":"-74.017224168,40.6877694891,-74.0155358929,40.6887222864",
+    "geom:latitude":40.688288,
+    "geom:longitude":-74.016423,
+    "intersection:latitude":40.688324,
+    "intersection:longitude":-74.016653,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.688324,
+    "reversegeo:longitude":-74.016653,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907131741,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818131,
+    "wof:geomhash":"b0bf20e5aac6bc0390f5e40dee277923",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911599,
+            "locality_id":85977539,
+            "neighbourhood_id":907131741,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911599,
+    "wof:lastmodified":1490900134,
+    "wof:name":"Comfort Rd  & Clayton Rd",
+    "wof:parent_id":907131741,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01722416796166,
+    40.68776948908072,
+    -74.01553589291294,
+    40.68872228639749
+],
+  "geometry": {"coordinates":[[[-74.01698304192659,40.68776948908072],[-74.01711882061269,40.68784046970734],[-74.01722416796166,40.68800507494009],[-74.01679210461315,40.68854128385144],[-74.01553589291294,40.68872228639749],[-74.01554512516068,40.68865864216473],[-74.01568256284783,40.68833165582946],[-74.01698304192659,40.68776948908072]]],"type":"Polygon"}
+}

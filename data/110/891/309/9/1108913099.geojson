@@ -1,0 +1,64 @@
+{
+  "id": 1108913099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21408.690825,
+    "geom:bbox":"-73.9657371323,40.801179741,-73.9628738809,40.8035578772",
+    "geom:latitude":40.802367,
+    "geom:longitude":-73.964309,
+    "intersection:latitude":40.802373,
+    "intersection:longitude":-73.964301,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.802373,
+    "reversegeo:longitude":-73.964301,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214381,
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818199,
+    "wof:geomhash":"1d00f599253b4e652ce0f65db879c3dc",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913099,
+            "locality_id":85977539,
+            "microhood_id":907214381,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913099,
+    "wof:lastmodified":1490900142,
+    "wof:name":"Amsterdam Ave  & W 109th St",
+    "wof:parent_id":907214381,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96573713226076,
+    40.80117974096437,
+    -73.96287388090128,
+    40.80355787715458
+],
+  "geometry": {"coordinates":[[[-73.96332259649127,40.80117974096437],[-73.96573713226076,40.80293333577168],[-73.96571588555857,40.80298384780593],[-73.96528632026265,40.80355787715458],[-73.96287388090128,40.80178580149674],[-73.96289408291064,40.80173797942132],[-73.96332259649127,40.80117974096437]]],"type":"Polygon"}
+}

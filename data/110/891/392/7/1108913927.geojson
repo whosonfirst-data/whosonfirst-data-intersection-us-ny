@@ -1,0 +1,64 @@
+{
+  "id": 1108913927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15372.677678,
+    "geom:bbox":"-73.9435538273,40.8030218163,-73.9412017015,40.8047085959",
+    "geom:latitude":40.803922,
+    "geom:longitude":-73.942265,
+    "intersection:latitude":40.80383,
+    "intersection:longitude":-73.942102,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.80383,
+    "reversegeo:longitude":-73.942102,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818241,
+    "wof:geomhash":"f3704a648582e0084b7cff3137bea553",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913927,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913927,
+    "wof:lastmodified":1490900136,
+    "wof:name":"Madison Ave  & E 122nd St",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94355382733951,
+    40.80302181633338,
+    -73.94120170150282,
+    40.80470859589065
+],
+  "geometry": {"coordinates":[[[-73.94166405524309,40.80302181633338],[-73.94355382733951,40.80440348932844],[-73.94265816175655,40.80470859589065],[-73.94120170150282,40.80364913851253],[-73.94134791222069,40.8033054187141],[-73.94166405524309,40.80302181633338]]],"type":"Polygon"}
+}

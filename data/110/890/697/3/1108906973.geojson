@@ -1,0 +1,64 @@
+{
+  "id": 1108906973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8231.089621,
+    "geom:bbox":"-73.999593813,40.7142124471,-73.9984015896,40.7155027639",
+    "geom:latitude":40.714911,
+    "geom:longitude":-73.998915,
+    "intersection:latitude":40.714995,
+    "intersection:longitude":-73.998866,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.714995,
+    "reversegeo:longitude":-73.998866,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817898,
+    "wof:geomhash":"93223b00bf2acb9bf04ad70c4d97717e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906973,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906973,
+    "wof:lastmodified":1490900177,
+    "wof:name":"Pell St  & Mott St",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99959381300508,
+    40.71421244713673,
+    -73.99840158956833,
+    40.71550276391584
+],
+  "geometry": {"coordinates":[[[-73.99882816922766,40.71421244713673],[-73.9988655053136,40.71423655857168],[-73.99959381300508,40.71520986682847],[-73.99899965034217,40.71550276391584],[-73.99840158956833,40.71515123916634],[-73.99858372503211,40.71426198954908],[-73.99859296255164,40.71425588412602],[-73.99882816922766,40.71421244713673]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7786.933515,
+    "geom:bbox":"-74.0055743834,40.7354973841,-74.0042965461,40.7364994913",
+    "geom:latitude":40.736007,
+    "geom:longitude":-74.004945,
+    "intersection:latitude":40.735961,
+    "intersection:longitude":-74.005126,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.735961,
+    "reversegeo:longitude":-74.005126,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818096,
+    "wof:geomhash":"dff49911a94c9f5a6fc87d88af3ee366",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911071,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911071,
+    "wof:lastmodified":1490900142,
+    "wof:name":"W 11th St  & Bleecker St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00557438342956,
+    40.73549738405131,
+    -74.00429654614689,
+    40.73649949134887
+],
+  "geometry": {"coordinates":[[[-74.00548658339322,40.73549738405131],[-74.00557438342956,40.73612863603667],[-74.00551586943698,40.73620042545515],[-74.00448186501721,40.73649949134887],[-74.0043577706206,40.73629992268371],[-74.00429654614689,40.73584878013317],[-74.00548658339322,40.73549738405131]]],"type":"Polygon"}
+}

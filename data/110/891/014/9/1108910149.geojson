@@ -1,0 +1,64 @@
+{
+  "id": 1108910149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12307.27551,
+    "geom:bbox":"-73.9723335054,40.7569665064,-73.9705762295,40.7585416334",
+    "geom:latitude":40.757753,
+    "geom:longitude":-73.971456,
+    "intersection:latitude":40.757749,
+    "intersection:longitude":-73.971451,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.757749,
+    "reversegeo:longitude":-73.971451,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818053,
+    "wof:geomhash":"b7ef2a3dd6d87732da69de5e30e613bc",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910149,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910149,
+    "wof:lastmodified":1490900137,
+    "wof:name":"E 52nd St  & Lexington Ave",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9723335054254,
+    40.75696650641924,
+    -73.97057622948616,
+    40.75854163337127
+],
+  "geometry": {"coordinates":[[[-73.97103516667896,40.75696650641924],[-73.9723335054254,40.75791529242625],[-73.97218404961559,40.75826912850892],[-73.9718768367329,40.75854163337127],[-73.97057622948616,40.75758702100104],[-73.97072088311043,40.75724247455273],[-73.97103516667896,40.75696650641924]]],"type":"Polygon"}
+}

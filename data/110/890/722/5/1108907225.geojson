@@ -1,0 +1,64 @@
+{
+  "id": 1108907225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20407.86601,
+    "geom:bbox":"-73.9799250697,40.7124090183,-73.9782721271,40.7145884518",
+    "geom:latitude":40.713559,
+    "geom:longitude":-73.979124,
+    "intersection:latitude":40.713762,
+    "intersection:longitude":-73.97929,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.713762,
+    "reversegeo:longitude":-73.97929,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817908,
+    "wof:geomhash":"07c4f246b2c2241ad1fb829503a2b26b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907225,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907225,
+    "wof:lastmodified":1490900182,
+    "wof:name":"Grand St  & Madison St",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97992506968734,
+    40.71240901825666,
+    -73.97827212705432,
+    40.71458845175007
+],
+  "geometry": {"coordinates":[[[-73.97937249393594,40.71240901825666],[-73.97992506968734,40.71291501265451],[-73.97939962973324,40.71458845175007],[-73.97901302846228,40.71457243170958],[-73.97829147030767,40.71409643272463],[-73.97827212705432,40.71406574237493],[-73.97853006092714,40.71320105460837],[-73.97937249393594,40.71240901825666]]],"type":"Polygon"}
+}

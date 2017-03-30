@@ -1,0 +1,64 @@
+{
+  "id": 1108909289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":31662.197835,
+    "geom:bbox":"-73.9480594942,40.8100663018,-73.9450420297,40.8126896307",
+    "geom:latitude":40.811356,
+    "geom:longitude":-73.946584,
+    "intersection:latitude":40.811509,
+    "intersection:longitude":-73.946475,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.811509,
+    "reversegeo:longitude":-73.946475,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818008,
+    "wof:geomhash":"7adad435800167e8b94b3d1353bf844e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909289,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909289,
+    "wof:lastmodified":1490900170,
+    "wof:name":"W 129th St  & Adam Clayton Powell Jr Blvd",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94805949419698,
+    40.81006630177946,
+    -73.94504202972207,
+    40.81268963065899
+],
+  "geometry": {"coordinates":[[[-73.94578805718206,40.81006630177946],[-73.94805949419698,40.81172009967102],[-73.94786474776416,40.81217194976887],[-73.94745600608553,40.81268963065899],[-73.94504202972207,40.81093257245344],[-73.94506010036926,40.81088933035061],[-73.94552819869979,40.81027276030291],[-73.94578805718206,40.81006630177946]]],"type":"Polygon"}
+}

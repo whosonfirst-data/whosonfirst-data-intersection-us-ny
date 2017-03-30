@@ -1,0 +1,64 @@
+{
+  "id": 1108910467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9872.948833,
+    "geom:bbox":"-74.0072320396,40.7529079052,-74.0055764117,40.7541892494",
+    "geom:latitude":40.75352,
+    "geom:longitude":-74.00645,
+    "intersection:latitude":40.753793,
+    "intersection:longitude":-74.007026,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.753793,
+    "reversegeo:longitude":-74.007026,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818068,
+    "wof:geomhash":"55a6852ce874040267e1d6f9aa092696",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910467,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910467,
+    "wof:lastmodified":1490900136,
+    "wof:name":"12th Ave  & W 29th St",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0072320396045,
+    40.75290790520714,
+    -74.00557641167711,
+    40.75418924940227
+],
+  "geometry": {"coordinates":[[[-74.00587445667905,40.75290790520714],[-74.0072320396045,40.7534767027248],[-74.00703265727735,40.75418924940227],[-74.00689961565323,40.75415873852314],[-74.00557641167711,40.75339457817223],[-74.00566696346068,40.75317815075555],[-74.00587445667905,40.75290790520714]]],"type":"Polygon"}
+}

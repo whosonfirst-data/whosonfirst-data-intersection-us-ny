@@ -1,0 +1,64 @@
+{
+  "id": 1108910749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11164.019991,
+    "geom:bbox":"-74.0107943888,40.706991765,-74.0093645759,40.7083959877",
+    "geom:latitude":40.707726,
+    "geom:longitude":-74.010083,
+    "intersection:latitude":40.707694,
+    "intersection:longitude":-74.010201,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.707694,
+    "reversegeo:longitude":-74.010201,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818082,
+    "wof:geomhash":"4c91321e1e07aa55cdd1a79b69e8e1ac",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910749,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910749,
+    "wof:lastmodified":1490900156,
+    "wof:name":"Nassau St  & Pine St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01079438878415,
+    40.70699176495676,
+    -74.0093645758633,
+    40.70839598773789
+],
+  "geometry": {"coordinates":[[[-74.00993565820005,40.70699176495676],[-74.01073680887588,40.70765015002776],[-74.01079438878415,40.70797469132894],[-74.01043907316905,40.70829487017765],[-74.01026615430249,40.70839598773789],[-74.00977935305156,40.70814800329651],[-74.0093645758633,40.70777380213755],[-74.0093928940572,40.70764933007626],[-74.00974352351207,40.70709389586695],[-74.00993565820005,40.70699176495676]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108912151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12606.872518,
+    "geom:bbox":"-73.9520503873,40.7877170944,-73.9502847667,40.7893873262",
+    "geom:latitude":40.788513,
+    "geom:longitude":-73.951187,
+    "intersection:latitude":40.788498,
+    "intersection:longitude":-73.951177,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.788498,
+    "reversegeo:longitude":-73.951177,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818153,
+    "wof:geomhash":"5994689e7ad544122473c03771f51a69",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912151,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912151,
+    "wof:lastmodified":1490900155,
+    "wof:name":"E 99th St  & Park Ave",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95205038734052,
+    40.78771709435508,
+    -73.95028476669533,
+    40.78938732624159
+],
+  "geometry": {"coordinates":[[[-73.95071017682233,40.78771709435508],[-73.95205038734052,40.78862173645483],[-73.95172438976429,40.78938369496881],[-73.95171378843447,40.78938732624159],[-73.95028476669533,40.78830211169659],[-73.95042121590222,40.78797792247617],[-73.95071017682233,40.78771709435508]]],"type":"Polygon"}
+}

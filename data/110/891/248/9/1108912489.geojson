@@ -1,0 +1,62 @@
+{
+  "id": 1108912489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11530.6641,
+    "geom:bbox":"-73.9104644463,40.875042635,-73.9089071103,40.8761593473",
+    "geom:latitude":40.875671,
+    "geom:longitude":-73.90961,
+    "intersection:latitude":40.875953,
+    "intersection:longitude":-73.909417,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.875953,
+    "reversegeo:longitude":-73.909417,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865673,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818173,
+    "wof:geomhash":"9a6434f7eb71ae1d3a96859d7c2c612f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912489,
+            "locality_id":85977539,
+            "neighbourhood_id":85865673,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912489,
+    "wof:lastmodified":1490900149,
+    "wof:name":"Marble Hill Ave  & Marble Hill Ln",
+    "wof:parent_id":85865673,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91046444633135,
+    40.87504263500043,
+    -73.90890711026552,
+    40.87615934730697
+],
+  "geometry": {"coordinates":[[[-73.90909267389372,40.87504263500043],[-73.91036914101988,40.87545847377555],[-73.91039270767256,40.87548897716566],[-73.91046444633135,40.8760154047337],[-73.90893385696934,40.87615934730697],[-73.90890711026552,40.87572613839911],[-73.90909267389372,40.87504263500043]]],"type":"Polygon"}
+}

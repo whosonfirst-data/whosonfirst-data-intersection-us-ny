@@ -1,0 +1,62 @@
+{
+  "id": 1108913369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11709.176388,
+    "geom:bbox":"-73.9777881805,40.7868404775,-73.9762171165,40.7883963082",
+    "geom:latitude":40.787626,
+    "geom:longitude":-73.977005,
+    "intersection:latitude":40.787657,
+    "intersection:longitude":-73.977065,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.787657,
+    "reversegeo:longitude":-73.977065,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818212,
+    "wof:geomhash":"42f8183da9b457e2a92329060af72d67",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913369,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913369,
+    "wof:lastmodified":1490900152,
+    "wof:name":"Broadway  & W 85th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97778818054411,
+    40.78684047753718,
+    -73.97621711648904,
+    40.78839630823551
+],
+  "geometry": {"coordinates":[[[-73.97672454860617,40.78684047753718],[-73.97778818054411,40.78774569620775],[-73.97760785106384,40.7881739787234],[-73.97726425090877,40.78839630823551],[-73.97621711648904,40.78750058594648],[-73.97636838473464,40.78714161298446],[-73.97672454860617,40.78684047753718]]],"type":"Polygon"}
+}

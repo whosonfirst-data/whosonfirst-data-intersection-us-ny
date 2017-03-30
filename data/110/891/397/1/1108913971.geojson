@@ -1,0 +1,64 @@
+{
+  "id": 1108913971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20197.001458,
+    "geom:bbox":"-73.9562720895,40.7988778088,-73.9536783374,40.8012276483",
+    "geom:latitude":40.800081,
+    "geom:longitude":-73.954915,
+    "intersection:latitude":40.800031,
+    "intersection:longitude":-73.954854,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.800031,
+    "reversegeo:longitude":-73.954854,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818243,
+    "wof:geomhash":"6668a3f56c0fc1ef5c774323222b2c4c",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913971,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913971,
+    "wof:lastmodified":1490900151,
+    "wof:name":"W 111th St  & Adam Clayton Powell Jr Blvd",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95627208947506,
+    40.79887780877233,
+    -73.95367833738234,
+    40.80122764826496
+],
+  "geometry": {"coordinates":[[[-73.95389978972024,40.79887780877233],[-73.95627208947506,40.80060926916383],[-73.956265164927,40.80065477333672],[-73.95626163722171,40.80066312116224],[-73.9558290067617,40.80122764826496],[-73.95367833738234,40.79965231719088],[-73.95370235565262,40.79934621200162],[-73.95389978972024,40.79887780877233]]],"type":"Polygon"}
+}

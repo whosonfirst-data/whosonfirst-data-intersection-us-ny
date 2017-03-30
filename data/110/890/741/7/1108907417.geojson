@@ -1,0 +1,64 @@
+{
+  "id": 1108907417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":5426.410553,
+    "geom:bbox":"-74.0133300885,40.7017763898,-74.0122334489,40.7025909109",
+    "geom:latitude":40.7022,
+    "geom:longitude":-74.012874,
+    "intersection:latitude":40.702409,
+    "intersection:longitude":-74.012826,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.702409,
+    "reversegeo:longitude":-74.012826,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817921,
+    "wof:geomhash":"d42f2fbba06a83a36c326504f404e8e2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907417,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907417,
+    "wof:lastmodified":1490900177,
+    "wof:name":"Whitehall St  & New York Plz",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0133300885015,
+    40.70177638975976,
+    -74.01223344885919,
+    40.70259091091869
+],
+  "geometry": {"coordinates":[[[-74.01328320017066,40.70177638975976],[-74.01332821655249,40.70180826164079],[-74.0133300885015,40.70243723650751],[-74.01259071161763,40.70259091091869],[-74.01223344885919,40.7020960814659],[-74.01328320017066,40.70177638975976]]],"type":"Polygon"}
+}

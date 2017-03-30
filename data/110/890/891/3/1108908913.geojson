@@ -1,0 +1,62 @@
+{
+  "id": 1108908913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17582.447107,
+    "geom:bbox":"-73.9697552637,40.794784935,-73.9673563978,40.7967280479",
+    "geom:latitude":40.795746,
+    "geom:longitude":-73.9686,
+    "intersection:latitude":40.795988,
+    "intersection:longitude":-73.968956,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.795988,
+    "reversegeo:longitude":-73.968956,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817986,
+    "wof:geomhash":"37bc89cfd4911e7393376fed95dc3153",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908913,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908913,
+    "wof:lastmodified":1490900165,
+    "wof:name":"Amsterdam Ave  & W 99th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96975526370707,
+    40.79478493496875,
+    -73.9673563978441,
+    40.79672804788513
+],
+  "geometry": {"coordinates":[[[-73.96797034253902,40.79478493496875],[-73.96975526370707,40.79609159974729],[-73.96958357757343,40.79648949774102],[-73.96927895596825,40.79672804788513],[-73.9673563978441,40.79531915032852],[-73.96736421730935,40.79527023457602],[-73.96797034253902,40.79478493496875]]],"type":"Polygon"}
+}

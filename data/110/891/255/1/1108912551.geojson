@@ -1,0 +1,62 @@
+{
+  "id": 1108912551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12508.132526,
+    "geom:bbox":"-73.958821235,40.7754862603,-73.957057779,40.7770697614",
+    "geom:latitude":40.776278,
+    "geom:longitude":-73.957939,
+    "intersection:latitude":40.776275,
+    "intersection:longitude":-73.957936,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.776275,
+    "reversegeo:longitude":-73.957936,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818176,
+    "wof:geomhash":"30da1aab1b75e546808a35c22c9b18dc",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912551,
+            "locality_id":85977539,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912551,
+    "wof:lastmodified":1490900162,
+    "wof:name":"Lexington Ave  & E 81st St",
+    "wof:parent_id":85865691,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95882123499089,
+    40.77548626030838,
+    -73.95705777897399,
+    40.77706976142129
+],
+  "geometry": {"coordinates":[[[-73.95752186776504,40.77548626030838],[-73.95882123499089,40.77643666635193],[-73.95866898003084,40.77679682501473],[-73.95835749194815,40.77706976142129],[-73.95705777897399,40.77612154315083],[-73.95721142093821,40.77575635854153],[-73.95752186776504,40.77548626030838]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15895.158933,
+    "geom:bbox":"-73.933832827,40.8031277049,-73.9316572875,40.8049408134",
+    "geom:latitude":40.804105,
+    "geom:longitude":-73.932732,
+    "intersection:latitude":40.804065,
+    "intersection:longitude":-73.932663,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.804065,
+    "reversegeo:longitude":-73.932663,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818093,
+    "wof:geomhash":"d2086889395ffd14ad5b80252ef28416",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911031,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911031,
+    "wof:lastmodified":1490900146,
+    "wof:name":"2nd Ave  & E 127th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93383282695987,
+    40.80312770490576,
+    -73.93165728750293,
+    40.80494081337462
+],
+  "geometry": {"coordinates":[[[-73.93192961489184,40.80312770490576],[-73.93383282695987,40.80437371405656],[-73.93372165005113,40.80463766955603],[-73.93344569795238,40.80494081337462],[-73.9331018220725,40.80490416546656],[-73.93165728750293,40.80376236338927],[-73.93192961489184,40.80312770490576]]],"type":"Polygon"}
+}

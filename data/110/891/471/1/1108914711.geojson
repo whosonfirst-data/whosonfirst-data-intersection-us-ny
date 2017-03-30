@@ -1,0 +1,64 @@
+{
+  "id": 1108914711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14917.982936,
+    "geom:bbox":"-73.9693771305,40.7703692456,-73.967117229,40.7720418174",
+    "geom:latitude":40.771246,
+    "geom:longitude":-73.968152,
+    "intersection:latitude":40.771147,
+    "intersection:longitude":-73.967994,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.771147,
+    "reversegeo:longitude":-73.967994,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818285,
+    "wof:geomhash":"0fc66fd67517a47025de7902022f6ce2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914711,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914711,
+    "wof:lastmodified":1490900135,
+    "wof:name":"5th Ave  & E 70th St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9693771305356,
+    40.77036924557378,
+    -73.9671172290039,
+    40.77204181735826
+],
+  "geometry": {"coordinates":[[[-73.96756529577513,40.77036924557378],[-73.96937713053561,40.77165478547528],[-73.96855752090946,40.77204181735826],[-73.9671172290039,40.77098850372305],[-73.96726456918215,40.77063457896005],[-73.96756529577513,40.77036924557378]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9608.143079,
+    "geom:bbox":"-74.0054851483,40.7341209819,-74.003916832,40.7351925263",
+    "geom:latitude":40.734665,
+    "geom:longitude":-74.004713,
+    "intersection:latitude":40.73466,
+    "intersection:longitude":-74.004748,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.73466,
+    "reversegeo:longitude":-74.004748,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818112,
+    "wof:geomhash":"b90fc6584ffcb8b51661aca0618d7d54",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911227,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911227,
+    "wof:lastmodified":1490900145,
+    "wof:name":"Charles St  & Bleecker St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00548514834227,
+    40.73412098191724,
+    -74.00391683202682,
+    40.7351925262931
+],
+  "geometry": {"coordinates":[[[-74.00539841312191,40.73412098191724],[-74.00548514834227,40.73468338721487],[-74.00543945650078,40.73481072671406],[-74.00410315797414,40.7351925262931],[-74.003984201356,40.7350022498368],[-74.00391683202682,40.73454722140151],[-74.00539841312191,40.73412098191724]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23105.505208,
+    "geom:bbox":"-73.9278185431,40.8564146874,-73.9257863667,40.8582829875",
+    "geom:latitude":40.857501,
+    "geom:longitude":-73.926927,
+    "intersection:latitude":40.857152,
+    "intersection:longitude":-73.927396,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.857152,
+    "reversegeo:longitude":-73.927396,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212535,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818142,
+    "wof:geomhash":"2ec244781351742def8eb64a2b45d06b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911887,
+            "locality_id":85977539,
+            "microhood_id":907212535,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911887,
+    "wof:lastmodified":1490900131,
+    "wof:name":"Fort George Ave  & Audubon Ave",
+    "wof:parent_id":907212535,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92781854309453,
+    40.85641468742008,
+    -73.92578636665128,
+    40.85828298752794
+],
+  "geometry": {"coordinates":[[[-73.92760747410632,40.85641468742008],[-73.9277629908046,40.856808],[-73.92781854309453,40.85694849561702],[-73.92779755072766,40.85804665880825],[-73.92587802488204,40.85828298752794],[-73.92578636665128,40.85826296191162],[-73.9259547685172,40.85737010182249],[-73.92760747410632,40.85641468742008]]],"type":"Polygon"}
+}

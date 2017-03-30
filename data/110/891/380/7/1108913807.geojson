@@ -1,0 +1,64 @@
+{
+  "id": 1108913807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24659.506583,
+    "geom:bbox":"-73.9987778042,40.7353477541,-73.9957165795,40.7378835226",
+    "geom:latitude":40.73662,
+    "geom:longitude":-73.997247,
+    "intersection:latitude":40.736668,
+    "intersection:longitude":-73.997341,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.736668,
+    "reversegeo:longitude":-73.997341,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818236,
+    "wof:geomhash":"29eae536ca795e9e7680114ff5c982bd",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913807,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913807,
+    "wof:lastmodified":1490900138,
+    "wof:name":"Ave of the Americas  & W 13th St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99877780417704,
+    40.73534775408063,
+    -73.99571657945938,
+    40.73788352260531
+],
+  "geometry": {"coordinates":[[[-73.99619923188634,40.73534775408063],[-73.99877780417704,40.73722897663229],[-73.9987326235247,40.73733624765478],[-73.99829256120853,40.73788352260531],[-73.99571657945938,40.73602123276933],[-73.9957275880474,40.7359950477662],[-73.99619153302031,40.73535445039881],[-73.99619923188634,40.73534775408063]]],"type":"Polygon"}
+}

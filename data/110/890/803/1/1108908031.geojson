@@ -1,0 +1,62 @@
+{
+  "id": 1108908031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17180.92687,
+    "geom:bbox":"-73.9193690268,40.8679468038,-73.9178499001,40.869813513",
+    "geom:latitude":40.868814,
+    "geom:longitude":-73.918697,
+    "intersection:latitude":40.868482,
+    "intersection:longitude":-73.918561,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.868482,
+    "reversegeo:longitude":-73.918561,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817946,
+    "wof:geomhash":"45e6fb41f3698304b2f3a181b08e7a23",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908031,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908031,
+    "wof:lastmodified":1490900181,
+    "wof:name":"W 212th St  & Broadway",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91936902679831,
+    40.86794680379315,
+    -73.91784990012526,
+    40.86981351302792
+],
+  "geometry": {"coordinates":[[[-73.91901405914118,40.86794680379315],[-73.91905621353705,40.86796964470027],[-73.91936902679831,40.86898373769126],[-73.91916526849793,40.86967431736438],[-73.91865862837388,40.86981351302792],[-73.91853480003066,40.86978079312568],[-73.91784990012526,40.86813737325343],[-73.91901405914118,40.86794680379315]]],"type":"Polygon"}
+}

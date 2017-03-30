@@ -1,0 +1,64 @@
+{
+  "id": 1108909133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10112.626838,
+    "geom:bbox":"-73.9948580329,40.71491104,-73.9936743363,40.7163898132",
+    "geom:latitude":40.715578,
+    "geom:longitude":-73.994257,
+    "intersection:latitude":40.715621,
+    "intersection:longitude":-73.994275,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.715621,
+    "reversegeo:longitude":-73.994275,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817995,
+    "wof:geomhash":"fa8d076a7ff6788778136e219d83d8e2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909133,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909133,
+    "wof:lastmodified":1490900177,
+    "wof:name":"Forsyth St  & Canal St",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99485803294111,
+    40.71491103996857,
+    -73.99367433632509,
+    40.71638981317769
+],
+  "geometry": {"coordinates":[[[-73.99454760342589,40.71491103996857],[-73.99485803294111,40.71503525574484],[-73.99438991382829,40.71638981317769],[-73.99367433632509,40.71602472261484],[-73.9939901284868,40.71498593260923],[-73.99412387932979,40.7149533496971],[-73.99454760342589,40.71491103996857]]],"type":"Polygon"}
+}

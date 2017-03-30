@@ -1,0 +1,62 @@
+{
+  "id": 1108914335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11449.089131,
+    "geom:bbox":"-73.9693500433,40.7983849299,-73.9676061183,40.7997576329",
+    "geom:latitude":40.799078,
+    "geom:longitude":-73.968486,
+    "intersection:latitude":40.799109,
+    "intersection:longitude":-73.968557,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.799109,
+    "reversegeo:longitude":-73.968557,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818263,
+    "wof:geomhash":"d5cfdc0167e2611ce8c6db8a2e24783d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914335,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914335,
+    "wof:lastmodified":1490900132,
+    "wof:name":"W 103rd St  & Broadway",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96935004332221,
+    40.79838492990061,
+    -73.96760611834985,
+    40.79975763294723
+],
+  "geometry": {"coordinates":[[[-73.96819793722315,40.79838492990061],[-73.96935004332221,40.79919304223549],[-73.96917541828137,40.79960737180119],[-73.96898188572935,40.79975763294723],[-73.96760857099719,40.79904764748748],[-73.96760611834985,40.79885399054111],[-73.96819793722315,40.79838492990061]]],"type":"Polygon"}
+}

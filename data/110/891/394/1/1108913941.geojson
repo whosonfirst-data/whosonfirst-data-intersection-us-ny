@@ -1,0 +1,64 @@
+{
+  "id": 1108913941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6627.142036,
+    "geom:bbox":"-73.9592710854,40.800361522,-73.9582042131,40.8014648324",
+    "geom:latitude":40.800834,
+    "geom:longitude":-73.958708,
+    "intersection:latitude":40.800678,
+    "intersection:longitude":-73.958502,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.800678,
+    "reversegeo:longitude":-73.958502,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818241,
+    "wof:geomhash":"2b8b673c1348913aae44c65aafe3fabc",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913941,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913941,
+    "wof:lastmodified":1490900138,
+    "wof:name":"W 110th St  & Frederick Douglass Cir",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95927108539246,
+    40.80036152199867,
+    -73.95820421313917,
+    40.80146483236126
+],
+  "geometry": {"coordinates":[[[-73.95876434120574,40.80036152199867],[-73.95927108539246,40.80044609984439],[-73.95896283786668,40.80118447519381],[-73.95845602165389,40.80146483236126],[-73.95820421313917,40.80060462743518],[-73.95876434120574,40.80036152199867]]],"type":"Polygon"}
+}

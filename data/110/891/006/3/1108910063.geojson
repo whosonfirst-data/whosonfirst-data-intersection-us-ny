@@ -1,0 +1,64 @@
+{
+  "id": 1108910063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14931.299415,
+    "geom:bbox":"-73.9552004472,40.820223862,-73.9531894074,40.8223231672",
+    "geom:latitude":40.821384,
+    "geom:longitude":-73.954176,
+    "intersection:latitude":40.821384,
+    "intersection:longitude":-73.954139,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.821384,
+    "reversegeo:longitude":-73.954139,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818050,
+    "wof:geomhash":"dd35be22c7adcb620adc3b123640b5f0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910063,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910063,
+    "wof:lastmodified":1490900140,
+    "wof:name":"Broadway  & W 137th St",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95520044722613,
+    40.82022386196937,
+    -73.9531894074075,
+    40.82232316720641
+],
+  "geometry": {"coordinates":[[[-73.95318940740751,40.82022386196937],[-73.95520044722613,40.82168554456923],[-73.95506232144827,40.82200329721877],[-73.95476011053147,40.82232316720641],[-73.9534880911924,40.82139569483792],[-73.95318940740751,40.82022386196937]]],"type":"Polygon"}
+}

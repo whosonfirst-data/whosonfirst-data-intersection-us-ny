@@ -1,0 +1,64 @@
+{
+  "id": 1108908087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":37413.11621,
+    "geom:bbox":"-73.9335292743,40.7990196253,-73.9301793803,40.8015162632",
+    "geom:latitude":40.800109,
+    "geom:longitude":-73.93213,
+    "intersection:latitude":40.800584,
+    "intersection:longitude":-73.932061,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.800584,
+    "reversegeo:longitude":-73.932061,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817950,
+    "wof:geomhash":"b0e0f4e602424bf00bbaed62a0a20ea3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908087,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908087,
+    "wof:lastmodified":1490900163,
+    "wof:name":"1st Ave  & Paladino Ave",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93352927434076,
+    40.79901962529934,
+    -73.93017938031178,
+    40.80151626315227
+],
+  "geometry": {"coordinates":[[[-73.93200922991983,40.79901962529934],[-73.93352927434076,40.80013073538851],[-73.93352091174583,40.80024639432857],[-73.93321412918517,40.80112611951452],[-73.9329231299951,40.80151626315227],[-73.93017938031178,40.79951322155848],[-73.93200922991983,40.79901962529934]]],"type":"Polygon"}
+}

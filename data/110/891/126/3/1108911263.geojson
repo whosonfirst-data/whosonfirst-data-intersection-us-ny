@@ -1,0 +1,62 @@
+{
+  "id": 1108911263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10785.087874,
+    "geom:bbox":"-73.9811954449,40.7850077923,-73.9795075622,40.7864094524",
+    "geom:latitude":40.785714,
+    "geom:longitude":-73.980294,
+    "intersection:latitude":40.785661,
+    "intersection:longitude":-73.980204,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.785661,
+    "reversegeo:longitude":-73.980204,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818116,
+    "wof:geomhash":"16ca46df57169642b99569ed56f8071f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911263,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911263,
+    "wof:lastmodified":1490900152,
+    "wof:name":"W End Ave  & W 81st St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98119544494367,
+    40.78500779226247,
+    -73.97950756221728,
+    40.7864094524228
+],
+  "geometry": {"coordinates":[[[-73.97997362401387,40.78500779226247],[-73.98119544494367,40.7858981412681],[-73.98056890171409,40.7864094524228],[-73.97950756221728,40.78564060806291],[-73.9796999361313,40.78518333832283],[-73.97997362401387,40.78500779226247]]],"type":"Polygon"}
+}

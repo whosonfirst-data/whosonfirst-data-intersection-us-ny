@@ -1,0 +1,64 @@
+{
+  "id": 1108909925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13743.44443,
+    "geom:bbox":"-74.0044388568,40.7282746947,-74.0028299026,40.7299689582",
+    "geom:latitude":40.72915,
+    "geom:longitude":-74.003666,
+    "intersection:latitude":40.729344,
+    "intersection:longitude":-74.003657,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.729344,
+    "reversegeo:longitude":-74.003657,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818044,
+    "wof:geomhash":"c1c352e97c1d4cbb3b70ab733ac806c0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909925,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909925,
+    "wof:lastmodified":1490900181,
+    "wof:name":"Bedford St  & Downing St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0044388567561,
+    40.7282746947252,
+    -74.00282990262195,
+    40.72996895823435
+],
+  "geometry": {"coordinates":[[[-74.00417339613875,40.7282746947252],[-74.00429540093226,40.72854825621756],[-74.00443845087995,40.72901790288898],[-74.0044388567561,40.72908150368121],[-74.0044197667183,40.72924305994389],[-74.00317432918321,40.72996895823435],[-74.00295822423108,40.72970698610872],[-74.00282990262195,40.72920649815288],[-74.00410617371585,40.72829478142538],[-74.00417339613875,40.7282746947252]]],"type":"Polygon"}
+}

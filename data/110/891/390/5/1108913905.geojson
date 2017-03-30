@@ -1,0 +1,64 @@
+{
+  "id": 1108913905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10413.403498,
+    "geom:bbox":"-73.9859870602,40.7383552545,-73.9843462454,40.7396455719",
+    "geom:latitude":40.738936,
+    "geom:longitude":-73.985272,
+    "intersection:latitude":40.73884,
+    "intersection:longitude":-73.985232,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.73884,
+    "reversegeo:longitude":-73.985232,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869245,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818240,
+    "wof:geomhash":"f1486c72fb4390729c9e9fecc1607354",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913905,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85869245,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913905,
+    "wof:lastmodified":1490900145,
+    "wof:name":"Lexington Ave  & E 22nd St",
+    "wof:parent_id":85869245,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9859870601552,
+    40.73835525449287,
+    -73.98434624535165,
+    40.7396455719247
+],
+  "geometry": {"coordinates":[[[-73.98520924162547,40.73835525449287],[-73.98586274275016,40.73882143967526],[-73.9859870601552,40.73930770414812],[-73.98595601340239,40.73938131499752],[-73.9856421209148,40.7396455719247],[-73.98434624535165,40.73870577027755],[-73.98440029701868,40.73857764780755],[-73.98520924162547,40.73835525449287]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108908429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15525.68166,
+    "geom:bbox":"-73.9456851958,40.8045603198,-73.9437707265,40.8065839083",
+    "geom:latitude":40.805642,
+    "geom:longitude":-73.944642,
+    "intersection:latitude":40.805761,
+    "intersection:longitude":-73.944783,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.805761,
+    "reversegeo:longitude":-73.944783,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817967,
+    "wof:geomhash":"69f56424b9cc80aa1ea84e1730957d08",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908429,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908429,
+    "wof:lastmodified":1490900167,
+    "wof:name":"W 123rd St  & Mount Morris Park W",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94568519581196,
+    40.80456031978733,
+    -73.94377072653012,
+    40.80658390825118
+],
+  "geometry": {"coordinates":[[[-73.94379364773484,40.80456031978733],[-73.94568519581196,40.80594039326441],[-73.94553505364883,40.80629136117402],[-73.94520774365536,40.80658390825118],[-73.94377072653012,40.8054867570809],[-73.94377847936353,40.80456143361167],[-73.94379364773484,40.80456031978733]]],"type":"Polygon"}
+}

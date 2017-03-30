@@ -1,0 +1,64 @@
+{
+  "id": 1108907275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18293.931994,
+    "geom:bbox":"-74.0134741065,40.7372278114,-74.0090093242,40.7380400419",
+    "geom:latitude":40.737582,
+    "geom:longitude":-74.010735,
+    "intersection:latitude":40.737566,
+    "intersection:longitude":-74.009814,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.737566,
+    "reversegeo:longitude":-74.009814,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817911,
+    "wof:geomhash":"3ed60e77df5d45fc4aca84763735f262",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907275,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907275,
+    "wof:lastmodified":1490900176,
+    "wof:name":"Lincoln Hwy  & W 12th St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01347410654537,
+    40.73722781140972,
+    -74.00900932422802,
+    40.73804004188253
+],
+  "geometry": {"coordinates":[[[-74.00904784076738,40.73722781140972],[-74.01347410654537,40.73744986487691],[-74.01037843510217,40.73804004188253],[-74.00900932422802,40.73765055344417],[-74.00901178521569,40.73732078109671],[-74.00904784076738,40.73722781140972]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18619.116507,
+    "geom:bbox":"-73.9567352643,40.767463255,-73.954331655,40.7695275141",
+    "geom:latitude":40.768492,
+    "geom:longitude":-73.955534,
+    "intersection:latitude":40.768485,
+    "intersection:longitude":-73.955502,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.768485,
+    "reversegeo:longitude":-73.955502,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818107,
+    "wof:geomhash":"ba714b566c318e9c891e67d8e1cd554d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911205,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911205,
+    "wof:lastmodified":1490900131,
+    "wof:name":"1st Ave  & E 73rd St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95673526427835,
+    40.76746325498991,
+    -73.95433165504687,
+    40.76952751411554
+],
+  "geometry": {"coordinates":[[[-73.9548170435576,40.76746325498991],[-73.95673526427835,40.76886318993589],[-73.95664304035027,40.76908142553747],[-73.95625957303947,40.76952751411554],[-73.95433165504687,40.76811573164849],[-73.95443258830237,40.76787621458698],[-73.9548170435576,40.76746325498991]]],"type":"Polygon"}
+}

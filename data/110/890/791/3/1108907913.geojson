@@ -1,0 +1,64 @@
+{
+  "id": 1108907913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":26777.357616,
+    "geom:bbox":"-73.9384855095,40.7924711505,-73.9357670396,40.7947972967",
+    "geom:latitude":40.793624,
+    "geom:longitude":-73.937161,
+    "intersection:latitude":40.79347,
+    "intersection:longitude":-73.937257,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.79347,
+    "reversegeo:longitude":-73.937257,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817942,
+    "wof:geomhash":"0a1daa2a19d919126176dce885988786",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907913,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907913,
+    "wof:lastmodified":1490900173,
+    "wof:name":"1st Ave  & E 112th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93848550947796,
+    40.79247115049242,
+    -73.93576703964858,
+    40.79479729674401
+],
+  "geometry": {"coordinates":[[[-73.93658160504594,40.79247115049242],[-73.93848550947796,40.79386851154344],[-73.93841234664077,40.79404264936954],[-73.93778659866256,40.79479729674401],[-73.93576703964858,40.79332374228429],[-73.93658160504594,40.79247115049242]]],"type":"Polygon"}
+}

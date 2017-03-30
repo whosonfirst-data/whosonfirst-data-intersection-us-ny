@@ -1,0 +1,64 @@
+{
+  "id": 1108908523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27649.09807,
+    "geom:bbox":"-73.9979891431,40.709151596,-73.9951264355,40.7109386358",
+    "geom:latitude":40.709988,
+    "geom:longitude":-73.99648,
+    "intersection:latitude":40.709778,
+    "intersection:longitude":-73.996212,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.709778,
+    "reversegeo:longitude":-73.996212,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869743,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817971,
+    "wof:geomhash":"fd46a6c9383649300220073a301a8529",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908523,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85869743,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908523,
+    "wof:lastmodified":1490900180,
+    "wof:name":"Catherine Slip  & Water St",
+    "wof:parent_id":85869743,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99798914311833,
+    40.70915159598748,
+    -73.99512643553295,
+    40.71093863579278
+],
+  "geometry": {"coordinates":[[[-73.99765331459645,40.70915159598748],[-73.99798914311833,40.71003529184684],[-73.9954734214357,40.71093863579278],[-73.99545900694395,40.71092315311969],[-73.9952029960652,40.71024138859087],[-73.99512643553295,40.70971872049127],[-73.99765331459645,40.70915159598748]]],"type":"Polygon"}
+}

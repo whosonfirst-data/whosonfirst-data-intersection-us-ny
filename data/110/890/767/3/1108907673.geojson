@@ -1,0 +1,62 @@
+{
+  "id": 1108907673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13734.676075,
+    "geom:bbox":"-73.9815694866,40.7780946242,-73.9796990299,40.7798326001",
+    "geom:latitude":40.778947,
+    "geom:longitude":-73.980666,
+    "intersection:latitude":40.779292,
+    "intersection:longitude":-73.981135,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.779292,
+    "reversegeo:longitude":-73.981135,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817932,
+    "wof:geomhash":"59964bed38c5d14bb3e08a95b56b97e6",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907673,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907673,
+    "wof:lastmodified":1490900169,
+    "wof:name":"Amsterdam Ave  & W 73rd St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98156948658911,
+    40.77809462421531,
+    -73.97969902986605,
+    40.77983260013424
+],
+  "geometry": {"coordinates":[[[-73.98017413778449,40.77809462421531],[-73.98156948658911,40.77908605626069],[-73.9812662788872,40.77981106499954],[-73.98121104628783,40.77983260013424],[-73.97969902986605,40.778729043125],[-73.97973868507319,40.7786348909958],[-73.98017413778449,40.77809462421531]]],"type":"Polygon"}
+}

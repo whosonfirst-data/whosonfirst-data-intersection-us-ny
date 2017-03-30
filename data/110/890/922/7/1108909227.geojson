@@ -1,0 +1,62 @@
+{
+  "id": 1108909227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8463.065788,
+    "geom:bbox":"-73.973463076,40.7634950877,-73.9721384066,40.7647266512",
+    "geom:latitude":40.764128,
+    "geom:longitude":-73.972804,
+    "intersection:latitude":40.764279,
+    "intersection:longitude":-73.973015,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.764279,
+    "reversegeo:longitude":-73.973015,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818002,
+    "wof:geomhash":"1227212c3dafc7e06aa1859363f7301a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909227,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909227,
+    "wof:lastmodified":1490900176,
+    "wof:name":"Central Park S  & E 59th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9734630759928,
+    40.76349508773527,
+    -73.97213840662273,
+    40.76472665120661
+],
+  "geometry": {"coordinates":[[[-73.97258705421304,40.76349508773527],[-73.9734630759928,40.76413090999476],[-73.97320185731911,40.76468835603034],[-73.97296909869456,40.76472665120661],[-73.97213840662273,40.76410665163117],[-73.97229054941725,40.7637534865915],[-73.97258705421304,40.76349508773527]]],"type":"Polygon"}
+}

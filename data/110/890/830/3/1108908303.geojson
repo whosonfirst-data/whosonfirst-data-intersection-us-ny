@@ -1,0 +1,64 @@
+{
+  "id": 1108908303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23060.34773,
+    "geom:bbox":"-73.9800318391,40.7611965969,-73.9770034426,40.7635944592",
+    "geom:latitude":40.76235,
+    "geom:longitude":-73.978532,
+    "intersection:latitude":40.762396,
+    "intersection:longitude":-73.978601,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.762396,
+    "reversegeo:longitude":-73.978601,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817961,
+    "wof:geomhash":"31a21b29042ea3f1ad8570c792bdec8d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908303,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908303,
+    "wof:lastmodified":1490900178,
+    "wof:name":"Ave of the Americas  & W 54th St",
+    "wof:parent_id":85882233,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98003183905243,
+    40.76119659690443,
+    -73.97700344258,
+    40.76359445920406
+],
+  "geometry": {"coordinates":[[[-73.97761339816947,40.76119659690443],[-73.98003183905243,40.76296109137265],[-73.97999919413085,40.76303828925483],[-73.97957225190511,40.76359445920406],[-73.97700344258,40.76170466635663],[-73.97731866256548,40.76126323088656],[-73.97761339816947,40.76119659690443]]],"type":"Polygon"}
+}

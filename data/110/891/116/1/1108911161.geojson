@@ -1,0 +1,62 @@
+{
+  "id": 1108911161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18083.932015,
+    "geom:bbox":"-73.9787385413,40.782613209,-73.9763903457,40.7846325876",
+    "geom:latitude":40.783632,
+    "geom:longitude":-73.977579,
+    "intersection:latitude":40.783831,
+    "intersection:longitude":-73.977827,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.783831,
+    "reversegeo:longitude":-73.977827,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818103,
+    "wof:geomhash":"c762b2a05882304c1f5244b9d6c32379",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911161,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911161,
+    "wof:lastmodified":1490900150,
+    "wof:name":"Amsterdam Ave  & W 80th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97873854130138,
+    40.78261320896232,
+    -73.97639034568374,
+    40.78463258760787
+],
+  "geometry": {"coordinates":[[[-73.97687601689425,40.78261320896232],[-73.97873854130138,40.78397198042308],[-73.97857967628251,40.78434891339586],[-73.97826063302116,40.78463258760787],[-73.97639034568374,40.78326754376918],[-73.97643329974747,40.78316589893226],[-73.97687601689425,40.78261320896232]]],"type":"Polygon"}
+}

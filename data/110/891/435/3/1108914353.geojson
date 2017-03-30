@@ -1,0 +1,64 @@
+{
+  "id": 1108914353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8350.435079,
+    "geom:bbox":"-74.0107121647,40.7092337656,-74.0094236462,40.7104961055",
+    "geom:latitude":40.709841,
+    "geom:longitude":-74.010084,
+    "intersection:latitude":40.709806,
+    "intersection:longitude":-74.009988,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.709806,
+    "reversegeo:longitude":-74.009988,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818264,
+    "wof:geomhash":"43c72164e3dfe14149f6cb5f98098f2d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914353,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914353,
+    "wof:lastmodified":1490900130,
+    "wof:name":"Maiden Ln  & Broadway",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01071216474459,
+    40.70923376555265,
+    -74.00942364622965,
+    40.71049610549338
+],
+  "geometry": {"coordinates":[[[-74.00997520783451,40.70923376555265],[-74.01071216474459,40.70985995286581],[-74.01049336958951,40.71034512429705],[-74.01026847631921,40.71049610549338],[-74.00942364622965,40.70977451357428],[-74.00969235046203,40.70932212480805],[-74.00997520783451,40.70923376555265]]],"type":"Polygon"}
+}

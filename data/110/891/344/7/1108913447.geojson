@@ -1,0 +1,66 @@
+{
+  "id": 1108913447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17340.636172,
+    "geom:bbox":"-73.9837197801,40.7222550935,-73.9813135923,40.7242910926",
+    "geom:latitude":40.723273,
+    "geom:longitude":-73.982518,
+    "intersection:latitude":40.723278,
+    "intersection:longitude":-73.982524,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.723278,
+    "reversegeo:longitude":-73.982524,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189647,
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818216,
+    "wof:geomhash":"14a53afb2f3642460c24ea9a4aa89de7",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913447,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189647,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913447,
+    "wof:lastmodified":1490900152,
+    "wof:name":"Ave B  & E 4th St",
+    "wof:parent_id":907189647,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9837197801007,
+    40.72225509353647,
+    -73.98131359228607,
+    40.72429109257396
+],
+  "geometry": {"coordinates":[[[-73.98175154608329,40.72225509353647],[-73.9837197801007,40.72368182000712],[-73.98364589111513,40.72385427734677],[-73.98327742270902,40.72429109257396],[-73.98131359228607,40.72285723625526],[-73.98137977881761,40.72270051719163],[-73.98175154608329,40.72225509353647]]],"type":"Polygon"}
+}

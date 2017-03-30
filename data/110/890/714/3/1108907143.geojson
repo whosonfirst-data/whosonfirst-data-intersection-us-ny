@@ -1,0 +1,64 @@
+{
+  "id": 1108907143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12207.159912,
+    "geom:bbox":"-73.9815493831,40.7501186451,-73.9797935652,40.7516880127",
+    "geom:latitude":40.750903,
+    "geom:longitude":-73.980672,
+    "intersection:latitude":40.750905,
+    "intersection:longitude":-73.980674,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.750905,
+    "reversegeo:longitude":-73.980674,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817905,
+    "wof:geomhash":"f80fd9c9f019bb45a783e6ba2a2b69b4",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907143,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907143,
+    "wof:lastmodified":1490900179,
+    "wof:name":"E 39th St  & Madison Ave",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98154938308288,
+    40.75011864514109,
+    -73.97979356524131,
+    40.75168801273043
+],
+  "geometry": {"coordinates":[[[-73.98023962566349,40.75011864514109],[-73.98154938308288,40.75106259551238],[-73.98140170737435,40.7514144240977],[-73.98109380100372,40.75168801273043],[-73.97979356524131,40.75073338258399],[-73.97994002109425,40.75038787505355],[-73.98023962566349,40.75011864514109]]],"type":"Polygon"}
+}

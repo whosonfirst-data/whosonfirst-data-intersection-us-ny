@@ -1,0 +1,62 @@
+{
+  "id": 1108911203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22217.999149,
+    "geom:bbox":"-73.9661284681,40.7903835447,-73.96362555,40.7928848977",
+    "geom:latitude":40.791713,
+    "geom:longitude":-73.964766,
+    "intersection:latitude":40.791664,
+    "intersection:longitude":-73.964685,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.791664,
+    "reversegeo:longitude":-73.964685,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818106,
+    "wof:geomhash":"6aef82b0a86bfd98af9486f0947a5507",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911203,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911203,
+    "wof:lastmodified":1490900131,
+    "wof:name":"Central Park W  & W 96th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96612846806389,
+    40.79038354468174,
+    -73.96362554999162,
+    40.7928848977295
+],
+  "geometry": {"coordinates":[[[-73.96363977656669,40.79038354468174],[-73.96612846806389,40.79220291498875],[-73.96607175033729,40.79233800024529],[-73.96562614757406,40.7928848977295],[-73.96362554999162,40.79142600923456],[-73.96363977656669,40.79038354468174]]],"type":"Polygon"}
+}

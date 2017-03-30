@@ -1,0 +1,62 @@
+{
+  "id": 1108912519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000009,
+    "geom:area_square_m":86214.998338,
+    "geom:bbox":"-73.9182994179,40.8761196199,-73.9115914753,40.877828",
+    "geom:latitude":40.877079,
+    "geom:longitude":-73.914684,
+    "intersection:latitude":40.876686,
+    "intersection:longitude":-73.912717,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.876686,
+    "reversegeo:longitude":-73.912717,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865673,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818174,
+    "wof:geomhash":"7218bebd45add2fa27be2fa232ccd42f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912519,
+            "locality_id":85977539,
+            "neighbourhood_id":85865673,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912519,
+    "wof:lastmodified":1490900131,
+    "wof:name":"Terrace View Ave  & Teunissen Pl",
+    "wof:parent_id":85865673,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91829941789052,
+    40.87611961985345,
+    -73.91159147530871,
+    40.877828
+],
+  "geometry": {"coordinates":[[[-73.91213584906995,40.87611961985345],[-73.91712286279423,40.87644671486],[-73.91767176534029,40.87687442645005],[-73.91829941789052,40.877828],[-73.91191802725119,40.877828],[-73.91159147530871,40.87679806786453],[-73.91213584906995,40.87611961985345]]],"type":"Polygon"}
+}

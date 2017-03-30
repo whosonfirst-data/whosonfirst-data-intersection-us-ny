@@ -1,0 +1,64 @@
+{
+  "id": 1108909581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12902.02097,
+    "geom:bbox":"-73.952950353,40.7864091296,-73.9511668865,40.7880037233",
+    "geom:latitude":40.787206,
+    "geom:longitude":-73.952059,
+    "intersection:latitude":40.787222,
+    "intersection:longitude":-73.952058,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.787222,
+    "reversegeo:longitude":-73.952058,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818030,
+    "wof:geomhash":"c712511c0833bc4bad631ae745df3418",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909581,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909581,
+    "wof:lastmodified":1490900176,
+    "wof:name":"E 97th St  & Park Ave",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9529503530221,
+    40.78640912964764,
+    -73.9511668864782,
+    40.78800372329187
+],
+  "geometry": {"coordinates":[[[-73.9516542013243,40.78640912964764],[-73.9529503530221,40.78735861372944],[-73.95278957082832,40.78774079702957],[-73.9524903552642,40.78800372329187],[-73.95116688647821,40.78706938762375],[-73.95133093075981,40.78667876018484],[-73.9516542013243,40.78640912964764]]],"type":"Polygon"}
+}

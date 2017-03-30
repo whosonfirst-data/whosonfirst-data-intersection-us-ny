@@ -1,0 +1,64 @@
+{
+  "id": 1108910195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24642.597808,
+    "geom:bbox":"-73.9875374866,40.7251823389,-73.9850341594,40.7274268",
+    "geom:latitude":40.72628,
+    "geom:longitude":-73.986316,
+    "intersection:latitude":40.726409,
+    "intersection:longitude":-73.986176,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.726409,
+    "reversegeo:longitude":-73.986176,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818056,
+    "wof:geomhash":"b24a94757928e100b72de65755a7a3d9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910195,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910195,
+    "wof:lastmodified":1490900136,
+    "wof:name":"1st Ave  & E 6th St",
+    "wof:parent_id":85816887,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98753748663617,
+    40.72518233885531,
+    -73.98503415936077,
+    40.7274267999953
+],
+  "geometry": {"coordinates":[[[-73.9857568770348,40.72518233885531],[-73.98753748663617,40.72647719343277],[-73.98732851540635,40.72697447340865],[-73.98696139290138,40.7274267999953],[-73.98503415936077,40.72601882108741],[-73.98510774998587,40.72584443646509],[-73.98559887198444,40.72528120276301],[-73.9857568770348,40.72518233885531]]],"type":"Polygon"}
+}

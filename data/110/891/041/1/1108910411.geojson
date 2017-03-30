@@ -1,0 +1,64 @@
+{
+  "id": 1108910411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3930.711898,
+    "geom:bbox":"-73.9985929626,40.7134697503,-73.9977213778,40.7142700953",
+    "geom:latitude":40.713924,
+    "geom:longitude":-73.998155,
+    "intersection:latitude":40.713715,
+    "intersection:longitude":-73.99802,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.713715,
+    "reversegeo:longitude":-73.99802,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818064,
+    "wof:geomhash":"c868d71975fe95212c134fb437744786",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910411,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910411,
+    "wof:lastmodified":1490900161,
+    "wof:name":"St James Pl  & Chatham Sq",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99859296255164,
+    40.71346975031773,
+    -73.99772137782594,
+    40.71427009526575
+],
+  "geometry": {"coordinates":[[[-73.99810180655327,40.71346975031773],[-73.99828338718963,40.71354899949379],[-73.99859296255164,40.71425588412602],[-73.99858372503211,40.71426198954908],[-73.99802139093812,40.71427009526575],[-73.99772137782594,40.71383278801749],[-73.99810180655327,40.71346975031773]]],"type":"Polygon"}
+}

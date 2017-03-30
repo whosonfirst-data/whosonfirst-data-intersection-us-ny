@@ -1,0 +1,66 @@
+{
+  "id": 1108911091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13086.953779,
+    "geom:bbox":"-73.9920902072,40.7228009329,-73.9906349883,40.7241757477",
+    "geom:latitude":40.723455,
+    "geom:longitude":-73.991386,
+    "intersection:latitude":40.723686,
+    "intersection:longitude":-73.991139,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.723686,
+    "reversegeo:longitude":-73.991139,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189673,
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818098,
+    "wof:geomhash":"cad684e6a183e19e882da4d7cc0c8c0f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911091,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189673,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911091,
+    "wof:lastmodified":1490900154,
+    "wof:name":"2nd Ave  & E Houston St",
+    "wof:parent_id":907189673,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99209020715966,
+    40.72280093293954,
+    -73.99063498831498,
+    40.72417574768584
+],
+  "geometry": {"coordinates":[[[-73.99191322633773,40.72280093293954],[-73.99209020715966,40.72319898669131],[-73.99187816293762,40.72388930843643],[-73.99134000434782,40.72417574768584],[-73.99063498831498,40.72379391387517],[-73.99088735717733,40.72295430208312],[-73.99191322633773,40.72280093293954]]],"type":"Polygon"}
+}

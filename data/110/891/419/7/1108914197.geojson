@@ -1,0 +1,62 @@
+{
+  "id": 1108914197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16301.569732,
+    "geom:bbox":"-73.9394614387,40.8330218991,-73.9369720772,40.8351578602",
+    "geom:latitude":40.834096,
+    "geom:longitude":-73.938212,
+    "intersection:latitude":40.834536,
+    "intersection:longitude":-73.938965,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.834536,
+    "reversegeo:longitude":-73.938965,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818258,
+    "wof:geomhash":"cac22be6a1c9f6715ef8ffec3e09cf43",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914197,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914197,
+    "wof:lastmodified":1490900131,
+    "wof:name":"Sylvan Ter  & Jumel Ter",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93946143868035,
+    40.83302189913764,
+    -73.93697207724918,
+    40.83515786023509
+],
+  "geometry": {"coordinates":[[[-73.93728042969974,40.83302189913764],[-73.93946143868035,40.83461234000283],[-73.9393398209034,40.83489728217657],[-73.93913168015789,40.83515786023509],[-73.93717991292117,40.83375022204616],[-73.93697207724918,40.83346530347328],[-73.93728042969974,40.83302189913764]]],"type":"Polygon"}
+}

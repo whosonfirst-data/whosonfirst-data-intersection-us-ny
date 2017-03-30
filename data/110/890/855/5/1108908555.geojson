@@ -1,0 +1,62 @@
+{
+  "id": 1108908555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":48650.855543,
+    "geom:bbox":"-73.94878156,40.8361005327,-73.9455389257,40.8397707557",
+    "geom:latitude":40.837584,
+    "geom:longitude":-73.947122,
+    "intersection:latitude":40.837296,
+    "intersection:longitude":-73.946806,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.837296,
+    "reversegeo:longitude":-73.946806,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817972,
+    "wof:geomhash":"5ad33fd42fc6757b9535ca3b4b9752d1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908555,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908555,
+    "wof:lastmodified":1490900173,
+    "wof:name":"Riverside Dr  & W 160th St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94878155997893,
+    40.83610053274457,
+    -73.94553892571328,
+    40.83977075572444
+],
+  "geometry": {"coordinates":[[[-73.94634210067858,40.83610053274457],[-73.94729067068846,40.83615971632953],[-73.94823294408991,40.83795628935032],[-73.94878155997893,40.83977075572444],[-73.94553892571328,40.83733171965766],[-73.94555257874795,40.83717458450172],[-73.94587944139467,40.83637638162702],[-73.94634210067858,40.83610053274457]]],"type":"Polygon"}
+}

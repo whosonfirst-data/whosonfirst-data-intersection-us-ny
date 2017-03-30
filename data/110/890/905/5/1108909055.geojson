@@ -1,0 +1,62 @@
+{
+  "id": 1108909055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":44920.606562,
+    "geom:bbox":"-73.9783175393,40.7948673913,-73.9741375248,40.8003423316",
+    "geom:latitude":40.797287,
+    "geom:longitude":-73.97588,
+    "intersection:latitude":40.796018,
+    "intersection:longitude":-73.975016,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.796018,
+    "reversegeo:longitude":-73.975016,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817992,
+    "wof:geomhash":"4ea60d9cc5d6246609ff12e4e7f57ccd",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909055,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909055,
+    "wof:lastmodified":1490900172,
+    "wof:name":"Riverside Dr  & W 96th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9783175393399,
+    40.79486739134938,
+    -73.97413752482038,
+    40.80034233162257
+],
+  "geometry": {"coordinates":[[[-73.97487351928822,40.79486739134938],[-73.9783175393399,40.80034233162257],[-73.97595980342147,40.79838301524971],[-73.97413752482038,40.79557717777334],[-73.97419067646133,40.79545186202454],[-73.9747945316503,40.79490004161211],[-73.97487351928822,40.79486739134938]]],"type":"Polygon"}
+}

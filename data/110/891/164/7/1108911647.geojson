@@ -1,0 +1,64 @@
+{
+  "id": 1108911647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10977.612109,
+    "geom:bbox":"-73.9294721658,40.8529886788,-73.9277467336,40.8544291523",
+    "geom:latitude":40.853699,
+    "geom:longitude":-73.928657,
+    "intersection:latitude":40.853724,
+    "intersection:longitude":-73.928692,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.853724,
+    "reversegeo:longitude":-73.928692,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212535,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818132,
+    "wof:geomhash":"6824d350d0d3bb273db457dc5da9e965",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911647,
+            "locality_id":85977539,
+            "microhood_id":907212535,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911647,
+    "wof:lastmodified":1490900138,
+    "wof:name":"W 189th St  & Audubon Ave",
+    "wof:parent_id":907212535,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92947216582598,
+    40.85298867884894,
+    -73.92774673363205,
+    40.85442915234383
+],
+  "geometry": {"coordinates":[[[-73.92833894527854,40.85298867884894],[-73.92947216582598,40.8538149854981],[-73.92930861012164,40.85420294186166],[-73.92902727271522,40.85442915234383],[-73.92774673363205,40.85348966135819],[-73.92774680766163,40.85346631736355],[-73.92833894527854,40.85298867884894]]],"type":"Polygon"}
+}

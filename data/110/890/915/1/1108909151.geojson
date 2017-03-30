@@ -1,0 +1,62 @@
+{
+  "id": 1108909151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12080.911661,
+    "geom:bbox":"-73.9727029374,40.7964641209,-73.9710087426,40.7980479243",
+    "geom:latitude":40.797242,
+    "geom:longitude":-73.971864,
+    "intersection:latitude":40.797191,
+    "intersection:longitude":-73.971799,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.797191,
+    "reversegeo:longitude":-73.971799,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817996,
+    "wof:geomhash":"d0481cc7bdc2227858b29a89de7b0206",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909151,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909151,
+    "wof:lastmodified":1490900177,
+    "wof:name":"W End Ave  & W 99th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97270293738458,
+    40.79646412088213,
+    -73.97100874262847,
+    40.79804792426081
+],
+  "geometry": {"coordinates":[[[-73.97146144138809,40.79646412088213],[-73.97270293738458,40.79736666876531],[-73.97249312364418,40.7978672717069],[-73.97230820160598,40.79804792426081],[-73.97100874262847,40.79708998975818],[-73.97117525620307,40.79668854786355],[-73.97146144138809,40.79646412088213]]],"type":"Polygon"}
+}
