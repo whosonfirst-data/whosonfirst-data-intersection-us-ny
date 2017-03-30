@@ -1,0 +1,64 @@
+{
+  "id": 1108907471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11143.141521,
+    "geom:bbox":"-73.958989244,40.8051042398,-73.9573941044,40.8063428399",
+    "geom:latitude":40.805592,
+    "geom:longitude":-73.958234,
+    "intersection:latitude":40.805597,
+    "intersection:longitude":-73.958182,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.805597,
+    "reversegeo:longitude":-73.958182,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869509,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817924,
+    "wof:geomhash":"e88a4f6999d65784cdc02e8cad891d01",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907471,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869509,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907471,
+    "wof:lastmodified":1490900166,
+    "wof:name":"Morningside Ave  & W 116th St",
+    "wof:parent_id":85869509,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95898924396037,
+    40.80510423981119,
+    -73.95739410440376,
+    40.80634283988488
+],
+  "geometry": {"coordinates":[[[-73.95758935074019,40.80510423981119],[-73.95897455518586,40.80521718966408],[-73.95898924396037,40.80536625352392],[-73.95855372800025,40.80634283988488],[-73.95739410440376,40.80557421329357],[-73.95758935074019,40.80510423981119]]],"type":"Polygon"}
+}

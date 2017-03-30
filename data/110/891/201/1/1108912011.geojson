@@ -1,0 +1,64 @@
+{
+  "id": 1108912011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9904.352826,
+    "geom:bbox":"-74.009787191,40.7277104978,-74.0079348212,40.7286177217",
+    "geom:latitude":40.72816,
+    "geom:longitude":-74.008705,
+    "intersection:latitude":40.728195,
+    "intersection:longitude":-74.008724,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.728195,
+    "reversegeo:longitude":-74.008724,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865687,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818147,
+    "wof:geomhash":"2df1ba85bf2496b9fdf0756fd79d3655",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912011,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865687,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912011,
+    "wof:lastmodified":1490900149,
+    "wof:name":"King St  & Greenwich St",
+    "wof:parent_id":85865687,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00978719101116,
+    40.72771049777969,
+    -74.00793482120562,
+    40.72861772169303
+],
+  "geometry": {"coordinates":[[[-74.00805349496082,40.72771049777969],[-74.00978719101116,40.72799984567217],[-74.00900322991588,40.72861772169303],[-74.00793482120562,40.72842333066379],[-74.00799351782308,40.72780762338684],[-74.00805349496082,40.72771049777969]]],"type":"Polygon"}
+}

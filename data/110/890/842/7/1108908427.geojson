@@ -1,0 +1,62 @@
+{
+  "id": 1108908427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11090.287156,
+    "geom:bbox":"-73.9703860822,40.7996073718,-73.9687667139,40.8010830458",
+    "geom:latitude":40.800357,
+    "geom:longitude":-73.969556,
+    "intersection:latitude":40.80033,
+    "intersection:longitude":-73.969505,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.80033,
+    "reversegeo:longitude":-73.969505,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817967,
+    "wof:geomhash":"e617250e6b1aa3244e4e259dd918c84a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908427,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908427,
+    "wof:lastmodified":1490900167,
+    "wof:name":"W 104th St  & W End Ave",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9703860821621,
+    40.79960737180119,
+    -73.96876671386744,
+    40.80108304578925
+],
+  "geometry": {"coordinates":[[[-73.96917541828137,40.79960737180119],[-73.97038608216209,40.800492236007],[-73.9702759390414,40.80075287571186],[-73.96987592529379,40.80108304578925],[-73.96876671386744,40.80027103933836],[-73.96898188572935,40.79975763294723],[-73.96917541828137,40.79960737180119]]],"type":"Polygon"}
+}

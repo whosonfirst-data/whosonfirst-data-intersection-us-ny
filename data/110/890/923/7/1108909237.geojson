@@ -1,0 +1,64 @@
+{
+  "id": 1108909237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17781.548108,
+    "geom:bbox":"-73.932910719,40.7957857208,-73.9307495895,40.7979977097",
+    "geom:latitude":40.796972,
+    "geom:longitude":-73.931737,
+    "intersection:latitude":40.796988,
+    "intersection:longitude":-73.931743,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.796988,
+    "reversegeo:longitude":-73.931743,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818003,
+    "wof:geomhash":"87f2aea05f9e67236ce3a2ca2fc02c60",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909237,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909237,
+    "wof:lastmodified":1490900178,
+    "wof:name":"E 119th St  & Pleasant Ave",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93291071895523,
+    40.79578572080325,
+    -73.93074958946445,
+    40.79799770972311
+],
+  "geometry": {"coordinates":[[[-73.93074958946445,40.79578572080325],[-73.93291071895523,40.79735588960659],[-73.93281313659158,40.79758826794715],[-73.93244226039745,40.79799770972311],[-73.93077551314128,40.79678274541384],[-73.93074958946445,40.79578572080325]]],"type":"Polygon"}
+}

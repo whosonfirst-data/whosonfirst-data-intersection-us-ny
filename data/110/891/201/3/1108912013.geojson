@@ -1,0 +1,64 @@
+{
+  "id": 1108912013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6739.78752,
+    "geom:bbox":"-74.0083470459,40.7085963339,-74.0072432697,40.7096601743",
+    "geom:latitude":40.709119,
+    "geom:longitude":-74.007836,
+    "intersection:latitude":40.70909,
+    "intersection:longitude":-74.007808,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.70909,
+    "reversegeo:longitude":-74.007808,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818147,
+    "wof:geomhash":"7c6f508b9e8563d00b6af9b9e4e85faf",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912013,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912013,
+    "wof:lastmodified":1490900149,
+    "wof:name":"John St  & Dutch St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00834704585921,
+    40.70859633392225,
+    -74.00724326974415,
+    40.70966017432382
+],
+  "geometry": {"coordinates":[[[-74.00826280691565,40.70859633392225],[-74.00833105503513,40.70860835245902],[-74.00834704585921,40.70898552733154],[-74.00786041524182,40.70966017432382],[-74.00760189279261,40.70964577386908],[-74.00724326974415,40.7092999915436],[-74.00767008720712,40.70873017385645],[-74.00826280691565,40.70859633392225]]],"type":"Polygon"}
+}

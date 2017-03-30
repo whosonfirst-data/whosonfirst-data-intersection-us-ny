@@ -1,0 +1,64 @@
+{
+  "id": 1108911713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6512.515194,
+    "geom:bbox":"-73.9989666486,40.7339198934,-73.9976169501,40.7351227766",
+    "geom:latitude":40.734437,
+    "geom:longitude":-73.998422,
+    "intersection:latitude":40.734784,
+    "intersection:longitude":-73.998714,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.734784,
+    "reversegeo:longitude":-73.998714,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818135,
+    "wof:geomhash":"9e37e7dcbc44a5cb88f84df894876494",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911713,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911713,
+    "wof:lastmodified":1490900143,
+    "wof:name":"W 10th St  & 6th Ave",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99896664862317,
+    40.73391989335239,
+    -73.99761695010132,
+    40.73512277658674
+],
+  "geometry": {"coordinates":[[[-73.99821171873219,40.73391989335239],[-73.99896664862317,40.73447041145749],[-73.99895203351842,40.73512277658674],[-73.99761695010132,40.73415514732118],[-73.99821171873219,40.73391989335239]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108912603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21915.095787,
+    "geom:bbox":"-73.9721981608,40.7872291861,-73.969330557,40.7896206805",
+    "geom:latitude":40.788425,
+    "geom:longitude":-73.970765,
+    "intersection:latitude":40.788421,
+    "intersection:longitude":-73.970763,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.788421,
+    "reversegeo:longitude":-73.970763,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818177,
+    "wof:geomhash":"e36afa00fea702bedf21f90907e0b113",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912603,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912603,
+    "wof:lastmodified":1490900134,
+    "wof:name":"Columbus Ave  & W 89th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97219816075553,
+    40.78722918606762,
+    -73.96933055699694,
+    40.78962068050125
+],
+  "geometry": {"coordinates":[[[-73.96978835993548,40.78722918606762],[-73.97219816075553,40.78898665227074],[-73.97217222641692,40.7890484255195],[-73.97173463378616,40.78962068050125],[-73.96933055699694,40.787855662099],[-73.96935875316824,40.78778896957036],[-73.96978835993548,40.78722918606762]]],"type":"Polygon"}
+}

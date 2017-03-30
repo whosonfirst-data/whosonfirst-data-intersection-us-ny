@@ -1,0 +1,66 @@
+{
+  "id": 1108907719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17505.560047,
+    "geom:bbox":"-73.9796243007,40.7236571146,-73.9771933923,40.7257140146",
+    "geom:latitude":40.724685,
+    "geom:longitude":-73.97841,
+    "intersection:latitude":40.724692,
+    "intersection:longitude":-73.978413,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.724692,
+    "reversegeo:longitude":-73.978413,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189647,
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817935,
+    "wof:geomhash":"5c6a2f98d935eceb0fc714b8330ca4ee",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907719,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189647,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907719,
+    "wof:lastmodified":1490900168,
+    "wof:name":"E 8th St  & Ave C",
+    "wof:parent_id":907189647,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97962430070112,
+    40.72365711461728,
+    -73.97719339231126,
+    40.72571401457169
+],
+  "geometry": {"coordinates":[[[-73.97763498295852,40.72365711461728],[-73.97962430070112,40.72510833821638],[-73.97956024694244,40.72526024818787],[-73.97918470799249,40.72571401457169],[-73.97719339231126,40.72425728028139],[-73.97725330193543,40.72411494265985],[-73.97763498295852,40.72365711461728]]],"type":"Polygon"}
+}

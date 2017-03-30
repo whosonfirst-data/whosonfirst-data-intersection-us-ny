@@ -1,0 +1,64 @@
+{
+  "id": 1108907997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15762.220899,
+    "geom:bbox":"-73.9522273982,40.8033262724,-73.95013717,40.8052849971",
+    "geom:latitude":40.804281,
+    "geom:longitude":-73.951228,
+    "intersection:latitude":40.804526,
+    "intersection:longitude":-73.951572,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.804526,
+    "reversegeo:longitude":-73.951572,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817945,
+    "wof:geomhash":"3f4f66553014d121a001bb138129da4d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907997,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907997,
+    "wof:lastmodified":1490900164,
+    "wof:name":"7th Ave  & W 118th St",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95222739823228,
+    40.80332627239308,
+    -73.9501371700138,
+    40.80528499706907
+],
+  "geometry": {"coordinates":[[[-73.95059902394557,40.80332627239308],[-73.95218744083115,40.804494821121],[-73.95222739823228,40.80463169900407],[-73.95195134130583,40.80528499706907],[-73.9501371700138,40.80395903429352],[-73.95016466063208,40.8038936089225],[-73.95059902394557,40.80332627239308]]],"type":"Polygon"}
+}

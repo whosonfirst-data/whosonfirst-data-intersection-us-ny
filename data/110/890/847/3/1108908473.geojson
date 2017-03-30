@@ -1,0 +1,64 @@
+{
+  "id": 1108908473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10070.706886,
+    "geom:bbox":"-73.9976977389,40.7171917584,-73.996514963,40.7186135621",
+    "geom:latitude":40.717899,
+    "geom:longitude":-73.997109,
+    "intersection:latitude":40.71787,
+    "intersection:longitude":-73.997108,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.71787,
+    "reversegeo:longitude":-73.997108,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817968,
+    "wof:geomhash":"faed6c1937eae88ae198c7df27d7d066",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908473,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908473,
+    "wof:lastmodified":1490900176,
+    "wof:name":"Hester St  & Mott St",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99769773888183,
+    40.7171917584401,
+    -73.99651496296394,
+    40.7186135620565
+],
+  "geometry": {"coordinates":[[[-73.99719327849274,40.7171917584401],[-73.99769773888183,40.71750465763977],[-73.99732090135836,40.71858152320159],[-73.997082006512,40.7186135620565],[-73.99651496296394,40.71831030447138],[-73.99689770992497,40.71721933594379],[-73.99719327849274,40.7171917584401]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108907087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":36910.998329,
+    "geom:bbox":"-73.9627636786,40.7826764893,-73.9581244201,40.7864969817",
+    "geom:latitude":40.784491,
+    "geom:longitude":-73.960415,
+    "intersection:latitude":40.783467,
+    "intersection:longitude":-73.959004,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.783467,
+    "reversegeo:longitude":-73.959004,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817903,
+    "wof:geomhash":"0e318f61b3b5a96a676568ceadd7b927",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907087,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907087,
+    "wof:lastmodified":1490900164,
+    "wof:name":"5th Ave  & E 89th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9627636785719,
+    40.78267648928296,
+    -73.95812442010316,
+    40.78649698167701
+],
+  "geometry": {"coordinates":[[[-73.95859089614063,40.78267648928296],[-73.96233383522565,40.78542170485793],[-73.9627636785719,40.78630666293906],[-73.96262144380762,40.78649698167701],[-73.95812442010316,40.78331841975596],[-73.95828154629538,40.78294675587823],[-73.95859089614063,40.78267648928296]]],"type":"Polygon"}
+}

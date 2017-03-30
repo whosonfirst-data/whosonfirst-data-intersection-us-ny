@@ -1,0 +1,66 @@
+{
+  "id": 1108909959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":73740.748412,
+    "geom:bbox":"-73.973059703,40.7395516096,-73.9663258878,40.7439373411",
+    "geom:latitude":40.741866,
+    "geom:longitude":-73.970708,
+    "intersection:latitude":40.743214,
+    "intersection:longitude":-73.972134,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.743214,
+    "reversegeo:longitude":-73.972134,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189665,
+        85868041,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818045,
+    "wof:geomhash":"c5b50bb1cf965ece9d7b9c3fdccf97be",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909959,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907189665,
+            "neighbourhood_id":85868041,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909959,
+    "wof:lastmodified":1490900164,
+    "wof:name":"E 34th St  & F D R Dr",
+    "wof:parent_id":907189665,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97305970302406,
+    40.73955160960365,
+    -73.96632588778135,
+    40.74393734111854
+],
+  "geometry": {"coordinates":[[[-73.96632588778135,40.73955160960365],[-73.97299529395769,40.74190492510935],[-73.97305970302406,40.74292320177744],[-73.9727296752681,40.74372406138479],[-73.97243458524842,40.74393734111854],[-73.96632588778135,40.73955160960365]]],"type":"Polygon"}
+}

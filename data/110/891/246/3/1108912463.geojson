@@ -1,0 +1,64 @@
+{
+  "id": 1108912463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9570.278394,
+    "geom:bbox":"-74.0142188167,40.7096444844,-74.0131432221,40.7111960498",
+    "geom:latitude":40.710315,
+    "geom:longitude":-74.013587,
+    "intersection:latitude":40.710062,
+    "intersection:longitude":-74.01369,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.710062,
+    "reversegeo:longitude":-74.01369,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818172,
+    "wof:geomhash":"68ec7f19c8af75f6ac2529a1403a5b29",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912463,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912463,
+    "wof:lastmodified":1490900142,
+    "wof:name":"Washington St  & Cedar St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01421881673676,
+    40.70964448438166,
+    -74.01314322211418,
+    40.71119604979256
+],
+  "geometry": {"coordinates":[[[-74.01340542558421,40.70964448438166],[-74.01421881673676,40.7099314787777],[-74.01395906226546,40.71063273286159],[-74.01322547510371,40.71119604979256],[-74.01314322211418,40.70990298441284],[-74.01340542558421,40.70964448438166]]],"type":"Polygon"}
+}

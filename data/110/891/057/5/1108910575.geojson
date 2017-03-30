@@ -1,0 +1,62 @@
+{
+  "id": 1108910575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13898.803321,
+    "geom:bbox":"-73.9412790952,40.8321087245,-73.9388004443,40.8336046561",
+    "geom:latitude":40.832892,
+    "geom:longitude":-73.940164,
+    "intersection:latitude":40.833098,
+    "intersection:longitude":-73.940653,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.833098,
+    "reversegeo:longitude":-73.940653,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818074,
+    "wof:geomhash":"ae1b4e3ab2b89eba8eab84a7d959e05a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910575,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910575,
+    "wof:lastmodified":1490900160,
+    "wof:name":"St Nicholas Ave  & W 158th St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94127909515049,
+    40.83210872448551,
+    -73.93880044426346,
+    40.83360465606501
+],
+  "geometry": {"coordinates":[[[-73.93880044426346,40.83210872448551],[-73.94127909515049,40.83290272128777],[-73.94100629208971,40.83355071621879],[-73.94088843642569,40.83360465606501],[-73.9394718068625,40.8330013530679],[-73.93880044426346,40.83210872448551]]],"type":"Polygon"}
+}

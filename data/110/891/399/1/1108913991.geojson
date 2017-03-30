@@ -1,0 +1,64 @@
+{
+  "id": 1108913991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17110.137495,
+    "geom:bbox":"-73.9823302249,40.7127247505,-73.9800301941,40.713948399",
+    "geom:latitude":40.713291,
+    "geom:longitude":-73.981161,
+    "intersection:latitude":40.713555,
+    "intersection:longitude":-73.980853,
+    "iso:country":"US",
+    "mz:colour_id":5,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.713555,
+    "reversegeo:longitude":-73.980853,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818243,
+    "wof:geomhash":"f5b5b554f7ca49c792fab94793e99c9b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913991,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913991,
+    "wof:lastmodified":1490900146,
+    "wof:name":"Jackson St  & Madison St",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98233022487419,
+    40.71272475045408,
+    -73.98003019407567,
+    40.71394839904974
+],
+  "geometry": {"coordinates":[[[-73.9822911545595,40.71272475045408],[-73.98233022487419,40.71305905549144],[-73.98142358117762,40.7138566217455],[-73.98049400819617,40.71394839904974],[-73.98003019407567,40.71295974263503],[-73.9822911545595,40.71272475045408]]],"type":"Polygon"}
+}

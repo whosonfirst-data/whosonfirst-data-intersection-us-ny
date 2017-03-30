@@ -1,0 +1,64 @@
+{
+  "id": 1108909427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9613.606547,
+    "geom:bbox":"-73.9778369774,40.7554246733,-73.9763995065,40.7567682019",
+    "geom:latitude":40.756088,
+    "geom:longitude":-73.977112,
+    "intersection:latitude":40.75598,
+    "intersection:longitude":-73.97696,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.75598,
+    "reversegeo:longitude":-73.97696,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818018,
+    "wof:geomhash":"6b1071622c1b04472ca123f7e27eeb47",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909427,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909427,
+    "wof:lastmodified":1490900163,
+    "wof:name":"Madison Ave  & E 47th St",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97783697742355,
+    40.75542467327291,
+    -73.9763995065373,
+    40.75676820189338
+],
+  "geometry": {"coordinates":[[[-73.97685656010688,40.75542467327291],[-73.97783697742355,40.75614040923733],[-73.97768506285139,40.75650162833112],[-73.97738436049397,40.75676820189338],[-73.97639950653731,40.75605080028916],[-73.97661943989311,40.75552932672709],[-73.97685656010688,40.75542467327291]]],"type":"Polygon"}
+}

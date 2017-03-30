@@ -1,0 +1,62 @@
+{
+  "id": 1108913845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20758.408316,
+    "geom:bbox":"-73.9352624645,40.8473826787,-73.9334408757,40.8493193978",
+    "geom:latitude":40.848275,
+    "geom:longitude":-73.934356,
+    "intersection:latitude":40.848626,
+    "intersection:longitude":-73.934239,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.848626,
+    "reversegeo:longitude":-73.934239,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818238,
+    "wof:geomhash":"3fb895cf7931b6014c784173875d07a0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913845,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913845,
+    "wof:lastmodified":1490900153,
+    "wof:name":"St Nicholas Ave  & W 180th St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93526246451331,
+    40.84738267872272,
+    -73.93344087565644,
+    40.84931939781608
+],
+  "geometry": {"coordinates":[[[-73.93452705343057,40.84738267872272],[-73.93526246451331,40.84791826246547],[-73.93474441023709,40.84914801751041],[-73.93445822634287,40.84931939781608],[-73.93344087565644,40.84857578033593],[-73.93394488967702,40.84738431862063],[-73.93452705343057,40.84738267872272]]],"type":"Polygon"}
+}

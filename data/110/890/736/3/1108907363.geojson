@@ -1,0 +1,62 @@
+{
+  "id": 1108907363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13288.467987,
+    "geom:bbox":"-73.9205738108,40.8673418202,-73.9190562135,40.8689837377",
+    "geom:latitude":40.868115,
+    "geom:longitude":-73.919803,
+    "intersection:latitude":40.868114,
+    "intersection:longitude":-73.919754,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.868114,
+    "reversegeo:longitude":-73.919754,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817919,
+    "wof:geomhash":"492e5095d3af70c05832d9550041be4a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907363,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907363,
+    "wof:lastmodified":1490900167,
+    "wof:name":"W 211th St  & Isham St",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92057381078531,
+    40.86734182019843,
+    -73.91905621353705,
+    40.86898373769126
+],
+  "geometry": {"coordinates":[[[-73.92003347653716,40.86734182019843],[-73.92038649358597,40.86756535424115],[-73.92057381078531,40.86821495783033],[-73.91936902679831,40.86898373769126],[-73.91905621353705,40.86796964470027],[-73.92003347653716,40.86734182019843]]],"type":"Polygon"}
+}

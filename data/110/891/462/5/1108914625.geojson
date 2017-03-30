@@ -1,0 +1,64 @@
+{
+  "id": 1108914625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24011.945735,
+    "geom:bbox":"-73.9360789294,40.8279366651,-73.934063625,40.8301569792",
+    "geom:latitude":40.829186,
+    "geom:longitude":-73.935155,
+    "intersection:latitude":40.828196,
+    "intersection:longitude":-73.935016,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.828196,
+    "reversegeo:longitude":-73.935016,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818281,
+    "wof:geomhash":"c31bc5ee65f23ac48a041d03b13f6720",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914625,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914625,
+    "wof:lastmodified":1490900139,
+    "wof:name":"W 155th St  & Harlem River Dr",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93607892939617,
+    40.82793666510223,
+    -73.93406362497088,
+    40.83015697922938
+],
+  "geometry": {"coordinates":[[[-73.93533963947939,40.82793666510223],[-73.9354303194046,40.82797100944516],[-73.93607892939617,40.82882699030439],[-73.93555740459199,40.83005458783411],[-73.93406362497088,40.83015697922938],[-73.93501802845761,40.82808910500852],[-73.93533963947939,40.82793666510223]]],"type":"Polygon"}
+}

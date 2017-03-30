@@ -1,0 +1,62 @@
+{
+  "id": 1108909631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":156463.655634,
+    "geom:bbox":"-73.9661039749,40.7799046198,-73.9616006044,40.7863066629",
+    "geom:latitude":40.782563,
+    "geom:longitude":-73.963509,
+    "intersection:latitude":40.781596,
+    "intersection:longitude":-73.962856,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.781596,
+    "reversegeo:longitude":-73.962856,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818032,
+    "wof:geomhash":"60af3a7ebafc7e42f024b80c5fe607c1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909631,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909631,
+    "wof:lastmodified":1490900169,
+    "wof:name":"East Dr  & 85th St Transverse",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96610397494479,
+    40.77990461977856,
+    -73.9616006044079,
+    40.78630666293906
+],
+  "geometry": {"coordinates":[[[-73.96467287235168,40.77990461977856],[-73.96610397494479,40.78141881865125],[-73.96292797490624,40.78622582704293],[-73.9627636785719,40.78630666293906],[-73.96233383522565,40.78542170485793],[-73.96184857507969,40.78409302570325],[-73.96160060440791,40.78291345694849],[-73.96162721765377,40.78189882694992],[-73.96192812838676,40.78111750779468],[-73.96245589818885,40.78053520827135],[-73.9632577116205,40.78012991788367],[-73.96428745443785,40.77991495081006],[-73.96467287235168,40.77990461977856]]],"type":"Polygon"}
+}

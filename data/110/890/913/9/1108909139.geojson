@@ -1,0 +1,66 @@
+{
+  "id": 1108909139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":74039.113503,
+    "geom:bbox":"-73.9999700971,40.704642271,-73.9968614044,40.7102890057",
+    "geom:latitude":40.708144,
+    "geom:longitude":-73.998393,
+    "intersection:latitude":40.708663,
+    "intersection:longitude":-73.999146,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.708663,
+    "reversegeo:longitude":-73.999146,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212755,
+        85869743,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817996,
+    "wof:geomhash":"1c4b74d0127f1f763cdea6d9b480a2c9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909139,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907212755,
+            "neighbourhood_id":85869743,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909139,
+    "wof:lastmodified":1490900177,
+    "wof:name":"South St  & Robert F Wagner Sr Pl",
+    "wof:parent_id":907212755,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99997009714909,
+    40.70464227103601,
+    -73.99686140442054,
+    40.71028900565313
+],
+  "geometry": {"coordinates":[[[-73.99686140442054,40.70464227103601],[-73.99981951524761,40.70852528451505],[-73.99997009714909,40.70917080789079],[-73.99993085295301,40.70969615890611],[-73.99983866320723,40.70981738263331],[-73.99903584910454,40.71028900565313],[-73.99812786664243,40.7101567327105],[-73.99798914311833,40.71003529184684],[-73.99765331459645,40.70915159598748],[-73.99686140442054,40.70464227103601]]],"type":"Polygon"}
+}

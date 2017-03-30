@@ -1,0 +1,62 @@
+{
+  "id": 1108912727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17619.925844,
+    "geom:bbox":"-73.944504572,40.8385028356,-73.9423550424,40.8400420841",
+    "geom:latitude":40.839283,
+    "geom:longitude":-73.94349,
+    "intersection:latitude":40.839174,
+    "intersection:longitude":-73.943465,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.839174,
+    "reversegeo:longitude":-73.943465,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818183,
+    "wof:geomhash":"5cd527339f30f854ec1cb407ed5dc009",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912727,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912727,
+    "wof:lastmodified":1490900130,
+    "wof:name":"Fort Washington Ave  & W 164th St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94450457198981,
+    40.83850283560709,
+    -73.94235504241162,
+    40.84004208409327
+],
+  "geometry": {"coordinates":[[[-73.94278815550051,40.83850283560709],[-73.94450457198981,40.83918250698591],[-73.94448608695342,40.83984478122088],[-73.94418128243369,40.84004208409327],[-73.94235504241162,40.83932700090503],[-73.94264319818434,40.83864282356232],[-73.94278815550051,40.83850283560709]]],"type":"Polygon"}
+}

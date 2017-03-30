@@ -1,0 +1,64 @@
+{
+  "id": 1108911029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12191.422274,
+    "geom:bbox":"-73.981093801,40.7507333826,-73.9793416491,40.7523054842",
+    "geom:latitude":40.75152,
+    "geom:longitude":-73.980217,
+    "intersection:latitude":40.751522,
+    "intersection:longitude":-73.980221,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.751522,
+    "reversegeo:longitude":-73.980221,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818093,
+    "wof:geomhash":"1fb581597cedf4388218bd3200cba29f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911029,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911029,
+    "wof:lastmodified":1490900153,
+    "wof:name":"E 40th St  & Madison Ave",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98109380100372,
+    40.75073338258399,
+    -73.97934164908125,
+    40.75230548416484
+],
+  "geometry": {"coordinates":[[[-73.97979356524131,40.75073338258399],[-73.98109380100372,40.75168801273043],[-73.98094853845406,40.75203255397785],[-73.98064217372634,40.75230548416484],[-73.97934164908125,40.7513537270336],[-73.97948802214884,40.75100630625261],[-73.97979356524131,40.75073338258399]]],"type":"Polygon"}
+}

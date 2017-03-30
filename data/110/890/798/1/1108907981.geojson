@@ -1,0 +1,62 @@
+{
+  "id": 1108907981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21634.437795,
+    "geom:bbox":"-73.9143666871,40.8707688179,-73.9125103018,40.8738694823",
+    "geom:latitude":40.872142,
+    "geom:longitude":-73.913554,
+    "intersection:latitude":40.871746,
+    "intersection:longitude":-73.913318,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.871746,
+    "reversegeo:longitude":-73.913318,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817945,
+    "wof:geomhash":"daa0cd7eabfbe73f1ddf51fd03db0c2f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907981,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907981,
+    "wof:lastmodified":1490900167,
+    "wof:name":"W 219th St  & Broadway",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9143666870739,
+    40.8707688178951,
+    -73.91251030178417,
+    40.8738694823016
+],
+  "geometry": {"coordinates":[[[-73.91308415781282,40.8707688178951],[-73.9138243303457,40.87164299262864],[-73.91422669078352,40.87216152755905],[-73.91436668707389,40.8738694823016],[-73.91425957000061,40.87385484099404],[-73.91251030178417,40.87136596084728],[-73.91258343625805,40.87119761259669],[-73.91308415781282,40.8707688178951]]],"type":"Polygon"}
+}

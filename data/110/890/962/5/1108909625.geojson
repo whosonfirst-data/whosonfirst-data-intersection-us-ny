@@ -1,0 +1,64 @@
+{
+  "id": 1108909625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16707.00499,
+    "geom:bbox":"-73.9834218849,40.7349826864,-73.9810358251,40.7369985241",
+    "geom:latitude":40.735992,
+    "geom:longitude":-73.982231,
+    "intersection:latitude":40.73602,
+    "intersection:longitude":-73.982267,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.73602,
+    "reversegeo:longitude":-73.982267,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865705,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818032,
+    "wof:geomhash":"1126629e9f49e3f486b4913115dd417e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909625,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85865705,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909625,
+    "wof:lastmodified":1490900171,
+    "wof:name":"2nd Ave  & E 20th St",
+    "wof:parent_id":85865705,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98342188487919,
+    40.7349826863885,
+    -73.98103582513681,
+    40.7369985241103
+],
+  "geometry": {"coordinates":[[[-73.98145876351128,40.7349826863885],[-73.98342188487919,40.73640919902939],[-73.98335500058242,40.73656831549336],[-73.98299329350284,40.7369985241103],[-73.98103582513681,40.73556573798678],[-73.98109208648772,40.73543636379903],[-73.98145876351128,40.7349826863885]]],"type":"Polygon"}
+}

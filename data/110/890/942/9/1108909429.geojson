@@ -1,0 +1,66 @@
+{
+  "id": 1108909429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10221.04329,
+    "geom:bbox":"-73.9928280716,40.7169016072,-73.9916324313,40.7182899819",
+    "geom:latitude":40.717587,
+    "geom:longitude":-73.992231,
+    "intersection:latitude":40.717658,
+    "intersection:longitude":-73.99222,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.717658,
+    "reversegeo:longitude":-73.99222,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189673,
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818018,
+    "wof:geomhash":"2146e647a338dcc50ffcd7cec551385d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909429,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189673,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909429,
+    "wof:lastmodified":1490900163,
+    "wof:name":"Grand St  & Eldridge St",
+    "wof:parent_id":907189673,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99282807158973,
+    40.71690160718813,
+    -73.99163243134349,
+    40.71828998188008
+],
+  "geometry": {"coordinates":[[[-73.99219484797673,40.71690160718813],[-73.99282807158973,40.71722465855679],[-73.99252828463258,40.71821827063062],[-73.99231493919466,40.71828998188008],[-73.99163243134349,40.71794098056807],[-73.99192821067163,40.71695931296011],[-73.99219484797673,40.71690160718813]]],"type":"Polygon"}
+}

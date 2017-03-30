@@ -1,0 +1,64 @@
+{
+  "id": 1108909187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22108.625584,
+    "geom:bbox":"-73.9665175252,40.7998936803,-73.9637790469,40.8022945933",
+    "geom:latitude":40.801077,
+    "geom:longitude":-73.965186,
+    "intersection:latitude":40.801111,
+    "intersection:longitude":-73.965215,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.801111,
+    "reversegeo:longitude":-73.965215,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214381,
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817998,
+    "wof:geomhash":"198b207c956274da9ecb5fbbd486d56d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909187,
+            "locality_id":85977539,
+            "microhood_id":907214381,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909187,
+    "wof:lastmodified":1490900171,
+    "wof:name":"W 107th St  & Amsterdam Ave",
+    "wof:parent_id":907214381,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96651752520062,
+    40.79989368025442,
+    -73.96377904685437,
+    40.80229459325675
+],
+  "geometry": {"coordinates":[[[-73.96426675905541,40.79989368025442],[-73.96651752520062,40.80155003041468],[-73.96650952380848,40.80163771645266],[-73.96628240016921,40.80217455414552],[-73.96619016758626,40.80229459325675],[-73.96377904685437,40.8005532282837],[-73.96382195698304,40.80045140642319],[-73.96426675905541,40.79989368025442]]],"type":"Polygon"}
+}

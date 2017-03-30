@@ -1,0 +1,64 @@
+{
+  "id": 1108913465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8431.835522,
+    "geom:bbox":"-74.0081181594,40.7066310286,-74.0069090017,40.707803164",
+    "geom:latitude":40.707161,
+    "geom:longitude":-74.007553,
+    "intersection:latitude":40.707219,
+    "intersection:longitude":-74.007459,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.707219,
+    "reversegeo:longitude":-74.007459,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818217,
+    "wof:geomhash":"5db9f7cd8a9d6b02a6398b30ce448b04",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913465,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913465,
+    "wof:lastmodified":1490900151,
+    "wof:name":"Maiden Ln  & Liberty St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0081181593942,
+    40.7066310285824,
+    -74.00690900169015,
+    40.70780316397024
+],
+  "geometry": {"coordinates":[[[-74.0081181593942,40.7066310285824],[-74.00806564170952,40.70714578869835],[-74.00782783778632,40.70752873338582],[-74.00745343435246,40.7077979284669],[-74.00742083538967,40.70780316397024],[-74.00690900169015,40.70730574812142],[-74.0069248083005,40.70723885347931],[-74.00722866368287,40.70682266368286],[-74.0077140618928,40.70663345039961],[-74.0081181593942,40.7066310285824]]],"type":"Polygon"}
+}

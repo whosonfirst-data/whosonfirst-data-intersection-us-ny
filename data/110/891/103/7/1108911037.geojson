@@ -1,0 +1,62 @@
+{
+  "id": 1108911037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000448,
+    "geom:area_square_m":4188949.92876,
+    "geom:bbox":"-74.026017,40.7845788327,-73.982780336,40.8239475295",
+    "geom:latitude":40.803067,
+    "geom:longitude":-74.007625,
+    "intersection:latitude":40.785534,
+    "intersection:longitude":-73.983997,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.785534,
+    "reversegeo:longitude":-73.983997,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818093,
+    "wof:geomhash":"12da14bbf1369b022c9d161eaba56560",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911037,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911037,
+    "wof:lastmodified":1490900146,
+    "wof:name":"W 79th St  & Henry Hudson Pkwy",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.026017,
+    40.78457883270742,
+    -73.9827803359821,
+    40.82394752949876
+],
+  "geometry": {"coordinates":[[[-73.98533544549628,40.78457883270742],[-73.98958180113152,40.78540380786283],[-74.026017,40.80962330309548],[-74.026017,40.82394752949876],[-74.01098040881644,40.81152792616123],[-73.9857763713734,40.79022644935433],[-73.98390633370181,40.78837969277082],[-73.98326773182173,40.78753591047185],[-73.9827803359821,40.78656041395406],[-73.98338043453128,40.78510149816096],[-73.98415340560447,40.7846433442649],[-73.98533544549628,40.78457883270742]]],"type":"Polygon"}
+}

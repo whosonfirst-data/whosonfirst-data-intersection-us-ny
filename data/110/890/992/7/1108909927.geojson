@@ -1,0 +1,64 @@
+{
+  "id": 1108909927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9853.786053,
+    "geom:bbox":"-73.9528653982,40.8072818867,-73.9511522449,40.808725256",
+    "geom:latitude":40.807954,
+    "geom:longitude":-73.952058,
+    "intersection:latitude":40.808238,
+    "intersection:longitude":-73.952585,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.808238,
+    "reversegeo:longitude":-73.952585,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818044,
+    "wof:geomhash":"b4a4fcb3c52d82f689d7e23ba15d7ffe",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909927,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909927,
+    "wof:lastmodified":1490900181,
+    "wof:name":"Frederick Douglass Blvd  & W 122nd St",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9528653982416,
+    40.80728188671998,
+    -73.95115224493543,
+    40.80872525599295
+],
+  "geometry": {"coordinates":[[[-73.95142433091961,40.80728188671998],[-73.95232230868382,40.80769824559612],[-73.9528653982416,40.80809192623628],[-73.95259273856433,40.80872525599295],[-73.95115224493543,40.8076633536383],[-73.9511761071837,40.80760668577825],[-73.95142433091961,40.80728188671998]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108908067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3559.779578,
+    "geom:bbox":"-73.9603632293,40.8190861395,-73.9595534526,40.8200351792",
+    "geom:latitude":40.819541,
+    "geom:longitude":-73.959928,
+    "intersection:latitude":40.819662,
+    "intersection:longitude":-73.960008,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.819662,
+    "reversegeo:longitude":-73.960008,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817949,
+    "wof:geomhash":"55f5c8d9bbd9b78492709055e23fe6c9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908067,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908067,
+    "wof:lastmodified":1490900166,
+    "wof:name":"Henry Hudson Pkwy  & W 132nd St",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96036322930694,
+    40.81908613946713,
+    -73.95955345258083,
+    40.82003517924296
+],
+  "geometry": {"coordinates":[[[-73.96036322930694,40.81908613946713],[-73.95993156927976,40.82003517924296],[-73.95966766153903,40.81989201495023],[-73.95955345258083,40.81979129297957],[-73.95978289086587,40.81923772759341],[-73.96036322930694,40.81908613946713]]],"type":"Polygon"}
+}

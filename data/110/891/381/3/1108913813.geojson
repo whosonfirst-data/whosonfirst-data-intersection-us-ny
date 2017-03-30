@@ -1,0 +1,66 @@
+{
+  "id": 1108913813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11643.329276,
+    "geom:bbox":"-73.9892251732,40.7502232222,-73.9873581684,40.7512545952",
+    "geom:latitude":40.750744,
+    "geom:longitude":-73.98829,
+    "intersection:latitude":40.750661,
+    "intersection:longitude":-73.987779,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.750661,
+    "reversegeo:longitude":-73.987779,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212749,
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818236,
+    "wof:geomhash":"e8ec20f71219a3afc65b2e74c3a22e13",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913813,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907212749,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913813,
+    "wof:lastmodified":1490900159,
+    "wof:name":"Broadway  & W 35th St",
+    "wof:parent_id":907212749,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98922517318833,
+    40.75022322222878,
+    -73.98735816843653,
+    40.75125459523549
+],
+  "geometry": {"coordinates":[[[-73.98768058934424,40.75022322222878],[-73.98922517318833,40.75052600665478],[-73.98891641250742,40.75125459523549],[-73.98736270890187,40.75097788021339],[-73.98735816843653,40.75096786099179],[-73.98768058934424,40.75022322222878]]],"type":"Polygon"}
+}

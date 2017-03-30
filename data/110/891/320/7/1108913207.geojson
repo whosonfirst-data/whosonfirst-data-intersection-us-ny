@@ -1,0 +1,62 @@
+{
+  "id": 1108913207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16927.025424,
+    "geom:bbox":"-73.9814632129,40.7736645464,-73.9792287772,40.7757148561",
+    "geom:latitude":40.774665,
+    "geom:longitude":-73.980391,
+    "intersection:latitude":40.774852,
+    "intersection:longitude":-73.98066,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.774852,
+    "reversegeo:longitude":-73.98066,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818204,
+    "wof:geomhash":"8a918afd2a89c482f7539045c3a694e4",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913207,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913207,
+    "wof:lastmodified":1490900141,
+    "wof:name":"Columbus Ave  & W 68th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98146321294162,
+    40.77366454644433,
+    -73.97922877721092,
+    40.7757148561182
+],
+  "geometry": {"coordinates":[[[-73.97968249345307,40.77366454644433],[-73.98145113269021,40.77494928598615],[-73.98146321294162,40.77505689100023],[-73.98118521178581,40.7757148561182],[-73.97922877721092,40.77428887429887],[-73.97925850654691,40.77421845355568],[-73.97968249345307,40.77366454644433]]],"type":"Polygon"}
+}

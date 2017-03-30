@@ -1,0 +1,64 @@
+{
+  "id": 1108909769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12401.484921,
+    "geom:bbox":"-73.9751621108,40.7621613609,-73.9730726124,40.7634702718",
+    "geom:latitude":40.762913,
+    "geom:longitude":-73.973954,
+    "intersection:latitude":40.762967,
+    "intersection:longitude":-73.973968,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.762967,
+    "reversegeo:longitude":-73.973968,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818038,
+    "wof:geomhash":"541ef71db3e900db352e5d069a49d2a9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909769,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909769,
+    "wof:lastmodified":1490900172,
+    "wof:name":"E 57th St  & W 57th St",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97516211077368,
+    40.76216136086231,
+    -73.97307261238589,
+    40.76347027183269
+],
+  "geometry": {"coordinates":[[[-73.97356656384704,40.76216136086231],[-73.97516211077368,40.76331896093224],[-73.97393286602032,40.76347027183269],[-73.97307261238589,40.7628449718643],[-73.9732517332131,40.76242104377988],[-73.97356656384704,40.76216136086231]]],"type":"Polygon"}
+}

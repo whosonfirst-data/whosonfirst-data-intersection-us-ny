@@ -1,0 +1,66 @@
+{
+  "id": 1108914477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9628.994383,
+    "geom:bbox":"-73.9713731093,40.7485571719,-73.9699700268,40.7499177573",
+    "geom:latitude":40.749242,
+    "geom:longitude":-73.970666,
+    "intersection:latitude":40.749072,
+    "intersection:longitude":-73.970412,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.749072,
+    "reversegeo:longitude":-73.970412,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215757,
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818274,
+    "wof:geomhash":"5bc166e8da2981ddaa57e374079f2fe4",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914477,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907215757,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914477,
+    "wof:lastmodified":1490900152,
+    "wof:name":"E 42nd St  & Tudor City Pl",
+    "wof:parent_id":907215757,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97137310928598,
+    40.74855717185994,
+    -73.96997002682234,
+    40.74991775727548
+],
+  "geometry": {"coordinates":[[[-73.97044355102258,40.74855717185994],[-73.97137310928598,40.74929103364685],[-73.97123174891844,40.74962815271243],[-73.97091520957284,40.74991775727548],[-73.96997002682234,40.74926523110994],[-73.97028795629915,40.74859300383982],[-73.97044355102258,40.74855717185994]]],"type":"Polygon"}
+}

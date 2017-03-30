@@ -1,0 +1,64 @@
+{
+  "id": 1108911113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11043.666054,
+    "geom:bbox":"-73.9921747264,40.7327181124,-73.9904598848,40.7337685416",
+    "geom:latitude":40.733245,
+    "geom:longitude":-73.991285,
+    "intersection:latitude":40.733214,
+    "intersection:longitude":-73.991114,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.733214,
+    "reversegeo:longitude":-73.991114,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529189,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818100,
+    "wof:geomhash":"cab16a590c7b4294bba056124f6f5429",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911113,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":420529189,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911113,
+    "wof:lastmodified":1490900158,
+    "wof:name":"E 12th St  & Broadway",
+    "wof:parent_id":420529189,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99217472642327,
+    40.73271811244459,
+    -73.99045988477344,
+    40.73376854160325
+],
+  "geometry": {"coordinates":[[[-73.99068295124228,40.73271811244459],[-73.99217472642327,40.73304249584987],[-73.99190278329897,40.73368701641849],[-73.99180951056154,40.73376854160325],[-73.99051925807173,40.73348313234833],[-73.99045988477344,40.73324753002456],[-73.99068295124228,40.73271811244459]]],"type":"Polygon"}
+}

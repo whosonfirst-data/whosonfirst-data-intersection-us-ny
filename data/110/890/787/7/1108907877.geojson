@@ -1,0 +1,64 @@
+{
+  "id": 1108907877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17672.862195,
+    "geom:bbox":"-73.9609405268,40.765833065,-73.958557629,40.7678652393",
+    "geom:latitude":40.76685,
+    "geom:longitude":-73.959752,
+    "intersection:latitude":40.766868,
+    "intersection:longitude":-73.959777,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.766868,
+    "reversegeo:longitude":-73.959777,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817941,
+    "wof:geomhash":"9917a0e8fb4a7026c7848fe9fb1325e7",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907877,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907877,
+    "wof:lastmodified":1490900165,
+    "wof:name":"2nd Ave  & E 69th St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96094052684029,
+    40.76583306495917,
+    -73.9585576289669,
+    40.76786523931079
+],
+  "geometry": {"coordinates":[[[-73.95901213332097,40.76583306495917],[-73.96094052684029,40.7672332997439],[-73.96085164428402,40.7674439250388],[-73.96048068912535,40.76786523931079],[-73.9585576289669,40.76645519999326],[-73.95863215696853,40.76627894126939],[-73.95901213332097,40.76583306495917]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108912015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15911.479299,
+    "geom:bbox":"-73.9891549735,40.7233273932,-73.9868355863,40.7249836747",
+    "geom:latitude":40.724058,
+    "geom:longitude":-73.988103,
+    "intersection:latitude":40.723942,
+    "intersection:longitude":-73.987968,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.723942,
+    "reversegeo:longitude":-73.987968,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818147,
+    "wof:geomhash":"0b25c9626095fe6f994ccc9f730b50cb",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912015,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912015,
+    "wof:lastmodified":1490900149,
+    "wof:name":"1st Ave  & E 2nd St",
+    "wof:parent_id":85816887,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98915497349515,
+    40.72332739318632,
+    -73.98683558633068,
+    40.72498367473518
+],
+  "geometry": {"coordinates":[[[-73.98782109206813,40.72332739318632],[-73.98902865564845,40.72420446568155],[-73.98915497349515,40.7244386800223],[-73.98911528644506,40.72453435559845],[-73.98872786090129,40.72498367473518],[-73.98683558633068,40.72361015456406],[-73.98725298610314,40.72337439311755],[-73.98782109206813,40.72332739318632]]],"type":"Polygon"}
+}

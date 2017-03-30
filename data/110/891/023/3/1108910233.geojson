@@ -1,0 +1,64 @@
+{
+  "id": 1108910233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17546.576852,
+    "geom:bbox":"-73.9487858236,40.8042955277,-73.94644949,40.8064001398",
+    "geom:latitude":40.805374,
+    "geom:longitude":-73.947584,
+    "intersection:latitude":40.805213,
+    "intersection:longitude":-73.947352,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.805213,
+    "reversegeo:longitude":-73.947352,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818057,
+    "wof:geomhash":"d8136b150daa01bcf39bde7b5b4d05b0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910233,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910233,
+    "wof:lastmodified":1490900143,
+    "wof:name":"Lenox Ave  & W 121st St",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94878582359684,
+    40.80429552768189,
+    -73.94644948999283,
+    40.80640013979191
+],
+  "geometry": {"coordinates":[[[-73.94676167641833,40.80429552768189],[-73.94878582359684,40.80578615363917],[-73.94876055282961,40.80584606641646],[-73.94833664493306,40.80640013979191],[-73.94644948999283,40.80503752951559],[-73.94676167641833,40.80429552768189]]],"type":"Polygon"}
+}

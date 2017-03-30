@@ -1,0 +1,64 @@
+{
+  "id": 1108909361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10076.853054,
+    "geom:bbox":"-73.9970820065,40.7183103045,-73.9958938304,40.7197754845",
+    "geom:latitude":40.71903,
+    "geom:longitude":-73.996495,
+    "intersection:latitude":40.719048,
+    "intersection:longitude":-73.996478,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.719048,
+    "reversegeo:longitude":-73.996478,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818013,
+    "wof:geomhash":"54972f6294a8ce4c5cf95dda9065bbf9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909361,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909361,
+    "wof:lastmodified":1490900164,
+    "wof:name":"Grand St  & Mott St",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.997082006512,
+    40.71831030447138,
+    -73.99589383043629,
+    40.71977548453631
+],
+  "geometry": {"coordinates":[[[-73.99651496296394,40.71831030447138],[-73.997082006512,40.7186135620565],[-73.99669617079913,40.71976687532869],[-73.99666113276703,40.71977548453631],[-73.99589383043629,40.7194720852034],[-73.99628984878879,40.7183337151053],[-73.99651496296394,40.71831030447138]]],"type":"Polygon"}
+}

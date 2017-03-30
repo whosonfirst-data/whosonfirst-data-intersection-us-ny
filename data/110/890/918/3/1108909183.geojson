@@ -1,0 +1,64 @@
+{
+  "id": 1108909183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":23486.040247,
+    "geom:bbox":"-74.0153690403,40.7207726528,-74.0111763259,40.7220088473",
+    "geom:latitude":40.721583,
+    "geom:longitude":-74.012611,
+    "intersection:latitude":40.721623,
+    "intersection:longitude":-74.011743,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.721623,
+    "reversegeo:longitude":-74.011743,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817998,
+    "wof:geomhash":"6b9fff3f50f9a8cc46f40925cfb405df",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909183,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909183,
+    "wof:lastmodified":1490900171,
+    "wof:name":"Hubert St  & West St",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01536904029392,
+    40.72077265282285,
+    -74.01117632585375,
+    40.72200884732767
+],
+  "geometry": {"coordinates":[[[-74.01128850445068,40.72077265282285],[-74.01536904029392,40.72200884732767],[-74.01117883903854,40.72196688536948],[-74.01117632585375,40.72196174595009],[-74.01128850445068,40.72077265282285]]],"type":"Polygon"}
+}

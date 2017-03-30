@@ -1,0 +1,64 @@
+{
+  "id": 1108908671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4537.997889,
+    "geom:bbox":"-73.9956712349,40.7245762154,-73.9949687248,40.7256782825",
+    "geom:latitude":40.725139,
+    "geom:longitude":-73.995334,
+    "intersection:latitude":40.725084,
+    "intersection:longitude":-73.995329,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.725084,
+    "reversegeo:longitude":-73.995329,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865699,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817976,
+    "wof:geomhash":"97726b7aff35d34414d8e24362805664",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908671,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865699,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908671,
+    "wof:lastmodified":1490900174,
+    "wof:name":"Lafayette St  & E Houston St",
+    "wof:parent_id":85865699,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99567123490962,
+    40.72457621539566,
+    -73.9949687247965,
+    40.72567828252276
+],
+  "geometry": {"coordinates":[[[-73.99525790820041,40.72457621539566],[-73.99540338958678,40.72457937803449],[-73.99567123490962,40.72479687944937],[-73.99545983455934,40.72567828252276],[-73.9950803326316,40.72558133473684],[-73.99496872479649,40.72549160045621],[-73.99525790820041,40.72457621539566]]],"type":"Polygon"}
+}

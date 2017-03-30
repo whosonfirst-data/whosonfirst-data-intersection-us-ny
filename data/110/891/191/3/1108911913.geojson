@@ -1,0 +1,64 @@
+{
+  "id": 1108911913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18157.375297,
+    "geom:bbox":"-73.9544417999,40.8166827231,-73.952623568,40.8186639853",
+    "geom:latitude":40.817624,
+    "geom:longitude":-73.953534,
+    "intersection:latitude":40.817595,
+    "intersection:longitude":-73.95319,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.817595,
+    "reversegeo:longitude":-73.95319,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818143,
+    "wof:geomhash":"5702920ca9a27740a3b796d1b50426eb",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911913,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911913,
+    "wof:lastmodified":1490900152,
+    "wof:name":"W 133rd St  & Amsterdam Ave",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95444179985485,
+    40.81668272305591,
+    -73.95262356795439,
+    40.81866398531377
+],
+  "geometry": {"coordinates":[[[-73.95323419215904,40.81668272305591],[-73.95444179985485,40.81756249559928],[-73.95397848312608,40.81866398531377],[-73.95262356795439,40.81767263552357],[-73.95301050963997,40.81672390417148],[-73.95323419215904,40.81668272305591]]],"type":"Polygon"}
+}

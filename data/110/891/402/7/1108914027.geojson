@@ -1,0 +1,62 @@
+{
+  "id": 1108914027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16367.93481,
+    "geom:bbox":"-73.9721114522,40.7915587326,-73.9698796769,40.7934806647",
+    "geom:latitude":40.792533,
+    "geom:longitude":-73.971013,
+    "intersection:latitude":40.792753,
+    "intersection:longitude":-73.971316,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.792753,
+    "reversegeo:longitude":-73.971316,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818246,
+    "wof:geomhash":"6341b5ed4c32e8eab46fd5ad73e9e57e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914027,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914027,
+    "wof:lastmodified":1490900146,
+    "wof:name":"W 94th St  & Amsterdam Ave",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97211145224712,
+    40.79155873264588,
+    -73.96987967685305,
+    40.79348066465921
+],
+  "geometry": {"coordinates":[[[-73.97033733727858,40.79155873264588],[-73.97211145224712,40.79285389325388],[-73.97194317358611,40.79325299414491],[-73.97165398960988,40.79348066465921],[-73.96987967685305,40.79218459569168],[-73.96990459032548,40.79212497907],[-73.97033733727858,40.79155873264588]]],"type":"Polygon"}
+}

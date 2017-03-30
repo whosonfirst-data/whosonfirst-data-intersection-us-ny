@@ -1,0 +1,64 @@
+{
+  "id": 1108910355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17052.069418,
+    "geom:bbox":"-73.9647959505,40.7978317358,-73.9625740453,40.7997762574",
+    "geom:latitude":40.798794,
+    "geom:longitude":-73.963664,
+    "intersection:latitude":40.798564,
+    "intersection:longitude":-73.963361,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.798564,
+    "reversegeo:longitude":-73.963361,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214381,
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818062,
+    "wof:geomhash":"cbdc1f5d15c05f25268b0cf50a38ce99",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910355,
+            "locality_id":85977539,
+            "microhood_id":907214381,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910355,
+    "wof:lastmodified":1490900144,
+    "wof:name":"Columbus Ave  & W 105th St",
+    "wof:parent_id":907214381,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96479595045439,
+    40.79783173577705,
+    -73.96257404526618,
+    40.79977625741519
+],
+  "geometry": {"coordinates":[[[-73.96305657344575,40.79783173577705],[-73.96479595045439,40.79913290806788],[-73.96475902029405,40.79922068275972],[-73.96431621547291,40.79977625741519],[-73.96257404526618,40.79850828738309],[-73.9627644320323,40.7980521524226],[-73.96305657344575,40.79783173577705]]],"type":"Polygon"}
+}

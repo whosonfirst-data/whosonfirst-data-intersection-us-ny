@@ -1,0 +1,64 @@
+{
+  "id": 1108914141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19014.495584,
+    "geom:bbox":"-73.9842519006,40.7314968432,-73.9826113248,40.7334913805",
+    "geom:latitude":40.732535,
+    "geom:longitude":-73.983512,
+    "intersection:latitude":40.732699,
+    "intersection:longitude":-73.983646,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.732699,
+    "reversegeo:longitude":-73.983646,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865705,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818256,
+    "wof:geomhash":"ba5198009f6a4fa9643a273f027894a5",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914141,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85865705,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914141,
+    "wof:lastmodified":1490900137,
+    "wof:name":"E 15th St  & Nathan D Perlman Pl",
+    "wof:parent_id":85865705,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98425190058396,
+    40.73149684315334,
+    -73.9826113248484,
+    40.73349138051684
+],
+  "geometry": {"coordinates":[[[-73.98401457551348,40.73149684315334],[-73.98425190058396,40.73236995669384],[-73.9837807615187,40.73349138051684],[-73.98341566418287,40.73346870801903],[-73.98261132484841,40.73288188201769],[-73.98290238244502,40.73219385066851],[-73.98363252737424,40.73160340461963],[-73.98401457551348,40.73149684315334]]],"type":"Polygon"}
+}

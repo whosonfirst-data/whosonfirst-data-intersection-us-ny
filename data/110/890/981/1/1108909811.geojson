@@ -1,0 +1,64 @@
+{
+  "id": 1108909811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9697.455602,
+    "geom:bbox":"-73.9548153219,40.8081270187,-73.9534229983,40.8095663535",
+    "geom:latitude":40.808882,
+    "geom:longitude":-73.954094,
+    "intersection:latitude":40.80885,
+    "intersection:longitude":-73.954033,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.80885,
+    "reversegeo:longitude":-73.954033,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818040,
+    "wof:geomhash":"45268e1ef1b350d809711d3869790160",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909811,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909811,
+    "wof:lastmodified":1490900179,
+    "wof:name":"Manhattan Ave  & W 122nd St",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.954815321869,
+    40.8081270186746,
+    -73.95342299825943,
+    40.80956635351762
+],
+  "geometry": {"coordinates":[[[-73.95370080298032,40.8081270186746],[-73.95481532186901,40.80893725621588],[-73.95464684108039,40.80934376340362],[-73.9543572115001,40.80956635351762],[-73.95347329655418,40.80892209653152],[-73.95342299825943,40.80878848762455],[-73.95370080298032,40.8081270186746]]],"type":"Polygon"}
+}

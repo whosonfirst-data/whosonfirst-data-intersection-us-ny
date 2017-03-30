@@ -1,0 +1,64 @@
+{
+  "id": 1108910735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12326.958718,
+    "geom:bbox":"-73.9751017544,40.7589505641,-73.9733436307,40.7605270211",
+    "geom:latitude":40.759739,
+    "geom:longitude":-73.974222,
+    "intersection:latitude":40.75974,
+    "intersection:longitude":-73.974223,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.75974,
+    "reversegeo:longitude":-73.974223,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818081,
+    "wof:geomhash":"893e72d589bc6e9548edb752a30dfd6d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910735,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910735,
+    "wof:lastmodified":1490900157,
+    "wof:name":"Madison Ave  & E 53rd St",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97510175436513,
+    40.7589505641459,
+    -73.97334363070341,
+    40.76052702113669
+],
+  "geometry": {"coordinates":[[[-73.97379887670751,40.7589505641459],[-73.97510175436513,40.75990170646145],[-73.97495408926528,40.76025192103457],[-73.97464310654112,40.76052702113669],[-73.97334363070341,40.75957532168503],[-73.97349402996646,40.75921975220852],[-73.97379887670751,40.7589505641459]]],"type":"Polygon"}
+}

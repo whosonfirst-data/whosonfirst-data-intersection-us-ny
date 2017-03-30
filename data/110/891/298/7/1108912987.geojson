@@ -1,0 +1,64 @@
+{
+  "id": 1108912987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":433356.570887,
+    "geom:bbox":"-73.9697220808,40.7343953707,-73.9550453491,40.7481171679",
+    "geom:latitude":40.742492,
+    "geom:longitude":-73.962196,
+    "intersection:latitude":40.747515,
+    "intersection:longitude":-73.968795,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.747515,
+    "reversegeo:longitude":-73.968795,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85836095,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818195,
+    "wof:geomhash":"6d0375bb6a7680f4b609612888020199",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912987,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85836095,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912987,
+    "wof:lastmodified":1490900158,
+    "wof:name":"E 41st St  & F D R Dr",
+    "wof:parent_id":85836095,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96972208079148,
+    40.73439537074533,
+    -73.9550453491073,
+    40.74811716789422
+],
+  "geometry": {"coordinates":[[[-73.95504534910729,40.73439537074533],[-73.95549791450507,40.73464494254911],[-73.96972208079148,40.74727142377046],[-73.96936256375535,40.74811716789422],[-73.96213984541076,40.74550009163243],[-73.95977468344738,40.74344199350701],[-73.95504534910729,40.73439537074533]]],"type":"Polygon"}
+}

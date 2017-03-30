@@ -1,0 +1,64 @@
+{
+  "id": 1108914791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11427.638,
+    "geom:bbox":"-74.011805336,40.7054721607,-74.0104058694,40.7068910766",
+    "geom:latitude":40.706131,
+    "geom:longitude":-74.011095,
+    "intersection:latitude":40.706278,
+    "intersection:longitude":-74.01119,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.706278,
+    "reversegeo:longitude":-74.01119,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818294,
+    "wof:geomhash":"ec36e7d27064f8bb55040da524a46bf8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914791,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914791,
+    "wof:lastmodified":1490900133,
+    "wof:name":"Exchange Pl  & Broad St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01180533596111,
+    40.70547216066558,
+    -74.0104058694236,
+    40.70689107661882
+],
+  "geometry": {"coordinates":[[[-74.01084335989759,40.70547216066558],[-74.01180533596111,40.70573240889981],[-74.01134248649946,40.70688615409075],[-74.01124941285327,40.70689107661882],[-74.01040586942359,40.70637367647223],[-74.01068318027824,40.70561035095968],[-74.01077752152835,40.70550966463433],[-74.01084335989759,40.70547216066558]]],"type":"Polygon"}
+}

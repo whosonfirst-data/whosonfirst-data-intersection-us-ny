@@ -1,0 +1,64 @@
+{
+  "id": 1108912781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22083.130918,
+    "geom:bbox":"-73.9470050342,40.8115525869,-73.9441324783,40.8139515222",
+    "geom:latitude":40.812753,
+    "geom:longitude":-73.945568,
+    "intersection:latitude":40.812752,
+    "intersection:longitude":-73.945568,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.812752,
+    "reversegeo:longitude":-73.945568,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818186,
+    "wof:geomhash":"7971bd9c34005fdd6d1db74542a67c91",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912781,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912781,
+    "wof:lastmodified":1490900146,
+    "wof:name":"W 131st St  & Adam Clayton Powell Jr Blvd",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94700503424566,
+    40.8115525869381,
+    -73.94413247825294,
+    40.8139515222103
+],
+  "geometry": {"coordinates":[[[-73.94459240719615,40.8115525869381],[-73.94700503424566,40.81331727307386],[-73.94698092414275,40.81337523083387],[-73.946538107566,40.8139515222103],[-73.94413247825294,40.81218890702183],[-73.94415790929433,40.81212775653632],[-73.94459240719615,40.8115525869381]]],"type":"Polygon"}
+}

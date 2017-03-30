@@ -1,0 +1,62 @@
+{
+  "id": 1108907103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":1178002.769182,
+    "geom:bbox":"-74.0121507478,40.8019420493,-73.9699837036,40.8312537798",
+    "geom:latitude":40.815245,
+    "geom:longitude":-73.988337,
+    "intersection:latitude":40.80236,
+    "intersection:longitude":-73.970273,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.80236,
+    "reversegeo:longitude":-73.970273,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817904,
+    "wof:geomhash":"1f517f5e7c8ed469cf1099ca28617155",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907103,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907103,
+    "wof:lastmodified":1490900180,
+    "wof:name":"Riverside Dr  & W 106th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0121507477603,
+    40.8019420492945,
+    -73.96998370357626,
+    40.83125377981737
+],
+  "geometry": {"coordinates":[[[-73.9703157204293,40.8019420492945],[-73.97213002733604,40.80258294731872],[-73.98534080667638,40.81084335678768],[-74.0121507477603,40.83125377981737],[-74.00435874128769,40.8274576886559],[-73.98280349981583,40.81389715286356],[-73.98271711318799,40.81384015589182],[-73.97111140498404,40.80412299178826],[-73.96998370357626,40.80273189991328],[-73.9703157204293,40.8019420492945]]],"type":"Polygon"}
+}

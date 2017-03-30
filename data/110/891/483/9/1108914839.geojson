@@ -1,0 +1,62 @@
+{
+  "id": 1108914839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16930.186402,
+    "geom:bbox":"-73.9577903093,40.7864373276,-73.9553658947,40.7882593596",
+    "geom:latitude":40.787389,
+    "geom:longitude":-73.956483,
+    "intersection:latitude":40.787223,
+    "intersection:longitude":-73.956262,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.787223,
+    "reversegeo:longitude":-73.956262,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818296,
+    "wof:geomhash":"a8ef4bc6bc7a6ec9d457d42b1dd1505a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914839,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914839,
+    "wof:lastmodified":1490900154,
+    "wof:name":"5th Ave  & E 95th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95779030934433,
+    40.78643732764039,
+    -73.95536589466299,
+    40.7882593596011
+],
+  "geometry": {"coordinates":[[[-73.95584253024631,40.78643732764039],[-73.95779030934433,40.78786528144857],[-73.95700633054621,40.7882593596011],[-73.95596871195069,40.78753257609861],[-73.95536589466299,40.78711034228203],[-73.95553253440742,40.786711499615],[-73.95584253024631,40.78643732764039]]],"type":"Polygon"}
+}

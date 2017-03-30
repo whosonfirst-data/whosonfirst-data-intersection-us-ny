@@ -1,0 +1,79 @@
+{
+  "id": 1108913289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21651.400865,
+    "geom:bbox":"-73.9419129472,40.8185314153,-73.9390459717,40.8209147563",
+    "geom:latitude":40.819723,
+    "geom:longitude":-73.94048,
+    "intersection:latitude":40.819721,
+    "intersection:longitude":-73.940477,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.819721,
+    "reversegeo:longitude":-73.940477,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543,
+        85882237,
+        404477525,
+        85975895,
+        102086773,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818208,
+    "wof:geomhash":"48ecdb9d8f39fdb047aa89d19132be37",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913289,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "intersection_id":1108913289,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "neighbourhood_id":85882237,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":1108913289,
+    "wof:lastmodified":1490900148,
+    "wof:name":"W 142nd St  & Adam Clayton Powell Jr Blvd",
+    "wof:parent_id":-1,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94191294724973,
+    40.81853141526133,
+    -73.93904597173986,
+    40.82091475630989
+],
+  "geometry": {"coordinates":[[[-73.93949464155193,40.81853141526133],[-73.94191294724973,40.82028701218604],[-73.94188745895465,40.82034764278765],[-73.94145499927123,40.82091475630989],[-73.93904597173986,40.81914968782868],[-73.93907416769923,40.81908327276158],[-73.93949464155193,40.81853141526133]]],"type":"Polygon"}
+}

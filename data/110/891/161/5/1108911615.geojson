@@ -1,0 +1,64 @@
+{
+  "id": 1108911615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":164478.817274,
+    "geom:bbox":"-74.0056047635,40.6906237192,-73.995248078,40.7057013442",
+    "geom:latitude":40.698373,
+    "geom:longitude":-74.000778,
+    "intersection:latitude":40.705232,
+    "intersection:longitude":-74.004749,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.705232,
+    "reversegeo:longitude":-74.004749,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818131,
+    "wof:geomhash":"d755ccb8474387f429b0027e26ad0afa",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911615,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911615,
+    "wof:lastmodified":1490900144,
+    "wof:name":"Maiden Ln  & South St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00560476349453,
+    40.69062371918986,
+    -73.99524807800125,
+    40.70570134424412
+],
+  "geometry": {"coordinates":[[[-73.99524807800125,40.69062371918986],[-73.99705240152659,40.69163128051824],[-74.00560476349453,40.70486259001559],[-74.00512493136459,40.70552611458885],[-74.00482966553579,40.70570134424412],[-73.99524807800125,40.69062371918986]]],"type":"Polygon"}
+}

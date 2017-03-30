@@ -1,0 +1,62 @@
+{
+  "id": 1108908091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6782.957473,
+    "geom:bbox":"-73.9392082474,40.8415507435,-73.9381005464,40.8427526095",
+    "geom:latitude":40.842126,
+    "geom:longitude":-73.938661,
+    "intersection:latitude":40.842265,
+    "intersection:longitude":-73.938884,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.842265,
+    "reversegeo:longitude":-73.938884,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817950,
+    "wof:geomhash":"fc3a8a77dede965b1966fb63ee9e5669",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908091,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908091,
+    "wof:lastmodified":1490900173,
+    "wof:name":"St Nicholas Ave  & W 170th St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93920824742008,
+    40.84155074349157,
+    -73.9381005463721,
+    40.84275260950959
+],
+  "geometry": {"coordinates":[[[-73.93856100488684,40.84155074349157],[-73.93920824742008,40.84204947489561],[-73.93888416111552,40.84275260950959],[-73.9381005463721,40.84218181321295],[-73.93826564910883,40.84179018726746],[-73.93856100488684,40.84155074349157]]],"type":"Polygon"}
+}

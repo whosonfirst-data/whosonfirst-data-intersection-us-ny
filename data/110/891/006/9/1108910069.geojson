@@ -1,0 +1,64 @@
+{
+  "id": 1108910069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11206.884574,
+    "geom:bbox":"-74.0082007814,40.7260820034,-74.0065168729,40.7270797895",
+    "geom:latitude":40.726589,
+    "geom:longitude":-74.00734,
+    "intersection:latitude":40.726601,
+    "intersection:longitude":-74.007434,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.726601,
+    "reversegeo:longitude":-74.007434,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865687,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818050,
+    "wof:geomhash":"847db8a7263c2387d2d9432f218e42f0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910069,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865687,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910069,
+    "wof:lastmodified":1490900140,
+    "wof:name":"Vandam St  & Hudson St",
+    "wof:parent_id":85865687,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00820078135298,
+    40.7260820033631,
+    -74.00651687293485,
+    40.72707978947169
+],
+  "geometry": {"coordinates":[[[-74.0066386224334,40.7260820033631],[-74.00791411174433,40.7262881599797],[-74.00820078135298,40.7266705254198],[-74.00817111542752,40.72698416585932],[-74.00811222320984,40.72707978947169],[-74.00651687293485,40.72682962450421],[-74.00657637756659,40.72619299663691],[-74.0066386224334,40.7260820033631]]],"type":"Polygon"}
+}

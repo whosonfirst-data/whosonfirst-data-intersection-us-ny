@@ -1,0 +1,64 @@
+{
+  "id": 1108906949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12840.85532,
+    "geom:bbox":"-73.9555325344,40.7857629809,-73.9537641569,40.7873635386",
+    "geom:latitude":40.786565,
+    "geom:longitude":-73.954649,
+    "intersection:latitude":40.786552,
+    "intersection:longitude":-73.954656,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.786552,
+    "reversegeo:longitude":-73.954656,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907196173,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817896,
+    "wof:geomhash":"eded9f6dd5d5f09c1766bdab5807015b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906949,
+            "locality_id":85977539,
+            "microhood_id":907196173,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906949,
+    "wof:lastmodified":1490900163,
+    "wof:name":"Madison Ave  & E 95th St",
+    "wof:parent_id":907196173,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95553253440742,
+    40.78576298089422,
+    -73.95376415685291,
+    40.78736353862079
+],
+  "geometry": {"coordinates":[[[-73.95423401642068,40.78576298089422],[-73.95553253440742,40.786711499615],[-73.95536589466299,40.78711034228203],[-73.95505853867957,40.78736353862079],[-73.95376415685291,40.78641816048666],[-73.95392498357931,40.78603601910578],[-73.95423401642068,40.78576298089422]]],"type":"Polygon"}
+}

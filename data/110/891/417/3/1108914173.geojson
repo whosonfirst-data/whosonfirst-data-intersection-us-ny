@@ -1,0 +1,62 @@
+{
+  "id": 1108914173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:area_square_m":34797.69887,
+    "geom:bbox":"-73.9879395511,40.7748165847,-73.985449724,40.7772464642",
+    "geom:latitude":40.776155,
+    "geom:longitude":-73.986612,
+    "intersection:latitude":40.776017,
+    "intersection:longitude":-73.987241,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.776017,
+    "reversegeo:longitude":-73.987241,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818258,
+    "wof:geomhash":"fc17c8861e9cd98a358fd92d9a095447",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914173,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914173,
+    "wof:lastmodified":1490900135,
+    "wof:name":"W End Ave  & W 66th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98793955109717,
+    40.77481658468917,
+    -73.9854497239565,
+    40.77724646424974
+],
+  "geometry": {"coordinates":[[[-73.98627238412732,40.77481658468917],[-73.98793955109717,40.77603330592497],[-73.98755924390302,40.77691304377291],[-73.98634445097051,40.77724646424974],[-73.98544972395651,40.77659406671575],[-73.98554255987681,40.77607690579693],[-73.98585477887259,40.77534632884151],[-73.98627238412732,40.77481658468917]]],"type":"Polygon"}
+}

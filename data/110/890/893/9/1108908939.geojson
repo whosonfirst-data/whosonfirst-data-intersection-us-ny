@@ -1,0 +1,66 @@
+{
+  "id": 1108908939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12102.541064,
+    "geom:bbox":"-73.9936237536,40.7192310736,-73.9923446897,40.7207118301",
+    "geom:latitude":40.719987,
+    "geom:longitude":-73.993005,
+    "intersection:latitude":40.719969,
+    "intersection:longitude":-73.992897,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.719969,
+    "reversegeo:longitude":-73.992897,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189673,
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817987,
+    "wof:geomhash":"0de3c944e989b2187bd66ea7edeaabc3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908939,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189673,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908939,
+    "wof:lastmodified":1490900166,
+    "wof:name":"Delancey St  & Chrystie St",
+    "wof:parent_id":907189673,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99362375356019,
+    40.71923107362009,
+    -73.99234468971139,
+    40.72071183012548
+],
+  "geometry": {"coordinates":[[[-73.9934840557176,40.71923107362009],[-73.99362375356019,40.71963943161322],[-73.99338080573304,40.72042119442334],[-73.9930675020653,40.72071183012548],[-73.99267892558386,40.72066644395631],[-73.99234468971139,40.72049377067218],[-73.99264979500805,40.71943730793945],[-73.9934840557176,40.71923107362009]]],"type":"Polygon"}
+}

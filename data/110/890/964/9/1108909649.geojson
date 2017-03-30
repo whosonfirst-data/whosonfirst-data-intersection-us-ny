@@ -1,0 +1,64 @@
+{
+  "id": 1108909649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17039.437759,
+    "geom:bbox":"-73.9489885793,40.8284066731,-73.946702969,40.8304396635",
+    "geom:latitude":40.829413,
+    "geom:longitude":-73.947876,
+    "intersection:latitude":40.829599,
+    "intersection:longitude":-73.948139,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.829599,
+    "reversegeo:longitude":-73.948139,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818033,
+    "wof:geomhash":"f82103e3534188d05b9deb6227722f63",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909649,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909649,
+    "wof:lastmodified":1490900167,
+    "wof:name":"W 150th St  & Broadway",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94898857925384,
+    40.82840667314805,
+    -73.94670296898413,
+    40.83043966352992
+],
+  "geometry": {"coordinates":[[[-73.94715728826264,40.82840667314805],[-73.94898857925384,40.82974119338883],[-73.94873926234227,40.83033994051442],[-73.9486365242696,40.83043966352992],[-73.94670296898413,40.82902977946759],[-73.94672803101587,40.8289702205324],[-73.94715728826264,40.82840667314805]]],"type":"Polygon"}
+}

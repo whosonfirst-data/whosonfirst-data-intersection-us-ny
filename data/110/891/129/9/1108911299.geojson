@@ -1,0 +1,64 @@
+{
+  "id": 1108911299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23070.168995,
+    "geom:bbox":"-73.9551604538,40.8153258689,-73.9532341922,40.8175624956",
+    "geom:latitude":40.816444,
+    "geom:longitude":-73.954203,
+    "intersection:latitude":40.816361,
+    "intersection:longitude":-73.954089,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.816361,
+    "reversegeo:longitude":-73.954089,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818117,
+    "wof:geomhash":"ab5b295e430cf54daceaf12f103feb7a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911299,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911299,
+    "wof:lastmodified":1490900151,
+    "wof:name":"W 131st St  & Amsterdam Ave",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9551604537825,
+    40.81532586886188,
+    -73.95323419215904,
+    40.81756249559928
+],
+  "geometry": {"coordinates":[[[-73.95398263345228,40.81532586886188],[-73.9551604537825,40.8161858945954],[-73.95464557295516,40.81744661707834],[-73.95444179985485,40.81756249559928],[-73.95323419215904,40.81668272305591],[-73.95370556004772,40.81556516928488],[-73.95398263345228,40.81532586886188]]],"type":"Polygon"}
+}

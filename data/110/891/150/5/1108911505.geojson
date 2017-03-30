@@ -1,0 +1,64 @@
+{
+  "id": 1108911505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18605.819398,
+    "geom:bbox":"-73.976063592,40.7615052863,-73.9735665638,40.7634441714",
+    "geom:latitude":40.762528,
+    "geom:longitude":-73.974772,
+    "intersection:latitude":40.762293,
+    "intersection:longitude":-73.974457,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.762293,
+    "reversegeo:longitude":-73.974457,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818127,
+    "wof:geomhash":"850278502f4557050406f0fca8bfcd66",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911505,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911505,
+    "wof:lastmodified":1490900153,
+    "wof:name":"E 56th St  & W 56th St",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97606359199528,
+    40.7615052863483,
+    -73.97356656384704,
+    40.7634441713947
+],
+  "geometry": {"coordinates":[[[-73.9740371555765,40.7615052863483],[-73.97606359199528,40.76298788679526],[-73.976062753584,40.76298988918434],[-73.97572589810054,40.7634441713947],[-73.97516211077368,40.76331896093224],[-73.97356656384704,40.76216136086231],[-73.97372955442097,40.76177608859259],[-73.9740371555765,40.7615052863483]]],"type":"Polygon"}
+}

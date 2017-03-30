@@ -1,0 +1,64 @@
+{
+  "id": 1108909905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3863.708816,
+    "geom:bbox":"-74.012456286,40.7088731751,-74.01133336,40.7097744316",
+    "geom:latitude":40.709333,
+    "geom:longitude":-74.011895,
+    "intersection:latitude":40.709306,
+    "intersection:longitude":-74.011935,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.709306,
+    "reversegeo:longitude":-74.011935,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818043,
+    "wof:geomhash":"4b647185cad93af5549d3c4809ddf20b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909905,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909905,
+    "wof:lastmodified":1490900163,
+    "wof:name":"Cedar St  & Trinity Pl",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01245628604222,
+    40.70887317505365,
+    -74.0113333599509,
+    40.70977443161007
+],
+  "geometry": {"coordinates":[[[-74.01153276258047,40.70887317505365],[-74.01245628604222,40.70948885736149],[-74.01245247662163,40.7095727439776],[-74.01221021625844,40.70977443161007],[-74.0113333599509,40.70917375051759],[-74.01138326881211,40.70906697104832],[-74.01153276258047,40.70887317505365]]],"type":"Polygon"}
+}

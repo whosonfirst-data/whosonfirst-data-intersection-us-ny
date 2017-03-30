@@ -1,0 +1,64 @@
+{
+  "id": 1108909391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16948.410193,
+    "geom:bbox":"-74.0156665243,40.7017707693,-74.0133282166,40.7031672857",
+    "geom:latitude":40.70239,
+    "geom:longitude":-74.014179,
+    "intersection:latitude":40.702406,
+    "intersection:longitude":-74.013834,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.702406,
+    "reversegeo:longitude":-74.013834,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818016,
+    "wof:geomhash":"4bc4af1b1c258d2eb73f1a025db61079",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909391,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909391,
+    "wof:lastmodified":1490900162,
+    "wof:name":"State St  & State Street Plz",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01566652429004,
+    40.70177076927352,
+    -74.0133282165525,
+    40.70316728569033
+],
+  "geometry": {"coordinates":[[[-74.01377777125806,40.70177076927352],[-74.01566652429004,40.70227476295819],[-74.01375991658982,40.70316728569033],[-74.01341510200142,40.70275191826108],[-74.0133300885015,40.70243723650751],[-74.01332821655249,40.70180826164079],[-74.01377777125806,40.70177076927352]]],"type":"Polygon"}
+}

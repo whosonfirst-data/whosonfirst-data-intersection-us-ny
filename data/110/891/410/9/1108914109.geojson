@@ -1,0 +1,66 @@
+{
+  "id": 1108914109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22971.085299,
+    "geom:bbox":"-73.9853116975,40.7535162777,-73.982498222,40.7559547617",
+    "geom:latitude":40.754724,
+    "geom:longitude":-73.983941,
+    "intersection:latitude":40.754842,
+    "intersection:longitude":-73.984118,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.754842,
+    "reversegeo:longitude":-73.984118,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907216453,
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818255,
+    "wof:geomhash":"e076baf8aaf5ccfc8f1219fbde5826a1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914109,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907216453,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914109,
+    "wof:lastmodified":1490900137,
+    "wof:name":"W 42nd St  & 6th Ave",
+    "wof:parent_id":907216453,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98531169746249,
+    40.75351627772285,
+    -73.98249822204576,
+    40.75595476166245
+],
+  "geometry": {"coordinates":[[[-73.98297521586964,40.75351627772285],[-73.98531169746249,40.75519573366478],[-73.98505209859336,40.75581099917579],[-73.98492942785523,40.75595476166245],[-73.98249822204576,40.75417283930357],[-73.98250871176701,40.7541479445206],[-73.98297521586964,40.75351627772285]]],"type":"Polygon"}
+}

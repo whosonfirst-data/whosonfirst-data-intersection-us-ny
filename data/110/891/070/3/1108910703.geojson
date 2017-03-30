@@ -1,0 +1,62 @@
+{
+  "id": 1108910703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17795.790346,
+    "geom:bbox":"-73.9391371126,40.833750222,-73.9371799129,40.8362584616",
+    "geom:latitude":40.83514,
+    "geom:longitude":-73.938287,
+    "intersection:latitude":40.835196,
+    "intersection:longitude":-73.938489,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.835196,
+    "reversegeo:longitude":-73.938489,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818080,
+    "wof:geomhash":"f7c849411abc532c251713e25283d89b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910703,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910703,
+    "wof:lastmodified":1490900156,
+    "wof:name":"Jumel Ter  & W 162nd St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93913711261249,
+    40.83375022204616,
+    -73.93717991292117,
+    40.83625846157827
+],
+  "geometry": {"coordinates":[[[-73.93717991292117,40.83375022204616],[-73.93913168015789,40.83515786023509],[-73.93913711261249,40.83569525535699],[-73.93910572070794,40.83575591809139],[-73.9383002296742,40.83625846157827],[-73.93717991292117,40.83375022204616]]],"type":"Polygon"}
+}

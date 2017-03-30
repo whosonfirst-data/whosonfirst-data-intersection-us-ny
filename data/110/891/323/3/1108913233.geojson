@@ -1,0 +1,64 @@
+{
+  "id": 1108913233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18819.703439,
+    "geom:bbox":"-73.9478083346,40.775498519,-73.9454140077,40.777604262",
+    "geom:latitude":40.776554,
+    "geom:longitude":-73.946592,
+    "intersection:latitude":40.776604,
+    "intersection:longitude":-73.946628,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.776604,
+    "reversegeo:longitude":-73.946628,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818206,
+    "wof:geomhash":"359f0d7fefa011fd14ccad59cd781e8e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913233,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913233,
+    "wof:lastmodified":1490900155,
+    "wof:name":"E 87th St  & York Ave",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94780833460706,
+    40.77549851899054,
+    -73.94541400765539,
+    40.77760426202151
+],
+  "geometry": {"coordinates":[[[-73.94582563323603,40.77549851899054],[-73.94780833460706,40.77694956266056],[-73.94771019112713,40.77718245951705],[-73.94733917420851,40.77760426202151],[-73.94541400765539,40.77619800000985],[-73.94567304632561,40.77558681439236],[-73.94582563323603,40.77549851899054]]],"type":"Polygon"}
+}

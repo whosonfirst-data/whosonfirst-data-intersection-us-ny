@@ -1,0 +1,64 @@
+{
+  "id": 1108911293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12553.584049,
+    "geom:bbox":"-73.9632836366,40.7722590727,-73.9615159478,40.7738463805",
+    "geom:latitude":40.773053,
+    "geom:longitude":-73.9624,
+    "intersection:latitude":40.773054,
+    "intersection:longitude":-73.962402,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.773054,
+    "reversegeo:longitude":-73.962402,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818117,
+    "wof:geomhash":"5d7fb90e9e266eeab5566226a7639b4d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911293,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911293,
+    "wof:lastmodified":1490900151,
+    "wof:name":"E 75th St  & Park Ave",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9632836366165,
+    40.77225907266214,
+    -73.9615159477716,
+    40.77384638050915
+],
+  "geometry": {"coordinates":[[[-73.96197905954168,40.77225907266214],[-73.9632836366165,40.77321178431141],[-73.96312913189998,40.77357813570107],[-73.96282213283763,40.77384638050915],[-73.9615159477716,40.77289549421109],[-73.96166867681758,40.77253239828534],[-73.96197905954168,40.77225907266214]]],"type":"Polygon"}
+}

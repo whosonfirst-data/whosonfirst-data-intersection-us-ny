@@ -1,0 +1,64 @@
+{
+  "id": 1108912373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14481.551623,
+    "geom:bbox":"-73.9526556187,40.8076633536,-73.9506905767,40.8095207754",
+    "geom:latitude":40.808568,
+    "geom:longitude":-73.951713,
+    "intersection:latitude":40.808862,
+    "intersection:longitude":-73.952125,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.808862,
+    "reversegeo:longitude":-73.952125,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818168,
+    "wof:geomhash":"3489e51e3bf1a61cad016991b1156ba4",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912373,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912373,
+    "wof:lastmodified":1490900160,
+    "wof:name":"W 123rd St  & Frederick Douglass Blvd",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95265561873008,
+    40.8076633536383,
+    -73.95069057673966,
+    40.80952077543883
+],
+  "geometry": {"coordinates":[[[-73.95115224493543,40.8076633536383],[-73.95259273856433,40.80872525599295],[-73.95265561873008,40.80883684804673],[-73.95236417239822,40.80952077543883],[-73.95069057673966,40.80829222830729],[-73.95071342326032,40.8082377716927],[-73.95115224493543,40.8076633536383]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108914799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21755.908391,
+    "geom:bbox":"-73.9890128199,40.7641733835,-73.9861414231,40.7665543019",
+    "geom:latitude":40.765364,
+    "geom:longitude":-73.987577,
+    "intersection:latitude":40.765364,
+    "intersection:longitude":-73.987576,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.765364,
+    "reversegeo:longitude":-73.987576,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818294,
+    "wof:geomhash":"798b0658f207bde601837de5b9ca5252",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914799,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914799,
+    "wof:lastmodified":1490900133,
+    "wof:name":"9th Ave  & W 53rd St",
+    "wof:parent_id":85882233,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98901281987182,
+    40.76417338350657,
+    -73.98614142312124,
+    40.76655430188536
+],
+  "geometry": {"coordinates":[[[-73.98659796482153,40.76417338350657],[-73.98901281987182,40.76592964172496],[-73.98898618571009,40.76599296739271],[-73.98855742770564,40.76655430188536],[-73.98614142312124,40.76479931615529],[-73.98616779091984,40.76473655461128],[-73.98659796482153,40.76417338350657]]],"type":"Polygon"}
+}

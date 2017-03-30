@@ -1,0 +1,64 @@
+{
+  "id": 1108912315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23188.054415,
+    "geom:bbox":"-73.9450601004,40.8090028617,-73.9420234965,40.8115095831",
+    "geom:latitude":40.810256,
+    "geom:longitude":-73.943542,
+    "intersection:latitude":40.810318,
+    "intersection:longitude":-73.943625,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.810318,
+    "reversegeo:longitude":-73.943625,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818161,
+    "wof:geomhash":"ef5933b16439a6194371a0c142be2f5b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912315,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912315,
+    "wof:lastmodified":1490900155,
+    "wof:name":"W 129th St  & Malcolm X Blvd",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94506010036926,
+    40.80900286167462,
+    -73.94202349645052,
+    40.81150958307882
+],
+  "geometry": {"coordinates":[[[-73.9424857708442,40.80900286167462],[-73.94506010036926,40.81088933035061],[-73.94504202972207,40.81093257245344],[-73.94461011112844,40.81150958307882],[-73.94202349645052,40.80963180030783],[-73.9424560654317,40.80902916892477],[-73.9424857708442,40.80900286167462]]],"type":"Polygon"}
+}

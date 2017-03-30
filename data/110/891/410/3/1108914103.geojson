@@ -1,0 +1,64 @@
+{
+  "id": 1108914103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6284.094991,
+    "geom:bbox":"-74.0023097583,40.7177653415,-74.0012825411,40.7187982376",
+    "geom:latitude":40.718284,
+    "geom:longitude":-74.001796,
+    "intersection:latitude":40.718309,
+    "intersection:longitude":-74.001831,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.718309,
+    "reversegeo:longitude":-74.001831,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810885,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818255,
+    "wof:geomhash":"4656e3a2738d6f855be308c6cf3fbb93",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914103,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85810885,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914103,
+    "wof:lastmodified":1490900137,
+    "wof:name":"Cortlandt Aly  & Walker St",
+    "wof:parent_id":85810885,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00230975825616,
+    40.71776534145521,
+    -74.00128254111962,
+    40.71879823759977
+],
+  "geometry": {"coordinates":[[[-74.00184584011409,40.71776534145521],[-74.00230975825616,40.71818951702169],[-74.00208312786462,40.71869337767203],[-74.0017427364069,40.71879823759977],[-74.00128254111962,40.71840438948581],[-74.00153144026811,40.71784783250391],[-74.00184584011409,40.71776534145521]]],"type":"Polygon"}
+}

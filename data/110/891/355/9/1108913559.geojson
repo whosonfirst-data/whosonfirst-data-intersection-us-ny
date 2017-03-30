@@ -1,0 +1,64 @@
+{
+  "id": 1108913559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12857.127512,
+    "geom:bbox":"-73.9559883411,40.7793667689,-73.9542174241,40.7809666262",
+    "geom:latitude":40.780163,
+    "geom:longitude":-73.955104,
+    "intersection:latitude":40.780172,
+    "intersection:longitude":-73.955093,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.780172,
+    "reversegeo:longitude":-73.955093,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907196173,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818226,
+    "wof:geomhash":"a27051a27841ec4d7ef59f0e46e3c04a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913559,
+            "locality_id":85977539,
+            "microhood_id":907196173,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913559,
+    "wof:lastmodified":1490900137,
+    "wof:name":"Lexington Ave  & E 87th St",
+    "wof:parent_id":907196173,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95598834111104,
+    40.77936676887354,
+    -73.95421742405784,
+    40.78096662618281
+],
+  "geometry": {"coordinates":[[[-73.9546970320295,40.77936676887354],[-73.95598834111104,40.78030659737669],[-73.95582490465583,40.78069248900704],[-73.95551531870733,40.78096662618281],[-73.95421742405784,40.7800118055967],[-73.95437971888605,40.77962743574471],[-73.9546970320295,40.77936676887354]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108914909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13981.506777,
+    "geom:bbox":"-73.960132023,40.8011844752,-73.9583392488,40.8028484329",
+    "geom:latitude":40.801981,
+    "geom:longitude":-73.95933,
+    "intersection:latitude":40.801844,
+    "intersection:longitude":-73.959147,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.801844,
+    "reversegeo:longitude":-73.959147,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818299,
+    "wof:geomhash":"3ca43763ec626cb4825533f66718e747",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914909,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914909,
+    "wof:lastmodified":1490900147,
+    "wof:name":"W 111th St  & Manhattan Ave",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9601320230439,
+    40.80118447519381,
+    -73.95833924876938,
+    40.80284843293806
+],
+  "geometry": {"coordinates":[[[-73.95896283786668,40.80118447519381],[-73.96011658127796,40.80202295151012],[-73.9601320230439,40.80270028351609],[-73.95986050004184,40.80284843293806],[-73.95833924876938,40.80173301067912],[-73.95844899994735,40.80147279996141],[-73.95845602165389,40.80146483236126],[-73.95896283786668,40.80118447519381]]],"type":"Polygon"}
+}

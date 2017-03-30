@@ -1,0 +1,64 @@
+{
+  "id": 1108914565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24616.718899,
+    "geom:bbox":"-73.9977859069,40.73669668,-73.9947270705,40.7392361424",
+    "geom:latitude":40.737968,
+    "geom:longitude":-73.996257,
+    "intersection:latitude":40.738044,
+    "intersection:longitude":-73.996337,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.738044,
+    "reversegeo:longitude":-73.996337,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818279,
+    "wof:geomhash":"0ddb77e816939325cfeb47ed295bd224",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914565,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914565,
+    "wof:lastmodified":1490900138,
+    "wof:name":"W 15th St  & 6th Ave",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99778590685463,
+    40.73669668003054,
+    -73.99472707047356,
+    40.73923614236799
+],
+  "geometry": {"coordinates":[[[-73.99522274445503,40.73669668003054],[-73.99778590685463,40.73858433843031],[-73.99774828672125,40.7386736980132],[-73.99731343390991,40.73923614236799],[-73.99472707047356,40.7373708989553],[-73.99473952257073,40.73734129186249],[-73.99522274445503,40.73669668003054]]],"type":"Polygon"}
+}

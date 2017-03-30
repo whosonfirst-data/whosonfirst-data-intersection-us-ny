@@ -1,0 +1,66 @@
+{
+  "id": 1108914257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6149.843922,
+    "geom:bbox":"-74.0050081676,40.7058952454,-74.0039678724,40.7069645623",
+    "geom:latitude":40.706396,
+    "geom:longitude":-74.004478,
+    "intersection:latitude":40.706407,
+    "intersection:longitude":-74.004558,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.706407,
+    "reversegeo:longitude":-74.004558,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215463,
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818260,
+    "wof:geomhash":"a84566ab4a359fa0603a695c983c77cf",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914257,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907215463,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914257,
+    "wof:lastmodified":1490900146,
+    "wof:name":"John St  & Front St",
+    "wof:parent_id":907215463,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00500816757423,
+    40.70589524536491,
+    -74.00396787241587,
+    40.70696456232524
+],
+  "geometry": {"coordinates":[[[-74.00468550868158,40.70589524536491],[-74.00500816757423,40.70640284289117],[-74.00444518584931,40.70696456232524],[-74.00416037034164,40.70675051705334],[-74.00396787241587,40.70637563095352],[-74.0043607524435,40.7059347606945],[-74.00468550868158,40.70589524536491]]],"type":"Polygon"}
+}

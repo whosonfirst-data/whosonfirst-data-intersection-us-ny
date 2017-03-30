@@ -1,0 +1,64 @@
+{
+  "id": 1108911587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7288.668479,
+    "geom:bbox":"-74.0074994912,40.7360025022,-74.0061945479,40.7368858333",
+    "geom:latitude":40.73644,
+    "geom:longitude":-74.006851,
+    "intersection:latitude":40.736432,
+    "intersection:longitude":-74.006621,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.736432,
+    "reversegeo:longitude":-74.006621,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818130,
+    "wof:geomhash":"ddfda436c8dd55cb6bc824eaa34a49c3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911587,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911587,
+    "wof:lastmodified":1490900149,
+    "wof:name":"Bank St  & Greenwich St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00749949124842,
+    40.73600250216354,
+    -74.00619454788607,
+    40.73688583333333
+],
+  "geometry": {"coordinates":[[[-74.00641127266263,40.73600250216354],[-74.00746535150232,40.73626713690749],[-74.00749949124842,40.73650513571138],[-74.00737616666666,40.73688583333333],[-74.00624267915011,40.73662027340087],[-74.00619454788607,40.73624654829184],[-74.00641127266263,40.73600250216354]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12360.866458,
+    "geom:bbox":"-73.9569079481,40.7838817668,-73.9551504313,40.7854593257",
+    "geom:latitude":40.784671,
+    "geom:longitude":-73.95603,
+    "intersection:latitude":40.78467,
+    "intersection:longitude":-73.956031,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.78467,
+    "reversegeo:longitude":-73.956031,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907196173,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818144,
+    "wof:geomhash":"ba4e82b5fff39e4479a1fff293c27a21",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911937,
+            "locality_id":85977539,
+            "microhood_id":907196173,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911937,
+    "wof:lastmodified":1490900139,
+    "wof:name":"Madison Ave  & E 92nd St",
+    "wof:parent_id":907196173,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9569079481424,
+    40.78388176676507,
+    -73.95515043129629,
+    40.78545932571885
+],
+  "geometry": {"coordinates":[[[-73.95560659648011,40.78388176676507],[-73.9569079481424,40.78482971621875],[-73.95675637831117,40.78519065031242],[-73.9564461137477,40.78545932571885],[-73.95515043129629,40.78450613257785],[-73.95529840222939,40.78415388318843],[-73.95560659648011,40.78388176676507]]],"type":"Polygon"}
+}

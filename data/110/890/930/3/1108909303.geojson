@@ -1,0 +1,64 @@
+{
+  "id": 1108909303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18976.613162,
+    "geom:bbox":"-73.9659593362,40.8055129902,-73.9634118415,40.8075650859",
+    "geom:latitude":40.806589,
+    "geom:longitude":-73.964689,
+    "intersection:latitude":40.806707,
+    "intersection:longitude":-73.964848,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.806707,
+    "reversegeo:longitude":-73.964848,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869509,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818011,
+    "wof:geomhash":"e6857c41774d639b8ea1301aa235ba13",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909303,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869509,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909303,
+    "wof:lastmodified":1490900171,
+    "wof:name":"Broadway  & W 114th St",
+    "wof:parent_id":85869509,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9659593361791,
+    40.80551299021938,
+    -73.96341184147084,
+    40.80756508585156
+],
+  "geometry": {"coordinates":[[[-73.96387906060282,40.80551299021938],[-73.9659593361791,40.80704162722422],[-73.96586604057529,40.8072652638178],[-73.96560726792833,40.80754976040794],[-73.96536653640244,40.80756508585156],[-73.96341184147084,40.80614630569513],[-73.96343476271154,40.80609196819631],[-73.96387906060282,40.80551299021938]]],"type":"Polygon"}
+}

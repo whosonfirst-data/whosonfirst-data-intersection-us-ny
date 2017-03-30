@@ -1,0 +1,64 @@
+{
+  "id": 1108914819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18962.86289,
+    "geom:bbox":"-73.9817427233,40.7328130228,-73.9799342415,40.734855885",
+    "geom:latitude":40.733786,
+    "geom:longitude":-73.98093,
+    "intersection:latitude":40.733813,
+    "intersection:longitude":-73.980711,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.733813,
+    "reversegeo:longitude":-73.980711,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85851295,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818295,
+    "wof:geomhash":"5d1b7e4da16d1561ed184bad9ad2e2d9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914819,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85851295,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914819,
+    "wof:lastmodified":1490900141,
+    "wof:name":"1st Ave  & E 18th St",
+    "wof:parent_id":85851295,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98174272328869,
+    40.73281302276786,
+    -73.97993424148746,
+    40.73485588500532
+],
+  "geometry": {"coordinates":[[[-73.98056596726015,40.73281302276786],[-73.98174272328869,40.7336689367681],[-73.98169056133229,40.73463725235892],[-73.98151226111965,40.73485588500532],[-73.97993424148746,40.73370342845649],[-73.98021276538405,40.73305864563588],[-73.98056596726015,40.73281302276786]]],"type":"Polygon"}
+}

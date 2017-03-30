@@ -1,0 +1,64 @@
+{
+  "id": 1108914469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7849.107423,
+    "geom:bbox":"-74.014797827,40.7065760126,-74.0136721381,40.7076871772",
+    "geom:latitude":40.707175,
+    "geom:longitude":-74.014189,
+    "intersection:latitude":40.707111,
+    "intersection:longitude":-74.013961,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.707111,
+    "reversegeo:longitude":-74.013961,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818274,
+    "wof:geomhash":"a98c5857d9012f2f0404b5b2dd763917",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914469,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914469,
+    "wof:lastmodified":1490900155,
+    "wof:name":"Edgar St  & Greenwich St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01479782697679,
+    40.70657601263502,
+    -74.0136721381062,
+    40.70768717719645
+],
+  "geometry": {"coordinates":[[[-74.01391052906843,40.70657601263502],[-74.01456862970716,40.70684915816808],[-74.01479782697679,40.70725060491947],[-74.01471696392721,40.70746117447138],[-74.01411947928824,40.70768717719645],[-74.01369040192435,40.70750242859987],[-74.0136721381062,40.70720462689849],[-74.01391052906843,40.70657601263502]]],"type":"Polygon"}
+}

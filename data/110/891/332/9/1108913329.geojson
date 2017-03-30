@@ -1,0 +1,64 @@
+{
+  "id": 1108913329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9884.687611,
+    "geom:bbox":"-73.9325464522,40.8578106507,-73.931200516,40.8592681669",
+    "geom:latitude":40.858526,
+    "geom:longitude":-73.931899,
+    "intersection:latitude":40.858271,
+    "intersection:longitude":-73.931818,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.858271,
+    "reversegeo:longitude":-73.931818,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212535,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818210,
+    "wof:geomhash":"8c9c12469834c32d0cf03adfec5ad6b8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913329,
+            "locality_id":85977539,
+            "microhood_id":907212535,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913329,
+    "wof:lastmodified":1490900134,
+    "wof:name":"Broadway  & W 193rd St",
+    "wof:parent_id":907212535,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93254645224532,
+    40.85781065074791,
+    -73.9312005159587,
+    40.85926816687216
+],
+  "geometry": {"coordinates":[[[-73.93146161031822,40.85781065074791],[-73.93241654782982,40.85831032735282],[-73.93254645224532,40.85926816687216],[-73.93120051595869,40.85862512257251],[-73.93146161031822,40.85781065074791]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108908095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12449.927814,
+    "geom:bbox":"-73.9830632818,40.775056891,-73.9811844344,40.7759189484",
+    "geom:latitude":40.775487,
+    "geom:longitude":-73.982122,
+    "intersection:latitude":40.77549,
+    "intersection:longitude":-73.98217,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.77549,
+    "reversegeo:longitude":-73.98217,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817950,
+    "wof:geomhash":"23ba541001a27ba8b7168bc5a0cf8639",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908095,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908095,
+    "wof:lastmodified":1490900173,
+    "wof:name":"Broadway  & W 68th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98306328178678,
+    40.77505689100023,
+    -73.98118443436675,
+    40.77591894840063
+],
+  "geometry": {"coordinates":[[[-73.98146321294162,40.77505689100023],[-73.98305910276359,40.77511789295398],[-73.98306328178678,40.77524333330041],[-73.98277582906999,40.77591894840063],[-73.98118443436675,40.7758538727808],[-73.98118521178581,40.7757148561182],[-73.98146321294162,40.77505689100023]]],"type":"Polygon"}
+}

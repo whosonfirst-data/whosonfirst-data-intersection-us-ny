@@ -1,0 +1,64 @@
+{
+  "id": 1108912765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12317.036808,
+    "geom:bbox":"-73.9746431065,40.7595753217,-73.9728853854,40.7611511622",
+    "geom:latitude":40.760363,
+    "geom:longitude":-73.973765,
+    "intersection:latitude":40.760364,
+    "intersection:longitude":-73.973766,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.760364,
+    "reversegeo:longitude":-73.973766,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818185,
+    "wof:geomhash":"ed39dfde52f9a9a4e212ec9cbc97745b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912765,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912765,
+    "wof:lastmodified":1490900145,
+    "wof:name":"E 54th St  & Madison Ave",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97464310654112,
+    40.75957532168503,
+    -73.97288538535837,
+    40.76115116218532
+],
+  "geometry": {"coordinates":[[[-73.97334363070341,40.75957532168503],[-73.97464310654112,40.76052702113669],[-73.97449489477238,40.76087935295973],[-73.97418665506747,40.76115116218532],[-73.97288538535837,40.76019967377404],[-73.97303416714988,40.75984874044153],[-73.97334363070341,40.75957532168503]]],"type":"Polygon"}
+}

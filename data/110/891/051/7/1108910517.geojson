@@ -1,0 +1,62 @@
+{
+  "id": 1108910517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22237.21078,
+    "geom:bbox":"-73.9180132662,40.8652847474,-73.9150441814,40.86735961",
+    "geom:latitude":40.866152,
+    "geom:longitude":-73.916774,
+    "intersection:latitude":40.866813,
+    "intersection:longitude":-73.917205,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.866813,
+    "reversegeo:longitude":-73.917205,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818072,
+    "wof:geomhash":"c76d72ea2a8a1bc6c388ddf60add3602",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910517,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910517,
+    "wof:lastmodified":1490900160,
+    "wof:name":"10th Ave  & Sherman Ave",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91801326622279,
+    40.86528474743785,
+    -73.91504418140032,
+    40.86735961003335
+],
+  "geometry": {"coordinates":[[[-73.91641401759885,40.86528474743785],[-73.91781274664856,40.86631888973525],[-73.91801326622279,40.86687897553392],[-73.91770675737327,40.86735961003335],[-73.91504418140032,40.86534705260767],[-73.91641401759885,40.86528474743785]]],"type":"Polygon"}
+}

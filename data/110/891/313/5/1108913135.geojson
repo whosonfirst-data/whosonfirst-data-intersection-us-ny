@@ -1,0 +1,64 @@
+{
+  "id": 1108913135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17518.909995,
+    "geom:bbox":"-74.0126307214,40.7114653042,-74.0108708365,40.713253803",
+    "geom:latitude":40.712351,
+    "geom:longitude":-74.011764,
+    "intersection:latitude":40.712798,
+    "intersection:longitude":-74.011663,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.712798,
+    "reversegeo:longitude":-74.011663,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818202,
+    "wof:geomhash":"ad2c1b6dbee2bad3e533d8316b5171c8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913135,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913135,
+    "wof:lastmodified":1490900150,
+    "wof:name":"Vesey St  & W Broadway",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0126307214417,
+    40.71146530415245,
+    -74.01087083645108,
+    40.71325380303103
+],
+  "geometry": {"coordinates":[[[-74.01214563202376,40.71146530415245],[-74.0126307214417,40.71163948543521],[-74.01201661601996,40.7132055422413],[-74.01148391464476,40.71325380303103],[-74.01087083645108,40.71248832121859],[-74.01098512068528,40.7122413198092],[-74.01144650600899,40.71180367957341],[-74.01214563202376,40.71146530415245]]],"type":"Polygon"}
+}

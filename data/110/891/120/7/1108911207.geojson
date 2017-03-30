@@ -1,0 +1,64 @@
+{
+  "id": 1108911207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6620.940362,
+    "geom:bbox":"-74.0035520131,40.7302507717,-74.0020446983,40.7314751958",
+    "geom:latitude":40.730822,
+    "geom:longitude":-74.002787,
+    "intersection:latitude":40.730913,
+    "intersection:longitude":-74.002819,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.730913,
+    "reversegeo:longitude":-74.002819,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818107,
+    "wof:geomhash":"795a8a426fdd4701ef03a7d984811cb9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911207,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911207,
+    "wof:lastmodified":1490900131,
+    "wof:name":"Leroy St  & Bleecker St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0035520130558,
+    40.73025077172221,
+    -74.00204469830656,
+    40.73147519577415
+],
+  "geometry": {"coordinates":[[[-74.00326283415889,40.73025077172221],[-74.00350967185628,40.73051654299298],[-74.0035520130558,40.73065138063265],[-74.0020704745352,40.73147519577415],[-74.00204469830656,40.731453987717],[-74.00221441865692,40.73087376904937],[-74.00326283415889,40.73025077172221]]],"type":"Polygon"}
+}

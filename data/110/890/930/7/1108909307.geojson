@@ -1,0 +1,64 @@
+{
+  "id": 1108909307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18043.331464,
+    "geom:bbox":"-73.9663340376,40.7748901374,-73.9638096139,40.7768685904",
+    "geom:latitude":40.7759,
+    "geom:longitude":-73.965005,
+    "intersection:latitude":40.775677,
+    "intersection:longitude":-73.964687,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.775677,
+    "reversegeo:longitude":-73.964687,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818011,
+    "wof:geomhash":"4dc21f605e157974b416a1a0a8b0e607",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909307,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909307,
+    "wof:lastmodified":1490900171,
+    "wof:name":"5th Ave  & E 77th St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96633403757116,
+    40.77489013743242,
+    -73.96380961391988,
+    40.77686859038194
+],
+  "geometry": {"coordinates":[[[-73.96427197908307,40.77489013743242],[-73.96633403757116,40.77639426553846],[-73.96566432399081,40.77686859038194],[-73.96380961391988,40.77552370582817],[-73.96396372960119,40.77515785257877],[-73.96427197908307,40.77489013743242]]],"type":"Polygon"}
+}

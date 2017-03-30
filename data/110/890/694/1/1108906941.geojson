@@ -1,0 +1,66 @@
+{
+  "id": 1108906941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14601.162056,
+    "geom:bbox":"-73.9808331376,40.742212522,-73.9787792328,40.7439867126",
+    "geom:latitude":40.743105,
+    "geom:longitude":-73.979819,
+    "intersection:latitude":40.743205,
+    "intersection:longitude":-73.979959,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.743205,
+    "reversegeo:longitude":-73.979959,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215457,
+        85868041,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817896,
+    "wof:geomhash":"b8974f7bab17eac3bf016b3ccbe9f5fd",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906941,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907215457,
+            "neighbourhood_id":85868041,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906941,
+    "wof:lastmodified":1490900163,
+    "wof:name":"E 30th St  & 3rd Ave",
+    "wof:parent_id":907215457,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98083313759659,
+    40.74221252198696,
+    -73.97877923280635,
+    40.74398671256913
+],
+  "geometry": {"coordinates":[[[-73.97924793811075,40.74221252198696],[-73.98083313759659,40.74336935850496],[-73.98068668154718,40.74371570434705],[-73.98038197404183,40.74398671256913],[-73.97877923280635,40.74282084757366],[-73.9788350685109,40.7426859211248],[-73.97924793811075,40.74221252198696]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108907047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15266.329469,
+    "geom:bbox":"-73.9563900764,40.787768388,-73.9543990087,40.7896518085",
+    "geom:latitude":40.788672,
+    "geom:longitude":-73.955411,
+    "intersection:latitude":40.788584,
+    "intersection:longitude":-73.955275,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.788584,
+    "reversegeo:longitude":-73.955275,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817901,
+    "wof:geomhash":"92cc6d59e2fc7b1a8bc13582d1f907e9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907047,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907047,
+    "wof:lastmodified":1490900175,
+    "wof:name":"97th St Transverse  & E 97th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95639007638752,
+    40.78776838801362,
+    -73.95439900872559,
+    40.78965180845424
+],
+  "geometry": {"coordinates":[[[-73.95488632101215,40.78776838801362],[-73.95558757433531,40.78829485132935],[-73.95639007638752,40.78889732675064],[-73.95607283089535,40.78965180845424],[-73.95439900872559,40.78841733091194],[-73.95456241651496,40.78803381306954],[-73.95488632101215,40.78776838801362]]],"type":"Polygon"}
+}

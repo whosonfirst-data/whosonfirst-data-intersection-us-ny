@@ -1,0 +1,64 @@
+{
+  "id": 1108908347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19919.187682,
+    "geom:bbox":"-73.9412999342,40.7885654708,-73.9389015907,40.790726394",
+    "geom:latitude":40.789657,
+    "geom:longitude":-73.940101,
+    "intersection:latitude":40.789626,
+    "intersection:longitude":-73.940066,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.789626,
+    "reversegeo:longitude":-73.940066,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817963,
+    "wof:geomhash":"cfa0a3ea250e0b467d6c2b537f9a3ba6",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908347,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908347,
+    "wof:lastmodified":1490900174,
+    "wof:name":"1st Ave  & E 106th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9412999341564,
+    40.78856547076177,
+    -73.93890159071566,
+    40.79072639397717
+],
+  "geometry": {"coordinates":[[[-73.93932349839214,40.78856547076177],[-73.9412999341564,40.79000765579506],[-73.9410506448172,40.79059940573956],[-73.94084898360755,40.79072639397717],[-73.93890159071566,40.78930600900242],[-73.93911548230797,40.78879919390828],[-73.93932349839214,40.78856547076177]]],"type":"Polygon"}
+}

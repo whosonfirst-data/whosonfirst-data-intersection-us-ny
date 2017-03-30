@@ -1,0 +1,64 @@
+{
+  "id": 1108912877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4190.144362,
+    "geom:bbox":"-73.9999965411,40.718112304,-73.9990773736,40.7189897127",
+    "geom:latitude":40.718547,
+    "geom:longitude":-73.999501,
+    "intersection:latitude":40.71868,
+    "intersection:longitude":-73.999423,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.71868,
+    "reversegeo:longitude":-73.999423,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865687,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818189,
+    "wof:geomhash":"5d3bec2518d6fa6dc8bd00101bcc700b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912877,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865687,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912877,
+    "wof:lastmodified":1490900159,
+    "wof:name":"Hester St  & Centre St",
+    "wof:parent_id":85865687,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99999654113647,
+    40.71811230400462,
+    -73.99907737358184,
+    40.71898971272851
+],
+  "geometry": {"coordinates":[[[-73.99939569522526,40.71811230400462],[-73.99998439120904,40.71858556940335],[-73.99999654113647,40.71863946648139],[-73.99956669346955,40.71898971272851],[-73.99907737358184,40.71859279659645],[-73.99924060940171,40.7181274008547],[-73.99939569522526,40.71811230400462]]],"type":"Polygon"}
+}

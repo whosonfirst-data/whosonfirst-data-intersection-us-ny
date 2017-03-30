@@ -1,0 +1,64 @@
+{
+  "id": 1108908371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12350.41089,
+    "geom:bbox":"-73.9688533896,40.7646218998,-73.9670914219,40.7661992262",
+    "geom:latitude":40.765411,
+    "geom:longitude":-73.967972,
+    "intersection:latitude":40.765413,
+    "intersection:longitude":-73.967974,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.765413,
+    "reversegeo:longitude":-73.967974,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817965,
+    "wof:geomhash":"d0bceb24b192fbdade85253dec6f6569",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908371,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908371,
+    "wof:lastmodified":1490900171,
+    "wof:name":"E 63rd St  & Park Ave",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9688533895962,
+    40.76462189975789,
+    -73.96709142185516,
+    40.76619922621924
+],
+  "geometry": {"coordinates":[[[-73.96754795918748,40.76462189975789],[-73.96885338959621,40.76557643047273],[-73.96870539253922,40.76592808719661],[-73.96839951016132,40.76619922621924],[-73.96709142185516,40.76525054875758],[-73.96724198462412,40.76489348727171],[-73.96754795918748,40.76462189975789]]],"type":"Polygon"}
+}

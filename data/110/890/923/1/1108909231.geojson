@@ -1,0 +1,66 @@
+{
+  "id": 1108909231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6624.851302,
+    "geom:bbox":"-74.0039308152,40.7076308713,-74.0027557616,40.7088015622",
+    "geom:latitude":40.708203,
+    "geom:longitude":-74.003384,
+    "intersection:latitude":40.708084,
+    "intersection:longitude":-74.003402,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.708084,
+    "reversegeo:longitude":-74.003402,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215463,
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818003,
+    "wof:geomhash":"dd9486497059b8c51f96d2eabf46566e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909231,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907215463,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909231,
+    "wof:lastmodified":1490900178,
+    "wof:name":"Pearl St  & Beekman St",
+    "wof:parent_id":907215463,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00393081520185,
+    40.70763087132134,
+    -74.00275576162618,
+    40.70880156222039
+],
+  "geometry": {"coordinates":[[[-74.00360145457239,40.70763087132134],[-74.00384290477167,40.70787530699451],[-74.00393081520185,40.70818840337279],[-74.00323777298325,40.70880156222039],[-74.00275576162618,40.7082328900288],[-74.00360145457239,40.70763087132134]]],"type":"Polygon"}
+}

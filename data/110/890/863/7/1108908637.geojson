@@ -1,0 +1,64 @@
+{
+  "id": 1108908637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12367.230464,
+    "geom:bbox":"-73.9527674934,40.783778757,-73.951007252,40.7853562426",
+    "geom:latitude":40.784567,
+    "geom:longitude":-73.951887,
+    "intersection:latitude":40.784565,
+    "intersection:longitude":-73.951883,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.784565,
+    "reversegeo:longitude":-73.951883,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907196173,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817975,
+    "wof:geomhash":"e40d9b57e373f822d0087e1d3ea19580",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908637,
+            "locality_id":85977539,
+            "microhood_id":907196173,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908637,
+    "wof:lastmodified":1490900176,
+    "wof:name":"Lexington Ave  & E 94th St",
+    "wof:parent_id":907196173,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95276749338355,
+    40.78377875703806,
+    -73.95100725200729,
+    40.78535624258868
+],
+  "geometry": {"coordinates":[[[-73.95146447034912,40.78377875703806],[-73.95276749338355,40.78472905090711],[-73.95261891309137,40.78508198356595],[-73.9523099586501,40.78535624258868],[-73.95100725200729,40.78440674189367],[-73.95115855395321,40.78404734365122],[-73.95146447034912,40.78377875703806]]],"type":"Polygon"}
+}

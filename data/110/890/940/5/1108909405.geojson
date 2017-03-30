@@ -1,0 +1,64 @@
+{
+  "id": 1108909405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10908.144833,
+    "geom:bbox":"-74.007529712,40.7472620899,-74.0059361741,40.7487047411",
+    "geom:latitude":40.747927,
+    "geom:longitude":-74.006824,
+    "intersection:latitude":40.748178,
+    "intersection:longitude":-74.007413,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.748178,
+    "reversegeo:longitude":-74.007413,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818017,
+    "wof:geomhash":"3ab35c4e8a42f9cad9221efb1ebd473d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909405,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909405,
+    "wof:lastmodified":1490900178,
+    "wof:name":"W 22nd St  & 11th Ave",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00752971197417,
+    40.74726208990196,
+    -74.0059361740707,
+    40.74870474110945
+],
+  "geometry": {"coordinates":[[[-74.00628149537472,40.74726208990196],[-74.00752182613324,40.74782152692062],[-74.00752971197417,40.74870474110945],[-74.0059361740707,40.7478318762466],[-74.00604744104756,40.7475659915227],[-74.00628149537472,40.74726208990196]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108908725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18951.469477,
+    "geom:bbox":"-73.9912029619,40.7119019948,-73.9891738694,40.7131624608",
+    "geom:latitude":40.712465,
+    "geom:longitude":-73.990154,
+    "intersection:latitude":40.712646,
+    "intersection:longitude":-73.989971,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.712646,
+    "reversegeo:longitude":-73.989971,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817978,
+    "wof:geomhash":"0026ca6e184a461f68df1123600ffd96",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908725,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908725,
+    "wof:lastmodified":1490900169,
+    "wof:name":"Rutgers St  & Madison St",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99120296191802,
+    40.7119019948377,
+    -73.98917386942021,
+    40.71316246079634
+],
+  "geometry": {"coordinates":[[[-73.9911070729667,40.7119019948377],[-73.991145309484,40.71200855983994],[-73.99120296191802,40.71277233677257],[-73.9893384730772,40.71316246079634],[-73.98925406697074,40.71302867955711],[-73.98917386942021,40.71205913681211],[-73.98994606962654,40.7119286938692],[-73.9911070729667,40.7119019948377]]],"type":"Polygon"}
+}

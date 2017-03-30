@@ -1,0 +1,64 @@
+{
+  "id": 1108914253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14448.746387,
+    "geom:bbox":"-73.9891475504,40.7150688647,-73.9878161706,40.7170746621",
+    "geom:latitude":40.716086,
+    "geom:longitude":-73.988469,
+    "intersection:latitude":40.716446,
+    "intersection:longitude":-73.988367,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.716446,
+    "reversegeo:longitude":-73.988367,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818260,
+    "wof:geomhash":"72adbf971a2aef16964188b8af4c0a0d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914253,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914253,
+    "wof:lastmodified":1490900146,
+    "wof:name":"Grand St  & Norfolk St",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98914755038801,
+    40.71506886473023,
+    -73.98781617060499,
+    40.71707466212581
+],
+  "geometry": {"coordinates":[[[-73.98832588723818,40.71506886473023],[-73.98914598976847,40.71541279013204],[-73.98914755038801,40.71541439806962],[-73.98861222471878,40.71702446153279],[-73.98841340394908,40.71707466212581],[-73.98781617060499,40.71677201428373],[-73.98832588723818,40.71506886473023]]],"type":"Polygon"}
+}

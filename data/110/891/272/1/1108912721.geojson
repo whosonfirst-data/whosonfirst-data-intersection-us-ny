@@ -1,0 +1,75 @@
+{
+  "id": 1108912721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22809.038564,
+    "geom:bbox":"-73.9919400659,40.7704132732,-73.9890200005,40.7728595385",
+    "geom:latitude":40.771651,
+    "geom:longitude":-73.990502,
+    "intersection:latitude":40.771612,
+    "intersection:longitude":-73.990454,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.771612,
+    "reversegeo:longitude":-73.990454,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865537,
+        102191575,
+        404478147,
+        85633793,
+        102080719,
+        85688607,
+        85853285,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818182,
+    "wof:geomhash":"e6a57ab4eee25dc4d76f89dcfec8c729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "intersection_id":1108912721,
+            "localadmin_id":404478147,
+            "neighbourhood_id":85865537,
+            "region_id":85688607
+        },
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912721,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912721,
+    "wof:lastmodified":1490900130,
+    "wof:name":"W 59th St  & 11th Ave",
+    "wof:parent_id":-1,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99194006589371,
+    40.77041327323148,
+    -73.98902000053866,
+    40.77285953847566
+],
+  "geometry": {"coordinates":[[[-73.98947801524277,40.77041327323148],[-73.99194006589371,40.77222430087372],[-73.99169701892754,40.77279042012814],[-73.99150117226009,40.77285953847566],[-73.98902000053866,40.77104788928215],[-73.98905139229186,40.77097343549158],[-73.98947801524277,40.77041327323148]]],"type":"Polygon"}
+}

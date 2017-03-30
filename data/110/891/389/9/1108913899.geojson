@@ -1,0 +1,64 @@
+{
+  "id": 1108913899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15210.82056,
+    "geom:bbox":"-73.9465084227,40.8018102927,-73.944168324,40.8034788607",
+    "geom:latitude":40.802703,
+    "geom:longitude":-73.945223,
+    "intersection:latitude":40.802599,
+    "intersection:longitude":-73.945052,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.802599,
+    "reversegeo:longitude":-73.945052,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818239,
+    "wof:geomhash":"a59dbd0aade3cb0ab62ef52a720c8bfe",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913899,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913899,
+    "wof:lastmodified":1490900150,
+    "wof:name":"W 119th St  & E 119th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94650842273577,
+    40.80181029265955,
+    -73.94416832403323,
+    40.80347886070288
+],
+  "geometry": {"coordinates":[[[-73.94462623638199,40.80181029265955],[-73.94650842273577,40.80317697574444],[-73.94560606457608,40.80347886070288],[-73.94416832403323,40.80243884170925],[-73.94431799154337,40.80208316127338],[-73.94462623638199,40.80181029265955]]],"type":"Polygon"}
+}

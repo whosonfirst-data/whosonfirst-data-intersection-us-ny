@@ -1,0 +1,66 @@
+{
+  "id": 1108910771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9901.706207,
+    "geom:bbox":"-73.9864742572,40.7558109992,-73.9847760044,40.7569752052",
+    "geom:latitude":40.75636,
+    "geom:longitude":-73.985645,
+    "intersection:latitude":40.756581,
+    "intersection:longitude":-73.986156,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.756581,
+    "reversegeo:longitude":-73.986156,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907216453,
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818082,
+    "wof:geomhash":"fc61a39c2bca953abbce1ba95c6cf894",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910771,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907216453,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910771,
+    "wof:lastmodified":1490900150,
+    "wof:name":"Broadway  & W 43rd St",
+    "wof:parent_id":907216453,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98647425721025,
+    40.75581099917579,
+    -73.9847760043596,
+    40.75697520517809
+],
+  "geometry": {"coordinates":[[[-73.98505209859336,40.75581099917579],[-73.98647425721025,40.75625393660859],[-73.98616616566898,40.75697520517809],[-73.9860614187812,40.75695558241019],[-73.9847760043596,40.75631952062109],[-73.98492942785523,40.75595476166245],[-73.98505209859336,40.75581099917579]]],"type":"Polygon"}
+}

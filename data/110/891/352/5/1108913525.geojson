@@ -1,0 +1,64 @@
+{
+  "id": 1108913525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7893.642519,
+    "geom:bbox":"-73.9808315424,40.7145031503,-73.9796147622,40.715577424",
+    "geom:latitude":40.715004,
+    "geom:longitude":-73.980251,
+    "intersection:latitude":40.715145,
+    "intersection:longitude":-73.980286,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.715145,
+    "reversegeo:longitude":-73.980286,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818223,
+    "wof:geomhash":"8a717b4eed917ebadfe8a0468f2401ac",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913525,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913525,
+    "wof:lastmodified":1490900158,
+    "wof:name":"Cannon St  & Broome St",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98083154236296,
+    40.71450315030503,
+    -73.97961476221252,
+    40.7155774239579
+],
+  "geometry": {"coordinates":[[[-73.98032602420523,40.71450315030503],[-73.98083154236296,40.71486866116368],[-73.98067450392938,40.7154644636327],[-73.98052611254096,40.7155774239579],[-73.97973292896431,40.71518710239548],[-73.97961476221252,40.71469977904705],[-73.98032602420523,40.71450315030503]]],"type":"Polygon"}
+}

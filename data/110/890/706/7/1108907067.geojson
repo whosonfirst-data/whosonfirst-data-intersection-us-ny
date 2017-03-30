@@ -1,0 +1,64 @@
+{
+  "id": 1108907067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10765.847231,
+    "geom:bbox":"-74.0011730252,40.7353528546,-73.9993142706,40.736559904",
+    "geom:latitude":40.736077,
+    "geom:longitude":-74.000386,
+    "intersection:latitude":40.735926,
+    "intersection:longitude":-74.000722,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.735926,
+    "reversegeo:longitude":-74.000722,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817902,
+    "wof:geomhash":"6718e716d646df77ab0baa394bbc56e2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907067,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907067,
+    "wof:lastmodified":1490900180,
+    "wof:name":"Greenwich Ave  & Perry St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00117302516277,
+    40.73535285463771,
+    -73.9993142705986,
+    40.73655990398733
+],
+  "geometry": {"coordinates":[[[-74.00098489201982,40.73535285463771],[-74.00107317208395,40.73544710854075],[-74.00117302516277,40.73609034814152],[-74.00036987065974,40.73655990398733],[-73.9993142705986,40.73649919079363],[-73.99935405987713,40.73631712695472],[-74.00098489201982,40.73535285463771]]],"type":"Polygon"}
+}

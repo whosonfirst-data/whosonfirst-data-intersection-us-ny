@@ -1,0 +1,77 @@
+{
+  "id": 1108909177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20587.344209,
+    "geom:bbox":"-73.996094636,40.7705511798,-73.9925858895,40.7729060418",
+    "geom:latitude":40.771527,
+    "geom:longitude":-73.994083,
+    "intersection:latitude":40.771418,
+    "intersection:longitude":-73.994018,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.771418,
+    "reversegeo:longitude":-73.994018,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543,
+        85865537,
+        404478147,
+        102080719,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817998,
+    "wof:geomhash":"f15022a7ec1384964fd2ad7c327797a3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909177,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "intersection_id":1108909177,
+            "localadmin_id":404478147,
+            "neighbourhood_id":85865537,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":1108909177,
+    "wof:lastmodified":1490900165,
+    "wof:name":"12th Ave  & W 57th St",
+    "wof:parent_id":-1,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99609463603996,
+    40.77055117983421,
+    -73.99258588948588,
+    40.77290604181248
+],
+  "geometry": {"coordinates":[[[-73.99293627636959,40.77055117983421],[-73.99437839666496,40.77111455194179],[-73.99609463603996,40.77290604181248],[-73.99258588948588,40.77115889809564],[-73.99274685905441,40.77077759687791],[-73.99293627636959,40.77055117983421]]],"type":"Polygon"}
+}

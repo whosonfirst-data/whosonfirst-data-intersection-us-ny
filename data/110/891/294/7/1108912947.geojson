@@ -1,0 +1,62 @@
+{
+  "id": 1108912947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12876.541684,
+    "geom:bbox":"-73.9395085219,40.836296986,-73.9378553813,40.8380000768",
+    "geom:latitude":40.837128,
+    "geom:longitude":-73.938695,
+    "intersection:latitude":40.837229,
+    "intersection:longitude":-73.93884,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.837229,
+    "reversegeo:longitude":-73.93884,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818193,
+    "wof:geomhash":"41ca66034ac1d02dacda4751f5ae8af2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912947,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912947,
+    "wof:lastmodified":1490900159,
+    "wof:name":"W 164th St  & Amsterdam Ave",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93950852187791,
+    40.83629698603542,
+    -73.93785538128532,
+    40.83800007684908
+],
+  "geometry": {"coordinates":[[[-73.93828316025495,40.83629698603542],[-73.93949477411388,40.8371926441258],[-73.93950852187791,40.83725373454202],[-73.93919988945522,40.83798808880137],[-73.93918130333476,40.83800007684908],[-73.93785538128532,40.83703098382178],[-73.93808321738078,40.83648627568302],[-73.93828316025495,40.83629698603542]]],"type":"Polygon"}
+}

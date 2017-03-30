@@ -1,0 +1,64 @@
+{
+  "id": 1108912809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10702.030177,
+    "geom:bbox":"-73.9872018757,40.7287603144,-73.9855980481,40.7303106601",
+    "geom:latitude":40.729512,
+    "geom:longitude":-73.986424,
+    "intersection:latitude":40.729779,
+    "intersection:longitude":-73.986812,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.729779,
+    "reversegeo:longitude":-73.986812,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818187,
+    "wof:geomhash":"e46b108bc62ea8ceb0f8319cf6f412d4",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912809,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912809,
+    "wof:lastmodified":1490900143,
+    "wof:name":"2nd Ave  & E 10th St",
+    "wof:parent_id":85816887,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98720187565272,
+    40.72876031443908,
+    -73.98559804813425,
+    40.7303106601394
+],
+  "geometry": {"coordinates":[[[-73.9860285821446,40.72876031443908],[-73.98720187565272,40.72961380051738],[-73.986911411313,40.7303106601394],[-73.98559804813425,40.7293556855818],[-73.98565841785542,40.72921268556092],[-73.9860285821446,40.72876031443908]]],"type":"Polygon"}
+}

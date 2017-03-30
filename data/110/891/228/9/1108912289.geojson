@@ -1,0 +1,62 @@
+{
+  "id": 1108912289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19672.486066,
+    "geom:bbox":"-73.9702878786,40.7850030379,-73.9676820746,40.7871595488",
+    "geom:latitude":40.786072,
+    "geom:longitude":-73.969008,
+    "intersection:latitude":40.785967,
+    "intersection:longitude":-73.968844,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.785967,
+    "reversegeo:longitude":-73.968844,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818159,
+    "wof:geomhash":"3c2c5d272cfbbdc42eb9446f32da367f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912289,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912289,
+    "wof:lastmodified":1490900152,
+    "wof:name":"Central Park W  & W 87th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97028787863366,
+    40.78500303788888,
+    -73.96768207460457,
+    40.78715954875007
+],
+  "geometry": {"coordinates":[[[-73.96822945519192,40.78500303788888],[-73.97028787863366,40.7865048000136],[-73.97024792780013,40.78659956633025],[-73.96981775199089,40.78715954875007],[-73.96768207460457,40.78560108146822],[-73.96822945519192,40.78500303788888]]],"type":"Polygon"}
+}

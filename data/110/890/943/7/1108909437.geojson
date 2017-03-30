@@ -1,0 +1,64 @@
+{
+  "id": 1108909437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":27104.257311,
+    "geom:bbox":"-74.0033933442,40.7580237004,-74.0011152967,40.7604923099",
+    "geom:latitude":40.759205,
+    "geom:longitude":-74.002323,
+    "intersection:latitude":40.760109,
+    "intersection:longitude":-74.002532,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.760109,
+    "reversegeo:longitude":-74.002532,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85868039,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818018,
+    "wof:geomhash":"9c698ec547f07931c558c06fa6686060",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909437,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85868039,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909437,
+    "wof:lastmodified":1490900174,
+    "wof:name":"12th Ave  & W 39th St",
+    "wof:parent_id":85868039,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00339334418352,
+    40.75802370038552,
+    -74.00111529666377,
+    40.76049230987491
+],
+  "geometry": {"coordinates":[[[-74.00295572032987,40.75802370038552],[-74.00339334418352,40.75834069178749],[-74.00249598687678,40.76049230987491],[-74.00231095468489,40.76042783690153],[-74.00111529666377,40.75950329872532],[-74.001118492318,40.75949563562192],[-74.00157856398111,40.75888441943906],[-74.00217733863978,40.75840163258679],[-74.00295572032987,40.75802370038552]]],"type":"Polygon"}
+}

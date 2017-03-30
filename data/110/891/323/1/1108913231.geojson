@@ -1,0 +1,66 @@
+{
+  "id": 1108913231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9276.426653,
+    "geom:bbox":"-74.0067461463,40.73982681,-74.0054427678,40.7411477745",
+    "geom:latitude":40.74046,
+    "geom:longitude":-74.006076,
+    "intersection:latitude":40.740261,
+    "intersection:longitude":-74.005864,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.740261,
+    "reversegeo:longitude":-74.005864,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214383,
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818206,
+    "wof:geomhash":"000471b42a22e481d5beb232a51a8996",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913231,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907214383,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913231,
+    "wof:lastmodified":1490900155,
+    "wof:name":"9th Ave  & W 13th St",
+    "wof:parent_id":907214383,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0067461463016,
+    40.73982681001262,
+    -74.00544276781999,
+    40.7411477744742
+],
+  "geometry": {"coordinates":[[[-74.00570807334556,40.73982681001262],[-74.00596089115469,40.73984296641698],[-74.00674614630159,40.74042879168531],[-74.00658711857878,40.74080686199844],[-74.00616575569056,40.7411477744742],[-74.00544276781999,40.74046824489091],[-74.00570807334556,40.73982681001262]]],"type":"Polygon"}
+}

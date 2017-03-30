@@ -1,0 +1,62 @@
+{
+  "id": 1108910335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22289.102982,
+    "geom:bbox":"-73.925535955,40.8642902994,-73.9233149614,40.8663355582",
+    "geom:latitude":40.865318,
+    "geom:longitude":-73.924432,
+    "intersection:latitude":40.865365,
+    "intersection:longitude":-73.924385,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.865365,
+    "reversegeo:longitude":-73.924385,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818061,
+    "wof:geomhash":"5cd4514682dc867ed94af668b64867d7",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910335,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910335,
+    "wof:lastmodified":1490900161,
+    "wof:name":"Academy St  & Vermilyea Ave",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92553595500404,
+    40.86429029943918,
+    -73.92331496139059,
+    40.86633555824299
+],
+  "geometry": {"coordinates":[[[-73.92500017465937,40.86429029943918],[-73.92553595500404,40.8647769915288],[-73.92520362921424,40.86552573160368],[-73.92393533620327,40.86633555824299],[-73.92356586425754,40.86605023012014],[-73.92331496139059,40.86537290006301],[-73.92500017465937,40.86429029943918]]],"type":"Polygon"}
+}

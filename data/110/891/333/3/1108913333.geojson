@@ -1,0 +1,64 @@
+{
+  "id": 1108913333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10137.963809,
+    "geom:bbox":"-73.9752774255,40.7525834679,-73.9737715276,40.7539618947",
+    "geom:latitude":40.753282,
+    "geom:longitude":-73.974528,
+    "intersection:latitude":40.753367,
+    "intersection:longitude":-73.974648,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.753367,
+    "reversegeo:longitude":-73.974648,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215785,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818211,
+    "wof:geomhash":"3160895578afe72a6714686ff32c7088",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913333,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":907215785,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913333,
+    "wof:lastmodified":1490900151,
+    "wof:name":"Lexington Ave  & E 45th St",
+    "wof:parent_id":907215785,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97527742545682,
+    40.75258346789456,
+    -73.97377152756366,
+    40.75396189466419
+],
+  "geometry": {"coordinates":[[[-73.97422620462993,40.75258346789456],[-73.97527742545682,40.75334585488402],[-73.97507937636482,40.75381599844928],[-73.97480422806646,40.75396189466419],[-73.97377152756366,40.75320754565254],[-73.97392147243636,40.75285145434744],[-73.97422620462993,40.75258346789456]]],"type":"Polygon"}
+}

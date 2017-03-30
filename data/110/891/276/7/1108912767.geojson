@@ -1,0 +1,62 @@
+{
+  "id": 1108912767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15655.512877,
+    "geom:bbox":"-73.9502660965,40.7693445881,-73.9487629735,40.7712504778",
+    "geom:latitude":40.770348,
+    "geom:longitude":-73.949411,
+    "intersection:latitude":40.770085,
+    "intersection:longitude":-73.949454,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.770085,
+    "reversegeo:longitude":-73.949454,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818185,
+    "wof:geomhash":"6546fd44c3a9cfa0f3682c92b703568b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912767,
+            "locality_id":85977539,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912767,
+    "wof:lastmodified":1490900145,
+    "wof:name":"E 78th St  & Cherokee Pl",
+    "wof:parent_id":85865691,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95026609647165,
+    40.769344588072,
+    -73.94876297345057,
+    40.77125047782722
+],
+  "geometry": {"coordinates":[[[-73.9491423739675,40.769344588072],[-73.95026609647165,40.77022386444695],[-73.95009757793045,40.77062301573525],[-73.94939253502574,40.77115260768741],[-73.94898970720391,40.77125047782722],[-73.94876297345057,40.77023714671603],[-73.9491423739675,40.769344588072]]],"type":"Polygon"}
+}

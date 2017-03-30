@@ -1,0 +1,62 @@
+{
+  "id": 1108911027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20166.25346,
+    "geom:bbox":"-73.9855425599,40.7745015412,-73.9830591028,40.7767600938",
+    "geom:latitude":40.775676,
+    "geom:longitude":-73.984305,
+    "intersection:latitude":40.77543,
+    "intersection:longitude":-73.983971,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.77543,
+    "reversegeo:longitude":-73.983971,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818093,
+    "wof:geomhash":"fced3b03c5387901c833b0bb93b0643e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911027,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911027,
+    "wof:lastmodified":1490900153,
+    "wof:name":"Amsterdam Ave  & W 67th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9855425598768,
+    40.77450154115404,
+    -73.98305910276359,
+    40.77676009382859
+],
+  "geometry": {"coordinates":[[[-73.98332061700188,40.77450154115404],[-73.98554255987681,40.77607690579693],[-73.98544972395651,40.77659406671575],[-73.98510732816389,40.77676009382859],[-73.98306328178678,40.77524333330041],[-73.98305910276359,40.77511789295398],[-73.98332061700188,40.77450154115404]]],"type":"Polygon"}
+}

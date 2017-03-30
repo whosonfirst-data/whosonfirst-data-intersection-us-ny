@@ -1,0 +1,64 @@
+{
+  "id": 1108909009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6935.872305,
+    "geom:bbox":"-74.0107568996,40.7237737523,-74.0097894777,40.7247415292",
+    "geom:latitude":40.724253,
+    "geom:longitude":-74.010272,
+    "intersection:latitude":40.724169,
+    "intersection:longitude":-74.010223,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.724169,
+    "reversegeo:longitude":-74.010223,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817990,
+    "wof:geomhash":"9906f26a3a435670893eb6cf653780ea",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909009,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909009,
+    "wof:lastmodified":1490900172,
+    "wof:name":"Washington St  & Watts St",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0107568995762,
+    40.72377375234867,
+    -74.00978947771294,
+    40.72474152920395
+],
+  "geometry": {"coordinates":[[[-74.00990814865025,40.72377375234867],[-74.01075689957619,40.72392642400913],[-74.01067877190435,40.72474152920395],[-74.00986628997444,40.72459917489091],[-74.00978947771294,40.72446860845766],[-74.00985496162528,40.72382347065462],[-74.00990814865025,40.72377375234867]]],"type":"Polygon"}
+}

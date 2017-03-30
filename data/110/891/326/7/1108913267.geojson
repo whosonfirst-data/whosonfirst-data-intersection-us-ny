@@ -1,0 +1,64 @@
+{
+  "id": 1108913267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20840.810882,
+    "geom:bbox":"-74.0076938327,40.740806862,-74.005916161,40.7427208709",
+    "geom:latitude":40.741824,
+    "geom:longitude":-74.00667,
+    "intersection:latitude":40.741628,
+    "intersection:longitude":-74.00697,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.741628,
+    "reversegeo:longitude":-74.00697,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818207,
+    "wof:geomhash":"ded4f2de3778c8285528af4e37dfcc03",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913267,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913267,
+    "wof:lastmodified":1490900162,
+    "wof:name":"Washington St  & W 14th St",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00769383273989,
+    40.74080686199844,
+    -74.00591616097482,
+    40.74272087089569
+],
+  "geometry": {"coordinates":[[[-74.00658711857878,40.74080686199844],[-74.00769383273989,40.74163447769032],[-74.00747873342952,40.74214492489991],[-74.00672531805481,40.74260409596162],[-74.00592270824681,40.74272087089569],[-74.00591616097482,40.74173457113558],[-74.00616575569056,40.7411477744742],[-74.00658711857878,40.74080686199844]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108914263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18189.845222,
+    "geom:bbox":"-73.9815930353,40.7374700209,-73.9792001426,40.7394673558",
+    "geom:latitude":40.7385,
+    "geom:longitude":-73.980381,
+    "intersection:latitude":40.73855,
+    "intersection:longitude":-73.980418,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.73855,
+    "reversegeo:longitude":-73.980418,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189665,
+        85868041,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818260,
+    "wof:geomhash":"cf9a3b1ff99a321a325a99d89f716ad2",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914263,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907189665,
+            "neighbourhood_id":85868041,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914263,
+    "wof:lastmodified":1490900160,
+    "wof:name":"2nd Ave  & E 24th St",
+    "wof:parent_id":907189665,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98159303526448,
+    40.73747002088493,
+    -73.97920014257417,
+    40.7394673557521
+],
+  "geometry": {"coordinates":[[[-73.97964166810594,40.73747002088493],[-73.98159303526448,40.73890121938825],[-73.98150162525238,40.7391181130495],[-73.9813036223993,40.73934496232464],[-73.98102612273793,40.7394673557521],[-73.97920014257417,40.73813480388504],[-73.9793425482117,40.73779651900711],[-73.97964166810594,40.73747002088493]]],"type":"Polygon"}
+}

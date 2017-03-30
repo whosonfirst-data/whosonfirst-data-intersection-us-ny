@@ -1,0 +1,64 @@
+{
+  "id": 1108908419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9335.268762,
+    "geom:bbox":"-73.9762576943,40.7489431506,-73.9748398428,40.7502631402",
+    "geom:latitude":40.749594,
+    "geom:longitude":-73.975542,
+    "intersection:latitude":40.749483,
+    "intersection:longitude":-73.975383,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.749483,
+    "reversegeo:longitude":-73.975383,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85836095,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817967,
+    "wof:geomhash":"61b63d8b52f0f7d59e24bef531b58889",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908419,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85836095,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908419,
+    "wof:lastmodified":1490900172,
+    "wof:name":"E 40th St  & 3rd Ave",
+    "wof:parent_id":85836095,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97625769433996,
+    40.74894315057643,
+    -73.97483984275375,
+    40.75026314019851
+],
+  "geometry": {"coordinates":[[[-73.97529371981723,40.74894315057643],[-73.97625769433996,40.74964591909946],[-73.9761118994939,40.7499926685627],[-73.97580855804125,40.75026314019851],[-73.97483984275375,40.74955976183742],[-73.97505830347713,40.74904226061564],[-73.97529371981723,40.74894315057643]]],"type":"Polygon"}
+}

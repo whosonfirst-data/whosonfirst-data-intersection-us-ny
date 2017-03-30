@@ -1,0 +1,64 @@
+{
+  "id": 1108912521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8174.869043,
+    "geom:bbox":"-74.0076094544,40.7352785282,-74.0063440222,40.7362671369",
+    "geom:latitude":40.735765,
+    "geom:longitude":-74.006981,
+    "intersection:latitude":40.735723,
+    "intersection:longitude":-74.006799,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.735723,
+    "reversegeo:longitude":-74.006799,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818174,
+    "wof:geomhash":"77a1184dce88a8942aa2b180c3dfc4d3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912521,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912521,
+    "wof:lastmodified":1490900150,
+    "wof:name":"W 11th St  & Greenwich St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00760945444983,
+    40.73527852820967,
+    -74.00634402220646,
+    40.73626713690749
+],
+  "geometry": {"coordinates":[[[-74.0065550046363,40.73527852820967],[-74.00757340662732,40.73553418807149],[-74.00760945444983,40.73579516101699],[-74.00746535150232,40.73626713690749],[-74.00641127266263,40.73600250216354],[-74.00634402220646,40.73554001746906],[-74.0065550046363,40.73527852820967]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108909939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:area_square_m":52933.579308,
+    "geom:bbox":"-73.9464836263,40.7722021658,-73.9417025976,40.7755868144",
+    "geom:latitude":40.773809,
+    "geom:longitude":-73.944252,
+    "intersection:latitude":40.774252,
+    "intersection:longitude":-73.945267,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.774252,
+    "reversegeo:longitude":-73.945267,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818044,
+    "wof:geomhash":"07cc9cb6fe94b3ea424be28fb7dbad53",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909939,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909939,
+    "wof:lastmodified":1490900164,
+    "wof:name":"E 85th St  & E End Ave",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94648362625723,
+    40.77220216580103,
+    -73.9417025975761,
+    40.77558681439236
+],
+  "geometry": {"coordinates":[[[-73.943126685368,40.77220216580103],[-73.94648362625723,40.77465859397553],[-73.94639502247823,40.7748686936809],[-73.94582563323603,40.77549851899054],[-73.94567304632561,40.77558681439236],[-73.9417025975761,40.77269096349757],[-73.943126685368,40.77220216580103]]],"type":"Polygon"}
+}

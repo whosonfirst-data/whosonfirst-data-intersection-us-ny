@@ -1,0 +1,64 @@
+{
+  "id": 1108913549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21019.018868,
+    "geom:bbox":"-73.989254067,40.7112840768,-73.9876426151,40.7132552746",
+    "geom:latitude":40.712396,
+    "geom:longitude":-73.988409,
+    "intersection:latitude":40.712769,
+    "intersection:longitude":-73.988484,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.712769,
+    "reversegeo:longitude":-73.988484,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818224,
+    "wof:geomhash":"b067b3c35c94897d336667b3a43b2cb0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913549,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913549,
+    "wof:lastmodified":1490900157,
+    "wof:name":"Jefferson St  & Madison St",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98925406697074,
+    40.71128407678195,
+    -73.98764261511657,
+    40.71325527460363
+],
+  "geometry": {"coordinates":[[[-73.98822767613538,40.71128407678195],[-73.98917386942021,40.71205913681211],[-73.98925406697074,40.71302867955711],[-73.98780464003553,40.71325527460363],[-73.98773064708676,40.7131341952329],[-73.98764261511657,40.71211065934056],[-73.98822767613538,40.71128407678195]]],"type":"Polygon"}
+}

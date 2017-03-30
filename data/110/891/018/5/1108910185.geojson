@@ -1,0 +1,64 @@
+{
+  "id": 1108910185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8519.716472,
+    "geom:bbox":"-73.9839419142,40.7141349989,-73.9829070114,40.7155496777",
+    "geom:latitude":40.714903,
+    "geom:longitude":-73.983416,
+    "intersection:latitude":40.714933,
+    "intersection:longitude":-73.983338,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.714933,
+    "reversegeo:longitude":-73.983338,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818055,
+    "wof:geomhash":"1285f4f50e80ccf68013083a2449c0ed",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910185,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910185,
+    "wof:lastmodified":1490900146,
+    "wof:name":"Grand St  & Abraham Pl",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98394191419561,
+    40.7141349989079,
+    -73.98290701142693,
+    40.71554967772693
+],
+  "geometry": {"coordinates":[[[-73.98322634678053,40.7141349989079],[-73.98394191419561,40.71459351783407],[-73.98367588674013,40.7154770747259],[-73.98337048906322,40.71554967772693],[-73.98290701142693,40.71531134570742],[-73.98322634678053,40.7141349989079]]],"type":"Polygon"}
+}

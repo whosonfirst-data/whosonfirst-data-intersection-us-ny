@@ -1,0 +1,64 @@
+{
+  "id": 1108912897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13283.117644,
+    "geom:bbox":"-73.9466787835,40.7921127544,-73.9447422443,40.7937147022",
+    "geom:latitude":40.792902,
+    "geom:longitude":-73.945768,
+    "intersection:latitude":40.792921,
+    "intersection:longitude":-73.945784,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.792921,
+    "reversegeo:longitude":-73.945784,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818191,
+    "wof:geomhash":"244abc0f7cda1607a99aba6850d463f9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912897,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912897,
+    "wof:lastmodified":1490900162,
+    "wof:name":"Lexington Ave  & E 107th St",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94667878350698,
+    40.79211275435745,
+    -73.94474224428417,
+    40.7937147021714
+],
+  "geometry": {"coordinates":[[[-73.94539136832918,40.79211275435745],[-73.94667878350698,40.79305876610291],[-73.9465192482584,40.79344099087871],[-73.94620996863077,40.7937147021714],[-73.94474224428417,40.7926447287967],[-73.94539136832918,40.79211275435745]]],"type":"Polygon"}
+}

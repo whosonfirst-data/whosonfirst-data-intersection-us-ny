@@ -1,0 +1,64 @@
+{
+  "id": 1108913867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15314.542951,
+    "geom:bbox":"-73.940304993,40.8490039988,-73.939059386,40.8508375628",
+    "geom:latitude":40.849891,
+    "geom:longitude":-73.939691,
+    "intersection:latitude":40.850188,
+    "intersection:longitude":-73.939638,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.850188,
+    "reversegeo:longitude":-73.939638,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214331,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818238,
+    "wof:geomhash":"2a56fff8df7dae1b5e935ba0de59655e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913867,
+            "locality_id":85977539,
+            "microhood_id":907214331,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913867,
+    "wof:lastmodified":1490900159,
+    "wof:name":"Pinehurst Ave  & W 180th St",
+    "wof:parent_id":907214331,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94030499304921,
+    40.84900399879155,
+    -73.93905938598864,
+    40.85083756283699
+],
+  "geometry": {"coordinates":[[[-73.93976655122667,40.84900399879155],[-73.94030499304921,40.84920209771936],[-73.94004676529555,40.85070635216382],[-73.93981679172003,40.85083756283699],[-73.93905938598864,40.8505303205524],[-73.93935638427548,40.84902389625216],[-73.93976655122667,40.84900399879155]]],"type":"Polygon"}
+}

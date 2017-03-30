@@ -1,0 +1,64 @@
+{
+  "id": 1108913261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12358.502471,
+    "geom:bbox":"-73.9587397786,40.7813714736,-73.9569819031,40.7829467559",
+    "geom:latitude":40.78216,
+    "geom:longitude":-73.957861,
+    "intersection:latitude":40.782161,
+    "intersection:longitude":-73.957863,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.782161,
+    "reversegeo:longitude":-73.957863,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907196173,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818207,
+    "wof:geomhash":"84738ea7a26a518c5f38a2b682d96f76",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913261,
+            "locality_id":85977539,
+            "microhood_id":907196173,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913261,
+    "wof:lastmodified":1490900162,
+    "wof:name":"Madison Ave  & E 88th St",
+    "wof:parent_id":907196173,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95873977858098,
+    40.78137147363971,
+    -73.95698190311421,
+    40.78294675587823
+],
+  "geometry": {"coordinates":[[[-73.95744032199148,40.78137147363971],[-73.95873977858098,40.78232067797462],[-73.95859089614063,40.78267648928296],[-73.95828154629538,40.78294675587823],[-73.95698190311421,40.78200193591476],[-73.95713313033251,40.78164335591261],[-73.95744032199148,40.78137147363971]]],"type":"Polygon"}
+}

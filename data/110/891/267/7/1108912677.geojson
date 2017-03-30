@@ -1,0 +1,64 @@
+{
+  "id": 1108912677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7738.299765,
+    "geom:bbox":"-73.9780853268,40.7151759895,-73.9772353374,40.7172795991",
+    "geom:latitude":40.716179,
+    "geom:longitude":-73.977654,
+    "intersection:latitude":40.715649,
+    "intersection:longitude":-73.977917,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.715649,
+    "reversegeo:longitude":-73.977917,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85831563,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818181,
+    "wof:geomhash":"443a99a182a0ed545e2e99970421faf8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912677,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85831563,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912677,
+    "wof:lastmodified":1490900145,
+    "wof:name":"Delancy St N  & Baruch Dr",
+    "wof:parent_id":85831563,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97808532675883,
+    40.71517598951181,
+    -73.97723533744887,
+    40.71727959905412
+],
+  "geometry": {"coordinates":[[[-73.97790478309661,40.71517598951181],[-73.97808532675883,40.71534109902399],[-73.97758318518477,40.71727959905412],[-73.97723533744887,40.71698359175073],[-73.97764490705566,40.71529286843475],[-73.97790478309661,40.71517598951181]]],"type":"Polygon"}
+}

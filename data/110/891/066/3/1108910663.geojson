@@ -1,0 +1,64 @@
+{
+  "id": 1108910663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17601.176695,
+    "geom:bbox":"-73.9636777122,40.7620737963,-73.9612949863,40.7641032846",
+    "geom:latitude":40.76309,
+    "geom:longitude":-73.962487,
+    "intersection:latitude":40.763113,
+    "intersection:longitude":-73.962515,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.763113,
+    "reversegeo:longitude":-73.962515,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818078,
+    "wof:geomhash":"94de47498448704baa1e9915c7dce85e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910663,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910663,
+    "wof:lastmodified":1490900156,
+    "wof:name":"2nd Ave  & E 63rd St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96367771221189,
+    40.76207379628406,
+    -73.96129498632364,
+    40.76410328457547
+],
+  "geometry": {"coordinates":[[[-73.9617540783744,40.76207379628406],[-73.96367771221189,40.76348425623847],[-73.9635917102959,40.7636881126319],[-73.96322634036798,40.76410328457547],[-73.96129498632364,40.76270289763984],[-73.96137031063013,40.76252439865703],[-73.9617540783744,40.76207379628406]]],"type":"Polygon"}
+}

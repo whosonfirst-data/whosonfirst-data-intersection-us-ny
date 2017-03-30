@@ -1,0 +1,64 @@
+{
+  "id": 1108912685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6749.229677,
+    "geom:bbox":"-73.9472995829,40.8176643351,-73.9462039152,40.8188018139",
+    "geom:latitude":40.818232,
+    "geom:longitude":-73.946761,
+    "intersection:latitude":40.81838,
+    "intersection:longitude":-73.94698,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.81838,
+    "reversegeo:longitude":-73.94698,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818181,
+    "wof:geomhash":"3d2ef7ef8a73af558e0ebfefedc024a8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912685,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912685,
+    "wof:lastmodified":1490900146,
+    "wof:name":"W 137th St  & Edgecombe Ave",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94729958294693,
+    40.81766433506716,
+    -73.94620391515531,
+    40.81880181389938
+],
+  "geometry": {"coordinates":[[[-73.94666492026386,40.81766433506716],[-73.94729958294693,40.81813623748151],[-73.94702428517027,40.81879339991612],[-73.94689972816815,40.81880181389938],[-73.94620391515531,40.81829273664718],[-73.94637388230969,40.81788774594485],[-73.94666492026386,40.81766433506716]]],"type":"Polygon"}
+}

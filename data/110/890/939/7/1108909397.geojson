@@ -1,0 +1,64 @@
+{
+  "id": 1108909397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14934.428481,
+    "geom:bbox":"-73.9595952995,40.7713302036,-73.9575524135,40.7731200834",
+    "geom:latitude":40.772232,
+    "geom:longitude":-73.958581,
+    "intersection:latitude":40.772331,
+    "intersection:longitude":-73.958717,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.772331,
+    "reversegeo:longitude":-73.958717,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818016,
+    "wof:geomhash":"7998354de8986cedcd4e03ccedbe075e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909397,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909397,
+    "wof:lastmodified":1490900162,
+    "wof:name":"E 76th St  & 3rd Ave",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95959529950146,
+    40.77133020356241,
+    -73.95755241351578,
+    40.77312008338301
+],
+  "geometry": {"coordinates":[[[-73.95801718399692,40.77133020356241],[-73.95959529950146,40.77248765420849],[-73.95944087684737,40.772853296032],[-73.95913383736971,40.77312008338301],[-73.95755241351578,40.77196768934428],[-73.95764409323641,40.77175010799248],[-73.95801718399692,40.77133020356241]]],"type":"Polygon"}
+}

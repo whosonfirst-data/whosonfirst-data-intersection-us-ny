@@ -1,0 +1,64 @@
+{
+  "id": 1108911965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17917.54507,
+    "geom:bbox":"-73.9548712088,40.7700210416,-73.9524782078,40.772062403",
+    "geom:latitude":40.771041,
+    "geom:longitude":-73.953673,
+    "intersection:latitude":40.771024,
+    "intersection:longitude":-73.953649,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.771024,
+    "reversegeo:longitude":-73.953649,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818146,
+    "wof:geomhash":"c3ec224dce9f5694b00fd8e7bbc21d3d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911965,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911965,
+    "wof:lastmodified":1490900131,
+    "wof:name":"1st Ave  & E 77th St",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95487120882802,
+    40.7700210415781,
+    -73.95247820779649,
+    40.77206240298322
+],
+  "geometry": {"coordinates":[[[-73.95294040043653,40.7700210415781],[-73.95487120882802,40.77142885935024],[-73.95479293326584,40.77161480310541],[-73.95440974639565,40.77206240298322],[-73.95247820779649,40.77065570583602],[-73.95256864367997,40.77044164571647],[-73.95294040043653,40.7700210415781]]],"type":"Polygon"}
+}

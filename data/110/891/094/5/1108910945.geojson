@@ -1,0 +1,62 @@
+{
+  "id": 1108910945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":119680.827028,
+    "geom:bbox":"-73.9610825333,40.7488166471,-73.9569658971,40.7560446742",
+    "geom:latitude":40.753145,
+    "geom:longitude":-73.959581,
+    "intersection:latitude":40.753605,
+    "intersection:longitude":-73.958783,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.753605,
+    "reversegeo:longitude":-73.958783,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85845835,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818089,
+    "wof:geomhash":"74269207a0d93b6dfbfcf56c22c7d0be",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910945,
+            "locality_id":85977539,
+            "neighbourhood_id":85845835,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910945,
+    "wof:lastmodified":1490900133,
+    "wof:name":"Unnamed Rd- South Pt  & Rd 3",
+    "wof:parent_id":85845835,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96108253327947,
+    40.74881664713644,
+    -73.95696589713026,
+    40.75604467417197
+],
+  "geometry": {"coordinates":[[[-73.96080689918183,40.74881664713644],[-73.96102102034445,40.74956607120563],[-73.96108253327947,40.75291165118887],[-73.96062255150662,40.75434604799212],[-73.95985122878007,40.75523838100789],[-73.95932509459831,40.7556436903435],[-73.95696589713026,40.75604467417197],[-73.96080689918183,40.74881664713644]]],"type":"Polygon"}
+}

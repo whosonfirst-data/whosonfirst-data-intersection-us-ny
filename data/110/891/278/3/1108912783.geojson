@@ -1,0 +1,64 @@
+{
+  "id": 1108912783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12357.814725,
+    "geom:bbox":"-73.9674846978,40.7664996777,-73.9657234483,40.7680791388",
+    "geom:latitude":40.76729,
+    "geom:longitude":-73.966604,
+    "intersection:latitude":40.767291,
+    "intersection:longitude":-73.966607,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.767291,
+    "reversegeo:longitude":-73.966607,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818186,
+    "wof:geomhash":"f8b8a5d6c48240c96e4791b3f4923567",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912783,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912783,
+    "wof:lastmodified":1490900146,
+    "wof:name":"E 66th St  & Park Ave",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96748469778699,
+    40.76649967765979,
+    -73.96572344830693,
+    40.76807913883519
+],
+  "geometry": {"coordinates":[[[-73.96618102048076,40.76649967765979],[-73.96748469778699,40.76745445414848],[-73.96733546457435,40.76780891058264],[-73.967029346632,40.76807913883519],[-73.96572344830693,40.76712579133589],[-73.9658711442557,40.76677517587978],[-73.96618102048076,40.76649967765979]]],"type":"Polygon"}
+}

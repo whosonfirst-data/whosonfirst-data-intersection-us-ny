@@ -1,0 +1,66 @@
+{
+  "id": 1108909013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16576.816745,
+    "geom:bbox":"-73.9846771916,40.7250503269,-73.9823360392,40.7270330602",
+    "geom:latitude":40.726044,
+    "geom:longitude":-73.983506,
+    "intersection:latitude":40.726053,
+    "intersection:longitude":-73.983535,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.726053,
+    "reversegeo:longitude":-73.983535,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189647,
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817990,
+    "wof:geomhash":"95bf985efac141b00261ea1855d942dd",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909013,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907189647,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909013,
+    "wof:lastmodified":1490900170,
+    "wof:name":"Ave A  & E 7th St",
+    "wof:parent_id":907189647,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98467719163975,
+    40.7250503269292,
+    -73.98233603916998,
+    40.72703306022639
+],
+  "geometry": {"coordinates":[[[-73.98276931233791,40.7250503269292],[-73.98467719163975,40.7264417630407],[-73.98460329798027,40.72661705302649],[-73.98424034813205,40.72703306022639],[-73.98233603916998,40.72565064996839],[-73.98239915620088,40.72550097243792],[-73.98276931233791,40.7250503269292]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16864.053926,
+    "geom:bbox":"-73.9991862865,40.7556804546,-73.9968989768,40.7576728141",
+    "geom:latitude":40.756675,
+    "geom:longitude":-73.998019,
+    "intersection:latitude":40.756487,
+    "intersection:longitude":-73.997758,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.756487,
+    "reversegeo:longitude":-73.997758,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85868039,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818137,
+    "wof:geomhash":"ee998ba4aca5efdc66c39a01e1016425",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911775,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85868039,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911775,
+    "wof:lastmodified":1490900142,
+    "wof:name":"W 37th St  & 10th Ave",
+    "wof:parent_id":85868039,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99918628646914,
+    40.75568045457432,
+    -73.99689897684314,
+    40.7576728140827
+],
+  "geometry": {"coordinates":[[[-73.99729970428209,40.75568045457432],[-73.99918628646914,40.75705417946782],[-73.99915614412417,40.75712481152991],[-73.99873708334852,40.7576728140827],[-73.99689897684314,40.75633922798251],[-73.99709824549016,40.75586600274334],[-73.99729970428209,40.75568045457432]]],"type":"Polygon"}
+}

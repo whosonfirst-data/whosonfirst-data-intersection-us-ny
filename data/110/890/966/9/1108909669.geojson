@@ -1,0 +1,64 @@
+{
+  "id": 1108909669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12113.135745,
+    "geom:bbox":"-74.0025959802,40.7237094383,-74.0012232443,40.7253772743",
+    "geom:latitude":40.724531,
+    "geom:longitude":-74.001909,
+    "intersection:latitude":40.724552,
+    "intersection:longitude":-74.001933,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.724552,
+    "reversegeo:longitude":-74.001933,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865687,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818034,
+    "wof:geomhash":"7a89412734e1e17665b49dc867b0176d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909669,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865687,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909669,
+    "wof:lastmodified":1490900167,
+    "wof:name":"W Broadway  & Spring St",
+    "wof:parent_id":85865687,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00259598020803,
+    40.72370943827579,
+    -74.00122324427377,
+    40.72537727426024
+],
+  "geometry": {"coordinates":[[[-74.00184108042872,40.72370943827579],[-74.00227183818706,40.72377344112397],[-74.00259598020803,40.72404677310146],[-74.00195982221959,40.72537727426024],[-74.00157035254405,40.72529376321302],[-74.00122324427377,40.72499953138686],[-74.00184108042872,40.72370943827579]]],"type":"Polygon"}
+}

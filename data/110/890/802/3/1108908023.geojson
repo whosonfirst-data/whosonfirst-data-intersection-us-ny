@@ -1,0 +1,64 @@
+{
+  "id": 1108908023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10965.405165,
+    "geom:bbox":"-73.932217611,40.8516388171,-73.9306991489,40.8530676932",
+    "geom:latitude":40.852355,
+    "geom:longitude":-73.93146,
+    "intersection:latitude":40.85238,
+    "intersection:longitude":-73.931495,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.85238,
+    "reversegeo:longitude":-73.931495,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212535,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817946,
+    "wof:geomhash":"6ca5fd92aa5e32ea3cd20e69e01ce860",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908023,
+            "locality_id":85977539,
+            "microhood_id":907212535,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908023,
+    "wof:lastmodified":1490900178,
+    "wof:name":"St Nicholas Ave  & W 186th St",
+    "wof:parent_id":907212535,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93221761097861,
+    40.85163881705061,
+    -73.93069914885844,
+    40.85306769324836
+],
+  "geometry": {"coordinates":[[[-73.93119891772525,40.85163881705061],[-73.93221761097861,40.85238347586156],[-73.9320020720581,40.85289527677322],[-73.93171933726531,40.85306769324836],[-73.93069914885844,40.85232125041111],[-73.93089727074069,40.85185075313025],[-73.93119891772525,40.85163881705061]]],"type":"Polygon"}
+}

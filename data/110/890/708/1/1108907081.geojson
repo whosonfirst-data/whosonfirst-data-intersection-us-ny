@@ -1,0 +1,64 @@
+{
+  "id": 1108907081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6906.240723,
+    "geom:bbox":"-74.0111390759,40.7086050186,-74.0099752078,40.7098599529",
+    "geom:latitude":40.709273,
+    "geom:longitude":-74.010546,
+    "intersection:latitude":40.709154,
+    "intersection:longitude":-74.010542,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.709154,
+    "reversegeo:longitude":-74.010542,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817902,
+    "wof:geomhash":"cad9b82ea896ff3b831646c8c31b7d67",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907081,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907081,
+    "wof:lastmodified":1490900164,
+    "wof:name":"Broadway  & Liberty St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01113907588191,
+    40.70860501861352,
+    -74.00997520783451,
+    40.70985995286581
+],
+  "geometry": {"coordinates":[[[-74.01025892810864,40.70860501861352],[-74.01113907588191,40.70935450019075],[-74.01097019402077,40.7097131761135],[-74.01071216474459,40.70985995286581],[-74.00997520783451,40.70923376555265],[-74.01025892810864,40.70860501861352]]],"type":"Polygon"}
+}

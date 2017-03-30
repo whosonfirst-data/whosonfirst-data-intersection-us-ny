@@ -1,0 +1,64 @@
+{
+  "id": 1108910809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10509.172759,
+    "geom:bbox":"-73.9409573494,40.8264558153,-73.9395426562,40.8279807209",
+    "geom:latitude":40.827181,
+    "geom:longitude":-73.940304,
+    "intersection:latitude":40.827039,
+    "intersection:longitude":-73.94014,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.827039,
+    "reversegeo:longitude":-73.94014,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818083,
+    "wof:geomhash":"b08a6785d8f5f5a43784b12f91fffcef",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910809,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910809,
+    "wof:lastmodified":1490900146,
+    "wof:name":"Bradhurst Ave  & W 151st St",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94095734936202,
+    40.82645581530098,
+    -73.93954265617671,
+    40.82798072085597
+],
+  "geometry": {"coordinates":[[[-73.93999568035849,40.82645581530098],[-73.94086249473042,40.82708685616377],[-73.94095734936202,40.82769427389632],[-73.94084902597967,40.82795085109151],[-73.94078393664219,40.82798072085597],[-73.93954265617671,40.82707687585683],[-73.93974791343658,40.82658435783135],[-73.93999568035849,40.82645581530098]]],"type":"Polygon"}
+}

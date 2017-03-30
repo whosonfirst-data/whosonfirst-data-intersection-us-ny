@@ -1,0 +1,64 @@
+{
+  "id": 1108910611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":23283.360111,
+    "geom:bbox":"-73.9912360285,40.7560299101,-73.9883462572,40.7584496928",
+    "geom:latitude":40.75724,
+    "geom:longitude":-73.989794,
+    "intersection:latitude":40.757234,
+    "intersection:longitude":-73.989791,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.757234,
+    "reversegeo:longitude":-73.989791,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85868039,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818076,
+    "wof:geomhash":"11132bf331fb9d039189503789db1d37",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910611,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85868039,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910611,
+    "wof:lastmodified":1490900130,
+    "wof:name":"W 42nd St  & 8th Ave",
+    "wof:parent_id":85868039,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99123602846578,
+    40.75602991009914,
+    -73.98834625719651,
+    40.7584496928309
+],
+  "geometry": {"coordinates":[[[-73.98883621450747,40.75602991009914],[-73.99123602846578,40.75777490225772],[-73.99118815450463,40.75788866295806],[-73.9907417667514,40.7584496928309],[-73.98834625719651,40.75669132474751],[-73.98838606387689,40.75659689187134],[-73.98883621450747,40.75602991009914]]],"type":"Polygon"}
+}

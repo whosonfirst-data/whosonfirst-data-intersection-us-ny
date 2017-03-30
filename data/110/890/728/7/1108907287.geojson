@@ -1,0 +1,64 @@
+{
+  "id": 1108907287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12355.898625,
+    "geom:bbox":"-73.95506027,40.7806454332,-73.9532999739,40.7822203306",
+    "geom:latitude":40.781432,
+    "geom:longitude":-73.95418,
+    "intersection:latitude":40.781429,
+    "intersection:longitude":-73.954176,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.781429,
+    "reversegeo:longitude":-73.954176,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907196173,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817916,
+    "wof:geomhash":"e7f0327da5d5fa2cadd3e894deab8e26",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907287,
+            "locality_id":85977539,
+            "microhood_id":907196173,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907287,
+    "wof:lastmodified":1490900171,
+    "wof:name":"Lexington Ave  & E 89th St",
+    "wof:parent_id":907196173,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95506026999249,
+    40.780645433213,
+    -73.95329997391305,
+    40.78222033056188
+],
+  "geometry": {"coordinates":[[[-73.95375505382628,40.780645433213],[-73.95506026999249,40.78158958799138],[-73.95490998077393,40.78194644212709],[-73.95460114795263,40.78222033056188],[-73.95329997391305,40.78126987169407],[-73.95345102608694,40.78091212830592],[-73.95375505382628,40.780645433213]]],"type":"Polygon"}
+}

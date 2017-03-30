@@ -1,0 +1,64 @@
+{
+  "id": 1108910407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7065.528623,
+    "geom:bbox":"-74.0103784351,40.7376505534,-74.008900839,40.7384514071",
+    "geom:latitude":40.738097,
+    "geom:longitude":-74.009482,
+    "intersection:latitude":40.738146,
+    "intersection:longitude":-74.009649,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.738146,
+    "reversegeo:longitude":-74.009649,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818064,
+    "wof:geomhash":"f35cc7814547036dffd782663fa031e1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910407,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910407,
+    "wof:lastmodified":1490900134,
+    "wof:name":"Jane St  & West St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01037843510217,
+    40.73765055344417,
+    -74.00890083899841,
+    40.73845140713303
+],
+  "geometry": {"coordinates":[[[-74.00900932422802,40.73765055344417],[-74.01037843510217,40.73804004188253],[-74.00978960753383,40.73845140713303],[-74.00890083899841,40.73839104933775],[-74.00890212110754,40.73791186105034],[-74.00900932422802,40.73765055344417]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108912097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":29752.80646,
+    "geom:bbox":"-73.9832677318,40.7857562089,-73.9802611748,40.7875359105",
+    "geom:latitude":40.786749,
+    "geom:longitude":-73.981711,
+    "intersection:latitude":40.786917,
+    "intersection:longitude":-73.981229,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.786917,
+    "reversegeo:longitude":-73.981229,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818151,
+    "wof:geomhash":"b5ef8acd7155645bf1c541d85f60c9a8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912097,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912097,
+    "wof:lastmodified":1490900143,
+    "wof:name":"W 82nd St  & Riverside Dr",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98326773182173,
+    40.78575620888276,
+    -73.98026117476013,
+    40.78753591047185
+],
+  "geometry": {"coordinates":[[[-73.98167191423016,40.78575620888276],[-73.9827803359821,40.78656041395406],[-73.98326773182173,40.78753591047185],[-73.98026189063523,40.78720321762503],[-73.98026117476013,40.78714532122576],[-73.98056890171409,40.7864094524228],[-73.98119544494367,40.7858981412681],[-73.98167191423016,40.78575620888276]]],"type":"Polygon"}
+}

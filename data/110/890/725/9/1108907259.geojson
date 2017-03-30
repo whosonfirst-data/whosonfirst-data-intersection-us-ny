@@ -1,0 +1,64 @@
+{
+  "id": 1108907259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6499.23469,
+    "geom:bbox":"-73.9963469988,40.7247968794,-73.9954598346,40.7258675031",
+    "geom:latitude":40.725373,
+    "geom:longitude":-73.995897,
+    "intersection:latitude":40.725208,
+    "intersection:longitude":-73.995846,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.725208,
+    "reversegeo:longitude":-73.995846,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865699,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817910,
+    "wof:geomhash":"276a9410bd87a03f2bc787fc77488d1a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907259,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865699,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907259,
+    "wof:lastmodified":1490900172,
+    "wof:name":"E Houston St  & Crosby St",
+    "wof:parent_id":85865699,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99634699880167,
+    40.72479687944937,
+    -73.99545983455934,
+    40.72586750312388
+],
+  "geometry": {"coordinates":[[[-73.99567123490962,40.72479687944937],[-73.99592116789185,40.72480805657652],[-73.99634699880167,40.72516291566806],[-73.99617655863958,40.72586750312388],[-73.9956825948544,40.72586675355819],[-73.99545983455934,40.72567828252276],[-73.99567123490962,40.72479687944937]]],"type":"Polygon"}
+}

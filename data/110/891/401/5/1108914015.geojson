@@ -1,0 +1,64 @@
+{
+  "id": 1108914015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6282.821312,
+    "geom:bbox":"-74.0173019095,40.7058719571,-74.0161611832,40.7069695592",
+    "geom:latitude":40.706442,
+    "geom:longitude":-74.016734,
+    "intersection:latitude":40.706484,
+    "intersection:longitude":-74.016732,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.706484,
+    "reversegeo:longitude":-74.016732,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85804741,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818244,
+    "wof:geomhash":"b00407aaec94b31f0aacc35c09f3da0a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914015,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85804741,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914015,
+    "wof:lastmodified":1490900138,
+    "wof:name":"Little West St  & 2nd Pl",
+    "wof:parent_id":85804741,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01730190946525,
+    40.70587195712012,
+    -74.01616118315648,
+    40.70696955923989
+],
+  "geometry": {"coordinates":[[[-74.01616118315648,40.70587195712012],[-74.01730190946525,40.70631056972128],[-74.0170415180439,40.70692717075558],[-74.01693467284376,40.70696955923989],[-74.01646524401913,40.70678552180296],[-74.01616118315648,40.70587195712012]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108907507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20409.004859,
+    "geom:bbox":"-73.958116296,40.8087449752,-73.9563401676,40.8106810985",
+    "geom:latitude":40.809709,
+    "geom:longitude":-73.957077,
+    "intersection:latitude":40.809404,
+    "intersection:longitude":-73.957245,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.809404,
+    "reversegeo:longitude":-73.957245,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869509,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817925,
+    "wof:geomhash":"e7c1cbd343dd0677f59f3c54c87e4663",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907507,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869509,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907507,
+    "wof:lastmodified":1490900165,
+    "wof:name":"Morningside Dr  & W 121st St",
+    "wof:parent_id":85869509,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9581162959605,
+    40.80874497523644,
+    -73.95634016763117,
+    40.81068109846546
+],
+  "geometry": {"coordinates":[[[-73.95685460039864,40.80874497523644],[-73.95811629596049,40.80938529003723],[-73.95791101489425,40.80988863649273],[-73.95729688723682,40.81040350106756],[-73.9563797803805,40.81068109846546],[-73.9563536771808,40.81059096332584],[-73.95634016763117,40.8096101700232],[-73.95665971855237,40.80888773014985],[-73.95685460039864,40.80874497523644]]],"type":"Polygon"}
+}

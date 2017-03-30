@@ -1,0 +1,64 @@
+{
+  "id": 1108908811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21443.271471,
+    "geom:bbox":"-73.995240965,40.7351120685,-73.9925928711,40.7373412919",
+    "geom:latitude":40.736212,
+    "geom:longitude":-73.993905,
+    "intersection:latitude":40.736005,
+    "intersection:longitude":-73.993617,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.736005,
+    "reversegeo:longitude":-73.993617,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529189,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817982,
+    "wof:geomhash":"b3a005064394f2cb05a048c277d1cc64",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908811,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":420529189,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908811,
+    "wof:lastmodified":1490900173,
+    "wof:name":"5th Ave  & W 14th St",
+    "wof:parent_id":420529189,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9952409649555,
+    40.73511206854857,
+    -73.99259287109771,
+    40.73734129186249
+],
+  "geometry": {"coordinates":[[[-73.99311205775571,40.73511206854857],[-73.9952409649555,40.73665337274957],[-73.99522274445503,40.73669668003054],[-73.99473952257073,40.73734129186249],[-73.99259287109771,40.73578606477486],[-73.992725592673,40.7354665249822],[-73.99311205775571,40.73511206854857]]],"type":"Polygon"}
+}

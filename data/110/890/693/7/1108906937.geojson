@@ -1,0 +1,64 @@
+{
+  "id": 1108906937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13212.815259,
+    "geom:bbox":"-73.9872596723,40.739381315,-73.9854736683,40.7410016912",
+    "geom:latitude":40.74019,
+    "geom:longitude":-73.986367,
+    "intersection:latitude":40.740187,
+    "intersection:longitude":-73.986366,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.740187,
+    "reversegeo:longitude":-73.986366,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869245,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817895,
+    "wof:geomhash":"7506d66b9836d248b5fd61db69a1a4a1",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906937,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85869245,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906937,
+    "wof:lastmodified":1490900165,
+    "wof:name":"E 23rd St  & Park Ave S",
+    "wof:parent_id":85869245,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98725967229927,
+    40.73938131499752,
+    -73.98547366834104,
+    40.74100169122667
+],
+  "geometry": {"coordinates":[[[-73.98595601340239,40.73938131499752],[-73.98725967229927,40.74032818303843],[-73.98708594373221,40.74073743284072],[-73.98678123995271,40.74100169122667],[-73.98547366834104,40.74004555402718],[-73.9856421209148,40.7396455719247],[-73.98595601340239,40.73938131499752]]],"type":"Polygon"}
+}

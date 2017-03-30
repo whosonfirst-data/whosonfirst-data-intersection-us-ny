@@ -1,0 +1,64 @@
+{
+  "id": 1108910811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14498.088161,
+    "geom:bbox":"-74.0035236114,40.7392415774,-74.0013061125,40.7409727435",
+    "geom:latitude":40.739914,
+    "geom:longitude":-74.002617,
+    "intersection:latitude":40.739753,
+    "intersection:longitude":-74.002523,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.739753,
+    "reversegeo:longitude":-74.002523,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818083,
+    "wof:geomhash":"ae7cadeec286c2aba1f6540d46024dc0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910811,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910811,
+    "wof:lastmodified":1490900137,
+    "wof:name":"W 14th St  & 8th Ave",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00352361135748,
+    40.73924157742629,
+    -74.00130611252852,
+    40.74097274345561
+],
+  "geometry": {"coordinates":[[[-74.00259365417888,40.73924157742629],[-74.0032422775934,40.73977889859809],[-74.00352361135748,40.74090591325896],[-74.00346961553137,40.74097274345561],[-74.00130611252852,40.7393947325823],[-74.00259365417888,40.73924157742629]]],"type":"Polygon"}
+}

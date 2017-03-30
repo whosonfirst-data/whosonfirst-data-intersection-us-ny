@@ -1,0 +1,66 @@
+{
+  "id": 1108913269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":7924.649505,
+    "geom:bbox":"-73.9826357438,40.7402183329,-73.9813980721,40.741514225",
+    "geom:latitude":40.740896,
+    "geom:longitude":-73.982004,
+    "intersection:latitude":40.740733,
+    "intersection:longitude":-73.981762,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.740733,
+    "reversegeo:longitude":-73.981762,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215457,
+        85868041,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818207,
+    "wof:geomhash":"63131cfa406b61c16e2ba3ef0b60e736",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913269,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907215457,
+            "neighbourhood_id":85868041,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913269,
+    "wof:lastmodified":1490900162,
+    "wof:name":"3rd Ave  & E 26th St",
+    "wof:parent_id":907215457,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98263574383164,
+    40.74021833291219,
+    -73.98139807208761,
+    40.74151422496227
+],
+  "geometry": {"coordinates":[[[-73.98170342146935,40.74021833291219],[-73.98263574383164,40.74089569980647],[-73.98248847771846,40.74124477503771],[-73.98218552228154,40.74151422496227],[-73.98139807208761,40.74094083889874],[-73.98170342146935,40.74021833291219]]],"type":"Polygon"}
+}

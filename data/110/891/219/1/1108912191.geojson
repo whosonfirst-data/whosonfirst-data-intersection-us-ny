@@ -1,0 +1,66 @@
+{
+  "id": 1108912191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6787.40048,
+    "geom:bbox":"-74.0059381352,40.7068679803,-74.0048533395,40.7080403483",
+    "geom:latitude":40.707531,
+    "geom:longitude":-74.005405,
+    "intersection:latitude":40.707387,
+    "intersection:longitude":-74.005482,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.707387,
+    "reversegeo:longitude":-74.005482,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215463,
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818155,
+    "wof:geomhash":"ef5498bfe8aeb62acc4d91d4037f4cfb",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912191,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "microhood_id":907215463,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912191,
+    "wof:lastmodified":1490900146,
+    "wof:name":"Pearl St  & John St",
+    "wof:parent_id":907215463,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00593813515229,
+    40.70686798030029,
+    -74.004853339493,
+    40.70804034834875
+],
+  "geometry": {"coordinates":[[[-74.00552345724351,40.70686798030029],[-74.00555275044091,40.70687402998237],[-74.00593813515229,40.70786713673858],[-74.00537852841173,40.70804034834875],[-74.00496612783365,40.70776692224266],[-74.004853339493,40.7074690784323],[-74.00552345724351,40.70686798030029]]],"type":"Polygon"}
+}

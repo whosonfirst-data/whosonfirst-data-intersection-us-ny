@@ -1,0 +1,62 @@
+{
+  "id": 1108912143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12744.312683,
+    "geom:bbox":"-73.9455525787,40.8365142619,-73.9435229536,40.8377964349",
+    "geom:latitude":40.837161,
+    "geom:longitude":-73.944522,
+    "intersection:latitude":40.837078,
+    "intersection:longitude":-73.944297,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.837078,
+    "reversegeo:longitude":-73.944297,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818153,
+    "wof:geomhash":"aa999682252fa6951d5d6f99eaa06bea",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912143,
+            "locality_id":85977539,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912143,
+    "wof:lastmodified":1490900133,
+    "wof:name":"Fort Washington Ave  & W 161st St",
+    "wof:parent_id":85854625,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94555257874795,
+    40.83651426193934,
+    -73.94352295359074,
+    40.83779643491346
+],
+  "geometry": {"coordinates":[[[-73.9438934289162,40.83651426193934],[-73.94555257874795,40.83717458450172],[-73.94553892571328,40.83733171965766],[-73.94509746112453,40.83779643491346],[-73.94352295359074,40.83717964065164],[-73.94376445701523,40.83660253553938],[-73.9438934289162,40.83651426193934]]],"type":"Polygon"}
+}

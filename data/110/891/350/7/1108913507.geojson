@@ -1,0 +1,64 @@
+{
+  "id": 1108913507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":589586.228004,
+    "geom:bbox":"-73.9277488883,40.8408819404,-73.9083525,40.8525134194",
+    "geom:latitude":40.847727,
+    "geom:longitude":-73.917787,
+    "intersection:latitude":40.851432,
+    "intersection:longitude":-73.92708,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.851432,
+    "reversegeo:longitude":-73.92708,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212535,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818222,
+    "wof:geomhash":"bac579a2bb4545f830384ee1ed19f8ed",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913507,
+            "locality_id":85977539,
+            "microhood_id":907212535,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913507,
+    "wof:lastmodified":1490900142,
+    "wof:name":"Laurel Hill Ter  & W 187th St",
+    "wof:parent_id":907212535,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9277488883152,
+    40.84088194038003,
+    -73.9083525,
+    40.8525134194009
+],
+  "geometry": {"coordinates":[[[-73.90835250000001,40.84088194038003],[-73.92774888831519,40.85131604086872],[-73.92752103858305,40.85188222895021],[-73.92643723839451,40.8525134194009],[-73.92114867823754,40.85186565175262],[-73.91654961706602,40.84975767515423],[-73.90835250000001,40.8427534293645],[-73.90835250000001,40.84088194038003]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108907003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12945.811554,
+    "geom:bbox":"-73.9651988137,40.7696279716,-73.9634222989,40.771233257",
+    "geom:latitude":40.770435,
+    "geom:longitude":-73.964309,
+    "intersection:latitude":40.770423,
+    "intersection:longitude":-73.964319,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.770423,
+    "reversegeo:longitude":-73.964319,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817900,
+    "wof:geomhash":"8c911ef4d0ea765c5e209a6c325997cc",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907003,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907003,
+    "wof:lastmodified":1490900168,
+    "wof:name":"E 71st St  & Park Ave",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96519881366642,
+    40.7696279716058,
+    -73.96342229889044,
+    40.77123325698697
+],
+  "geometry": {"coordinates":[[[-73.96389840863247,40.7696279716058],[-73.96519881366642,40.77058823879991],[-73.96503936691535,40.77096916557945],[-73.9647177717336,40.77123325698697],[-73.96342229889044,40.77029161373093],[-73.96358665391462,40.76990355325715],[-73.96389840863247,40.7696279716058]]],"type":"Polygon"}
+}

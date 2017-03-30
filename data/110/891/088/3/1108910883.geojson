@@ -1,0 +1,62 @@
+{
+  "id": 1108910883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13288.753195,
+    "geom:bbox":"-73.9246281352,40.866919183,-73.9225877475,40.8682738668",
+    "geom:latitude":40.867673,
+    "geom:longitude":-73.923707,
+    "intersection:latitude":40.867818,
+    "intersection:longitude":-73.923623,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.867818,
+    "reversegeo:longitude":-73.923623,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818087,
+    "wof:geomhash":"30b51ee4666278a4d519b496f35b2a5e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910883,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910883,
+    "wof:lastmodified":1490900144,
+    "wof:name":"Cooper St  & W 204th St",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9246281352306,
+    40.86691918302981,
+    -73.92258774752997,
+    40.86827386683723
+],
+  "geometry": {"coordinates":[[[-73.92414476356743,40.86691918302981],[-73.92448033401479,40.86723211039707],[-73.92462813523061,40.86764012805999],[-73.92362789691956,40.86827386683723],[-73.92263864412033,40.86805732532589],[-73.92258774752997,40.86791512969717],[-73.92414476356743,40.86691918302981]]],"type":"Polygon"}
+}

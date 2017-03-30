@@ -1,0 +1,62 @@
+{
+  "id": 1108909771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8992.472848,
+    "geom:bbox":"-73.920275823,40.863065942,-73.9184113138,40.8643480782",
+    "geom:latitude":40.863793,
+    "geom:longitude":-73.919231,
+    "intersection:latitude":40.863794,
+    "intersection:longitude":-73.919416,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.863794,
+    "reversegeo:longitude":-73.919416,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85826989,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818038,
+    "wof:geomhash":"7e01b71159eff44108611f379a89f8a9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909771,
+            "locality_id":85977539,
+            "neighbourhood_id":85826989,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909771,
+    "wof:lastmodified":1490900177,
+    "wof:name":"W 206th St  & 10th Ave",
+    "wof:parent_id":85826989,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92027582302443,
+    40.86306594195517,
+    -73.91841131377632,
+    40.86434807815531
+],
+  "geometry": {"coordinates":[[[-73.91874353801765,40.86306594195517],[-73.92027582302443,40.86428275651944],[-73.9202644968084,40.86434807815531],[-73.91942705029741,40.8643035243508],[-73.91841131377632,40.86358537281945],[-73.91854451331074,40.86326510882259],[-73.91874353801765,40.86306594195517]]],"type":"Polygon"}
+}

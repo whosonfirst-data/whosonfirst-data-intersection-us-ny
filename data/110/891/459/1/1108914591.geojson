@@ -1,0 +1,62 @@
+{
+  "id": 1108914591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:area_square_m":43904.477168,
+    "geom:bbox":"-73.9744736519,40.7671097989,-73.9718152045,40.7703313602",
+    "geom:latitude":40.7684,
+    "geom:longitude":-73.97322,
+    "intersection:latitude":40.769043,
+    "intersection:longitude":-73.972925,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.769043,
+    "reversegeo:longitude":-73.972925,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818280,
+    "wof:geomhash":"a0cf2fea8e7579563908bfde8a6c32a8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914591,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914591,
+    "wof:lastmodified":1490900159,
+    "wof:name":"65th St Transverse  & East Dr",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97447365187477,
+    40.76710979892745,
+    -73.97181520445118,
+    40.77033136017146
+],
+  "geometry": {"coordinates":[[[-73.97338382428379,40.76710979892745],[-73.97418559162823,40.76715720313953],[-73.97447365187477,40.7677465389401],[-73.97332093975058,40.77033136017146],[-73.97181520445118,40.76823354931521],[-73.97206823569168,40.76789643006997],[-73.97271128951552,40.76740594613403],[-73.97338382428379,40.76710979892745]]],"type":"Polygon"}
+}

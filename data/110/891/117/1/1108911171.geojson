@@ -1,0 +1,64 @@
+{
+  "id": 1108911171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":13287.883895,
+    "geom:bbox":"-73.9503971802,40.7927973232,-73.9486161946,40.7944141433",
+    "geom:latitude":40.793606,
+    "geom:longitude":-73.949507,
+    "intersection:latitude":40.793606,
+    "intersection:longitude":-73.949508,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.793606,
+    "reversegeo:longitude":-73.949508,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818104,
+    "wof:geomhash":"9e9abebc015e8f42618a69f1e44d9893",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911171,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911171,
+    "wof:lastmodified":1490900149,
+    "wof:name":"E 106th St  & Madison Ave",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95039718018508,
+    40.79279732317583,
+    -73.94861619457613,
+    40.79441414325593
+],
+  "geometry": {"coordinates":[[[-73.94910784109859,40.79279732317583],[-73.95039718018508,40.79373850244965],[-73.95022063507592,40.79415529451148],[-73.94990228625808,40.79441414325593],[-73.94861619457613,40.79347100935583],[-73.94878759996439,40.7930634791407],[-73.94910784109859,40.79279732317583]]],"type":"Polygon"}
+}

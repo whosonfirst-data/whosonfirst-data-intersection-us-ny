@@ -1,0 +1,64 @@
+{
+  "id": 1108911657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6747.528325,
+    "geom:bbox":"-74.0122435475,40.7138376641,-74.0108733055,40.7148346503",
+    "geom:latitude":40.714325,
+    "geom:longitude":-74.011542,
+    "intersection:latitude":40.714294,
+    "intersection:longitude":-74.011527,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.714294,
+    "reversegeo:longitude":-74.011527,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818133,
+    "wof:geomhash":"de2baf89e10590f7ddeb6359240eb517",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911657,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911657,
+    "wof:lastmodified":1490900141,
+    "wof:name":"Greenwich St  & Park Pl",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01224354752887,
+    40.71383766413803,
+    -74.01087330552035,
+    40.71483465034169
+],
+  "geometry": {"coordinates":[[[-74.01121559033547,40.71383766413803],[-74.01190954977483,40.71407676875254],[-74.01224354752887,40.71483465034169],[-74.01087330552035,40.71443805997174],[-74.0111300970616,40.71388435321091],[-74.01121559033547,40.71383766413803]]],"type":"Polygon"}
+}

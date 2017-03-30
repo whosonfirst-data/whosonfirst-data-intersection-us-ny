@@ -1,0 +1,64 @@
+{
+  "id": 1108913575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9742.806887,
+    "geom:bbox":"-74.0118602555,40.7170540402,-74.0101294732,40.7180669207",
+    "geom:latitude":40.717572,
+    "geom:longitude":-74.010989,
+    "intersection:latitude":40.71747,
+    "intersection:longitude":-74.010693,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.71747,
+    "reversegeo:longitude":-74.010693,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865713,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818226,
+    "wof:geomhash":"36c3c99434b4f2f315b7f40cb5f78748",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108913575,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865713,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108913575,
+    "wof:lastmodified":1490900161,
+    "wof:name":"Greenwich St  & Duane St",
+    "wof:parent_id":85865713,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0118602555382,
+    40.71705404024235,
+    -74.01012947321523,
+    40.71806692073384
+],
+  "geometry": {"coordinates":[[[-74.01020899242609,40.71705404024235],[-74.01180650905907,40.71746734271069],[-74.0118602555382,40.71787971280715],[-74.01167655995535,40.71806692073384],[-74.01012947321523,40.71766813750578],[-74.01020899242609,40.71705404024235]]],"type":"Polygon"}
+}

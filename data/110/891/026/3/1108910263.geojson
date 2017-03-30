@@ -1,0 +1,64 @@
+{
+  "id": 1108910263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15476.615701,
+    "geom:bbox":"-73.957688541,40.7739501084,-73.9556318693,40.7757563585",
+    "geom:latitude":40.774856,
+    "geom:longitude":-73.956669,
+    "intersection:latitude":40.774967,
+    "intersection:longitude":-73.956798,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.774967,
+    "reversegeo:longitude":-73.956798,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818058,
+    "wof:geomhash":"f1d95f649b299e42830ea08c5347838f",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910263,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910263,
+    "wof:lastmodified":1490900131,
+    "wof:name":"E 80th St  & 3rd Ave",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95768854097534,
+    40.77395010844447,
+    -73.95563186925929,
+    40.77575635854153
+],
+  "geometry": {"coordinates":[[[-73.95611530277424,40.77395010844447],[-73.95768854097534,40.77509093614587],[-73.95752186776504,40.77548626030838],[-73.95721142093821,40.77575635854153],[-73.95563186925929,40.77460034595632],[-73.95573454597822,40.77435726126377],[-73.95611530277424,40.77395010844447]]],"type":"Polygon"}
+}

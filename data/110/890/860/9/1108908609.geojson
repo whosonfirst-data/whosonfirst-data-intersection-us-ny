@@ -1,0 +1,64 @@
+{
+  "id": 1108908609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1891.704615,
+    "geom:bbox":"-74.0042522768,40.7321488791,-74.0035269145,40.7326998202",
+    "geom:latitude":40.732392,
+    "geom:longitude":-74.003828,
+    "intersection:latitude":40.732324,
+    "intersection:longitude":-74.003612,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.732324,
+    "reversegeo:longitude":-74.003612,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85856577,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817973,
+    "wof:geomhash":"7d0580a470a4093d1ccc814a9910d2c0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908609,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85856577,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908609,
+    "wof:lastmodified":1490900175,
+    "wof:name":"Barrow St  & Bleecker St",
+    "wof:parent_id":85856577,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00425227682517,
+    40.73214887910859,
+    -74.00352691453192,
+    40.73269982020323
+],
+  "geometry": {"coordinates":[[[-74.00379872567486,40.73214887910859],[-74.00425227682517,40.73233724489955],[-74.00366358999969,40.73269982020323],[-74.00352691453192,40.73230652957147],[-74.00379872567486,40.73214887910859]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108914473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21610.979787,
+    "geom:bbox":"-73.9863138355,40.7729944208,-73.9835816331,40.7753463288",
+    "geom:latitude":40.774176,
+    "geom:longitude":-73.9849,
+    "intersection:latitude":40.774155,
+    "intersection:longitude":-73.984879,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.774155,
+    "reversegeo:longitude":-73.984879,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818274,
+    "wof:geomhash":"fffa76690876bc7279ee515903cc8255",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914473,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914473,
+    "wof:lastmodified":1490900152,
+    "wof:name":"Amsterdam Ave  & W 65th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98631383551452,
+    40.77299442082967,
+    -73.9835816331269,
+    40.77534632884151
+],
+  "geometry": {"coordinates":[[[-73.98393659624216,40.77299442082967],[-73.98631383551452,40.77472020510908],[-73.98627238412732,40.77481658468917],[-73.98585477887259,40.77534632884151],[-73.9835816331269,40.77372066411985],[-73.98361389281715,40.77341671377596],[-73.98362650313749,40.77338657724766],[-73.98393659624216,40.77299442082967]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108911745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18671.613222,
+    "geom:bbox":"-73.9866110134,40.7306170363,-73.984207716,40.7326138024",
+    "geom:latitude":40.731648,
+    "geom:longitude":-73.985407,
+    "intersection:latitude":40.731658,
+    "intersection:longitude":-73.985444,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.731658,
+    "reversegeo:longitude":-73.985444,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85816887,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818136,
+    "wof:geomhash":"02befb6a9d5c38751c8871d206484989",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911745,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85816887,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911745,
+    "wof:lastmodified":1490900161,
+    "wof:name":"2nd Ave  & E 13th St",
+    "wof:parent_id":85816887,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98661101338733,
+    40.73061703628949,
+    -73.98420771599731,
+    40.73261380240031
+],
+  "geometry": {"coordinates":[[[-73.98468506922362,40.73061703628949],[-73.98661101338733,40.73201854495321],[-73.98650462126253,40.73227035464396],[-73.98618135304025,40.73261380240031],[-73.986000684828,40.73259251011392],[-73.98420771599731,40.73128356479918],[-73.9843005827715,40.73106352910897],[-73.98468506922362,40.73061703628949]]],"type":"Polygon"}
+}

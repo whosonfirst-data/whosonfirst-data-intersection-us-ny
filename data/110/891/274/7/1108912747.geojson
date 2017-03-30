@@ -1,0 +1,64 @@
+{
+  "id": 1108912747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":31027.522261,
+    "geom:bbox":"-73.9472719621,40.8312945663,-73.9443778419,40.8337961055",
+    "geom:latitude":40.832538,
+    "geom:longitude":-73.945837,
+    "intersection:latitude":40.832766,
+    "intersection:longitude":-73.945824,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.832766,
+    "reversegeo:longitude":-73.945824,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85869313,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818184,
+    "wof:geomhash":"2f0e8634175e96acdb2119b55c12f68b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912747,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85869313,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912747,
+    "wof:lastmodified":1490900131,
+    "wof:name":"Broadway  & W 155th St",
+    "wof:parent_id":85869313,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94727196211645,
+    40.8312945662808,
+    -73.94437784190356,
+    40.83379610552636
+],
+  "geometry": {"coordinates":[[[-73.94516740564407,40.8312945662808],[-73.94727196211645,40.83283032370659],[-73.9471336652107,40.83314190221479],[-73.94657329234889,40.8337740825126],[-73.94653018430243,40.83379610552636],[-73.94437784190356,40.83222435027234],[-73.9444281446679,40.83210493369322],[-73.94492922768225,40.83147603974992],[-73.94516740564407,40.8312945662808]]],"type":"Polygon"}
+}

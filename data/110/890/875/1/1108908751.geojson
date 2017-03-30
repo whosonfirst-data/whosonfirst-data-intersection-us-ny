@@ -1,0 +1,64 @@
+{
+  "id": 1108908751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6160.353677,
+    "geom:bbox":"-74.0138264969,40.7082350053,-74.0125353643,40.7091110353",
+    "geom:latitude":40.708629,
+    "geom:longitude":-74.01321,
+    "intersection:latitude":40.708731,
+    "intersection:longitude":-74.013263,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.708731,
+    "reversegeo:longitude":-74.013263,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865711,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817979,
+    "wof:geomhash":"037c6537998b40b62842c3d709a680e0",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908751,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865711,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908751,
+    "wof:lastmodified":1490900169,
+    "wof:name":"Carlisle St  & Greenwich St",
+    "wof:parent_id":85865711,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0138264968984,
+    40.70823500530933,
+    -74.01253536430478,
+    40.70911103528912
+],
+  "geometry": {"coordinates":[[[-74.01316196975992,40.70823500530933],[-74.0138264968984,40.70852154453418],[-74.01356789602362,40.70911103528912],[-74.01261340106916,40.70869573820558],[-74.01253536430478,40.70843126778799],[-74.01316196975992,40.70823500530933]]],"type":"Polygon"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1108909409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":14123.848253,
+    "geom:bbox":"-73.9820139308,40.7723625833,-73.9801412947,40.774184332",
+    "geom:latitude":40.773247,
+    "geom:longitude":-73.98111,
+    "intersection:latitude":40.773602,
+    "intersection:longitude":-73.981573,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.773602,
+    "reversegeo:longitude":-73.981573,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818017,
+    "wof:geomhash":"7e38e945f5aa16ce5db91d9c6bdd0e9e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909409,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909409,
+    "wof:lastmodified":1490900179,
+    "wof:name":"Columbus Ave  & W 66th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98201393083359,
+    40.77236258330429,
+    -73.9801412947193,
+    40.77418433204406
+],
+  "geometry": {"coordinates":[[[-73.98063490688494,40.77236258330429],[-73.98072487491929,40.77240200095386],[-73.98198861662819,40.77343072381316],[-73.98201393083359,40.77345866748706],[-73.98171091836063,40.77418433204406],[-73.9801412947193,40.77303160044184],[-73.98016281442992,40.77297993497625],[-73.98063490688494,40.77236258330429]]],"type":"Polygon"}
+}

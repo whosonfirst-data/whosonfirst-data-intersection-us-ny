@@ -1,0 +1,64 @@
+{
+  "id": 1108907489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":22988.888552,
+    "geom:bbox":"-74.0027703327,40.7452831577,-73.9998851509,40.7476967603",
+    "geom:latitude":40.74649,
+    "geom:longitude":-74.001329,
+    "intersection:latitude":40.746492,
+    "intersection:longitude":-74.001326,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.746492,
+    "reversegeo:longitude":-74.001326,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817925,
+    "wof:geomhash":"20a6bcfafc5765eccfd703d10f6df4a8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907489,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907489,
+    "wof:lastmodified":1490900177,
+    "wof:name":"9th Ave  & W 23rd St",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00277033268362,
+    40.74528315767404,
+    -73.99988515085349,
+    40.74769676027883
+],
+  "geometry": {"coordinates":[[[-74.00036877162741,40.74528315767404],[-74.00277033268362,40.74703564817456],[-74.00272332315299,40.74714716827977],[-74.00228910352014,40.74769676027883],[-73.99988515085349,40.74594242535566],[-73.99992840775727,40.74583987977412],[-74.00036877162741,40.74528315767404]]],"type":"Polygon"}
+}

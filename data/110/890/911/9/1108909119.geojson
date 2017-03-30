@@ -1,0 +1,62 @@
+{
+  "id": 1108909119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000293,
+    "geom:area_square_m":2742910.682617,
+    "geom:bbox":"-74.026017,40.7901551992,-73.9780878378,40.8337575137",
+    "geom:latitude":40.813283,
+    "geom:longitude":-74.005436,
+    "intersection:latitude":40.791245,
+    "intersection:longitude":-73.979395,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.791245,
+    "reversegeo:longitude":-73.979395,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817995,
+    "wof:geomhash":"ba7b61f6ecf75ed0d842a247de83f6c3",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108909119,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108909119,
+    "wof:lastmodified":1490900175,
+    "wof:name":"Riverside Dr  & W 88th St",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.026017,
+    40.79015519916761,
+    -73.97808783777633,
+    40.83375751365003
+],
+  "geometry": {"coordinates":[[[-73.97858228195881,40.79015519916761],[-74.026017,40.82526140095099],[-74.026017,40.83375751365003],[-73.9881001136215,40.80211400244802],[-73.98057589709315,40.79547387611179],[-73.97808783777633,40.79086054305865],[-73.97818307936903,40.79063651396761],[-73.97858228195881,40.79015519916761]]],"type":"Polygon"}
+}

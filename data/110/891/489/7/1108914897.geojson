@@ -1,0 +1,64 @@
+{
+  "id": 1108914897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":21553.578363,
+    "geom:bbox":"-73.9961425697,40.7441930115,-73.9932743173,40.7465655407",
+    "geom:latitude":40.74538,
+    "geom:longitude":-73.994705,
+    "intersection:latitude":40.745383,
+    "intersection:longitude":-73.994709,
+    "iso:country":"US",
+    "mz:colour_id":5,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.745383,
+    "reversegeo:longitude":-73.994709,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818299,
+    "wof:geomhash":"49ce03307ca86a8276f178b9629acda7",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914897,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914897,
+    "wof:lastmodified":1490900146,
+    "wof:name":"W 25th St  & 7th Ave",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99614256965674,
+    40.74419301146953,
+    -73.99327431731324,
+    40.74656554071738
+],
+  "geometry": {"coordinates":[[[-73.99372793608647,40.74419301146953],[-73.99614256965674,40.74595335723359],[-73.99611647134834,40.74601529170003],[-73.99569699280875,40.74656554071738],[-73.99327431731324,40.74482168251048],[-73.9933038301655,40.74475170968278],[-73.99372793608647,40.74419301146953]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108912991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":6090.821244,
+    "geom:bbox":"-74.0054532151,40.7231720136,-74.0043012013,40.7240654952",
+    "geom:latitude":40.723625,
+    "geom:longitude":-74.004879,
+    "intersection:latitude":40.723625,
+    "intersection:longitude":-74.004786,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.723625,
+    "reversegeo:longitude":-74.004786,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865687,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818195,
+    "wof:geomhash":"2c3c9b2fb03d3db28fa5b191a5b8e4f5",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912991,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":85865687,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912991,
+    "wof:lastmodified":1490900138,
+    "wof:name":"Sullivan St  & 6th Ave",
+    "wof:parent_id":85865687,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.005453215149,
+    40.72317201356324,
+    -74.00430120125337,
+    40.72406549522263
+],
+  "geometry": {"coordinates":[[[-74.00461562188798,40.72317201356324],[-74.00509484801756,40.72337422180648],[-74.005453215149,40.7236611516679],[-74.00542250818793,40.72399867446313],[-74.00538105160828,40.72406549522263],[-74.00465513879635,40.72390811244492],[-74.00430120125337,40.72357392955551],[-74.0043574842819,40.72326821037786],[-74.00461562188798,40.72317201356324]]],"type":"Polygon"}
+}

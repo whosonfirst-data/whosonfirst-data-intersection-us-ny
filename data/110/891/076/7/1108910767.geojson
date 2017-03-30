@@ -1,0 +1,64 @@
+{
+  "id": 1108910767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20471.481423,
+    "geom:bbox":"-74.005374902,40.7416515605,-74.0025459876,40.7440395333",
+    "geom:latitude":40.742845,
+    "geom:longitude":-74.003948,
+    "intersection:latitude":40.742863,
+    "intersection:longitude":-74.003969,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.742863,
+    "reversegeo:longitude":-74.003969,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818082,
+    "wof:geomhash":"e5a84e7669056a54b9c292ea88be9452",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910767,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910767,
+    "wof:lastmodified":1490900148,
+    "wof:name":"9th Ave  & W 17th St",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00537490202608,
+    40.74165156050148,
+    -74.00254598755217,
+    40.7440395333209
+],
+  "geometry": {"coordinates":[[[-74.00299830991129,40.74165156050148],[-74.00537490202608,40.74348633886986],[-74.00496664635298,40.7440395333209],[-74.00254598755217,40.74227265929022],[-74.0025544951606,40.74225244037146],[-74.00299830991129,40.74165156050148]]],"type":"Polygon"}
+}

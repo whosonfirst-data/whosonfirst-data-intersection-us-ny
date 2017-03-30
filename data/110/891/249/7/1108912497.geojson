@@ -1,0 +1,64 @@
+{
+  "id": 1108912497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":17847.746408,
+    "geom:bbox":"-73.9459543524,40.7781024877,-73.9434865271,40.7801026298",
+    "geom:latitude":40.779102,
+    "geom:longitude":-73.944742,
+    "intersection:latitude":40.779145,
+    "intersection:longitude":-73.944775,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.779145,
+    "reversegeo:longitude":-73.944775,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907215779,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818173,
+    "wof:geomhash":"069d2a00b6342f6b2c0f1adeeb20083d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912497,
+            "locality_id":85977539,
+            "microhood_id":907215779,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912497,
+    "wof:lastmodified":1490900131,
+    "wof:name":"E 91st St  & York Ave",
+    "wof:parent_id":907215779,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94595435238537,
+    40.77810248773968,
+    -73.94348652705628,
+    40.78010262977993
+],
+  "geometry": {"coordinates":[[[-73.94403609358432,40.77810248773968],[-73.94595435238537,40.77949970204097],[-73.94587726041685,40.77969046062247],[-73.94552614495068,40.78010262977993],[-73.94348652705628,40.77872191441959],[-73.94403609358432,40.77810248773968]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1108910119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":14048.077178,
+    "geom:bbox":"-74.0079310476,40.742604096,-74.0058194882,40.744213351",
+    "geom:latitude":40.743293,
+    "geom:longitude":-74.006975,
+    "intersection:latitude":40.74347,
+    "intersection:longitude":-74.007238,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.74347,
+    "reversegeo:longitude":-74.007238,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85810589,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818052,
+    "wof:geomhash":"fe13dfd4de8daa160eafc6b48c731e20",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910119,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85810589,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910119,
+    "wof:lastmodified":1490900145,
+    "wof:name":"10th Ave  & W 16th St",
+    "wof:parent_id":85810589,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.00793104760986,
+    40.74260409596162,
+    -74.00581948816773,
+    40.74421335099941
+],
+  "geometry": {"coordinates":[[[-74.00672531805481,40.74260409596162],[-74.00791322014715,40.74347634482502],[-74.00793104760986,40.74355337632775],[-74.0076443593458,40.74421335099941],[-74.00581948816773,40.74289487385384],[-74.00585635503275,40.74280715185292],[-74.00592270824681,40.74272087089569],[-74.00672531805481,40.74260409596162]]],"type":"Polygon"}
+}

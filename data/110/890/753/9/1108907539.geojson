@@ -1,0 +1,64 @@
+{
+  "id": 1108907539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12233.361371,
+    "geom:bbox":"-73.9415902661,40.84640185,-73.940186052,40.8478563578",
+    "geom:latitude":40.847148,
+    "geom:longitude":-73.940932,
+    "intersection:latitude":40.847387,
+    "intersection:longitude":-73.940691,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.847387,
+    "reversegeo:longitude":-73.940691,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214331,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817927,
+    "wof:geomhash":"070e970b425a62132f183b30b3e48817",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108907539,
+            "locality_id":85977539,
+            "microhood_id":907214331,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108907539,
+    "wof:lastmodified":1490900170,
+    "wof:name":"Pinehurst Ave  & W 176th St",
+    "wof:parent_id":907214331,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94159026611158,
+    40.84640185002318,
+    -73.94018605195416,
+    40.84785635777104
+],
+  "geometry": {"coordinates":[[[-73.94140523404211,40.84640185002318],[-73.94159026611158,40.84670900966098],[-73.94145685077143,40.84742294909765],[-73.94094358671096,40.84785635777104],[-73.94018605195416,40.84755070688023],[-73.940289930155,40.84701547004878],[-73.94090264932777,40.84657075452017],[-73.94140523404211,40.84640185002318]]],"type":"Polygon"}
+}

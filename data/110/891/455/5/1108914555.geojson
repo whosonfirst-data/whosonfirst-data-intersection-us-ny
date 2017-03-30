@@ -1,0 +1,64 @@
+{
+  "id": 1108914555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12791.109312,
+    "geom:bbox":"-73.9654979474,40.7723079898,-73.963592496,40.7738863504",
+    "geom:latitude":40.773105,
+    "geom:longitude":-73.964495,
+    "intersection:latitude":40.773099,
+    "intersection:longitude":-73.964474,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.773099,
+    "reversegeo:longitude":-73.964474,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214349,
+        85865691,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818278,
+    "wof:geomhash":"901d99048c793c597009872f9a7794df",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914555,
+            "locality_id":85977539,
+            "microhood_id":907214349,
+            "neighbourhood_id":85865691,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914555,
+    "wof:lastmodified":1490900138,
+    "wof:name":"E 74th St  & Madison Ave",
+    "wof:parent_id":907214349,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96549794741601,
+    40.77230798980425,
+    -73.96359249599041,
+    40.77388635040617
+],
+  "geometry": {"coordinates":[[[-73.96405384310715,40.77230798980425],[-73.96549794741601,40.77335700897201],[-73.9648884592154,40.77388635040617],[-73.96359249599041,40.77294197341888],[-73.96374671793005,40.77257651966207],[-73.96405384310715,40.77230798980425]]],"type":"Polygon"}
+}

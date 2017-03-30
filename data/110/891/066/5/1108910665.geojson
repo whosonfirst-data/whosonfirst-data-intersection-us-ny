@@ -1,0 +1,64 @@
+{
+  "id": 1108910665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":10943.754597,
+    "geom:bbox":"-73.9561929172,40.8062287268,-73.9546021267,40.8076843524",
+    "geom:latitude":40.806957,
+    "geom:longitude":-73.955398,
+    "intersection:latitude":40.806966,
+    "intersection:longitude":-73.955411,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.806966,
+    "reversegeo:longitude":-73.955411,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818078,
+    "wof:geomhash":"db083ec995e720a1c23598c6d986de79",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910665,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910665,
+    "wof:lastmodified":1490900156,
+    "wof:name":"W 119th St  & Manhattan Ave",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95619291721638,
+    40.80622872676509,
+    -73.95460212671232,
+    40.80768435236295
+],
+  "geometry": {"coordinates":[[[-73.95505914380352,40.80622872676509],[-73.95619291721638,40.80705296203986],[-73.95602546157409,40.80745572173126],[-73.95572944249255,40.80768435236295],[-73.95460212671232,40.80685369863014],[-73.95476678929936,40.80646312864394],[-73.95505914380352,40.80622872676509]]],"type":"Polygon"}
+}

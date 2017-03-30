@@ -1,0 +1,64 @@
+{
+  "id": 1108912043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":77844.874855,
+    "geom:bbox":"-73.9391154823,40.7840648691,-73.9282440699,40.7895416327",
+    "geom:latitude":40.787145,
+    "geom:longitude":-73.934341,
+    "intersection:latitude":40.788695,
+    "intersection:longitude":-73.93786,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.788695,
+    "reversegeo:longitude":-73.93786,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865689,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818149,
+    "wof:geomhash":"6e6141ea1a207e8f7302c47e1550da2a",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912043,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865689,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912043,
+    "wof:lastmodified":1490900137,
+    "wof:name":"E 106th St  & F D R Dr",
+    "wof:parent_id":85865689,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93911548230797,
+    40.78406486912977,
+    -73.92824406985326,
+    40.78954163271444
+],
+  "geometry": {"coordinates":[[[-73.92824406985326,40.78406486912977],[-73.93911548230797,40.78879919390828],[-73.93890159071566,40.78930600900242],[-73.93867704214874,40.78954163271444],[-73.93120006943803,40.78623185071289],[-73.92824406985326,40.78406486912977]]],"type":"Polygon"}
+}

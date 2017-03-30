@@ -1,0 +1,62 @@
+{
+  "id": 1108910073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":24446.332592,
+    "geom:bbox":"-73.9693587532,40.7860143704,-73.96597541,40.7884340056",
+    "geom:latitude":40.787141,
+    "geom:longitude":-73.967789,
+    "intersection:latitude":40.787222,
+    "intersection:longitude":-73.967927,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.787222,
+    "reversegeo:longitude":-73.967927,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529187,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818050,
+    "wof:geomhash":"77286407a590273d3b657c03d1a09cda",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910073,
+            "locality_id":85977539,
+            "neighbourhood_id":420529187,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910073,
+    "wof:lastmodified":1490900133,
+    "wof:name":"Central Park W  & W 89th St",
+    "wof:parent_id":420529187,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96935875316824,
+    40.78601437035776,
+    -73.9659754100159,
+    40.78843400558475
+],
+  "geometry": {"coordinates":[[[-73.96693320926627,40.78601437035776],[-73.96935875316824,40.78778896957036],[-73.96933055699694,40.787855662099],[-73.968884120689,40.78843400558475],[-73.96763115384614,40.78749869230768],[-73.9659754100159,40.78626271451883],[-73.96693320926627,40.78601437035776]]],"type":"Polygon"}
+}

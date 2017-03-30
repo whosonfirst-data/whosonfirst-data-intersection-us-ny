@@ -1,0 +1,66 @@
+{
+  "id": 1108910345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":20913.473627,
+    "geom:bbox":"-73.991578135,40.7504972617,-73.9889156835,40.7528312677",
+    "geom:latitude":40.751688,
+    "geom:longitude":-73.990211,
+    "intersection:latitude":40.751659,
+    "intersection:longitude":-73.990134,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.751659,
+    "reversegeo:longitude":-73.990134,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212749,
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818061,
+    "wof:geomhash":"e0739f91206f36381e719c2bae6947c6",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910345,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907212749,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108910345,
+    "wof:lastmodified":1490900145,
+    "wof:name":"Fashion Ave  & W 35th St",
+    "wof:parent_id":907212749,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99157813496133,
+    40.75049726172443,
+    -73.9889156835443,
+    40.75283126770049
+],
+  "geometry": {"coordinates":[[[-73.98924877621717,40.75049726172443],[-73.99157813496133,40.75220499249789],[-73.99154466699126,40.75228467147267],[-73.99113026759548,40.75283126770049],[-73.98891568354431,40.75126215822785],[-73.98891641250742,40.75125459523549],[-73.98922517318833,40.75052600665478],[-73.98924877621717,40.75049726172443]]],"type":"Polygon"}
+}

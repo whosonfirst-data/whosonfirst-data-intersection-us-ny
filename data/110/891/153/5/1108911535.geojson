@@ -1,0 +1,64 @@
+{
+  "id": 1108911535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":9424.405349,
+    "geom:bbox":"-73.9985903109,40.7297759344,-73.9974115025,40.731340303",
+    "geom:latitude":40.730499,
+    "geom:longitude":-73.997997,
+    "intersection:latitude":40.730288,
+    "intersection:longitude":-73.998072,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.730288,
+    "reversegeo:longitude":-73.998072,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        420529189,
+        102191575,
+        907196817,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818128,
+    "wof:geomhash":"47a646c66bb452293604f8b31bfc1229",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911535,
+            "locality_id":85977539,
+            "macrohood_id":907196817,
+            "neighbourhood_id":420529189,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911535,
+    "wof:lastmodified":1490900133,
+    "wof:name":"Thompson St  & Washington Sq S",
+    "wof:parent_id":420529189,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9985903108657,
+    40.72977593440495,
+    -73.99741150253992,
+    40.73134030299251
+],
+  "geometry": {"coordinates":[[[-73.99810028038684,40.72977593440495],[-73.99859031086569,40.73020907909027],[-73.99803145604554,40.73133852321504],[-73.99802510487667,40.73134030299251],[-73.99741150253992,40.73073929017738],[-73.99785860253658,40.72982189767708],[-73.99810028038684,40.72977593440495]]],"type":"Polygon"}
+}

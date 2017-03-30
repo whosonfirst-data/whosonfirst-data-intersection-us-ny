@@ -1,0 +1,64 @@
+{
+  "id": 1108912103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":11204.351657,
+    "geom:bbox":"-73.9952535834,40.7576917387,-73.9936410791,40.7591329549",
+    "geom:latitude":40.758399,
+    "geom:longitude":-73.99445,
+    "intersection:latitude":40.758377,
+    "intersection:longitude":-73.994378,
+    "iso:country":"US",
+    "mz:colour_id":5,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.758377,
+    "reversegeo:longitude":-73.994378,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85868039,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818151,
+    "wof:geomhash":"3aca7a4d82dae71c09928a8b12d746d5",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912103,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85868039,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108912103,
+    "wof:lastmodified":1490900137,
+    "wof:name":"Dyer Ave  & W 41st St",
+    "wof:parent_id":85868039,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99525358335693,
+    40.75769173871272,
+    -73.99364107911377,
+    40.75913295491846
+],
+  "geometry": {"coordinates":[[[-73.99407327315447,40.75769173871272],[-73.99525358335693,40.75843781547417],[-73.9950920212236,40.75885643259114],[-73.99477664448169,40.75913295491846],[-73.99364107911377,40.75829920094399],[-73.99382823873189,40.7578541013431],[-73.99407327315447,40.75769173871272]]],"type":"Polygon"}
+}

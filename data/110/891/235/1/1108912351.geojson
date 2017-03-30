@@ -1,0 +1,79 @@
+{
+  "id": 1108912351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":19145.75747,
+    "geom:bbox":"-73.9376720046,40.8194626889,-73.9352711824,40.8216429639",
+    "geom:latitude":40.820582,
+    "geom:longitude":-73.936438,
+    "intersection:latitude":40.820438,
+    "intersection:longitude":-73.936227,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.820438,
+    "reversegeo:longitude":-73.936227,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543,
+        85882237,
+        404477525,
+        85975895,
+        102086773,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818167,
+    "wof:geomhash":"728509d409c5131298931a1a31f809f9",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108912351,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086773,
+            "intersection_id":1108912351,
+            "localadmin_id":404477525,
+            "locality_id":85975895,
+            "neighbourhood_id":85882237,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":1108912351,
+    "wof:lastmodified":1490900159,
+    "wof:name":"W 145th St  & Malcolm X Blvd",
+    "wof:parent_id":-1,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93767200458073,
+    40.81946268887783,
+    -73.93527118243166,
+    40.8216429638641
+],
+  "geometry": {"coordinates":[[[-73.93560680196434,40.81946268887783],[-73.93767200458073,40.82098994949532],[-73.93762770512103,40.82109524846126],[-73.9371930619527,40.8216429638641],[-73.93527118243166,40.82025621846115],[-73.93560680196434,40.81946268887783]]],"type":"Polygon"}
+}

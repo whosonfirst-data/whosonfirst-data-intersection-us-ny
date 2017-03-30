@@ -1,0 +1,64 @@
+{
+  "id": 1108914239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1393.562896,
+    "geom:bbox":"-73.9288002998,40.856808,-73.9277629908,40.85703849",
+    "geom:latitude":40.856906,
+    "geom:longitude":-73.928249,
+    "intersection:latitude":40.856808,
+    "intersection:longitude":-73.928266,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.856808,
+    "reversegeo:longitude":-73.928266,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907212535,
+        85854625,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818260,
+    "wof:geomhash":"a4161edee366f6ca33f3be9f561eb85e",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914239,
+            "locality_id":85977539,
+            "microhood_id":907212535,
+            "neighbourhood_id":85854625,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914239,
+    "wof:lastmodified":1490900137,
+    "wof:name":"Fort George Hill  & Fort George Ave",
+    "wof:parent_id":907212535,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92880029984187,
+    40.856808,
+    -73.9277629908046,
+    40.85703848998549
+],
+  "geometry": {"coordinates":[[[-73.92847920344828,40.856808],[-73.92880029984187,40.85703848998549],[-73.92781854309453,40.85694849561702],[-73.9277629908046,40.856808],[-73.92847920344828,40.856808]]],"type":"Polygon"}
+}

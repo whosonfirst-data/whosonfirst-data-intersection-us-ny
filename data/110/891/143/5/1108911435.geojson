@@ -1,0 +1,64 @@
+{
+  "id": 1108911435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25533.710344,
+    "geom:bbox":"-73.9815157699,40.7293912487,-73.9794689085,40.7316516555",
+    "geom:latitude":40.730647,
+    "geom:longitude":-73.980302,
+    "intersection:latitude":40.730448,
+    "intersection:longitude":-73.980338,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.730448,
+    "reversegeo:longitude":-73.980338,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85851295,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818123,
+    "wof:geomhash":"2c6f84b4d7954456d52604a4a122109d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911435,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85851295,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911435,
+    "wof:lastmodified":1490900144,
+    "wof:name":"E 14th St  & Stuyvesant Loop S",
+    "wof:parent_id":85851295,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98151576989845,
+    40.72939124873005,
+    -73.97946890852293,
+    40.73165165550426
+],
+  "geometry": {"coordinates":[[[-73.97963133333043,40.72939124873005],[-73.98151576989845,40.73074658346775],[-73.98142624062385,40.73096486623366],[-73.98081928617364,40.73161839007902],[-73.9807596312648,40.73165165550426],[-73.97950331868562,40.73121151196907],[-73.97946890852293,40.72956321671074],[-73.97963133333043,40.72939124873005]]],"type":"Polygon"}
+}

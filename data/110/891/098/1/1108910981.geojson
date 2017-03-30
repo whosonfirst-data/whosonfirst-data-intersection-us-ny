@@ -1,0 +1,77 @@
+{
+  "id": 1108910981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8578.515754,
+    "geom:bbox":"-73.9969223304,40.7658097963,-73.9955982876,40.7671231995",
+    "geom:latitude":40.766459,
+    "geom:longitude":-73.996277,
+    "intersection:latitude":40.76674,
+    "intersection:longitude":-73.996667,
+    "iso:country":"US",
+    "mz:colour_id":0,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.76674,
+    "reversegeo:longitude":-73.996667,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85882233,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543,
+        85865537,
+        404478147,
+        102080719,
+        85688607
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818091,
+    "wof:geomhash":"47b4315f948e031b9e994d62ebb10b39",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108910981,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "neighbourhood_id":85882233,
+            "region_id":85688543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080719,
+            "intersection_id":1108910981,
+            "localadmin_id":404478147,
+            "neighbourhood_id":85865537,
+            "region_id":85688607
+        }
+    ],
+    "wof:id":1108910981,
+    "wof:lastmodified":1490900157,
+    "wof:name":"12th Ave  & W 50th St",
+    "wof:parent_id":-1,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9969223304188,
+    40.76580979632512,
+    -73.99559828757553,
+    40.76712319951731
+],
+  "geometry": {"coordinates":[[[-73.99605332543669,40.76580979632512],[-73.9969223304188,40.766438091007],[-73.99662685708019,40.76712319951731],[-73.99648431751189,40.76707495227578],[-73.99559828757553,40.7664306984822],[-73.99570354503069,40.76618121748253],[-73.99605332543669,40.76580979632512]]],"type":"Polygon"}
+}

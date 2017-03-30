@@ -1,0 +1,62 @@
+{
+  "id": 1108911833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":18541.228765,
+    "geom:bbox":"-74.0166190582,40.684656,-74.0153806546,40.6879817458",
+    "geom:latitude":40.686562,
+    "geom:longitude":-74.015843,
+    "intersection:latitude":40.687398,
+    "intersection:longitude":-74.016165,
+    "iso:country":"US",
+    "mz:colour_id":4,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.687398,
+    "reversegeo:longitude":-74.016165,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907131741,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818140,
+    "wof:geomhash":"a1a2de395dc7e6f1a468c462a1a5d07d",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911833,
+            "locality_id":85977539,
+            "neighbourhood_id":907131741,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911833,
+    "wof:lastmodified":1490900155,
+    "wof:name":"Craig Rd S  & Clayton Rd",
+    "wof:parent_id":907131741,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01661905818119,
+    40.684656,
+    -74.01538065463917,
+    40.68798174578385
+],
+  "geometry": {"coordinates":[[[-74.01543195918367,40.684656],[-74.01661905818119,40.68722222871524],[-74.01568178179862,40.68798174578385],[-74.01542297727383,40.68670864778109],[-74.01538065463917,40.684656],[-74.01543195918367,40.684656]]],"type":"Polygon"}
+}

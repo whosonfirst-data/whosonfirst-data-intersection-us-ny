@@ -1,0 +1,64 @@
+{
+  "id": 1108908479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":12217.434759,
+    "geom:bbox":"-73.9450776134,40.8213511159,-73.9433832128,40.8229446376",
+    "geom:latitude":40.822195,
+    "geom:longitude":-73.944193,
+    "intersection:latitude":40.822052,
+    "intersection:longitude":-73.944049,
+    "iso:country":"US",
+    "mz:colour_id":1,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.822052,
+    "reversegeo:longitude":-73.944049,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85865555,
+        102191575,
+        907216433,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817968,
+    "wof:geomhash":"d6bcef15a09fc9dca306c365079a6d6b",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108908479,
+            "locality_id":85977539,
+            "macrohood_id":907216433,
+            "neighbourhood_id":85865555,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108908479,
+    "wof:lastmodified":1490900176,
+    "wof:name":"Bradhurst Ave  & W 143rd St",
+    "wof:parent_id":85865555,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94507761339754,
+    40.82135111585863,
+    -73.94338321276255,
+    40.82294463761838
+],
+  "geometry": {"coordinates":[[[-73.94389374071589,40.82135111585863],[-73.94455465380197,40.82197170204457],[-73.94507761339754,40.82280093678177],[-73.94467516975332,40.82294463761838],[-73.94437799824189,40.82290609469678],[-73.94338321276255,40.82196830213555],[-73.94355583120432,40.82156755657661],[-73.94389374071589,40.82135111585863]]],"type":"Polygon"}
+}

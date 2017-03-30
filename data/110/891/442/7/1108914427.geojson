@@ -1,0 +1,64 @@
+{
+  "id": 1108914427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:area_square_m":25386.698032,
+    "geom:bbox":"-73.9655566133,40.7935158379,-73.9634847575,40.7956134903",
+    "geom:latitude":40.794385,
+    "geom:longitude":-73.964533,
+    "intersection:latitude":40.794787,
+    "intersection:longitude":-73.964303,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.794787,
+    "reversegeo:longitude":-73.964303,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907214381,
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818267,
+    "wof:geomhash":"dfa5811def9da0f6ec58aa3d9b8efdd8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108914427,
+            "locality_id":85977539,
+            "microhood_id":907214381,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108914427,
+    "wof:lastmodified":1490900132,
+    "wof:name":"W 100th St  & Manhattan Ave",
+    "wof:parent_id":907214381,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96555661329526,
+    40.79351583793768,
+    -73.9634847575015,
+    40.79561349033333
+],
+  "geometry": {"coordinates":[[[-73.96535962205593,40.79351583793768],[-73.96555661329526,40.79395075991597],[-73.96471709129582,40.79561349033333],[-73.9634847575015,40.79470564679843],[-73.96392795783747,40.79359081581634],[-73.96535962205593,40.79351583793768]]],"type":"Polygon"}
+}

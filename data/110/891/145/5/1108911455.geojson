@@ -1,0 +1,62 @@
+{
+  "id": 1108911455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3447.621449,
+    "geom:bbox":"-73.9827065476,40.7778830947,-73.9811726628,40.7784415",
+    "geom:latitude":40.778198,
+    "geom:longitude":-73.981946,
+    "intersection:latitude":40.778118,
+    "intersection:longitude":-73.981992,
+    "iso:country":"US",
+    "mz:colour_id":3,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.778118,
+    "reversegeo:longitude":-73.981992,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        85853285,
+        102191575,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490818124,
+    "wof:geomhash":"7eb2ce4ea26a7141d0ac31426b6540c8",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108911455,
+            "locality_id":85977539,
+            "neighbourhood_id":85853285,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108911455,
+    "wof:lastmodified":1490900160,
+    "wof:name":"Broadway  & Amsterdam Ave",
+    "wof:parent_id":85853285,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98270654761896,
+    40.77788309468444,
+    -73.98117266279077,
+    40.7784415
+],
+  "geometry": {"coordinates":[[[-73.98117266279077,40.77788309468444],[-73.9820324344978,40.77800591921396],[-73.98270654761896,40.7784415],[-73.98191017924528,40.7784415],[-73.98117266279077,40.77788309468444]]],"type":"Polygon"}
+}

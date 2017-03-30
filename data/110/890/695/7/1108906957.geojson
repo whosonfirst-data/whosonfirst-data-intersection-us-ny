@@ -1,0 +1,66 @@
+{
+  "id": 1108906957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":15152.716029,
+    "geom:bbox":"-73.9782039896,40.739724553,-73.97658991,40.7415140058",
+    "geom:latitude":40.740694,
+    "geom:longitude":-73.977238,
+    "intersection:latitude":40.740447,
+    "intersection:longitude":-73.977313,
+    "iso:country":"US",
+    "mz:colour_id":2,
+    "mz:hierarchy_label":1,
+    "reversegeo:latitude":40.740447,
+    "reversegeo:longitude":-73.977313,
+    "src:geom":"mapzen",
+    "wof:belongsto":[
+        907189665,
+        85868041,
+        102191575,
+        907215781,
+        85633793,
+        85977539,
+        421205771,
+        102082361,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1490817897,
+    "wof:geomhash":"e234c86288c5ccc9cac46b89c77b1466",
+    "wof:hierarchy":[
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "intersection_id":1108906957,
+            "locality_id":85977539,
+            "macrohood_id":907215781,
+            "microhood_id":907189665,
+            "neighbourhood_id":85868041,
+            "region_id":85688543
+        }
+    ],
+    "wof:id":1108906957,
+    "wof:lastmodified":1490900179,
+    "wof:name":"Mount Carmel Pl  & E 28th St",
+    "wof:parent_id":907189665,
+    "wof:placetype":"intersection",
+    "wof:repo":"whosonfirst-data-intersection-us-ny",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97820398956776,
+    40.73972455303344,
+    -73.97658990995289,
+    40.74151400578992
+],
+  "geometry": {"coordinates":[[[-73.97692733680243,40.73972455303344],[-73.97820175754532,40.74064074648064],[-73.97820398956776,40.74071365921366],[-73.97723909728612,40.74140344424779],[-73.97668260419074,40.74151400578992],[-73.97658990995289,40.74080209522202],[-73.97692733680243,40.73972455303344]]],"type":"Polygon"}
+}
