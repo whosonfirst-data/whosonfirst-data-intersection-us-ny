@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000045,
+    "geom:area":0.000013,
     "geom:area_square_m":425655.540897,
-    "geom:bbox":"-74.026017,40.7510610142,-74.0077832688,40.7597146621",
-    "geom:latitude":40.755336,
-    "geom:longitude":-74.017869,
+    "geom:bbox":"-74.0147075082,40.7510610142,-74.0077832688,40.7552612599",
+    "geom:latitude":40.7531,
+    "geom:longitude":-74.011474,
     "intersection:latitude":40.751794,
     "intersection:longitude":-74.008016,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.751794,
     "reversegeo:longitude":-74.008016,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85810589,
         102191575,
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818197,
-    "wof:geomhash":"8672a6b75ec6b2cd4ebfdc8754d12706",
+    "wof:geomhash":"4f3c88ea8efc7b5938972f868734c76c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108913039,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1496184988,
     "wof:name":"Lincoln Hwy  & W 26th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",
@@ -55,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -74.01470750819828,
     40.75106101418139,
     -74.00778326879946,
-    40.75971466213576
+    40.75526125988149
 ],
-  "geometry": {"coordinates":[[[-74.00821896452136,40.75106101418139],[-74.026017,40.75654863971118],[-74.026017,40.75971466213576],[-74.01025412328939,40.75380740931036],[-74.00778326879946,40.75207945293118],[-74.00821896452136,40.75106101418139]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.00821896452136,40.75106101418139],[-74.01470750819828,40.75306161126837],[-74.01413356911399,40.75526125988149],[-74.01025412328939,40.75380740931036],[-74.00778326879946,40.75207945293118],[-74.00821896452136,40.75106101418139]]]],"type":"MultiPolygon"}
 }

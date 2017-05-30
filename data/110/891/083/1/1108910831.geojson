@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000006,
+    "geom:area":0.000005,
     "geom:area_square_m":58446.514995,
-    "geom:bbox":"-74.026017,40.7327694497,-74.0099441692,40.734715519",
-    "geom:latitude":40.733674,
-    "geom:longitude":-74.015589,
+    "geom:bbox":"-74.0195284133,40.7327694497,-74.0099441692,40.7342156236",
+    "geom:latitude":40.73353,
+    "geom:longitude":-74.014118,
     "intersection:latitude":40.733165,
     "intersection:longitude":-74.010163,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.733165,
     "reversegeo:longitude":-74.010163,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818085,
-    "wof:geomhash":"72bdc41ea0d13643c82eb7691723c585",
+    "wof:geomhash":"1fa2cc559a4abc1eec6cfe7309895b4a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108910831,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1496184987,
     "wof:name":"W 10th St  & Lincoln Hwy",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",
@@ -55,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -74.01952841325505,
     40.73276944971126,
     -74.00994416916102,
-    40.7347155190339
+    40.73421562361208
 ],
-  "geometry": {"coordinates":[[[-74.0101085372668,40.73276944971126],[-74.026017,40.73467763559343],[-74.026017,40.7347155190339],[-74.01001509791136,40.73349721902106],[-74.00994416916102,40.73283703603728],[-74.0101085372668,40.73276944971126]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.0101085372668,40.73276944971126],[-74.01952841325505,40.73389934357178],[-74.01945106590316,40.73421562361208],[-74.01001509791136,40.73349721902106],[-74.00994416916102,40.73283703603728],[-74.0101085372668,40.73276944971126]]]],"type":"MultiPolygon"}
 }

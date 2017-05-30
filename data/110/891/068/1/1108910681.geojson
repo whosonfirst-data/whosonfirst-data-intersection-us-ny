@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.877828,
     "reversegeo:longitude":-73.909985,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85865673,
         102191575,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818078,
-    "wof:geomhash":"8f6606ea6bcb0bbcd6a9c56d18d83a3a",
+    "wof:geomhash":"d87c71dab9f5fe4a0f1515de63499ff7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1108910681,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1496184987,
     "wof:name":"W 228th St  & Adrian Ave",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",
@@ -58,5 +61,5 @@
     -73.90931930777421,
     40.877828
 ],
-  "geometry": {"coordinates":[[[-73.90992801774865,40.8771075994496],[-73.91047584646302,40.877828],[-73.90931930777421,40.877828],[-73.90973504102224,40.87718488052739],[-73.90992801774865,40.8771075994496]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.90992801774865,40.8771075994496],[-73.91047584646302,40.877828],[-73.90931930777421,40.877828],[-73.90973504102224,40.87718488052739],[-73.90992801774865,40.8771075994496]]]],"type":"MultiPolygon"}
 }

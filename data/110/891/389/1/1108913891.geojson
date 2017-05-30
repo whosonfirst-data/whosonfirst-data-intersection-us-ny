@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000013,
+    "geom:area":0.000008,
     "geom:area_square_m":121532.610897,
-    "geom:bbox":"-73.9366729169,40.8355127346,-73.9279862758,40.8391266563",
-    "geom:latitude":40.837142,
-    "geom:longitude":-73.932801,
+    "geom:bbox":"-73.9366729169,40.8357392381,-73.9317805578,40.8391266563",
+    "geom:latitude":40.837599,
+    "geom:longitude":-73.934075,
     "intersection:latitude":40.838078,
     "intersection:longitude":-73.936231,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.838078,
     "reversegeo:longitude":-73.936231,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85854625,
         102191575,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818239,
-    "wof:geomhash":"379d01f042c6e441ad2212e622b810e6",
+    "wof:geomhash":"913802d4c4818e3feb4f90e3bf7d4041",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1108913891,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1496184989,
     "wof:name":"W 167th St  & Edgecombe Ave",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",
@@ -54,9 +57,9 @@
 },
   "bbox": [
     -73.93667291690602,
-    40.83551273463405,
-    -73.92798627584021,
+    40.83573923809524,
+    -73.93178055779762,
     40.83912665628463
 ],
-  "geometry": {"coordinates":[[[-73.93263010195108,40.83551273463405],[-73.93667291690602,40.83820794460402],[-73.93537926561353,40.83912665628463],[-73.92798627584021,40.83623978167974],[-73.93263010195108,40.83551273463405]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.93296985714287,40.83573923809524],[-73.93667291690602,40.83820794460402],[-73.93537926561353,40.83912665628463],[-73.93178055779762,40.83772140367063],[-73.93296985714287,40.83573923809524]]]],"type":"MultiPolygon"}
 }
