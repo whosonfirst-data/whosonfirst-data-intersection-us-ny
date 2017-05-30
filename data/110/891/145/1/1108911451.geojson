@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000014,
+    "geom:area":0.000007,
     "geom:area_square_m":133489.266378,
-    "geom:bbox":"-73.9777896266,40.819892015,-73.9593635156,40.8357665328",
-    "geom:latitude":40.82557,
-    "geom:longitude":-73.965618,
+    "geom:bbox":"-73.9650463007,40.819892015,-73.9593635156,40.8252104994",
+    "geom:latitude":40.822546,
+    "geom:longitude":-73.962012,
     "intersection:latitude":40.820303,
     "intersection:longitude":-73.95966,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.820303,
     "reversegeo:longitude":-73.95966,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85869313,
         102191575,
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818123,
-    "wof:geomhash":"f12a42565279d804ef7d0dc61bab29e5",
+    "wof:geomhash":"de6cbf077735db87ee73aed010cb5033",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108911451,
-    "wof:lastmodified":1490900160,
+    "wof:lastmodified":1496169948,
     "wof:name":"W 133rd St  & Marginal St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",
@@ -55,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.97778962664559,
+    -73.96504630073032,
     40.81989201495023,
     -73.95936351555072,
-    40.83576653275416
+    40.82521049937767
 ],
-  "geometry": {"coordinates":[[[-73.95966766153903,40.81989201495023],[-73.95993156927976,40.82003517924296],[-73.97778962664559,40.83576653275416],[-73.95936351555072,40.82111201627394],[-73.95966766153903,40.81989201495023]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.95966766153903,40.81989201495023],[-73.95993156927976,40.82003517924296],[-73.96504630073032,40.82454080081844],[-73.96451681454162,40.82521049937767],[-73.95936351555072,40.82111201627394],[-73.95966766153903,40.81989201495023]]]],"type":"MultiPolygon"}
 }

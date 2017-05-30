@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000081,
+    "geom:area":0.000009,
     "geom:area_square_m":756813.836864,
-    "geom:bbox":"-74.026017,40.7610558221,-74.0015815567,40.7836046176",
-    "geom:latitude":40.773337,
-    "geom:longitude":-74.016687,
+    "geom:bbox":"-74.0079604751,40.7610558221,-74.0015815567,40.7666017388",
+    "geom:latitude":40.763925,
+    "geom:longitude":-74.004942,
     "intersection:latitude":40.761438,
     "intersection:longitude":-74.001848,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.761438,
     "reversegeo:longitude":-74.001848,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85868039,
         102191575,
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817928,
-    "wof:geomhash":"88940099f315fb21a4ec78823f3eea1c",
+    "wof:geomhash":"d5eefb87df6946a7c7a4d7517e3f984b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108907561,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1496169946,
     "wof:name":"Lincoln Hwy  & W 41st St",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",
@@ -55,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -74.0079604751389,
     40.76105582213169,
     -74.0015815567281,
-    40.78360461755441
+    40.76660173882316
 ],
-  "geometry": {"coordinates":[[[-74.00187056498234,40.76105582213169],[-74.00203511683024,40.76110408454518],[-74.026017,40.77796454173392],[-74.026017,40.78360461755441],[-74.0015815567281,40.76177357889502],[-74.00187056498234,40.76105582213169]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.00187056498234,40.76105582213169],[-74.00203511683024,40.76110408454518],[-74.0079604751389,40.76526990627752],[-74.00698570766532,40.76660173882316],[-74.0015815567281,40.76177357889502],[-74.00187056498234,40.76105582213169]]]],"type":"MultiPolygon"}
 }

@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000009,
+    "geom:area":0.000004,
     "geom:area_square_m":86214.998338,
-    "geom:bbox":"-73.9182994179,40.8761196199,-73.9115914753,40.877828",
-    "geom:latitude":40.877079,
-    "geom:longitude":-73.914684,
+    "geom:bbox":"-73.9149864601,40.8761196199,-73.9115914753,40.877828",
+    "geom:latitude":40.876879,
+    "geom:longitude":-73.913011,
     "intersection:latitude":40.876686,
     "intersection:longitude":-73.912717,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.876686,
     "reversegeo:longitude":-73.912717,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85865673,
         102191575,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818174,
-    "wof:geomhash":"7218bebd45add2fa27be2fa232ccd42f",
+    "wof:geomhash":"842765246e9194cc21ee44d1c25b90a7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1108912519,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1496169949,
     "wof:name":"Terrace View Ave  & Teunissen Pl",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",
@@ -53,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.91829941789052,
+    -73.91498646014989,
     40.87611961985345,
     -73.91159147530871,
     40.877828
 ],
-  "geometry": {"coordinates":[[[-73.91213584906995,40.87611961985345],[-73.91712286279423,40.87644671486],[-73.91767176534029,40.87687442645005],[-73.91829941789052,40.877828],[-73.91191802725119,40.877828],[-73.91159147530871,40.87679806786453],[-73.91213584906995,40.87611961985345]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.91213584906995,40.87611961985345],[-73.91498646014989,40.87630658959154],[-73.914905,40.876578],[-73.912795625,40.877828],[-73.91191802725119,40.877828],[-73.91159147530871,40.87679806786453],[-73.91213584906995,40.87611961985345]]]],"type":"MultiPolygon"}
 }

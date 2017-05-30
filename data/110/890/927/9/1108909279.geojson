@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000017,
+    "geom:area":0.000012,
     "geom:area_square_m":157806.899111,
-    "geom:bbox":"-74.0006734081,40.6945132621,-73.9936385379,40.7085252845",
-    "geom:latitude":40.703073,
-    "geom:longitude":-73.997385,
+    "geom:bbox":"-74.0006734081,40.7009653425,-73.9960999906,40.7085252845",
+    "geom:latitude":40.704803,
+    "geom:longitude":-73.998194,
     "intersection:latitude":40.707913,
     "intersection:longitude":-74.000131,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.707913,
     "reversegeo:longitude":-74.000131,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         907215463,
         85865711,
@@ -31,7 +34,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818008,
-    "wof:geomhash":"b1f0bb8f81a1cdfe4a61e89d9f41b480",
+    "wof:geomhash":"0501bf81bc8194700c52bd7a130db66e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108909279,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1496169947,
     "wof:name":"Dover St  & South St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",
@@ -58,9 +61,9 @@
 },
   "bbox": [
     -74.00067340811884,
-    40.69451326206883,
-    -73.99363853793096,
+    40.70096534252425,
+    -73.99609999060995,
     40.70852528451505
 ],
-  "geometry": {"coordinates":[[[-73.99363853793096,40.69451326206883],[-74.00067340811884,40.70783710144757],[-73.99981951524761,40.70852528451505],[-73.99686140442054,40.70464227103601],[-73.99363853793096,40.69451326206883]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.99704517975209,40.70096534252425],[-74.00067340811884,40.70783710144757],[-73.99981951524761,40.70852528451505],[-73.99686140442054,40.70464227103601],[-73.99609999060995,40.70224925620272],[-73.99704517975209,40.70096534252425]]]],"type":"MultiPolygon"}
 }

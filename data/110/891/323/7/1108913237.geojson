@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":28684.844217,
-    "geom:bbox":"-73.9331018221,40.8037623634,-73.9292965927,40.8061395781",
-    "geom:latitude":40.804935,
-    "geom:longitude":-73.931352,
+    "geom:bbox":"-73.9331018221,40.8037623634,-73.9297404213,40.8059302196",
+    "geom:latitude":40.804903,
+    "geom:longitude":-73.931408,
     "intersection:latitude":40.804671,
     "intersection:longitude":-73.932184,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.804671,
     "reversegeo:longitude":-73.932184,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85865689,
         102191575,
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818206,
-    "wof:geomhash":"43cc5064a12729ddcf3e4eb2ff94c5a1",
+    "wof:geomhash":"536c5c1d10a237035001c8927ad0231c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108913237,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1496169949,
     "wof:name":"2nd Ave  & E 128th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",
@@ -57,8 +60,8 @@
   "bbox": [
     -73.9331018220725,
     40.80376236338927,
-    -73.92929659266389,
-    40.80613957813619
+    -73.92974042125702,
+    40.805930219647145
 ],
-  "geometry": {"coordinates":[[[-73.93165728750293,40.80376236338927],[-73.9331018220725,40.80490416546656],[-73.92929659266389,40.80613957813619],[-73.93165728750293,40.80376236338927]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.93165728750293,40.80376236338927],[-73.9331018220725,40.80490416546656],[-73.92994144365096,40.80593021964714],[-73.92987599999999,40.805853],[-73.92974042125702,40.80569264367466],[-73.93165728750293,40.80376236338927]]]],"type":"MultiPolygon"}
 }
