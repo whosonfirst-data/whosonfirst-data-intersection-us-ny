@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9856413053,40.7048494548,-73.9819917123,40.7106879665",
     "geom:latitude":40.707545,
     "geom:longitude":-73.983987,
-    "intersection:latitude":40.71056,
-    "intersection:longitude":-73.984674,
+    "intersection:latitude":40.707545,
+    "intersection:longitude":-73.983987,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.71056,
-    "reversegeo:longitude":-73.984674,
+    "reversegeo:latitude":40.707545,
+    "reversegeo:longitude":-73.983987,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108913109,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"F D R Dr  & Montgomery St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

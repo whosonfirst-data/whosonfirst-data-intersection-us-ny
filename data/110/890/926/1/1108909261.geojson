@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9785300609,40.7087662786,-73.9696446669,40.7140657424",
     "geom:latitude":40.711606,
     "geom:longitude":-73.974109,
-    "intersection:latitude":40.713254,
-    "intersection:longitude":-73.977587,
+    "intersection:latitude":40.711606,
+    "intersection:longitude":-73.974109,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.713254,
-    "reversegeo:longitude":-73.977587,
+    "reversegeo:latitude":40.711606,
+    "reversegeo:longitude":-73.974109,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818006,
-    "wof:geomhash":"3e15e72577a1f6beafc21ea338b1b08d",
+    "wof:geomhash":"6418517131a31fa55b6326941ca0c132",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108909261,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Grand St  & F D R Dr",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
 },
   "bbox": [
     -73.97853006092714,
-    40.708766278587085,
+    40.70876627858708,
     -73.96964466693932,
     40.71406574237493
 ],

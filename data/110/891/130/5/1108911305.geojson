@@ -9,13 +9,13 @@
     "geom:bbox":"-73.912001632,40.8697116784,-73.9083525,40.8729474456",
     "geom:latitude":40.871591,
     "geom:longitude":-73.910146,
-    "intersection:latitude":40.871655,
-    "intersection:longitude":-73.911227,
+    "intersection:latitude":40.871591,
+    "intersection:longitude":-73.910146,
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.871655,
-    "reversegeo:longitude":-73.911227,
+    "reversegeo:latitude":40.871591,
+    "reversegeo:longitude":-73.910146,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911305,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"9th Ave  & W 220th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

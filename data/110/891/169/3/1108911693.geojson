@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9724345852,40.7380392789,-73.9625554701,40.744474779",
     "geom:latitude":40.741205,
     "geom:longitude":-73.967164,
-    "intersection:latitude":40.743884,
-    "intersection:longitude":-73.971653,
+    "intersection:latitude":40.741205,
+    "intersection:longitude":-73.967164,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.743884,
-    "reversegeo:longitude":-73.971653,
+    "reversegeo:latitude":40.741205,
+    "reversegeo:longitude":-73.967164,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818134,
-    "wof:geomhash":"6a3407ab26dc61693982f6b7bb83adab",
+    "wof:geomhash":"3b7d8b4376a221e1dc40968a1cf5a99a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911693,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"F D R Dr  & E 35th St",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
 },
   "bbox": [
     -73.97243458524842,
-    40.738039278912346,
+    40.73803927891235,
     -73.96255547010904,
     40.74447477897077
 ],

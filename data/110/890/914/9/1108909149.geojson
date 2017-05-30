@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0211712123,40.7225366265,-74.0110032722,40.7262084924",
     "geom:latitude":40.724274,
     "geom:longitude":-74.016055,
-    "intersection:latitude":40.722981,
-    "intersection:longitude":-74.011597,
+    "intersection:latitude":40.724274,
+    "intersection:longitude":-74.016055,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.722981,
-    "reversegeo:longitude":-74.011597,
+    "reversegeo:latitude":40.724274,
+    "reversegeo:longitude":-74.016055,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108909149,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Vestry St  & West St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

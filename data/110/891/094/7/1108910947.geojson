@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9841091808,40.794333866,-73.9751007018,40.7994423299",
     "geom:latitude":40.796501,
     "geom:longitude":-73.979959,
-    "intersection:latitude":40.794828,
-    "intersection:longitude":-73.976233,
+    "intersection:latitude":40.796501,
+    "intersection:longitude":-73.979959,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.794828,
-    "reversegeo:longitude":-73.976233,
+    "reversegeo:latitude":40.796501,
+    "reversegeo:longitude":-73.979959,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108910947,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Riverside Dr  & W 94th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

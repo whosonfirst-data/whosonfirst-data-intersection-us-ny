@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0171854602,40.7397579654,-74.0088029566,40.7440084288",
     "geom:latitude":40.74189,
     "geom:longitude":-74.012564,
-    "intersection:latitude":40.740467,
-    "intersection:longitude":-74.009417,
+    "intersection:latitude":40.74189,
+    "intersection:longitude":-74.012564,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.740467,
-    "reversegeo:longitude":-74.009417,
+    "reversegeo:latitude":40.74189,
+    "reversegeo:longitude":-74.012564,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -34,7 +34,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818139,
-    "wof:geomhash":"6d388456ede81789a2948cfcfaac30d5",
+    "wof:geomhash":"02534b6a12e2303a638b7acd8c51f7e9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108911815,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & Bloomfield St",
     "wof:parent_id":907214383,
     "wof:placetype":"intersection",
@@ -63,7 +63,7 @@
     -74.01718546022569,
     40.73975796538334,
     -74.00880295659064,
-    40.744008428813494
+    40.74400842881349
 ],
   "geometry": {"coordinates":[[[[-74.00886433221183,40.73975796538334],[-74.00981108281998,40.73998703199784],[-74.01718546022569,40.74345931800904],[-74.017138,40.743653],[-74.01705101742117,40.74400842881349],[-74.0102727069973,40.74179996565861],[-74.00955326791836,40.74129385718592],[-74.00880295659064,40.7398347411146],[-74.00886433221183,40.73975796538334]]]],"type":"MultiPolygon"}
 }

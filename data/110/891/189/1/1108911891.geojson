@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9450329717,40.772894482,-73.9384187735,40.7772444242",
     "geom:latitude":40.774875,
     "geom:longitude":-73.941891,
-    "intersection:latitude":40.776235,
-    "intersection:longitude":-73.943819,
+    "intersection:latitude":40.774875,
+    "intersection:longitude":-73.941891,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.776235,
-    "reversegeo:longitude":-73.943819,
+    "reversegeo:latitude":40.774875,
+    "reversegeo:longitude":-73.941891,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911891,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"E End Ave  & E 88th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

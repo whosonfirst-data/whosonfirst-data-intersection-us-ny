@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0203883976,40.7294078908,-74.0098761047,40.7321844185",
     "geom:latitude":40.730673,
     "geom:longitude":-74.015785,
-    "intersection:latitude":40.729828,
-    "intersection:longitude":-74.010591,
+    "intersection:latitude":40.730673,
+    "intersection:longitude":-74.015785,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.729828,
-    "reversegeo:longitude":-74.010591,
+    "reversegeo:latitude":40.730673,
+    "reversegeo:longitude":-74.015785,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108906995,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185342,
     "wof:name":"Lincoln Hwy  & Clarkson St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

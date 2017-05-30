@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9834664315,40.7946188461,-73.9748735193,40.8027133862",
     "geom:latitude":40.798876,
     "geom:longitude":-73.979424,
-    "intersection:latitude":40.795494,
-    "intersection:longitude":-73.975849,
+    "intersection:latitude":40.798876,
+    "intersection:longitude":-73.979424,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.795494,
-    "reversegeo:longitude":-73.975849,
+    "reversegeo:latitude":40.798876,
+    "reversegeo:longitude":-73.979424,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108910657,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Riverside Dr  & W 95th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9976533146,40.7022492562,-73.9943600825,40.7097187205",
     "geom:latitude":40.70644,
     "geom:longitude":-73.995941,
-    "intersection:latitude":40.709201,
-    "intersection:longitude":-73.996083,
+    "intersection:latitude":40.70644,
+    "intersection:longitude":-73.995941,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.709201,
-    "reversegeo:longitude":-73.996083,
+    "reversegeo:latitude":40.70644,
+    "reversegeo:longitude":-73.995941,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108913605,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"Catherine Slip  & South St",
     "wof:parent_id":85869743,
     "wof:placetype":"intersection",

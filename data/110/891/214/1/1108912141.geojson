@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0051575704,40.763946768,-73.9984325532,40.7697431146",
     "geom:latitude":40.766661,
     "geom:longitude":-74.001562,
-    "intersection:latitude":40.764335,
-    "intersection:longitude":-73.998706,
+    "intersection:latitude":40.766661,
+    "intersection:longitude":-74.001562,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.764335,
-    "reversegeo:longitude":-73.998706,
+    "reversegeo:latitude":40.766661,
+    "reversegeo:longitude":-74.001562,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -37,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818153,
-    "wof:geomhash":"131b38ff404aa5c8acc6708942ea480d",
+    "wof:geomhash":"f3eb548139cc37b2627adf1caad2f513",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108912141,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & W 46th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",
@@ -74,7 +74,7 @@
     -74.0051575704256,
     40.76394676797499,
     -73.99843255324195,
-    40.769743114565856
+    40.76974311456586
 ],
   "geometry": {"coordinates":[[[[-73.99874395658215,40.76394676797499],[-73.9999089725019,40.76435574559159],[-74.0051575704256,40.76909915478839],[-74.005083,40.769201],[-74.00468906689392,40.76974311456586],[-73.99924852627579,40.7657010690784],[-73.99843255324195,40.76467337576874],[-73.99874395658215,40.76394676797499]]]],"type":"MultiPolygon"}
 }

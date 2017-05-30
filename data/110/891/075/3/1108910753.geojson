@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9180701099,40.8617561827,-73.912700044,40.8653470526",
     "geom:latitude":40.863898,
     "geom:longitude":-73.915365,
-    "intersection:latitude":40.863691,
-    "intersection:longitude":-73.917063,
+    "intersection:latitude":40.863898,
+    "intersection:longitude":-73.915365,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.863691,
-    "reversegeo:longitude":-73.917063,
+    "reversegeo:latitude":40.863898,
+    "reversegeo:longitude":-73.915365,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818082,
-    "wof:geomhash":"be8eff7f1f075676532ba62eae7abb80",
+    "wof:geomhash":"75d215b2a5923d465b74469fd5dc9bd8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108910753,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"9th Ave  & W 207th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",
@@ -57,7 +57,7 @@
 },
   "bbox": [
     -73.91807010993331,
-    40.861756182717116,
+    40.86175618271712,
     -73.9127000440141,
     40.86534705260767
 ],

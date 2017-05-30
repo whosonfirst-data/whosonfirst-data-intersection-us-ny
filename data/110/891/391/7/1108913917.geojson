@@ -9,13 +9,13 @@
     "geom:bbox":"-74.01891599,40.7355874109,-74.0091036089,40.7370988337",
     "geom:latitude":40.7364,
     "geom:longitude":-74.013905,
-    "intersection:latitude":40.736004,
-    "intersection:longitude":-74.00993,
+    "intersection:latitude":40.7364,
+    "intersection:longitude":-74.013905,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.736004,
-    "reversegeo:longitude":-74.00993,
+    "reversegeo:latitude":40.7364,
+    "reversegeo:longitude":-74.013905,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108913917,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"Lincoln Hwy  & Bank St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

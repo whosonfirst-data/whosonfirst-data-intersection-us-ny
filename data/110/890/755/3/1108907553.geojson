@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0091197668,40.6934897052,-74.0007776133,40.7037741582",
     "geom:latitude":40.698564,
     "geom:longitude":-74.005646,
-    "intersection:latitude":40.703252,
-    "intersection:longitude":-74.007873,
+    "intersection:latitude":40.698564,
+    "intersection:longitude":-74.005646,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.703252,
-    "reversegeo:longitude":-74.007873,
+    "reversegeo:latitude":40.698564,
+    "reversegeo:longitude":-74.005646,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817928,
-    "wof:geomhash":"c4c077035a612b44f66f5df1f3d46921",
+    "wof:geomhash":"2a66b869efdee14f476a49bc09c2bae7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907553,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"South St  & Old Slip",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

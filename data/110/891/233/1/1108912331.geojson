@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9750186538,40.7293519462,-73.9620279779,40.7344714751",
     "geom:latitude":40.731916,
     "geom:longitude":-73.968149,
-    "intersection:latitude":40.730968,
-    "intersection:longitude":-73.973988,
+    "intersection:latitude":40.731916,
+    "intersection:longitude":-73.968149,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.730968,
-    "reversegeo:longitude":-73.973988,
+    "reversegeo:latitude":40.731916,
+    "reversegeo:longitude":-73.968149,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818161,
-    "wof:geomhash":"4b0c220d261fe82b3d4fe3a8f931e987",
+    "wof:geomhash":"08eed5df834a194a268d0f785bbdab43",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912331,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Ave C  & Stuyvesant Loop E",
     "wof:parent_id":85851295,
     "wof:placetype":"intersection",

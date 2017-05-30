@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9132198475,40.8680415458,-73.909529309,40.8711976126",
     "geom:latitude":40.869666,
     "geom:longitude":-73.911337,
-    "intersection:latitude":40.870388,
-    "intersection:longitude":-73.912155,
+    "intersection:latitude":40.869666,
+    "intersection:longitude":-73.911337,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.870388,
-    "reversegeo:longitude":-73.912155,
+    "reversegeo:latitude":40.869666,
+    "reversegeo:longitude":-73.911337,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108909813,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"9th Ave  & W 218th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

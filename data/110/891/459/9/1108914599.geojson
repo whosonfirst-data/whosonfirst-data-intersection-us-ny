@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9357549663,40.8127893173,-73.9321596154,40.8147780738",
     "geom:latitude":40.813551,
     "geom:longitude":-73.934235,
-    "intersection:latitude":40.81405,
-    "intersection:longitude":-73.934823,
+    "intersection:latitude":40.813551,
+    "intersection:longitude":-73.934235,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.81405,
-    "reversegeo:longitude":-73.934823,
+    "reversegeo:latitude":40.813551,
+    "reversegeo:longitude":-73.934235,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108914599,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"Madison Ave  & Harlem River Dr",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.954363693,40.7576130831,-73.9476975762,40.7629152984",
     "geom:latitude":40.760621,
     "geom:longitude":-73.950738,
-    "intersection:latitude":40.76036,
-    "intersection:longitude":-73.951834,
+    "intersection:latitude":40.760621,
+    "intersection:longitude":-73.950738,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.76036,
-    "reversegeo:longitude":-73.951834,
+    "reversegeo:latitude":40.760621,
+    "reversegeo:longitude":-73.950738,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817954,
-    "wof:geomhash":"a94e14a33aaa1bf9a8238d14ab4856cf",
+    "wof:geomhash":"0c79bd3cfa4841c2a35cc5c8f9a77fe0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108908185,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"East Rd  & West Rd",
     "wof:parent_id":85845835,
     "wof:placetype":"intersection",
@@ -57,7 +57,7 @@
 },
   "bbox": [
     -73.95436369298578,
-    40.757613083069785,
+    40.75761308306978,
     -73.94769757615794,
     40.76291529839284
 ],

@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0133185984,40.686263337,-74.0009554119,40.6948584186",
     "geom:latitude":40.690702,
     "geom:longitude":-74.007202,
-    "intersection:latitude":40.691049,
-    "intersection:longitude":-74.012669,
+    "intersection:latitude":40.690702,
+    "intersection:longitude":-74.007202,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.691049,
-    "reversegeo:longitude":-74.012669,
+    "reversegeo:latitude":40.690702,
+    "reversegeo:longitude":-74.007202,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911801,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Kimmel Rd  & Andes Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9212954865,40.856098005,-73.917925088,40.8607729082",
     "geom:latitude":40.858683,
     "geom:longitude":-73.919891,
-    "intersection:latitude":40.859898,
-    "intersection:longitude":-73.919846,
+    "intersection:latitude":40.858683,
+    "intersection:longitude":-73.919891,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.859898,
-    "reversegeo:longitude":-73.919846,
+    "reversegeo:latitude":40.858683,
+    "reversegeo:longitude":-73.919891,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911715,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"9th Ave  & W 201st St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

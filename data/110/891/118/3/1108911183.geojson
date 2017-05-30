@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9283131304,40.846866184,-73.9246362587,40.8513160409",
     "geom:latitude":40.849293,
     "geom:longitude":-73.926808,
-    "intersection:latitude":40.850694,
-    "intersection:longitude":-73.927477,
+    "intersection:latitude":40.849293,
+    "intersection:longitude":-73.926808,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.850694,
-    "reversegeo:longitude":-73.927477,
+    "reversegeo:latitude":40.849293,
+    "reversegeo:longitude":-73.926808,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911183,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Laurel Hill Ter  & W 186th St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

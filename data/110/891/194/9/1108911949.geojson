@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9199131776,40.8595199367,-73.9167992901,40.8620074386",
     "geom:latitude":40.86076,
     "geom:longitude":-73.918391,
-    "intersection:latitude":40.861142,
-    "intersection:longitude":-73.918927,
+    "intersection:latitude":40.86076,
+    "intersection:longitude":-73.918391,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.861142,
-    "reversegeo:longitude":-73.918927,
+    "reversegeo:latitude":40.86076,
+    "reversegeo:longitude":-73.918391,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818145,
-    "wof:geomhash":"f4598ee1d388cb06b1d9467e121463b8",
+    "wof:geomhash":"20ac8714e86fd5d1c09886059a77ddba",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911949,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"9th Ave  & W 203rd St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

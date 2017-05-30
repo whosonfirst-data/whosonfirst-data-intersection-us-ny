@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9145752263,40.8644044347,-73.9104862447,40.8696709035",
     "geom:latitude":40.867021,
     "geom:longitude":-73.912881,
-    "intersection:latitude":40.868777,
-    "intersection:longitude":-73.913352,
+    "intersection:latitude":40.867021,
+    "intersection:longitude":-73.912881,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.868777,
-    "reversegeo:longitude":-73.913352,
+    "reversegeo:latitude":40.867021,
+    "reversegeo:longitude":-73.912881,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818056,
-    "wof:geomhash":"fafaeac9c006e36f8cafde050cc9da39",
+    "wof:geomhash":"0f7a99754a691b551cb8fa86acd3dac3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108910207,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"9th Ave  & W 215th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",
@@ -57,7 +57,7 @@
 },
   "bbox": [
     -73.91457522626948,
-    40.864404434690584,
+    40.86440443469058,
     -73.91048624471294,
     40.86967090345767
 ],

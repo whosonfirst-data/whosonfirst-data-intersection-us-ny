@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0163905299,40.7448836508,-74.0071349821,40.7475933351",
     "geom:latitude":40.746376,
     "geom:longitude":-74.012145,
-    "intersection:latitude":40.745415,
-    "intersection:longitude":-74.008214,
+    "intersection:latitude":40.746376,
+    "intersection:longitude":-74.012145,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.745415,
-    "reversegeo:longitude":-74.008214,
+    "reversegeo:latitude":40.746376,
+    "reversegeo:longitude":-74.012145,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817910,
-    "wof:geomhash":"807b1fc1b3e45c134f6a93ef722e2be3",
+    "wof:geomhash":"35448c260861101c2de9fcb2298ad23f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907255,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Lincoln Hwy  & W 18th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

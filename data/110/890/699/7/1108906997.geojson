@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9496429738,40.7644627064,-73.9428069755,40.7680659556",
     "geom:latitude":40.765907,
     "geom:longitude":-73.94624,
-    "intersection:latitude":40.765338,
-    "intersection:longitude":-73.946621,
+    "intersection:latitude":40.765907,
+    "intersection:longitude":-73.94624,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.765338,
-    "reversegeo:longitude":-73.946621,
+    "reversegeo:latitude":40.765907,
+    "reversegeo:longitude":-73.94624,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817899,
-    "wof:geomhash":"8dd456b0c92e78b3731a85764cfea7fb",
+    "wof:geomhash":"c316656952ec7114847f201c22e195f4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108906997,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185342,
     "wof:name":"Main St  & River Rd",
     "wof:parent_id":85845835,
     "wof:placetype":"intersection",
@@ -57,7 +57,7 @@
 },
   "bbox": [
     -73.94964297380075,
-    40.764462706392415,
+    40.76446270639241,
     -73.9428069755398,
     40.76806595561239
 ],

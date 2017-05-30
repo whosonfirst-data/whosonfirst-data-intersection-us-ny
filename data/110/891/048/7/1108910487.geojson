@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0048296655,40.6970311725,-73.9990416396,40.7059347607",
     "geom:latitude":40.701556,
     "geom:longitude":-74.001882,
-    "intersection:latitude":40.705429,
-    "intersection:longitude":-74.004439,
+    "intersection:latitude":40.701556,
+    "intersection:longitude":-74.001882,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.705429,
-    "reversegeo:longitude":-74.004439,
+    "reversegeo:latitude":40.701556,
+    "reversegeo:longitude":-74.001882,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108910487,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"South St  & Fletcher St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

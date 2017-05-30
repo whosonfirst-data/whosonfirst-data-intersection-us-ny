@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9396705822,40.7778779598,-73.9231682593,40.7887991939",
     "geom:latitude":40.783155,
     "geom:longitude":-73.930862,
-    "intersection:latitude":40.787951,
-    "intersection:longitude":-73.938184,
+    "intersection:latitude":40.783155,
+    "intersection:longitude":-73.930862,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.787951,
-    "reversegeo:longitude":-73.938184,
+    "reversegeo:latitude":40.783155,
+    "reversegeo:longitude":-73.930862,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911803,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"F D R Dr  & E 105th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

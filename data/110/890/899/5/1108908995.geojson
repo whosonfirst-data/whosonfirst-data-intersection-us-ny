@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9194566859,40.8600847099,-73.9162560657,40.8626423548",
     "geom:latitude":40.861357,
     "geom:longitude":-73.917897,
-    "intersection:latitude":40.861775,
-    "intersection:longitude":-73.918469,
+    "intersection:latitude":40.861357,
+    "intersection:longitude":-73.917897,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.861775,
-    "reversegeo:longitude":-73.918469,
+    "reversegeo:latitude":40.861357,
+    "reversegeo:longitude":-73.917897,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817990,
-    "wof:geomhash":"61157d1ca932b22c24c17f2804decd14",
+    "wof:geomhash":"36d4d2ded07edf2e57c9938e812fb851",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108908995,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"9th Ave  & W 204th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",
@@ -57,7 +57,7 @@
 },
   "bbox": [
     -73.91945668593782,
-    40.860084709899176,
+    40.86008470989918,
     -73.91625606570365,
     40.86264235484148
 ],

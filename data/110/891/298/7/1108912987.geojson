@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9697220808,40.7405512927,-73.9604172264,40.7481171679",
     "geom:latitude":40.74467,
     "geom:longitude":-73.964611,
-    "intersection:latitude":40.747515,
-    "intersection:longitude":-73.968795,
+    "intersection:latitude":40.74467,
+    "intersection:longitude":-73.964611,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.747515,
-    "reversegeo:longitude":-73.968795,
+    "reversegeo:latitude":40.74467,
+    "reversegeo:longitude":-73.964611,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818195,
-    "wof:geomhash":"255d1b831e41b9a08d3bb3f548637359",
+    "wof:geomhash":"e729ee8e13a41704cb16ce96e0767185",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912987,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"E 41st St  & F D R Dr",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

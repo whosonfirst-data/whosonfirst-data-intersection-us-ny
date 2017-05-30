@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9753544078,40.7140329238,-73.9654994851,40.7195960733",
     "geom:latitude":40.717463,
     "geom:longitude":-73.970576,
-    "intersection:latitude":40.718855,
-    "intersection:longitude":-73.974983,
+    "intersection:latitude":40.717463,
+    "intersection:longitude":-73.970576,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.718855,
-    "reversegeo:longitude":-73.974983,
+    "reversegeo:latitude":40.717463,
+    "reversegeo:longitude":-73.970576,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108912759,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"E Houston St  & F D R Dr",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

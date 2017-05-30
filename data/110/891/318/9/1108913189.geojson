@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9720886485,40.8079438925,-73.9650639693,40.8147808668",
     "geom:latitude":40.811017,
     "geom:longitude":-73.96779,
-    "intersection:latitude":40.808806,
-    "intersection:longitude":-73.9659,
+    "intersection:latitude":40.811017,
+    "intersection:longitude":-73.96779,
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.808806,
-    "reversegeo:longitude":-73.9659,
+    "reversegeo:latitude":40.811017,
+    "reversegeo:longitude":-73.96779,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108913189,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"Riverside Dr  & W 116th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

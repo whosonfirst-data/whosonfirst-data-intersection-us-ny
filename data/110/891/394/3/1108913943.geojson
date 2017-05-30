@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9163040968,40.873854841,-73.9121912885,40.875634",
     "geom:latitude":40.875005,
     "geom:longitude":-73.914285,
-    "intersection:latitude":40.875634,
-    "intersection:longitude":-73.912786,
+    "intersection:latitude":40.875005,
+    "intersection:longitude":-73.914285,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.875634,
-    "reversegeo:longitude":-73.912786,
+    "reversegeo:latitude":40.875005,
+    "reversegeo:longitude":-73.914285,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108913943,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"Terrace View Ave  & W 225th St",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

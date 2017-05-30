@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0246333704,40.7077181524,-74.0168691569,40.7124547022",
     "geom:latitude":40.709833,
     "geom:longitude":-74.021275,
-    "intersection:latitude":40.708457,
-    "intersection:longitude":-74.017398,
+    "intersection:latitude":40.709833,
+    "intersection:longitude":-74.021275,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.708457,
-    "reversegeo:longitude":-74.017398,
+    "reversegeo:latitude":40.709833,
+    "reversegeo:longitude":-74.021275,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818189,
-    "wof:geomhash":"4d346d575c25551bd8cc90bf9681241d",
+    "wof:geomhash":"d8a2ada721cdff5c712dea40436d7746",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912881,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"S End Ave  & W Thames St",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

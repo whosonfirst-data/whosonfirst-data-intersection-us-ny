@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9884674125,40.7885367542,-73.9795571334,40.7943280534",
     "geom:latitude":40.791295,
     "geom:longitude":-73.984703,
-    "intersection:latitude":40.789254,
-    "intersection:longitude":-73.980853,
+    "intersection:latitude":40.791295,
+    "intersection:longitude":-73.984703,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.789254,
-    "reversegeo:longitude":-73.980853,
+    "reversegeo:latitude":40.791295,
+    "reversegeo:longitude":-73.984703,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818126,
-    "wof:geomhash":"106c1520bcf7df1edf47b6f671c5d62d",
+    "wof:geomhash":"86d6759a394f29075cc5897df1836a11",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911479,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Riverside Dr  & W 85th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

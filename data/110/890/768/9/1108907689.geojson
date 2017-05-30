@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9661222516,40.8183311857,-73.9605471725,40.8238428643",
     "geom:latitude":40.820985,
     "geom:longitude":-73.963269,
-    "intersection:latitude":40.818736,
-    "intersection:longitude":-73.961086,
+    "intersection:latitude":40.820985,
+    "intersection:longitude":-73.963269,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.818736,
-    "reversegeo:longitude":-73.961086,
+    "reversegeo:latitude":40.820985,
+    "reversegeo:longitude":-73.963269,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817934,
-    "wof:geomhash":"6de6683a8e9c6e4406613761f08a927a",
+    "wof:geomhash":"737ab3cf2a8f9a27d437420d9bda7d99",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907689,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"W 125th St  & Marginal St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -73.9661222515924,
     40.81833118574784,
     -73.96054717250543,
-    40.823842864342076
+    40.82384286434208
 ],
   "geometry": {"coordinates":[[[[-73.96134988429678,40.81833118574784],[-73.96151608651843,40.81844487015148],[-73.9661222515924,40.82318024041686],[-73.965986,40.823352],[-73.965706,40.823706],[-73.9655978790733,40.82384286434208],[-73.96054717250543,40.81916234008286],[-73.96134988429678,40.81833118574784]]]],"type":"MultiPolygon"}
 }

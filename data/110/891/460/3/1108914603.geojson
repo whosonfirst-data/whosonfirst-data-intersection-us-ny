@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0155451252,40.6863943012,-74.0086435207,40.6902845519",
     "geom:latitude":40.688243,
     "geom:longitude":-74.013019,
-    "intersection:latitude":40.688023,
-    "intersection:longitude":-74.014578,
+    "intersection:latitude":40.688243,
+    "intersection:longitude":-74.013019,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.688023,
-    "reversegeo:longitude":-74.014578,
+    "reversegeo:latitude":40.688243,
+    "reversegeo:longitude":-74.013019,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108914603,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"Barry Rd  & Evans Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

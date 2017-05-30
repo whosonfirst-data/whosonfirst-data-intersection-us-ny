@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0170510174,40.7417999657,-74.0083461151,40.7448558739",
     "geom:latitude":40.743258,
     "geom:longitude":-74.012557,
-    "intersection:latitude":40.742373,
-    "intersection:longitude":-74.008796,
+    "intersection:latitude":40.743258,
+    "intersection:longitude":-74.012557,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.742373,
-    "reversegeo:longitude":-74.008796,
+    "reversegeo:latitude":40.743258,
+    "reversegeo:longitude":-74.012557,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818073,
-    "wof:geomhash":"9870ba990e567be071da2b7d6d3d0c41",
+    "wof:geomhash":"12bd2f93958276d4e4002b8d5327522d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108910563,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & W 14th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -74.01705101742117,
     40.74179996565861,
     -74.00834611505455,
-    40.744855873937155
+    40.74485587393715
 ],
   "geometry": {"coordinates":[[[[-74.0102727069973,40.74179996565861],[-74.01705101742117,40.74400842881349],[-74.017022,40.744127],[-74.01684389733363,40.74485587393715],[-74.01154660720903,40.74378016655597],[-74.00834611505455,40.74266538838979],[-74.00862995673317,40.74191856939533],[-74.0102727069973,40.74179996565861]]]],"type":"MultiPolygon"}
 }

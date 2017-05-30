@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9358828008,40.8098791763,-73.9321430681,40.8128369586",
     "geom:latitude":40.811379,
     "geom:longitude":-73.933854,
-    "intersection:latitude":40.811537,
-    "intersection:longitude":-73.93478,
+    "intersection:latitude":40.811379,
+    "intersection:longitude":-73.933854,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.811537,
-    "reversegeo:longitude":-73.93478,
+    "reversegeo:latitude":40.811379,
+    "reversegeo:longitude":-73.933854,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818150,
-    "wof:geomhash":"3ec009034f804555b4005d4f86bce48f",
+    "wof:geomhash":"ed4d5dd6ed3a3abca48a8e1358ed082b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912067,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"E 135th St  & Harlem River Dr",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9259547685,40.8528019131,-73.9207589739,40.8587222166",
     "geom:latitude":40.855743,
     "geom:longitude":-73.923622,
-    "intersection:latitude":40.856642,
-    "intersection:longitude":-73.924692,
+    "intersection:latitude":40.855743,
+    "intersection:longitude":-73.923622,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.856642,
-    "reversegeo:longitude":-73.924692,
+    "reversegeo:latitude":40.855743,
+    "reversegeo:longitude":-73.923622,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817920,
-    "wof:geomhash":"3780de481cb4d58093e4641de0672651",
+    "wof:geomhash":"11c224a3e96a58a5c4b344292a77bf45",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907377,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Amsterdam Ave  & Fort George Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

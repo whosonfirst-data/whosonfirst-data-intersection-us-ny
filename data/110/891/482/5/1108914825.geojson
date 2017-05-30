@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9590848099,40.8348017127,-73.9482329441,40.8464972799",
     "geom:latitude":40.839481,
     "geom:longitude":-73.953374,
-    "intersection:latitude":40.836616,
-    "intersection:longitude":-73.949055,
+    "intersection:latitude":40.839481,
+    "intersection:longitude":-73.953374,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.836616,
-    "reversegeo:longitude":-73.949055,
+    "reversegeo:latitude":40.839481,
+    "reversegeo:longitude":-73.953374,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818295,
-    "wof:geomhash":"a669e31d96ae45b3b43206f118d42ac1",
+    "wof:geomhash":"e208ce6d619f7399327db2c1eeec2359",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108914825,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"W 158th St Exn  & Henry Hudson Pkwy",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

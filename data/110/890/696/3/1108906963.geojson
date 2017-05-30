@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0028586964,40.6988585467,-73.9977141573,40.7073752079",
     "geom:latitude":40.703262,
     "geom:longitude":-74.000228,
-    "intersection:latitude":40.706708,
-    "intersection:longitude":-74.002329,
+    "intersection:latitude":40.703262,
+    "intersection:longitude":-74.000228,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.706708,
-    "reversegeo:longitude":-74.002329,
+    "reversegeo:latitude":40.703262,
+    "reversegeo:longitude":-74.000228,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108906963,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185342,
     "wof:name":"South St  & Beekman St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

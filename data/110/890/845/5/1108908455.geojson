@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9320927493,40.8005748924,-73.9249617971,40.8030865941",
     "geom:latitude":40.80183,
     "geom:longitude":-73.928704,
-    "intersection:latitude":40.80249,
-    "intersection:longitude":-73.930894,
+    "intersection:latitude":40.80183,
+    "intersection:longitude":-73.928704,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.80249,
-    "reversegeo:longitude":-73.930894,
+    "reversegeo:latitude":40.80183,
+    "reversegeo:longitude":-73.928704,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108908455,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"1st Ave  & E 126th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

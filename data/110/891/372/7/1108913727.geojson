@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9354806975,40.8407317406,-73.9310644782,40.8436942902",
     "geom:latitude":40.842204,
     "geom:longitude":-73.933622,
-    "intersection:latitude":40.842958,
-    "intersection:longitude":-73.934671,
+    "intersection:latitude":40.842204,
+    "intersection:longitude":-73.933622,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.842958,
-    "reversegeo:longitude":-73.934671,
+    "reversegeo:latitude":40.842204,
+    "reversegeo:longitude":-73.933622,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108913727,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"Amsterdam Ave  & W 173rd St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

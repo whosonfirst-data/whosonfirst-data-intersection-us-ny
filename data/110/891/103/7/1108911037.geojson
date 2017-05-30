@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9922679687,40.7845788327,-73.982780336,40.7925008131",
     "geom:latitude":40.787843,
     "geom:longitude":-73.987387,
-    "intersection:latitude":40.785534,
-    "intersection:longitude":-73.983997,
+    "intersection:latitude":40.787843,
+    "intersection:longitude":-73.987387,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.785534,
-    "reversegeo:longitude":-73.983997,
+    "reversegeo:latitude":40.787843,
+    "reversegeo:longitude":-73.987387,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818093,
-    "wof:geomhash":"5a602624c024ff5a03dbaeb1bca8be76",
+    "wof:geomhash":"34fe44a83261abf6fee0494b7ebcddb6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911037,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 79th St  & Henry Hudson Pkwy",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
     -73.99226796870339,
     40.78457883270742,
     -73.9827803359821,
-    40.792500813130644
+    40.79250081313064
 ],
   "geometry": {"coordinates":[[[[-73.98533544549628,40.78457883270742],[-73.98958180113152,40.78540380786283],[-73.99226796870339,40.78718937853957],[-73.991983,40.787601],[-73.991618,40.78811],[-73.99130100000001,40.78855],[-73.989957,40.790424],[-73.98846741248275,40.79250081313064],[-73.9857763713734,40.79022644935433],[-73.98390633370181,40.78837969277082],[-73.98326773182173,40.78753591047185],[-73.9827803359821,40.78656041395406],[-73.98338043453128,40.78510149816096],[-73.98415340560447,40.7846433442649],[-73.98533544549628,40.78457883270742]]]],"type":"MultiPolygon"}
 }

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9861391393,40.7901551992,-73.9780878378,40.7985920014",
     "geom:latitude":40.79459,
     "geom:longitude":-73.982155,
-    "intersection:latitude":40.791245,
-    "intersection:longitude":-73.979395,
+    "intersection:latitude":40.79459,
+    "intersection:longitude":-73.982155,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.791245,
-    "reversegeo:longitude":-73.979395,
+    "reversegeo:latitude":40.79459,
+    "reversegeo:longitude":-73.982155,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817995,
-    "wof:geomhash":"13f95bdcd6d45b84a9b648f7ccbcf73a",
+    "wof:geomhash":"1be86428a38c84817c6227154f0bdf43",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108909119,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Riverside Dr  & W 88th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

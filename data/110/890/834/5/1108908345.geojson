@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9655978791,40.8190667455,-73.9599315693,40.8245408008",
     "geom:latitude":40.821789,
     "geom:longitude":-73.962668,
-    "intersection:latitude":40.819732,
-    "intersection:longitude":-73.960163,
+    "intersection:latitude":40.821789,
+    "intersection:longitude":-73.962668,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.819732,
-    "reversegeo:longitude":-73.960163,
+    "reversegeo:latitude":40.821789,
+    "reversegeo:longitude":-73.962668,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817963,
-    "wof:geomhash":"11f557c9f1fa82e059baff7bce55d4ce",
+    "wof:geomhash":"7ffa72c495baff0442e4113d75441483",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108908345,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Marginal St  & W 132nd St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

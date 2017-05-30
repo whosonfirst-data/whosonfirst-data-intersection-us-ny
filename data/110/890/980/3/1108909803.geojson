@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9498099396,40.759858479,-73.9439209188,40.7647901094",
     "geom:latitude":40.762966,
     "geom:longitude":-73.947368,
-    "intersection:latitude":40.763905,
-    "intersection:longitude":-73.946704,
+    "intersection:latitude":40.762966,
+    "intersection:longitude":-73.947368,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.763905,
-    "reversegeo:longitude":-73.946704,
+    "reversegeo:latitude":40.762966,
+    "reversegeo:longitude":-73.947368,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818040,
-    "wof:geomhash":"5ddd0af470bbc201846a02c8b8470768",
+    "wof:geomhash":"b3261a1113734679a4179358c03af37d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108909803,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Main St  & Roosevelt Island Brg",
     "wof:parent_id":85845835,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9250621742,40.855437996,-73.9203560273,40.8605663405",
     "geom:latitude":40.858228,
     "geom:longitude":-73.922578,
-    "intersection:latitude":40.858914,
-    "intersection:longitude":-73.922958,
+    "intersection:latitude":40.858228,
+    "intersection:longitude":-73.922578,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.858914,
-    "reversegeo:longitude":-73.922958,
+    "reversegeo:latitude":40.858228,
+    "reversegeo:longitude":-73.922578,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817910,
-    "wof:geomhash":"e06aabfa1111b5bfdd05681cae57ee16",
+    "wof:geomhash":"9f63e293827d5ac1e61ab75d7b370c4a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907265,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Dyckman St  & Harlem River Dr",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
 },
   "bbox": [
     -73.9250621742191,
-    40.855437995960365,
+    40.85543799596037,
     -73.9203560272751,
     40.86056634054564
 ],

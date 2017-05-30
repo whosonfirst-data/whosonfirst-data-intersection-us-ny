@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0147075082,40.7510610142,-74.0077832688,40.7552612599",
     "geom:latitude":40.7531,
     "geom:longitude":-74.011474,
-    "intersection:latitude":40.751794,
-    "intersection:longitude":-74.008016,
+    "intersection:latitude":40.7531,
+    "intersection:longitude":-74.011474,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.751794,
-    "reversegeo:longitude":-74.008016,
+    "reversegeo:latitude":40.7531,
+    "reversegeo:longitude":-74.011474,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108913039,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"Lincoln Hwy  & W 26th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

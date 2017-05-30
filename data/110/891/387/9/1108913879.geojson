@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9789134359,40.8003161999,-73.970275939,40.8063882619",
     "geom:latitude":40.803389,
     "geom:longitude":-73.974795,
-    "intersection:latitude":40.801011,
-    "intersection:longitude":-73.971116,
+    "intersection:latitude":40.803389,
+    "intersection:longitude":-73.974795,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.801011,
-    "reversegeo:longitude":-73.971116,
+    "reversegeo:latitude":40.803389,
+    "reversegeo:longitude":-73.974795,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108913879,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"W 104th St  & Riverside Dr",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

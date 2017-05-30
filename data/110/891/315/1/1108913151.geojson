@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9664447564,40.7440011165,-73.9599546152,40.7524433222",
     "geom:latitude":40.748786,
     "geom:longitude":-73.963123,
-    "intersection:latitude":40.751813,
-    "intersection:longitude":-73.965055,
+    "intersection:latitude":40.748786,
+    "intersection:longitude":-73.963123,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.751813,
-    "reversegeo:longitude":-73.965055,
+    "reversegeo:latitude":40.748786,
+    "reversegeo:longitude":-73.963123,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -34,7 +34,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818202,
-    "wof:geomhash":"dd064eeb3e5b7ab6f855ce5c533d41a5",
+    "wof:geomhash":"6e04e62a6225f39001d5f75771534495",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108913151,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"E 48th St  & F D R Dr",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
 },
   "bbox": [
     -73.96644475635006,
-    40.744001116467665,
+    40.74400111646766,
     -73.95995461521683,
     40.75244332216315
 ],

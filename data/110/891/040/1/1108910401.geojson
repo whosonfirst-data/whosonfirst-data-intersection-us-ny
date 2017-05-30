@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0046890669,40.765187309,-73.9975377984,40.7705759619",
     "geom:latitude":40.767787,
     "geom:longitude":-74.001117,
-    "intersection:latitude":40.765576,
-    "intersection:longitude":-73.997784,
+    "intersection:latitude":40.767787,
+    "intersection:longitude":-74.001117,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.765576,
-    "reversegeo:longitude":-73.997784,
+    "reversegeo:latitude":40.767787,
+    "reversegeo:longitude":-74.001117,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -37,7 +37,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818063,
-    "wof:geomhash":"3e2114bae979b134c682d28be935c213",
+    "wof:geomhash":"6e6b2eed0c76c9ecb169918055d873f0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108910401,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & W 48th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

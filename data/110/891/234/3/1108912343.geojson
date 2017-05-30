@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0208478687,40.7276112506,-74.0099698239,40.7303887189",
     "geom:latitude":40.728947,
     "geom:longitude":-74.01541,
-    "intersection:latitude":40.729111,
-    "intersection:longitude":-74.010658,
+    "intersection:latitude":40.728947,
+    "intersection:longitude":-74.01541,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.729111,
-    "reversegeo:longitude":-74.010658,
+    "reversegeo:latitude":40.728947,
+    "reversegeo:longitude":-74.01541,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818167,
-    "wof:geomhash":"a49acb1732099285e755a076d31e382b",
+    "wof:geomhash":"8f83715cdf4ec40b895bd705a3cd9039",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912343,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & W Houston St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

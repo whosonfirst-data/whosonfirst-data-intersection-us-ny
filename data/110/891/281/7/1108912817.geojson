@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9380832174,40.834846478,-73.9330406221,40.8374710631",
     "geom:latitude":40.83609,
     "geom:longitude":-73.935762,
-    "intersection:latitude":40.836469,
-    "intersection:longitude":-73.937023,
+    "intersection:latitude":40.83609,
+    "intersection:longitude":-73.935762,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.836469,
-    "reversegeo:longitude":-73.937023,
+    "reversegeo:latitude":40.83609,
+    "reversegeo:longitude":-73.935762,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108912817,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 164th St  & Edgecombe Ave",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

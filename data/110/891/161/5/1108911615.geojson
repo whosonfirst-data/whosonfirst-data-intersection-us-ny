@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0056047635,40.6960765625,-73.9993199113,40.7057013442",
     "geom:latitude":40.700991,
     "geom:longitude":-74.002469,
-    "intersection:latitude":40.705232,
-    "intersection:longitude":-74.004749,
+    "intersection:latitude":40.700991,
+    "intersection:longitude":-74.002469,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.705232,
-    "reversegeo:longitude":-74.004749,
+    "reversegeo:latitude":40.700991,
+    "reversegeo:longitude":-74.002469,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818131,
-    "wof:geomhash":"09b0a869139bda268cdeeae0b9609f52",
+    "wof:geomhash":"c7ac726b693b2edb9603e6e970b8a2a4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911615,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Maiden Ln  & South St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
 },
   "bbox": [
     -74.00560476349453,
-    40.696076562484556,
+    40.69607656248456,
     -73.99931991125473,
     40.70570134424412
 ],

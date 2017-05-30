@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9178146048,40.8714214026,-73.9147359145,40.8761222573",
     "geom:latitude":40.873868,
     "geom:longitude":-73.916459,
-    "intersection:latitude":40.872116,
-    "intersection:longitude":-73.916278,
+    "intersection:latitude":40.873868,
+    "intersection:longitude":-73.916459,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.872116,
-    "reversegeo:longitude":-73.916278,
+    "reversegeo:latitude":40.873868,
+    "reversegeo:longitude":-73.916459,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108907427,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Park Ter W  & W 218th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",
