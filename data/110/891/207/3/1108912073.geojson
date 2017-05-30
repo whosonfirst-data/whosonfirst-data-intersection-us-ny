@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0191977491,40.7343464288,-74.009240701,40.7356360664",
     "geom:latitude":40.735007,
     "geom:longitude":-74.013946,
-    "intersection:latitude":40.734589,
-    "intersection:longitude":-74.010043,
+    "intersection:latitude":40.735007,
+    "intersection:longitude":-74.013946,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.734589,
-    "reversegeo:longitude":-74.010043,
+    "reversegeo:latitude":40.735007,
+    "reversegeo:longitude":-74.013946,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912073,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & Perry St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

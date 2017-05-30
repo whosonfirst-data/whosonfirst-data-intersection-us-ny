@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9319328341,40.8017053647,-73.9231698567,40.8056926437",
     "geom:latitude":40.803501,
     "geom:longitude":-73.929146,
-    "intersection:latitude":40.803242,
-    "intersection:longitude":-73.930745,
+    "intersection:latitude":40.803501,
+    "intersection:longitude":-73.929146,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.803242,
-    "reversegeo:longitude":-73.930745,
+    "reversegeo:latitude":40.803501,
+    "reversegeo:longitude":-73.929146,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912543,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"1st Ave  & E 127th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

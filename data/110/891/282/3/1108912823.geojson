@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0198584203,40.7315827578,-74.0095456935,40.7326236098",
     "geom:latitude":40.732142,
     "geom:longitude":-74.013478,
-    "intersection:latitude":40.73201,
-    "intersection:longitude":-74.010272,
+    "intersection:latitude":40.732142,
+    "intersection:longitude":-74.013478,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.73201,
-    "reversegeo:longitude":-74.010272,
+    "reversegeo:latitude":40.732142,
+    "reversegeo:longitude":-74.013478,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818187,
-    "wof:geomhash":"02f857ad53b7f2fdd22cb8005cd79ad1",
+    "wof:geomhash":"299789bde916d54e84ffbf41bf96bdd8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912823,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & Barrow St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -74.01985842025535,
     40.73158275779855,
     -74.00954569353289,
-    40.732623609816315
+    40.73262360981632
 ],
   "geometry": {"coordinates":[[[[-74.00959833636395,40.73158275779855],[-74.01985842025535,40.73255042174369],[-74.01984047698456,40.73262360981632],[-74.0100309903146,40.73219381271996],[-74.00954569353289,40.73174932498581],[-74.00955469986098,40.73165150442953],[-74.00959833636395,40.73158275779855]]]],"type":"MultiPolygon"}
 }

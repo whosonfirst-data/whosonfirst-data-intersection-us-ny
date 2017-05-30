@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9277488883,40.8496416317,-73.9229404351,40.8525134194",
     "geom:latitude":40.851318,
     "geom:longitude":-73.925319,
-    "intersection:latitude":40.851432,
-    "intersection:longitude":-73.92708,
+    "intersection:latitude":40.851318,
+    "intersection:longitude":-73.925319,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.851432,
-    "reversegeo:longitude":-73.92708,
+    "reversegeo:latitude":40.851318,
+    "reversegeo:longitude":-73.925319,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108913507,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"Laurel Hill Ter  & W 187th St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

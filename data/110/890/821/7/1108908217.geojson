@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9355482407,40.8074764919,-73.9320349299,40.8099448237",
     "geom:latitude":40.808893,
     "geom:longitude":-73.933849,
-    "intersection:latitude":40.808175,
-    "intersection:longitude":-73.934664,
+    "intersection:latitude":40.808893,
+    "intersection:longitude":-73.933849,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.808175,
-    "reversegeo:longitude":-73.934664,
+    "reversegeo:latitude":40.808893,
+    "reversegeo:longitude":-73.933849,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817955,
-    "wof:geomhash":"9ae45989bbc2dfacc2ffc0ae5da9b35c",
+    "wof:geomhash":"c1c58f3dfd5e1e9b1e5bfbaa513f90a4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108908217,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"E 131st St  & Lexington Ave",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -73.93554824067103,
     40.80747649188852,
     -73.93203492990618,
-    40.809944823746314
+    40.80994482374631
 ],
   "geometry": {"coordinates":[[[[-73.93433762409323,40.80747649188852],[-73.93554824067103,40.80831915728599],[-73.93537642629506,40.80872165069967],[-73.9340455223556,40.8098791763398],[-73.93214306806065,40.80994482374631],[-73.93203492990618,40.8094607610457],[-73.93433762409323,40.80747649188852]]]],"type":"MultiPolygon"}
 }

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9357536238,40.8249299498,-73.9325515309,40.8279710094",
     "geom:latitude":40.82641,
     "geom:longitude":-73.934302,
-    "intersection:latitude":40.827528,
-    "intersection:longitude":-73.935269,
+    "intersection:latitude":40.82641,
+    "intersection:longitude":-73.934302,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.827528,
-    "reversegeo:longitude":-73.935269,
+    "reversegeo:latitude":40.82641,
+    "reversegeo:longitude":-73.934302,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108910959,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Macombs Pl  & Adam Clayton Powell Jr Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9445958659,40.7729461146,-73.9382225875,40.777906205",
     "geom:latitude":40.775546,
     "geom:longitude":-73.941545,
-    "intersection:latitude":40.776868,
-    "intersection:longitude":-73.943379,
+    "intersection:latitude":40.775546,
+    "intersection:longitude":-73.941545,
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.776868,
-    "reversegeo:longitude":-73.943379,
+    "reversegeo:latitude":40.775546,
+    "reversegeo:longitude":-73.941545,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818264,
-    "wof:geomhash":"55418037928c21b166645a4d6e899c51",
+    "wof:geomhash":"eb9e157ba41663b9fed0c369fc17a3b0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108914371,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"E End Ave  & E 89th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
 },
   "bbox": [
     -73.94459586588351,
-    40.772946114579696,
+    40.7729461145797,
     -73.93822258750906,
     40.77790620500206
 ],

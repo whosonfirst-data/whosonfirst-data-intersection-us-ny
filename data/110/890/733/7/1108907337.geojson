@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9460668099,40.7655257388,-73.93519,40.7729507107",
     "geom:latitude":40.769853,
     "geom:longitude":-73.941218,
-    "intersection:latitude":40.76927,
-    "intersection:longitude":-73.943557,
+    "intersection:latitude":40.769853,
+    "intersection:longitude":-73.941218,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.76927,
-    "reversegeo:longitude":-73.943557,
+    "reversegeo:latitude":40.769853,
+    "reversegeo:longitude":-73.941218,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817918,
-    "wof:geomhash":"e7572836e25f61c81371118f1f643b7c",
+    "wof:geomhash":"dcf9ac3bb2ecdda0c6597cc09ac29213",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108907337,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Main St  & Central Rd N",
     "wof:parent_id":85845835,
     "wof:placetype":"intersection",

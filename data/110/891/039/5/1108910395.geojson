@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0259575393,40.7016920967,-74.0173418632,40.7089407612",
     "geom:latitude":40.705677,
     "geom:longitude":-74.022352,
-    "intersection:latitude":40.706175,
-    "intersection:longitude":-74.01793,
+    "intersection:latitude":40.705677,
+    "intersection:longitude":-74.022352,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.706175,
-    "reversegeo:longitude":-74.01793,
+    "reversegeo:latitude":40.705677,
+    "reversegeo:longitude":-74.022352,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818063,
-    "wof:geomhash":"5b708964459909c8d857c30ef8508bda",
+    "wof:geomhash":"de25eff402178cf1ea637e2feb33be07",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108910395,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Battery Pl  & 1st Pl",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -74.02595753928686,
     40.70169209670424,
     -74.01734186316068,
-    40.708940761198264
+    40.70894076119826
 ],
   "geometry": {"coordinates":[[[[-74.02463337040322,40.70894076119826],[-74.02050978647003,40.70797943488257],[-74.01734186316068,40.70628828785269],[-74.01764613934677,40.70552962589536],[-74.02595753928686,40.70169209670424],[-74.0254,40.704739],[-74.024945,40.707233],[-74.02463337040322,40.70894076119826]]]],"type":"MultiPolygon"}
 }

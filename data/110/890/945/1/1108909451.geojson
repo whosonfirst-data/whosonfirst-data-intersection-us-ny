@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9190025994,40.8606279343,-73.9157052505,40.8632651088",
     "geom:latitude":40.86194,
     "geom:longitude":-73.917389,
-    "intersection:latitude":40.862394,
-    "intersection:longitude":-73.918015,
+    "intersection:latitude":40.86194,
+    "intersection:longitude":-73.917389,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.862394,
-    "reversegeo:longitude":-73.918015,
+    "reversegeo:latitude":40.86194,
+    "reversegeo:longitude":-73.917389,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108909451,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"9th Ave  & W 205th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

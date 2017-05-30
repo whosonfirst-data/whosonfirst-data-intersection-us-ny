@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0036083206,40.766438091,-73.9966268571,40.7718688005",
     "geom:latitude":40.769162,
     "geom:longitude":-74.000092,
-    "intersection:latitude":40.766831,
-    "intersection:longitude":-73.996878,
+    "intersection:latitude":40.769162,
+    "intersection:longitude":-74.000092,
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.766831,
-    "reversegeo:longitude":-73.996878,
+    "reversegeo:latitude":40.769162,
+    "reversegeo:longitude":-74.000092,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108913711,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"Lincoln Hwy  & W 50th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-74.003688462,40.6983010016,-73.9983951925,40.7067981695",
     "geom:latitude":40.702913,
     "geom:longitude":-74.001134,
-    "intersection:latitude":40.706248,
-    "intersection:longitude":-74.003137,
+    "intersection:latitude":40.702913,
+    "intersection:longitude":-74.001134,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.706248,
-    "reversegeo:longitude":-74.003137,
+    "reversegeo:latitude":40.702913,
+    "reversegeo:longitude":-74.001134,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -34,7 +34,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818132,
-    "wof:geomhash":"5b77b723eeecf24293ba82d6525554d6",
+    "wof:geomhash":"8279a59fd5ff537abc84fd5563ae927e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108911651,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"South St  & Fulton St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
 },
   "bbox": [
     -74.00368846201198,
-    40.698301001631776,
+    40.69830100163178,
     -73.99839519245485,
     40.70679816950378
 ],

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9351731348,40.8169603425,-73.9321032674,40.8190733994",
     "geom:latitude":40.818113,
     "geom:longitude":-73.933432,
-    "intersection:latitude":40.817914,
-    "intersection:longitude":-73.934264,
+    "intersection:latitude":40.818113,
+    "intersection:longitude":-73.933432,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.817914,
-    "reversegeo:longitude":-73.934264,
+    "reversegeo:latitude":40.818113,
+    "reversegeo:longitude":-73.933432,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911805,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"5th Ave  & W 143rd St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

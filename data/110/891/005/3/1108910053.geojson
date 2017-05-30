@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9745298545,40.7370264562,-73.9627298528,40.7419049251",
     "geom:latitude":40.739536,
     "geom:longitude":-73.969109,
-    "intersection:latitude":40.740345,
-    "intersection:longitude":-73.973146,
+    "intersection:latitude":40.739536,
+    "intersection:longitude":-73.969109,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.740345,
-    "reversegeo:longitude":-73.973146,
+    "reversegeo:latitude":40.739536,
+    "reversegeo:longitude":-73.969109,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -34,7 +34,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818049,
-    "wof:geomhash":"ced0caf5c33e1d4913c3ef5482b2be93",
+    "wof:geomhash":"adb4da4e0c6559be6e21618222fdd642",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108910053,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"E 30th St  & F D R Dr",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0043607524,40.6976053807,-73.9987046779,40.706375631",
     "geom:latitude":40.702196,
     "geom:longitude":-74.00155,
-    "intersection:latitude":40.705793,
-    "intersection:longitude":-74.003869,
+    "intersection:latitude":40.702196,
+    "intersection:longitude":-74.00155,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.705793,
-    "reversegeo:longitude":-74.003869,
+    "reversegeo:latitude":40.702196,
+    "reversegeo:longitude":-74.00155,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -34,7 +34,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818282,
-    "wof:geomhash":"c417204f5258f8fd6f26d49d8a85661a",
+    "wof:geomhash":"27a9bd99dca3894bdce2814f5e15171d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108914641,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"South St  & John St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

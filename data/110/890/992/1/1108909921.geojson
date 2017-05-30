@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9823671272,40.7052281666,-73.9766497693,40.711364835",
     "geom:latitude":40.708247,
     "geom:longitude":-73.980029,
-    "intersection:latitude":40.71103,
-    "intersection:longitude":-73.980592,
+    "intersection:latitude":40.708247,
+    "intersection:longitude":-73.980029,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.71103,
-    "reversegeo:longitude":-73.980592,
+    "reversegeo:latitude":40.708247,
+    "reversegeo:longitude":-73.980029,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108909921,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"South St  & Jackson St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

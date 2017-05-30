@@ -9,13 +9,13 @@
     "geom:bbox":"-74.023991474,40.7122671851,-74.0162030769,40.7192183048",
     "geom:latitude":40.715254,
     "geom:longitude":-74.020403,
-    "intersection:latitude":40.715246,
-    "intersection:longitude":-74.016803,
+    "intersection:latitude":40.715254,
+    "intersection:longitude":-74.020403,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.715246,
-    "reversegeo:longitude":-74.016803,
+    "reversegeo:latitude":40.715254,
+    "reversegeo:longitude":-74.020403,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911079,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Vesey St  & River Ter",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

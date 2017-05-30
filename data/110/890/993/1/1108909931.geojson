@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0069857077,40.7616513044,-74.000911591,40.7690864142",
     "geom:latitude":40.765431,
     "geom:longitude":-74.003937,
-    "intersection:latitude":40.762076,
-    "intersection:longitude":-74.001278,
+    "intersection:latitude":40.765431,
+    "intersection:longitude":-74.003937,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.762076,
-    "reversegeo:longitude":-74.001278,
+    "reversegeo:latitude":40.765431,
+    "reversegeo:longitude":-74.003937,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108909931,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"W 42nd St  & Lincoln Hwy",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

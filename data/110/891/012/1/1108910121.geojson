@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0168438973,40.7435533763,-74.0076443593,40.7456940367",
     "geom:latitude":40.744519,
     "geom:longitude":-74.012357,
-    "intersection:latitude":40.744003,
-    "intersection:longitude":-74.008465,
+    "intersection:latitude":40.744519,
+    "intersection:longitude":-74.012357,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.744003,
-    "reversegeo:longitude":-74.008465,
+    "reversegeo:latitude":40.744519,
+    "reversegeo:longitude":-74.012357,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818052,
-    "wof:geomhash":"0d3797d803e1713ea1cab7a3fbf640c2",
+    "wof:geomhash":"44c6f880ba4df88abd96c76d9c6ab5f0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108910121,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Lincoln Hwy  & W 16th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9650463007,40.819892015,-73.9593635156,40.8252104994",
     "geom:latitude":40.822546,
     "geom:longitude":-73.962012,
-    "intersection:latitude":40.820303,
-    "intersection:longitude":-73.95966,
+    "intersection:latitude":40.822546,
+    "intersection:longitude":-73.962012,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.820303,
-    "reversegeo:longitude":-73.95966,
+    "reversegeo:latitude":40.822546,
+    "reversegeo:longitude":-73.962012,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911451,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 133rd St  & Marginal St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

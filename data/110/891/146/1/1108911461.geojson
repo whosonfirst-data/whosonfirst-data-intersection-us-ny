@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9645168145,40.8209624192,-73.9578451749,40.8296088996",
     "geom:latitude":40.825083,
     "geom:longitude":-73.960899,
-    "intersection:latitude":40.821583,
-    "intersection:longitude":-73.958642,
+    "intersection:latitude":40.825083,
+    "intersection:longitude":-73.960899,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.821583,
-    "reversegeo:longitude":-73.958642,
+    "reversegeo:latitude":40.825083,
+    "reversegeo:longitude":-73.960899,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911461,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 135th St  & Marginal St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

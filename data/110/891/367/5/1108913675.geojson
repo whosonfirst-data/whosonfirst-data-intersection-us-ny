@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9889313544,40.704747,-73.9853693013,40.7110993621",
     "geom:latitude":40.707771,
     "geom:longitude":-73.987077,
-    "intersection:latitude":40.710464,
-    "intersection:longitude":-73.98662,
+    "intersection:latitude":40.707771,
+    "intersection:longitude":-73.987077,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.710464,
-    "reversegeo:longitude":-73.98662,
+    "reversegeo:latitude":40.707771,
+    "reversegeo:longitude":-73.987077,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108913675,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"Clinton St  & South St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

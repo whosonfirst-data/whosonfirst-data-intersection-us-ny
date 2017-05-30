@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9594015359,40.8314395417,-73.9484890093,40.836287657",
     "geom:latitude":40.833806,
     "geom:longitude":-73.953639,
-    "intersection:latitude":40.832697,
-    "intersection:longitude":-73.949714,
+    "intersection:latitude":40.833806,
+    "intersection:longitude":-73.953639,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.832697,
-    "reversegeo:longitude":-73.949714,
+    "reversegeo:latitude":40.833806,
+    "reversegeo:longitude":-73.953639,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817977,
-    "wof:geomhash":"3d2173abd7627fa78a7ac9323b3b339d",
+    "wof:geomhash":"6e6500a2cae8bb58b3968577a37b3dd8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108908709,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Riverside Dr  & W 153rd St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -73.95940153589584,
     40.83143954169037,
     -73.94848900931568,
-    40.836287656987594
+    40.83628765698759
 ],
   "geometry": {"coordinates":[[[[-73.95262179744077,40.83143954169037],[-73.95386824517242,40.83157482907079],[-73.95940153589584,40.83556139244082],[-73.95908480991565,40.83628765698759],[-73.9502480640341,40.83480171273244],[-73.94848900931568,40.83265125322697],[-73.95061230498629,40.83168072486653],[-73.95224536156429,40.83144353163443],[-73.95262179744077,40.83143954169037]]]],"type":"MultiPolygon"}
 }

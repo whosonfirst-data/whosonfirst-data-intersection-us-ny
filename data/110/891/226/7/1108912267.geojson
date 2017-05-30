@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9750295837,40.8068404169,-73.9658660406,40.8128381469",
     "geom:latitude":40.809917,
     "geom:longitude":-73.971066,
-    "intersection:latitude":40.807596,
-    "intersection:longitude":-73.966979,
+    "intersection:latitude":40.809917,
+    "intersection:longitude":-73.971066,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.807596,
-    "reversegeo:longitude":-73.966979,
+    "reversegeo:latitude":40.809917,
+    "reversegeo:longitude":-73.971066,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818158,
-    "wof:geomhash":"70e9ecb6d8da11e37b61a84494d20294",
+    "wof:geomhash":"4c0d3c8560394df35a5a834cdefe58e8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912267,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Riverside Dr  & W 114th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

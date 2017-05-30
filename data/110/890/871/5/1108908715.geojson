@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9746057669,40.7190441501,-73.961537,40.725695206",
     "geom:latitude":40.723053,
     "geom:longitude":-73.967915,
-    "intersection:latitude":40.724161,
-    "intersection:longitude":-73.973486,
+    "intersection:latitude":40.723053,
+    "intersection:longitude":-73.967915,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.724161,
-    "reversegeo:longitude":-73.973486,
+    "reversegeo:latitude":40.723053,
+    "reversegeo:longitude":-73.967915,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -34,7 +34,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817977,
-    "wof:geomhash":"4cee5d90a1610e6711d057434ad20514",
+    "wof:geomhash":"656f351759b39cc59445a05ab241be29",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108908715,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"E 10th St  & F D R Dr",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

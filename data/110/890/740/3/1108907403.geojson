@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9758951358,40.8050916544,-73.9670472958,40.8101393611",
     "geom:latitude":40.807695,
     "geom:longitude":-73.971625,
-    "intersection:latitude":40.80572,
-    "intersection:longitude":-73.967851,
+    "intersection:latitude":40.807695,
+    "intersection:longitude":-73.971625,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.80572,
-    "reversegeo:longitude":-73.967851,
+    "reversegeo:latitude":40.807695,
+    "reversegeo:longitude":-73.971625,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817921,
-    "wof:geomhash":"8bdb9d400c5eff45854f2788d342b81b",
+    "wof:geomhash":"922bd7b3d3b06fb2de9106be8d965269",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907403,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Riverside Dr  & W 111th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

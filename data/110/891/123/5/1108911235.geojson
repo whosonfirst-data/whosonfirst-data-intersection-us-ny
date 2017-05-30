@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0166293859,40.7442277007,-74.0073720469,40.7466101907",
     "geom:latitude":40.745395,
     "geom:longitude":-74.012238,
-    "intersection:latitude":40.744701,
-    "intersection:longitude":-74.008351,
+    "intersection:latitude":40.745395,
+    "intersection:longitude":-74.012238,
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.744701,
-    "reversegeo:longitude":-74.008351,
+    "reversegeo:latitude":40.745395,
+    "reversegeo:longitude":-74.012238,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911235,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & W 17th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

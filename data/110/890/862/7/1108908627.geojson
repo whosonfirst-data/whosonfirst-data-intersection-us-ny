@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9765110267,40.8029366772,-73.9683711856,40.8094590989",
     "geom:latitude":40.806215,
     "geom:longitude":-73.97252,
-    "intersection:latitude":40.803607,
-    "intersection:longitude":-73.969228,
+    "intersection:latitude":40.806215,
+    "intersection:longitude":-73.97252,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.803607,
-    "reversegeo:longitude":-73.969228,
+    "reversegeo:latitude":40.806215,
+    "reversegeo:longitude":-73.97252,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817974,
-    "wof:geomhash":"feb80e08035255cdacb503854c7e12ac",
+    "wof:geomhash":"0daf1af94cbea641baf6061405c2dffc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108908627,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Riverside Dr  & W 108th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
     -73.97651102671094,
     40.80293667717739,
     -73.96837118564184,
-    40.809459098888965
+    40.80945909888896
 ],
   "geometry": {"coordinates":[[[[-73.96871551469162,40.80293667717739],[-73.97111140498404,40.80412299178826],[-73.97651102671094,40.80864395763501],[-73.97589513580942,40.80945909888896],[-73.97340604564141,40.80783641942545],[-73.9717438363004,40.80663313125923],[-73.96837118564184,40.8033562785309],[-73.96844511929959,40.80317639701125],[-73.96871551469162,40.80293667717739]]]],"type":"MultiPolygon"}
 }

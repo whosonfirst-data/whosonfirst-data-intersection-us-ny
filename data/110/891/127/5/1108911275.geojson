@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9125834363,40.8689648426,-73.909228875,40.8717465243",
     "geom:latitude":40.870412,
     "geom:longitude":-73.910857,
-    "intersection:latitude":40.871035,
-    "intersection:longitude":-73.911682,
+    "intersection:latitude":40.870412,
+    "intersection:longitude":-73.910857,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.871035,
-    "reversegeo:longitude":-73.911682,
+    "reversegeo:latitude":40.870412,
+    "reversegeo:longitude":-73.910857,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911275,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"9th Ave  & W 219th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

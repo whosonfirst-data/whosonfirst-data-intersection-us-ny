@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9764094271,40.7192702758,-73.9663011737,40.7207513186",
     "geom:latitude":40.719892,
     "geom:longitude":-73.972191,
-    "intersection:latitude":40.720328,
-    "intersection:longitude":-73.974928,
+    "intersection:latitude":40.719892,
+    "intersection:longitude":-73.972191,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.720328,
-    "reversegeo:longitude":-73.974928,
+    "reversegeo:latitude":40.719892,
+    "reversegeo:longitude":-73.972191,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108911999,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"E 4 Walk  & F D R Dr",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

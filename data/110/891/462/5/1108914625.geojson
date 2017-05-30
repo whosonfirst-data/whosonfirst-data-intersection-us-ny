@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9360789294,40.8279366651,-73.934063625,40.8301569792",
     "geom:latitude":40.829186,
     "geom:longitude":-73.935155,
-    "intersection:latitude":40.828196,
-    "intersection:longitude":-73.935016,
+    "intersection:latitude":40.829186,
+    "intersection:longitude":-73.935155,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.828196,
-    "reversegeo:longitude":-73.935016,
+    "reversegeo:latitude":40.829186,
+    "reversegeo:longitude":-73.935155,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108914625,
-    "wof:lastmodified":1496184989,
+    "wof:lastmodified":1496185345,
     "wof:name":"W 155th St  & Harlem River Dr",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

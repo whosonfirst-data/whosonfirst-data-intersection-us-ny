@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0006734081,40.7009653425,-73.9960999906,40.7085252845",
     "geom:latitude":40.704803,
     "geom:longitude":-73.998194,
-    "intersection:latitude":40.707913,
-    "intersection:longitude":-74.000131,
+    "intersection:latitude":40.704803,
+    "intersection:longitude":-73.998194,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.707913,
-    "reversegeo:longitude":-74.000131,
+    "reversegeo:latitude":40.704803,
+    "reversegeo:longitude":-73.998194,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108909279,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Dover St  & South St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

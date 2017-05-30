@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9351663122,40.813305791,-73.932101,40.8161471022",
     "geom:latitude":40.814979,
     "geom:longitude":-73.933371,
-    "intersection:latitude":40.814953,
-    "intersection:longitude":-73.934381,
+    "intersection:latitude":40.814979,
+    "intersection:longitude":-73.933371,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.814953,
-    "reversegeo:longitude":-73.934381,
+    "reversegeo:latitude":40.814979,
+    "reversegeo:longitude":-73.933371,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907963,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"E 139th St  & Harlem River Dr",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9540666404,40.845162979,-73.941405234,40.8500644295",
     "geom:latitude":40.847228,
     "geom:longitude":-73.948042,
-    "intersection:latitude":40.846231,
-    "intersection:longitude":-73.94261,
+    "intersection:latitude":40.847228,
+    "intersection:longitude":-73.948042,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.846231,
-    "reversegeo:longitude":-73.94261,
+    "reversegeo:latitude":40.847228,
+    "reversegeo:longitude":-73.948042,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818153,
-    "wof:geomhash":"26aa73e7a1c60900de8084e9a2d5fbdb",
+    "wof:geomhash":"7cf32e937a8d037fc82e71c2741efd85",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912139,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Haven Ave  & W 173rd St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -73.95406664044559,
     40.8451629790092,
     -73.94140523404211,
-    40.850064429509686
+    40.85006442950969
 ],
   "geometry": {"coordinates":[[[[-73.94526578619171,40.8451629790092],[-73.94767637017507,40.84525199155644],[-73.95406664044559,40.84780563237882],[-73.953982,40.848],[-73.95348199999999,40.849],[-73.95289314752631,40.85006442950969],[-73.94159026611158,40.84670900966098],[-73.94140523404211,40.84640185002318],[-73.94142582061689,40.84613534950055],[-73.94168998971614,40.84549423377477],[-73.94526578619171,40.8451629790092]]]],"type":"MultiPolygon"}
 }

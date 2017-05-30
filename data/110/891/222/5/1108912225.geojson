@@ -9,13 +9,13 @@
     "geom:bbox":"-74.019948152,40.7308712514,-74.0095983364,40.7325504217",
     "geom:latitude":40.731682,
     "geom:longitude":-74.014312,
-    "intersection:latitude":40.731289,
-    "intersection:longitude":-74.01034,
+    "intersection:latitude":40.731682,
+    "intersection:longitude":-74.014312,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.731289,
-    "reversegeo:longitude":-74.01034,
+    "reversegeo:latitude":40.731682,
+    "reversegeo:longitude":-74.014312,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912225,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & Morton St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

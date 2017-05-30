@@ -9,13 +9,13 @@
     "geom:bbox":"-74.026017,40.6993220065,-74.0169566002,40.7055296259",
     "geom:latitude":40.702031,
     "geom:longitude":-74.020949,
-    "intersection:latitude":40.704895,
-    "intersection:longitude":-74.017339,
+    "intersection:latitude":40.702031,
+    "intersection:longitude":-74.020949,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.704895,
-    "reversegeo:longitude":-74.017339,
+    "reversegeo:latitude":40.702031,
+    "reversegeo:longitude":-74.020949,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108913185,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"Battery Pl  & Little West St",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

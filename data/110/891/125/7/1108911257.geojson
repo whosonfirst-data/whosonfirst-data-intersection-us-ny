@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0179912043,40.7390149574,-74.0098016146,40.743459318",
     "geom:latitude":40.740867,
     "geom:longitude":-74.014434,
-    "intersection:latitude":40.739378,
-    "intersection:longitude":-74.00993,
+    "intersection:latitude":40.740867,
+    "intersection:longitude":-74.014434,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.739378,
-    "reversegeo:longitude":-74.00993,
+    "reversegeo:latitude":40.740867,
+    "reversegeo:longitude":-74.014434,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -34,7 +34,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818114,
-    "wof:geomhash":"3a7dff7daac1954e1bdbd2abadf06ec8",
+    "wof:geomhash":"c8e271c00b97d5e5969397b671fe40cc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108911257,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & Gansevoort St",
     "wof:parent_id":907214383,
     "wof:placetype":"intersection",
@@ -63,7 +63,7 @@
     -74.01799120432834,
     40.73901495740478,
     -74.0098016145522,
-    40.743459318009045
+    40.74345931800904
 ],
   "geometry": {"coordinates":[[[[-74.0098521495091,40.73901495740478],[-74.01799120432834,40.74017261687086],[-74.017867,40.740678],[-74.01718546022569,40.74345931800904],[-74.00981108281998,40.73998703199784],[-74.0098016145522,40.73904020521982],[-74.0098521495091,40.73901495740478]]]],"type":"MultiPolygon"}
 }

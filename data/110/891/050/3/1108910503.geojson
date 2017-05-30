@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0040843635,40.7658234316,-73.9970682756,40.7712324",
     "geom:latitude":40.768539,
     "geom:longitude":-74.000571,
-    "intersection:latitude":40.766201,
-    "intersection:longitude":-73.997335,
+    "intersection:latitude":40.768539,
+    "intersection:longitude":-74.000571,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.766201,
-    "reversegeo:longitude":-73.997335,
+    "reversegeo:latitude":40.768539,
+    "reversegeo:longitude":-74.000571,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108910503,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & W 49th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

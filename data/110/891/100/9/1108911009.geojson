@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0004517775,40.772565451,-73.992574702,40.7799711589",
     "geom:latitude":40.775816,
     "geom:longitude":-73.996611,
-    "intersection:latitude":40.772886,
-    "intersection:longitude":-73.993415,
+    "intersection:latitude":40.775816,
+    "intersection:longitude":-73.996611,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.772886,
-    "reversegeo:longitude":-73.993415,
+    "reversegeo:latitude":40.775816,
+    "reversegeo:longitude":-73.996611,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -59,7 +59,7 @@
         }
     ],
     "wof:id":1108911009,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"12th Ave  & W 59th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9367833907,40.8208418219,-73.932302,40.8244508779",
     "geom:latitude":40.822627,
     "geom:longitude":-73.934257,
-    "intersection:latitude":40.821749,
-    "intersection:longitude":-73.935335,
+    "intersection:latitude":40.822627,
+    "intersection:longitude":-73.934257,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.821749,
-    "reversegeo:longitude":-73.935335,
+    "reversegeo:latitude":40.822627,
+    "reversegeo:longitude":-73.934257,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -38,7 +38,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818084,
-    "wof:geomhash":"2323621a62653d885d863b6180e73c59",
+    "wof:geomhash":"df2b9a55863b19c23d97628314cd6912",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1108910819,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 147th St  & Esplanade Gardens Plz",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

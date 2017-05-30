@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9715305397,40.8095407189,-73.9638598537,40.814603468",
     "geom:latitude":40.812146,
     "geom:longitude":-73.967131,
-    "intersection:latitude":40.810755,
-    "intersection:longitude":-73.964424,
+    "intersection:latitude":40.812146,
+    "intersection:longitude":-73.967131,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.810755,
-    "reversegeo:longitude":-73.964424,
+    "reversegeo:latitude":40.812146,
+    "reversegeo:longitude":-73.967131,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911137,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 119th St  & Riverside Dr",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

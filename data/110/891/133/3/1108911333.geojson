@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9721353961,40.8139093264,-73.9620443169,40.8214338755",
     "geom:latitude":40.816767,
     "geom:longitude":-73.966852,
-    "intersection:latitude":40.816086,
-    "intersection:longitude":-73.963586,
+    "intersection:latitude":40.816767,
+    "intersection:longitude":-73.966852,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.816086,
-    "reversegeo:longitude":-73.963586,
+    "reversegeo:latitude":40.816767,
+    "reversegeo:longitude":-73.966852,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818118,
-    "wof:geomhash":"d64b097eb731f5fa81042ea4af7ef5a0",
+    "wof:geomhash":"8dd6d1db41cdc56b602a3e6b2db05e12",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911333,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"Hudson River Greenway  & Henry Hudson Pkwy",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

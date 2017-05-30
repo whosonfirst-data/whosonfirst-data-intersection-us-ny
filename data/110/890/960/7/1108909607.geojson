@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9950944117,40.7043180966,-73.9921445504,40.70993398",
     "geom:latitude":40.70716,
     "geom:longitude":-73.993641,
-    "intersection:latitude":40.709485,
-    "intersection:longitude":-73.994022,
+    "intersection:latitude":40.70716,
+    "intersection:longitude":-73.993641,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.709485,
-    "reversegeo:longitude":-73.994022,
+    "reversegeo:latitude":40.70716,
+    "reversegeo:longitude":-73.993641,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818031,
-    "wof:geomhash":"ad8a21ffc5964385c4dfaaf1b335bc43",
+    "wof:geomhash":"94869d2f1dee7c07fadfae56530bc840",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108909607,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"South St  & Market Slip",
     "wof:parent_id":85869743,
     "wof:placetype":"intersection",

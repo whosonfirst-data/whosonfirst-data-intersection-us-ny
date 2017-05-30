@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9119180273,40.8762654153,-73.9099280177,40.877828",
     "geom:latitude":40.877176,
     "geom:longitude":-73.910912,
-    "intersection:latitude":40.877355,
-    "intersection:longitude":-73.910607,
+    "intersection:latitude":40.877176,
+    "intersection:longitude":-73.910912,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.877355,
-    "reversegeo:longitude":-73.910607,
+    "reversegeo:latitude":40.877176,
+    "reversegeo:longitude":-73.910912,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108908489,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Adrian Ave  & W 227th St",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

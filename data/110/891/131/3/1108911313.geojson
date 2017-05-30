@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9479147405,40.853349262,-73.9387020605,40.8623635239",
     "geom:latitude":40.857913,
     "geom:longitude":-73.943021,
-    "intersection:latitude":40.85498,
-    "intersection:longitude":-73.939311,
+    "intersection:latitude":40.857913,
+    "intersection:longitude":-73.943021,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.85498,
-    "reversegeo:longitude":-73.939311,
+    "reversegeo:latitude":40.857913,
+    "reversegeo:longitude":-73.943021,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818117,
-    "wof:geomhash":"4e2efc0356ff7c0f57c484406c0ad0fd",
+    "wof:geomhash":"5851afd11fef63cd5c735fba998f7f02",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911313,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 186th St  & Chittenden Ave",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -73.94791474045543,
     40.85334926200163,
     -73.93870206049102,
-    40.862363523937134
+    40.86236352393713
 ],
   "geometry": {"coordinates":[[[[-73.94054260205542,40.85334926200163],[-73.94059473818618,40.85336314406597],[-73.94791474045543,40.85928940330417],[-73.947765,40.85955],[-73.94602615766023,40.86236352393713],[-73.94060972662201,40.85924105032105],[-73.94009928708945,40.85865224723309],[-73.93870206049102,40.85543625787597],[-73.93941240978512,40.85389130677095],[-73.94011882644833,40.8534345591987],[-73.94054260205542,40.85334926200163]]]],"type":"MultiPolygon"}
 }

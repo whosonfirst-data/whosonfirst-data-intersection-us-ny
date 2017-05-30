@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0115945763,40.7566530405,-74.0041447393,40.7628386503",
     "geom:latitude":40.759546,
     "geom:longitude":-74.007892,
-    "intersection:latitude":40.757061,
-    "intersection:longitude":-74.005017,
+    "intersection:latitude":40.759546,
+    "intersection:longitude":-74.007892,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.757061,
-    "reversegeo:longitude":-74.005017,
+    "reversegeo:latitude":40.759546,
+    "reversegeo:longitude":-74.007892,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818129,
-    "wof:geomhash":"2bdd670b101eba1ac6884edf7c4e4a49",
+    "wof:geomhash":"b7d5b3ac8ae093ec6fedd30825e54c97",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911571,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & W 34th St",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",

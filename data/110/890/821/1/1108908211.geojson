@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9567873913,40.7530486925,-73.9505084461,40.7595533852",
     "geom:latitude":40.756364,
     "geom:longitude":-73.953978,
-    "intersection:latitude":40.757474,
-    "intersection:longitude":-73.953939,
+    "intersection:latitude":40.756364,
+    "intersection:longitude":-73.953978,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.757474,
-    "reversegeo:longitude":-73.953939,
+    "reversegeo:latitude":40.756364,
+    "reversegeo:longitude":-73.953978,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108908211,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Main St  & Rd 5",
     "wof:parent_id":85845835,
     "wof:placetype":"intersection",

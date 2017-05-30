@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9460261577,40.8587275706,-73.9342056514,40.8693886745",
     "geom:latitude":40.863366,
     "geom:longitude":-73.939909,
-    "intersection:latitude":40.860253,
-    "intersection:longitude":-73.936272,
+    "intersection:latitude":40.863366,
+    "intersection:longitude":-73.939909,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.860253,
-    "reversegeo:longitude":-73.936272,
+    "reversegeo:latitude":40.863366,
+    "reversegeo:longitude":-73.939909,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818157,
-    "wof:geomhash":"475d22cb56800424325bd319221e1774",
+    "wof:geomhash":"0961316d14d4020b6325b76e7a33eab5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108912231,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Riverside Dr  & Henry Hudson Pkwy",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

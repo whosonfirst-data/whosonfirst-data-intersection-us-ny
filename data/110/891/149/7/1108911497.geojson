@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0027144663,40.7676789378,-73.9955764283,40.7728083839",
     "geom:latitude":40.770204,
     "geom:longitude":-73.998635,
-    "intersection:latitude":40.768077,
-    "intersection:longitude":-73.995975,
+    "intersection:latitude":40.770204,
+    "intersection:longitude":-73.998635,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.768077,
-    "reversegeo:longitude":-73.995975,
+    "reversegeo:latitude":40.770204,
+    "reversegeo:longitude":-73.998635,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108911497,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 52nd St  & Lincoln Hwy",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

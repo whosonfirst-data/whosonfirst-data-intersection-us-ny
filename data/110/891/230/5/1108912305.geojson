@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0031468088,40.7670749523,-73.9961604652,40.7724649781",
     "geom:latitude":40.769759,
     "geom:longitude":-73.999609,
-    "intersection:latitude":40.767452,
-    "intersection:longitude":-73.996426,
+    "intersection:latitude":40.769759,
+    "intersection:longitude":-73.999609,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.767452,
-    "reversegeo:longitude":-73.996426,
+    "reversegeo:latitude":40.769759,
+    "reversegeo:longitude":-73.999609,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108912305,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Lincoln Hwy  & W 51st St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0195284133,40.7327694497,-74.0099441692,40.7342156236",
     "geom:latitude":40.73353,
     "geom:longitude":-74.014118,
-    "intersection:latitude":40.733165,
-    "intersection:longitude":-74.010163,
+    "intersection:latitude":40.73353,
+    "intersection:longitude":-74.014118,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.733165,
-    "reversegeo:longitude":-74.010163,
+    "reversegeo:latitude":40.73353,
+    "reversegeo:longitude":-74.014118,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108910831,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 10th St  & Lincoln Hwy",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

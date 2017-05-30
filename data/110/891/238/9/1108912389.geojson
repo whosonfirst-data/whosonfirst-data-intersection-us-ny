@@ -9,13 +9,13 @@
     "geom:bbox":"-73.909735041,40.8765892798,-73.9083525,40.877828",
     "geom:latitude":40.877263,
     "geom:longitude":-73.908938,
-    "intersection:latitude":40.877221,
-    "intersection:longitude":-73.909046,
+    "intersection:latitude":40.877263,
+    "intersection:longitude":-73.908938,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.877221,
-    "reversegeo:longitude":-73.909046,
+    "reversegeo:latitude":40.877263,
+    "reversegeo:longitude":-73.908938,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108912389,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 228th St  & Marble Hill Ave",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9277468077,40.8520851145,-73.9224473634,40.8550072341",
     "geom:latitude":40.853439,
     "geom:longitude":-73.925268,
-    "intersection:latitude":40.853718,
-    "intersection:longitude":-73.9268,
+    "intersection:latitude":40.853439,
+    "intersection:longitude":-73.925268,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.853718,
-    "reversegeo:longitude":-73.9268,
+    "reversegeo:latitude":40.853439,
+    "reversegeo:longitude":-73.925268,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912609,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Amsterdam Ave  & W 190th St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

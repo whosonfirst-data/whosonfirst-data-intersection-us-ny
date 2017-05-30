@@ -9,13 +9,13 @@
     "geom:bbox":"-74.026017,40.6923055372,-74.0169389175,40.7003339432",
     "geom:latitude":40.696738,
     "geom:longitude":-74.021517,
-    "intersection:latitude":40.693178,
-    "intersection:longitude":-74.019316,
+    "intersection:latitude":40.696738,
+    "intersection:longitude":-74.021517,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.693178,
-    "reversegeo:longitude":-74.019316,
+    "reversegeo:latitude":40.696738,
+    "reversegeo:longitude":-74.021517,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108912285,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Craig Rd N  & Carder Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

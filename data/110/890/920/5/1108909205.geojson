@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9377884866,40.8300545878,-73.9330466037,40.8354247856",
     "geom:latitude":40.832415,
     "geom:longitude":-73.935081,
-    "intersection:latitude":40.83197,
-    "intersection:longitude":-73.935275,
+    "intersection:latitude":40.832415,
+    "intersection:longitude":-73.935081,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.83197,
-    "reversegeo:longitude":-73.935275,
+    "reversegeo:latitude":40.832415,
+    "reversegeo:longitude":-73.935081,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108909205,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Frederick Douglass Blvd  & Harlem River Dr",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9346300647,40.8060482057,-73.9314544025,40.809460761",
     "geom:latitude":40.807571,
     "geom:longitude":-73.933002,
-    "intersection:latitude":40.807051,
-    "intersection:longitude":-73.933695,
+    "intersection:latitude":40.807571,
+    "intersection:longitude":-73.933002,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.807051,
-    "reversegeo:longitude":-73.933695,
+    "reversegeo:latitude":40.807571,
+    "reversegeo:longitude":-73.933002,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817954,
-    "wof:geomhash":"1bcb141acaa9ac66bc7b28df98501ca1",
+    "wof:geomhash":"430397128737889196349d1ff2d73c28",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108908179,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"3rd Ave  & Harlem River Dr",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

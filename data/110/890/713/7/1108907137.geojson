@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9734819111,40.8072652638,-73.9656072679,40.814798305",
     "geom:latitude":40.811296,
     "geom:longitude":-73.969948,
-    "intersection:latitude":40.808226,
-    "intersection:longitude":-73.966518,
+    "intersection:latitude":40.811296,
+    "intersection:longitude":-73.969948,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.808226,
-    "reversegeo:longitude":-73.966518,
+    "reversegeo:latitude":40.811296,
+    "reversegeo:longitude":-73.969948,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817905,
-    "wof:geomhash":"35c0dcb7783cade8ea08a04d2ecd518c",
+    "wof:geomhash":"90490f5a8414c339501e1bede152ebe3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907137,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Riverside Dr  & W 115th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",
@@ -61,7 +61,7 @@
     -73.97348191114092,
     40.8072652638178,
     -73.96560726792833,
-    40.814798304990646
+    40.81479830499065
 ],
   "geometry": {"coordinates":[[[[-73.96586604057529,40.8072652638178],[-73.97348191114092,40.81283814688249],[-73.97213539605272,40.81479830499065],[-73.97208864849296,40.8147808668424],[-73.96567207063684,40.80794389250617],[-73.96560726792833,40.80754976040794],[-73.96586604057529,40.8072652638178]]]],"type":"MultiPolygon"}
 }

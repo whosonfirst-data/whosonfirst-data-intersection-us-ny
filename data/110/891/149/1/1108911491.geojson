@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9335796457,40.8426132217,-73.9289390372,40.8467994119",
     "geom:latitude":40.844869,
     "geom:longitude":-73.931215,
-    "intersection:latitude":40.845542,
-    "intersection:longitude":-73.93277,
+    "intersection:latitude":40.844869,
+    "intersection:longitude":-73.931215,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.845542,
-    "reversegeo:longitude":-73.93277,
+    "reversegeo:latitude":40.844869,
+    "reversegeo:longitude":-73.931215,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911491,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"W 177th St  & Amsterdam Ave",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

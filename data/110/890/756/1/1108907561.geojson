@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0079604751,40.7610558221,-74.0015815567,40.7666017388",
     "geom:latitude":40.763925,
     "geom:longitude":-74.004942,
-    "intersection:latitude":40.761438,
-    "intersection:longitude":-74.001848,
+    "intersection:latitude":40.763925,
+    "intersection:longitude":-74.004942,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.761438,
-    "reversegeo:longitude":-74.001848,
+    "reversegeo:latitude":40.763925,
+    "reversegeo:longitude":-74.004942,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817928,
-    "wof:geomhash":"d5eefb87df6946a7c7a4d7517e3f984b",
+    "wof:geomhash":"09cfef0051fa1e008404fc61412c9e63",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907561,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Lincoln Hwy  & W 41st St",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",

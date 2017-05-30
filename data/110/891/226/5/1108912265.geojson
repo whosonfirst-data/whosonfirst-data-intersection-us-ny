@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9417069483,40.8673672161,-73.9274090784,40.877828",
     "geom:latitude":40.872598,
     "geom:longitude":-73.933994,
-    "intersection:latitude":40.868707,
-    "intersection:longitude":-73.931098,
+    "intersection:latitude":40.872598,
+    "intersection:longitude":-73.933994,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.868707,
-    "reversegeo:longitude":-73.931098,
+    "reversegeo:latitude":40.872598,
+    "reversegeo:longitude":-73.933994,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108912265,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"Dyckman St  & Henry Hudson Pkwy",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

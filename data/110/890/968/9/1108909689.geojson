@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9307755131,40.7820505939,-73.9188505713,40.7981233514",
     "geom:latitude":40.789417,
     "geom:longitude":-73.925161,
-    "intersection:latitude":40.797038,
-    "intersection:longitude":-73.92982,
+    "intersection:latitude":40.789417,
+    "intersection:longitude":-73.925161,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.797038,
-    "reversegeo:longitude":-73.92982,
+    "reversegeo:latitude":40.789417,
+    "reversegeo:longitude":-73.925161,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818035,
-    "wof:geomhash":"85019769ab91258e499f243767ad490e",
+    "wof:geomhash":"95e2303513212050b0b1a72ffc161f71",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108909689,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185343,
     "wof:name":"Paladino Ave  & E 120th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
 },
   "bbox": [
     -73.93077551314128,
-    40.782050593866934,
+    40.78205059386693,
     -73.91885057134013,
     40.79812335139253
 ],

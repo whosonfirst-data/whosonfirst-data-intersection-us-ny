@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9749151533,40.7342893366,-73.9625797727,40.7399898454",
     "geom:latitude":40.736889,
     "geom:longitude":-73.967862,
-    "intersection:latitude":40.739023,
-    "intersection:longitude":-73.973478,
+    "intersection:latitude":40.736889,
+    "intersection:longitude":-73.967862,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.739023,
-    "reversegeo:longitude":-73.973478,
+    "reversegeo:latitude":40.736889,
+    "reversegeo:longitude":-73.967862,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108911903,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"F D R Dr  & E 28th St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

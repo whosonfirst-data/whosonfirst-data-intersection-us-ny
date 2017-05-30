@@ -9,13 +9,13 @@
     "geom:bbox":"-74.0161633652,40.7474815018,-74.0081082575,40.7530616113",
     "geom:latitude":40.750029,
     "geom:longitude":-74.012481,
-    "intersection:latitude":40.750341,
-    "intersection:longitude":-74.008464,
+    "intersection:latitude":40.750029,
+    "intersection:longitude":-74.012481,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.750341,
-    "reversegeo:longitude":-74.008464,
+    "reversegeo:latitude":40.750029,
+    "reversegeo:longitude":-74.012481,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817935,
-    "wof:geomhash":"3dccbae64430230c1bd0d01c47f7cf68",
+    "wof:geomhash":"0d023f70f98a267ae6744602621a9d9a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108907729,
-    "wof:lastmodified":1496184986,
+    "wof:lastmodified":1496185343,
     "wof:name":"Lincoln Hwy  & W 24th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",
@@ -59,7 +59,7 @@
 },
   "bbox": [
     -74.01616336516776,
-    40.747481501804614,
+    40.74748150180461,
     -74.00810825754525,
     40.75306161126837
 ],

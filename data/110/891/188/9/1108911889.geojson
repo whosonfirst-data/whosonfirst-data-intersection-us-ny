@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9373279031,40.8238345348,-73.9325550707,40.8264675517",
     "geom:latitude":40.825147,
     "geom:longitude":-73.934972,
-    "intersection:latitude":40.82543,
-    "intersection:longitude":-73.936306,
+    "intersection:latitude":40.825147,
+    "intersection:longitude":-73.934972,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.82543,
-    "reversegeo:longitude":-73.936306,
+    "reversegeo:latitude":40.825147,
+    "reversegeo:longitude":-73.934972,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911889,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"7th Ave  & W 151st St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

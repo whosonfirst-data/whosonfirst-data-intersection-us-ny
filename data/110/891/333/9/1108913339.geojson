@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9138396764,40.8671319484,-73.909943941,40.8704429518",
     "geom:latitude":40.868828,
     "geom:longitude":-73.911885,
-    "intersection:latitude":40.869444,
-    "intersection:longitude":-73.912847,
+    "intersection:latitude":40.868828,
+    "intersection:longitude":-73.911885,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.869444,
-    "reversegeo:longitude":-73.912847,
+    "reversegeo:latitude":40.868828,
+    "reversegeo:longitude":-73.911885,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108913339,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"9th Ave  & W 216th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

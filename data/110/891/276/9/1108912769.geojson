@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9203673111,40.8589596838,-73.9173643796,40.8613931996",
     "geom:latitude":40.860171,
     "geom:longitude":-73.918902,
-    "intersection:latitude":40.860527,
-    "intersection:longitude":-73.919379,
+    "intersection:latitude":40.860171,
+    "intersection:longitude":-73.918902,
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.860527,
-    "reversegeo:longitude":-73.919379,
+    "reversegeo:latitude":40.860171,
+    "reversegeo:longitude":-73.918902,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108912769,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"9th Ave  & W 202nd St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

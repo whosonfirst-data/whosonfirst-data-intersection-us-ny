@@ -9,13 +9,13 @@
     "geom:bbox":"-73.980993924,40.7978672717,-73.9720655133,40.8054656491",
     "geom:latitude":40.801617,
     "geom:longitude":-73.97688,
-    "intersection:latitude":40.798577,
-    "intersection:longitude":-73.973153,
+    "intersection:latitude":40.801617,
+    "intersection:longitude":-73.97688,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.798577,
-    "reversegeo:longitude":-73.973153,
+    "reversegeo:latitude":40.801617,
+    "reversegeo:longitude":-73.97688,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108913291,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185345,
     "wof:name":"W 100th St  & Riverside Dr",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

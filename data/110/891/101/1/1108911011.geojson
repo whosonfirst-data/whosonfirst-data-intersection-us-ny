@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9369973471,40.7806327289,-73.9214575877,40.7933741011",
     "geom:latitude":40.786923,
     "geom:longitude":-73.929442,
-    "intersection:latitude":40.791842,
-    "intersection:longitude":-73.935553,
+    "intersection:latitude":40.786923,
+    "intersection:longitude":-73.929442,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.791842,
-    "reversegeo:longitude":-73.935553,
+    "reversegeo:latitude":40.786923,
+    "reversegeo:longitude":-73.929442,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -33,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818092,
-    "wof:geomhash":"7f581d4d6991637914089cd8a0231801",
+    "wof:geomhash":"81d01008bc5a3b17d0d1e217b85e7ef8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108911011,
-    "wof:lastmodified":1496184987,
+    "wof:lastmodified":1496185344,
     "wof:name":"E 111th St  & F D R Dr",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

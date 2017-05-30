@@ -9,13 +9,13 @@
     "geom:bbox":"-73.9705897907,40.7390546648,-73.9621516215,40.7472714238",
     "geom:latitude":40.743134,
     "geom:longitude":-73.966185,
-    "intersection:latitude":40.746322,
-    "intersection:longitude":-73.969854,
+    "intersection:latitude":40.743134,
+    "intersection:longitude":-73.966185,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.746322,
-    "reversegeo:longitude":-73.969854,
+    "reversegeo:latitude":40.743134,
+    "reversegeo:longitude":-73.966185,
     "src:geom":"mapzen",
     "src:geom_alt":[
         "mapzen"
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108912415,
-    "wof:lastmodified":1496184988,
+    "wof:lastmodified":1496185344,
     "wof:name":"E 39th St  & F D R Dr",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",
