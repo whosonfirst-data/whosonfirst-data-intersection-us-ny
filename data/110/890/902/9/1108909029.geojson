@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000052,
+    "geom:area":0.000008,
     "geom:area_square_m":490520.415864,
-    "geom:bbox":"-74.026017,40.7895094471,-73.978582282,40.825261401",
-    "geom:latitude":40.807802,
-    "geom:longitude":-74.003178,
+    "geom:bbox":"-73.9866252837,40.7895094471,-73.978582282,40.7957479922",
+    "geom:latitude":40.79263,
+    "geom:longitude":-73.982615,
     "intersection:latitude":40.790614,
     "intersection:longitude":-73.979862,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.790614,
     "reversegeo:longitude":-73.979862,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817991,
-    "wof:geomhash":"99d0765bc989346838ecb269afa2fb4e",
+    "wof:geomhash":"4fa9b1127d8b9c08067b94e225af775e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1108909029,
-    "wof:lastmodified":1490900180,
+    "wof:lastmodified":1496184987,
     "wof:name":"Riverside Dr  & W 87th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",
@@ -53,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -73.9866252837035,
     40.78950944712758,
     -73.97858228195881,
-    40.82526140095099
+    40.795747992161374
 ],
-  "geometry": {"coordinates":[[[-73.97906525841789,40.78950944712758],[-74.026017,40.82404304606251],[-74.026017,40.82526140095099],[-73.97858228195881,40.79015519916761],[-73.97865407456428,40.78998516762758],[-73.97906525841789,40.78950944712758]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.97906525841789,40.78950944712758],[-73.9866252837035,40.7950699412084],[-73.986256,40.795585],[-73.98613913930153,40.79574799216137],[-73.97858228195881,40.79015519916761],[-73.97865407456428,40.78998516762758],[-73.97906525841789,40.78950944712758]]]],"type":"MultiPolygon"}
 }

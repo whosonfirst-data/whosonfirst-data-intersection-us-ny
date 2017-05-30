@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000004,
+    "geom:area":0.000003,
     "geom:area_square_m":37988.437534,
-    "geom:bbox":"-73.9352990874,40.8161022266,-73.9293452064,40.8177468438",
-    "geom:latitude":40.816742,
-    "geom:longitude":-73.932912,
+    "geom:bbox":"-73.9352990874,40.8161022266,-73.9321023363,40.8177468438",
+    "geom:latitude":40.816855,
+    "geom:longitude":-73.933572,
     "intersection:latitude":40.817189,
     "intersection:longitude":-73.934454,
     "iso:country":"US",
@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.817189,
     "reversegeo:longitude":-73.934454,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85865555,
         102191575,
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817929,
-    "wof:geomhash":"1309d40502fd4fcbdf600a9df0b503dd",
+    "wof:geomhash":"a22a11d2e70da6e51763428b52b9117a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108907565,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1496184986,
     "wof:name":"W 142nd St  & 5th Ave",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",
@@ -57,8 +60,8 @@
   "bbox": [
     -73.93529908742998,
     40.81610222659488,
-    -73.92934520639061,
+    -73.93210233627451,
     40.81774684376477
 ],
-  "geometry": {"coordinates":[[[-73.93347042906728,40.81610222659488],[-73.93529908742998,40.81726139127556],[-73.93510439068132,40.81774684376477],[-73.92934520639061,40.81623754029535],[-73.93347042906728,40.81610222659488]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.93347042906728,40.81610222659488],[-73.93529908742998,40.81726139127556],[-73.93510439068132,40.81774684376477],[-73.93210326739465,40.81696034248958],[-73.93210233627451,40.81614710215988],[-73.93347042906728,40.81610222659488]]]],"type":"MultiPolygon"}
 }

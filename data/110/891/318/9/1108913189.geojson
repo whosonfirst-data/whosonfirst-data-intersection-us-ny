@@ -17,6 +17,9 @@
     "reversegeo:latitude":40.808806,
     "reversegeo:longitude":-73.9659,
     "src:geom":"mapzen",
+    "src:geom_alt":[
+        "mapzen"
+    ],
     "wof:belongsto":[
         85869509,
         102191575,
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818204,
-    "wof:geomhash":"12dd1d9b0ca2ac3a8c0ac7c9916b95b7",
+    "wof:geomhash":"9167f53d69911e8c74b8ac94ff0e4b96",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108913189,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1496184988,
     "wof:name":"Riverside Dr  & W 116th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",
@@ -60,5 +63,5 @@
     -73.96506396931099,
     40.8147808668424
 ],
-  "geometry": {"coordinates":[[[-73.96567207063684,40.80794389250617],[-73.97208864849296,40.8147808668424],[-73.97153053968613,40.81460346797165],[-73.96506396931099,40.80970626023758],[-73.96567207063684,40.80794389250617]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.96567207063684,40.80794389250617],[-73.97208864849296,40.8147808668424],[-73.97153053968613,40.81460346797165],[-73.96506396931099,40.80970626023758],[-73.96567207063684,40.80794389250617]]]],"type":"MultiPolygon"}
 }
