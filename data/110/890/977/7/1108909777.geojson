@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000019,
+    "geom:area":0.000015,
     "geom:area_square_m":179079.312032,
-    "geom:bbox":"-74.0154229773,40.684656,-74.0055595478,40.6877412522",
-    "geom:latitude":40.685808,
-    "geom:longitude":-74.011638,
-    "intersection:latitude":40.687428,
-    "intersection:longitude":-74.01471,
+    "geom:bbox":"-74.0154229773,40.684656,-74.0084111731,40.6877412522",
+    "geom:latitude":40.685981,
+    "geom:longitude":-74.012546,
+    "intersection:latitude":40.685981,
+    "intersection:longitude":-74.012546,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.687428,
-    "reversegeo:longitude":-74.01471,
+    "reversegeo:latitude":40.685981,
+    "reversegeo:longitude":-74.012546,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         907131741,
         102191575,
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818038,
-    "wof:geomhash":"9461c85869af8b8773f7165540744377",
+    "wof:geomhash":"8fa6da047b2f80041550eb23380d5fe9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909777,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1496248595,
     "wof:name":"Comfort Rd  & Kimmel Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",
@@ -55,8 +56,8 @@
   "bbox": [
     -74.01542297727383,
     40.684656,
-    -74.00555954777066,
+    -74.00841117311369,
     40.68774125222111
 ],
-  "geometry": {"coordinates":[[[-74.01538065463917,40.684656],[-74.01542297727383,40.68670864778109],[-74.01471500433,40.68774125222111],[-74.00864352070703,40.68639430123255],[-74.00555954777066,40.684656],[-74.01538065463917,40.684656]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.01538065463917,40.684656],[-74.01542297727383,40.68670864778109],[-74.01471500433,40.68774125222111],[-74.00864352070703,40.68639430123255],[-74.00841117311369,40.68626333701327],[-74.008521,40.685992],[-74.008546,40.68593],[-74.00936299999999,40.685497],[-74.01095269512196,40.684656],[-74.01538065463917,40.684656]]]],"type":"MultiPolygon"}
 }

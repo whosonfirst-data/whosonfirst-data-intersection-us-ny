@@ -9,14 +9,15 @@
     "geom:bbox":"-73.9360789294,40.8279366651,-73.934063625,40.8301569792",
     "geom:latitude":40.829186,
     "geom:longitude":-73.935155,
-    "intersection:latitude":40.828196,
-    "intersection:longitude":-73.935016,
+    "intersection:latitude":40.829186,
+    "intersection:longitude":-73.935155,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.828196,
-    "reversegeo:longitude":-73.935016,
+    "reversegeo:latitude":40.829186,
+    "reversegeo:longitude":-73.935155,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865555,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818281,
-    "wof:geomhash":"c31bc5ee65f23ac48a041d03b13f6720",
+    "wof:geomhash":"5cd1eb67e2fb54467708a014691a5876",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914625,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1496248597,
     "wof:name":"W 155th St  & Harlem River Dr",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",
@@ -60,5 +61,5 @@
     -73.93406362497088,
     40.83015697922938
 ],
-  "geometry": {"coordinates":[[[-73.93533963947939,40.82793666510223],[-73.9354303194046,40.82797100944516],[-73.93607892939617,40.82882699030439],[-73.93555740459199,40.83005458783411],[-73.93406362497088,40.83015697922938],[-73.93501802845761,40.82808910500852],[-73.93533963947939,40.82793666510223]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.93533963947939,40.82793666510223],[-73.9354303194046,40.82797100944516],[-73.93607892939617,40.82882699030439],[-73.93555740459199,40.83005458783411],[-73.93406362497088,40.83015697922938],[-73.93501802845761,40.82808910500852],[-73.93533963947939,40.82793666510223]]]],"type":"MultiPolygon"}
 }

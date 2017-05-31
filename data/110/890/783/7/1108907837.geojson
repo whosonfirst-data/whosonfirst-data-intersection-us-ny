@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000012,
+    "geom:area":0.000005,
     "geom:area_square_m":114443.55947,
-    "geom:bbox":"-74.026017,40.7604278369,-74.0020351168,40.7779645417",
-    "geom:latitude":40.766911,
-    "geom:longitude":-74.010743,
-    "intersection:latitude":40.760815,
-    "intersection:longitude":-74.002286,
+    "geom:bbox":"-74.0083103811,40.7604278369,-74.0020351168,40.7652699063",
+    "geom:latitude":40.762794,
+    "geom:longitude":-74.005035,
+    "intersection:latitude":40.762794,
+    "intersection:longitude":-74.005035,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.760815,
-    "reversegeo:longitude":-74.002286,
+    "reversegeo:latitude":40.762794,
+    "reversegeo:longitude":-74.005035,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85868039,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817939,
-    "wof:geomhash":"70f652fd5dfc3f5adb92ce80051ff097",
+    "wof:geomhash":"5b476fc985e37ba8d700e1b19030e2b1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907837,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1496248595,
     "wof:name":"Lincoln Hwy  & W 40th St",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -74.00831038110898,
     40.76042783690153,
     -74.00203511683024,
-    40.77796454173392
+    40.76526990627752
 ],
-  "geometry": {"coordinates":[[[-74.00231095468489,40.76042783690153],[-74.00249598687678,40.76049230987491],[-74.026017,40.77788568042033],[-74.026017,40.77796454173392],[-74.00203511683024,40.76110408454518],[-74.00231095468489,40.76042783690153]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.00231095468489,40.76042783690153],[-74.00249598687678,40.76049230987491],[-74.00831038110898,40.76479195091707],[-74.00827,40.764847],[-74.0079604751389,40.76526990627752],[-74.00203511683024,40.76110408454518],[-74.00231095468489,40.76042783690153]]]],"type":"MultiPolygon"}
 }

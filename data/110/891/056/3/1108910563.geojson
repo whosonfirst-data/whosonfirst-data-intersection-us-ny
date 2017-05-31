@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000014,
+    "geom:area":0.000011,
     "geom:area_square_m":129866.557134,
-    "geom:bbox":"-74.0233885942,40.7417999657,-74.0083461151,40.7461848891",
-    "geom:latitude":40.74366,
-    "geom:longitude":-74.014066,
-    "intersection:latitude":40.742373,
-    "intersection:longitude":-74.008796,
+    "geom:bbox":"-74.0170510174,40.7417999657,-74.0083461151,40.7448558739",
+    "geom:latitude":40.743258,
+    "geom:longitude":-74.012557,
+    "intersection:latitude":40.743258,
+    "intersection:longitude":-74.012557,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.742373,
-    "reversegeo:longitude":-74.008796,
+    "reversegeo:latitude":40.743258,
+    "reversegeo:longitude":-74.012557,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85810589,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818073,
-    "wof:geomhash":"b26be4121183378e3daac0808a5c227d",
+    "wof:geomhash":"12bd2f93958276d4e4002b8d5327522d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910563,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1496248595,
     "wof:name":"Lincoln Hwy  & W 14th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.02338859420877,
+    -74.01705101742117,
     40.74179996565861,
     -74.00834611505455,
-    40.74618488906954
+    40.74485587393715
 ],
-  "geometry": {"coordinates":[[[-74.0102727069973,40.74179996565861],[-74.0212732548311,40.74538408958556],[-74.02338859420877,40.74618488906954],[-74.01154660720903,40.74378016655597],[-74.00834611505455,40.74266538838979],[-74.00862995673317,40.74191856939533],[-74.0102727069973,40.74179996565861]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.0102727069973,40.74179996565861],[-74.01705101742117,40.74400842881349],[-74.017022,40.744127],[-74.01684389733363,40.74485587393715],[-74.01154660720903,40.74378016655597],[-74.00834611505455,40.74266538838979],[-74.00862995673317,40.74191856939533],[-74.0102727069973,40.74179996565861]]]],"type":"MultiPolygon"}
 }

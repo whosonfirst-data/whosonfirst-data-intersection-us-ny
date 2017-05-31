@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000035,
+    "geom:area":0.000011,
     "geom:area_square_m":331077.588293,
-    "geom:bbox":"-73.9785300609,40.6912976263,-73.9354363392,40.7140657424",
-    "geom:latitude":40.705792,
-    "geom:longitude":-73.962947,
-    "intersection:latitude":40.713254,
-    "intersection:longitude":-73.977587,
+    "geom:bbox":"-73.9785300609,40.7087662786,-73.9696446669,40.7140657424",
+    "geom:latitude":40.711606,
+    "geom:longitude":-73.974109,
+    "intersection:latitude":40.711606,
+    "intersection:longitude":-73.974109,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.713254,
-    "reversegeo:longitude":-73.977587,
+    "reversegeo:latitude":40.711606,
+    "reversegeo:longitude":-73.974109,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85831563,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818006,
-    "wof:geomhash":"cfbd6cf7455521bc33543cadba1a20d8",
+    "wof:geomhash":"6418517131a31fa55b6326941ca0c132",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909261,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1496248595,
     "wof:name":"Grand St  & F D R Dr",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",
@@ -56,9 +57,9 @@
 },
   "bbox": [
     -73.97853006092714,
-    40.69129762632295,
-    -73.93543633923039,
+    40.70876627858708,
+    -73.96964466693932,
     40.71406574237493
 ],
-  "geometry": {"coordinates":[[[-73.93543633923039,40.69129762632295],[-73.97853006092714,40.71320105460837],[-73.97827212705432,40.71406574237493],[-73.97744285607834,40.71405122105703],[-73.95603493448498,40.70267973519221],[-73.93543633923039,40.69129762632295]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.96980489694101,40.70876627858708],[-73.97853006092714,40.71320105460837],[-73.97827212705432,40.71406574237493],[-73.97744285607834,40.71405122105703],[-73.96964466693932,40.70990896945269],[-73.96984500000001,40.709047],[-73.96980489694101,40.70876627858708]]]],"type":"MultiPolygon"}
 }

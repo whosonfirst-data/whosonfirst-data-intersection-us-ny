@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000027,
+    "geom:area":0.000008,
     "geom:area_square_m":251690.595905,
-    "geom:bbox":"-73.9335796457,40.8358288899,-73.918161759,40.8467994119",
-    "geom:latitude":40.841284,
-    "geom:longitude":-73.926271,
-    "intersection:latitude":40.845542,
-    "intersection:longitude":-73.93277,
+    "geom:bbox":"-73.9335796457,40.8426132217,-73.9289390372,40.8467994119",
+    "geom:latitude":40.844869,
+    "geom:longitude":-73.931215,
+    "intersection:latitude":40.844869,
+    "intersection:longitude":-73.931215,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.845542,
-    "reversegeo:longitude":-73.93277,
+    "reversegeo:latitude":40.844869,
+    "reversegeo:longitude":-73.931215,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85854625,
         102191575,
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818126,
-    "wof:geomhash":"b44ae0aad4f2c6555ff584c4628baf5f",
+    "wof:geomhash":"35bdfb6e5d60e5d4cb15485d6ca3f2ca",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911491,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1496248596,
     "wof:name":"W 177th St  & Amsterdam Ave",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",
@@ -54,9 +55,9 @@
 },
   "bbox": [
     -73.93357964573455,
-    40.83582888990185,
-    -73.91816175897873,
+    40.84261322165938,
+    -73.9289390372142,
     40.84679941187556
 ],
-  "geometry": {"coordinates":[[[-73.91816175897873,40.83582888990185],[-73.92048547619575,40.83625771351775],[-73.92134297855216,40.83668502621755],[-73.93357964573455,40.84564954663783],[-73.93311636683077,40.84678028746809],[-73.93251213238729,40.84679941187556],[-73.9198205417115,40.83753307022105],[-73.91816175897873,40.83582888990185]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.92943502934941,40.84261322165938],[-73.93357964573455,40.84564954663783],[-73.93311636683077,40.84678028746809],[-73.93251213238729,40.84679941187556],[-73.92893903721421,40.84419063560128],[-73.929006,40.844079],[-73.92943502934941,40.84261322165938]]]],"type":"MultiPolygon"}
 }

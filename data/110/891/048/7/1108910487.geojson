@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.00001,
+    "geom:area":0.000005,
     "geom:area_square_m":93475.775301,
-    "geom:bbox":"-74.0048296655,40.6900239887,-73.9942001893,40.7059347607",
-    "geom:latitude":40.697996,
-    "geom:longitude":-73.999609,
-    "intersection:latitude":40.705429,
-    "intersection:longitude":-74.004439,
+    "geom:bbox":"-74.0048296655,40.6970311725,-73.9990416396,40.7059347607",
+    "geom:latitude":40.701556,
+    "geom:longitude":-74.001882,
+    "intersection:latitude":40.701556,
+    "intersection:longitude":-74.001882,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.705429,
-    "reversegeo:longitude":-74.004439,
+    "reversegeo:latitude":40.701556,
+    "reversegeo:longitude":-74.001882,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865711,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818069,
-    "wof:geomhash":"72d9f1b1fcdaabb551debef72525b192",
+    "wof:geomhash":"07fd1b07d5f9d6dc2c2964b64287536f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910487,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1496248595,
     "wof:name":"South St  & Fletcher St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",
@@ -56,9 +57,9 @@
 },
   "bbox": [
     -74.0048296655358,
-    40.69002398872478,
-    -73.99420018929071,
+    40.69703117253285,
+    -73.99904163957778,
     40.7059347606945
 ],
-  "geometry": {"coordinates":[[[-73.99420018929071,40.69002398872478],[-73.99524807800125,40.69062371918986],[-74.00482966553579,40.70570134424412],[-74.00468550868158,40.70589524536491],[-74.0043607524435,40.7059347606945],[-73.99420018929071,40.69002398872478]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.99931991125473,40.69703117253285],[-74.00482966553579,40.70570134424412],[-74.00468550868158,40.70589524536491],[-74.0043607524435,40.7059347606945],[-73.99904163957778,40.69760538065768],[-73.99918700000001,40.697278],[-73.999246,40.697148],[-73.99931991125473,40.69703117253285]]]],"type":"MultiPolygon"}
 }

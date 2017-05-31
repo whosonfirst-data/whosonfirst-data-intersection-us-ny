@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000046,
+    "geom:area":0.000026,
     "geom:area_square_m":433356.570887,
-    "geom:bbox":"-73.9697220808,40.7343953707,-73.9550453491,40.7481171679",
-    "geom:latitude":40.742492,
-    "geom:longitude":-73.962196,
-    "intersection:latitude":40.747515,
-    "intersection:longitude":-73.968795,
+    "geom:bbox":"-73.9697220808,40.7405512927,-73.9604172264,40.7481171679",
+    "geom:latitude":40.74467,
+    "geom:longitude":-73.964611,
+    "intersection:latitude":40.74467,
+    "intersection:longitude":-73.964611,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.747515,
-    "reversegeo:longitude":-73.968795,
+    "reversegeo:latitude":40.74467,
+    "reversegeo:longitude":-73.964611,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85836095,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818195,
-    "wof:geomhash":"6d0375bb6a7680f4b609612888020199",
+    "wof:geomhash":"e729ee8e13a41704cb16ce96e0767185",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912987,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1496248596,
     "wof:name":"E 41st St  & F D R Dr",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",
@@ -56,9 +57,9 @@
 },
   "bbox": [
     -73.96972208079148,
-    40.73439537074533,
-    -73.9550453491073,
+    40.74055129267142,
+    -73.96041722635778,
     40.74811716789422
 ],
-  "geometry": {"coordinates":[[[-73.95504534910729,40.73439537074533],[-73.95549791450507,40.73464494254911],[-73.96972208079148,40.74727142377046],[-73.96936256375535,40.74811716789422],[-73.96213984541076,40.74550009163243],[-73.95977468344738,40.74344199350701],[-73.95504534910729,40.73439537074533]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.96215162148904,40.74055129267142],[-73.96972208079148,40.74727142377046],[-73.96936256375535,40.74811716789422],[-73.96213984541076,40.74550009163243],[-73.96041722635778,40.74400111646766],[-73.961544,40.743081],[-73.961797,40.741388],[-73.96215162148904,40.74055129267142]]]],"type":"MultiPolygon"}
 }

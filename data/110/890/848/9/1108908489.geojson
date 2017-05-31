@@ -9,14 +9,15 @@
     "geom:bbox":"-73.9119180273,40.8762654153,-73.9099280177,40.877828",
     "geom:latitude":40.877176,
     "geom:longitude":-73.910912,
-    "intersection:latitude":40.877355,
-    "intersection:longitude":-73.910607,
+    "intersection:latitude":40.877176,
+    "intersection:longitude":-73.910912,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.877355,
-    "reversegeo:longitude":-73.910607,
+    "reversegeo:latitude":40.877176,
+    "reversegeo:longitude":-73.910912,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865673,
         102191575,
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817969,
-    "wof:geomhash":"fd0c2da3cde9048d89b23e1a65f423f7",
+    "wof:geomhash":"f5d416a94ee1f0bf1899a38fe9590ce3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908489,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1496248595,
     "wof:name":"Adrian Ave  & W 227th St",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",
@@ -58,5 +59,5 @@
     -73.90992801774865,
     40.877828
 ],
-  "geometry": {"coordinates":[[[-73.91053870320455,40.87626541531183],[-73.91159147530871,40.87679806786453],[-73.91191802725119,40.877828],[-73.91047584646302,40.877828],[-73.90992801774865,40.8771075994496],[-73.91049179870684,40.87631565466303],[-73.91053870320455,40.87626541531183]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.91053870320455,40.87626541531183],[-73.91159147530871,40.87679806786453],[-73.91191802725119,40.877828],[-73.91047584646302,40.877828],[-73.90992801774865,40.8771075994496],[-73.91049179870684,40.87631565466303],[-73.91053870320455,40.87626541531183]]]],"type":"MultiPolygon"}
 }

@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000053,
+    "geom:area":0.000038,
     "geom:area_square_m":499249.399488,
-    "geom:bbox":"-73.9750186538,40.7293519462,-73.9535600165,40.7344714751",
-    "geom:latitude":40.732245,
-    "geom:longitude":-73.965564,
-    "intersection:latitude":40.730968,
-    "intersection:longitude":-73.973988,
+    "geom:bbox":"-73.9750186538,40.7293519462,-73.9620279779,40.7344714751",
+    "geom:latitude":40.731916,
+    "geom:longitude":-73.968149,
+    "intersection:latitude":40.731916,
+    "intersection:longitude":-73.968149,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.730968,
-    "reversegeo:longitude":-73.973988,
+    "reversegeo:latitude":40.731916,
+    "reversegeo:longitude":-73.968149,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85851295,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818161,
-    "wof:geomhash":"a1b4ecb901f039bd7b249f4462879d3a",
+    "wof:geomhash":"08eed5df834a194a268d0f785bbdab43",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912331,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1496248596,
     "wof:name":"Ave C  & Stuyvesant Loop E",
     "wof:parent_id":85851295,
     "wof:placetype":"intersection",
@@ -57,8 +58,8 @@
   "bbox": [
     -73.97501865376067,
     40.72935194621397,
-    -73.95356001645408,
+    -73.96202797788948,
     40.7344714750676
 ],
-  "geometry": {"coordinates":[[[-73.97285318898918,40.72935194621397],[-73.97492904320032,40.73074762691766],[-73.97501865376067,40.73155773186493],[-73.96545648856767,40.7344714750676],[-73.95448065460501,40.73377654330834],[-73.95356001645408,40.73311247984373],[-73.97285318898918,40.72935194621397]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.97285318898918,40.72935194621397],[-73.97492904320032,40.73074762691766],[-73.97501865376067,40.73155773186493],[-73.96545648856767,40.7344714750676],[-73.96257977268483,40.73428933663182],[-73.962549,40.733542],[-73.962328,40.732839],[-73.962305,40.732293],[-73.96229700000001,40.732092],[-73.962057,40.73153],[-73.96202797788948,40.73146194498766],[-73.97285318898918,40.72935194621397]]]],"type":"MultiPolygon"}
 }

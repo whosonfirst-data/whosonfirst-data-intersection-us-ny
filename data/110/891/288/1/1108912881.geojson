@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000028,
+    "geom:area":0.000022,
     "geom:area_square_m":259274.035302,
-    "geom:bbox":"-74.026017,40.7077181524,-74.0168691569,40.7126320868",
-    "geom:latitude":40.710068,
-    "geom:longitude":-74.022107,
-    "intersection:latitude":40.708457,
-    "intersection:longitude":-74.017398,
+    "geom:bbox":"-74.0246333704,40.7077181524,-74.0168691569,40.7124547022",
+    "geom:latitude":40.709833,
+    "geom:longitude":-74.021275,
+    "intersection:latitude":40.709833,
+    "intersection:longitude":-74.021275,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.708457,
-    "reversegeo:longitude":-74.017398,
+    "reversegeo:latitude":40.709833,
+    "reversegeo:longitude":-74.021275,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85804741,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818189,
-    "wof:geomhash":"b97fa7641db4b3c1e360ad41caf27652",
+    "wof:geomhash":"d8a2ada721cdff5c712dea40436d7746",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912881,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1496248596,
     "wof:name":"S End Ave  & W Thames St",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -74.02463337040322,
     40.70771815240447,
     -74.01686915690402,
-    40.71263208680119
+    40.71245470222655
 ],
-  "geometry": {"coordinates":[[[-74.01812281603428,40.70771815240447],[-74.02050978647003,40.70797943488257],[-74.026017,40.70926332515334],[-74.026017,40.71263208680119],[-74.02190584602558,40.71227205424057],[-74.01686915690402,40.70863690826654],[-74.01713849332641,40.70799316920126],[-74.01812281603428,40.70771815240447]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.01812281603428,40.70771815240447],[-74.02050978647003,40.70797943488257],[-74.02463337040322,40.70894076119826],[-74.02454299999999,40.709436],[-74.02399147403703,40.71245470222655],[-74.02190584602558,40.71227205424057],[-74.01686915690402,40.70863690826654],[-74.01713849332641,40.70799316920126],[-74.01812281603428,40.70771815240447]]]],"type":"MultiPolygon"}
 }

@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000006,
+    "geom:area":0.000004,
     "geom:area_square_m":56688.509914,
-    "geom:bbox":"-74.026017,40.7339748402,-74.0092655488,40.7358692727",
-    "geom:latitude":40.734919,
-    "geom:longitude":-74.017548,
-    "intersection:latitude":40.734248,
-    "intersection:longitude":-74.010074,
+    "geom:bbox":"-74.0192838957,40.7339748402,-74.0092655488,40.7352493408",
+    "geom:latitude":40.734614,
+    "geom:longitude":-74.014226,
+    "intersection:latitude":40.734614,
+    "intersection:longitude":-74.014226,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.734248,
-    "reversegeo:longitude":-74.010074,
+    "reversegeo:latitude":40.734614,
+    "reversegeo:longitude":-74.014226,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818051,
-    "wof:geomhash":"a857ac3c9a5d2ac423c2d9bac341eb9b",
+    "wof:geomhash":"617ce6c409d46646e38fa7e8777393ee",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910095,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1496248595,
     "wof:name":"Lincoln Hwy  & Charles Ln",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -74.0192838956594,
     40.7339748401905,
     -74.00926554879207,
-    40.73586927272833
+    40.735249340824
 ],
-  "geometry": {"coordinates":[[[-74.00930158314003,40.7339748401905],[-74.026017,40.73552101624909],[-74.026017,40.73586927272833],[-74.00926571693424,40.73434642881215],[-74.00926554879207,40.73434524520879],[-74.00930158314003,40.7339748401905]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.00930158314003,40.7339748401905],[-74.0192838956594,40.73489820409797],[-74.01919774905731,40.735249340824],[-74.00926571693424,40.73434642881215],[-74.00926554879207,40.73434524520879],[-74.00930158314003,40.7339748401905]]]],"type":"MultiPolygon"}
 }

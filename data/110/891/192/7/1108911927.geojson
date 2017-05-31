@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000006,
+    "geom:area":0.000004,
     "geom:area_square_m":56836.216426,
-    "geom:bbox":"-73.9315200541,40.8432470417,-73.9245860756,40.8490421505",
-    "geom:latitude":40.846447,
-    "geom:longitude":-73.9283,
-    "intersection:latitude":40.848481,
-    "intersection:longitude":-73.930621,
+    "geom:bbox":"-73.9315200541,40.8457342572,-73.9274507069,40.8490421505",
+    "geom:latitude":40.847369,
+    "geom:longitude":-73.929526,
+    "intersection:latitude":40.847369,
+    "intersection:longitude":-73.929526,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.848481,
-    "reversegeo:longitude":-73.930621,
+    "reversegeo:latitude":40.847369,
+    "reversegeo:longitude":-73.929526,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         907212535,
         85854625,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818144,
-    "wof:geomhash":"eb1bfa86818b5b93f0445fd1729a6901",
+    "wof:geomhash":"fdb73f3972aabdaf636d985fc31e6924",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911927,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1496248596,
     "wof:name":"Laurel Hill Ter  & Amsterdam Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",
@@ -56,9 +57,9 @@
 },
   "bbox": [
     -73.93152005412034,
-    40.84324704165398,
-    -73.92458607559807,
+    40.84573425716172,
+    -73.92745070687297,
     40.84904215051581
 ],
-  "geometry": {"coordinates":[[[-73.92458607559807,40.84324704165398],[-73.93152005412034,40.84833064224207],[-73.93148703277932,40.84855373130195],[-73.93117498717045,40.84904215051581],[-73.92610356916042,40.84540293851799],[-73.92458607559807,40.84324704165398]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.92797861177633,40.84573425716172],[-73.93152005412034,40.84833064224207],[-73.93148703277932,40.84855373130195],[-73.93117498717045,40.84904215051581],[-73.92745070687297,40.84636963456169],[-73.92797861177633,40.84573425716172]]]],"type":"MultiPolygon"}
 }

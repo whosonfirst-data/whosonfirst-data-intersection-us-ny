@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000945,
+    "geom:area":0.000016,
     "geom:area_square_m":8856906.025524,
-    "geom:bbox":"-73.9498099396,40.7053166743,-73.9083525,40.7647901094",
-    "geom:latitude":40.740185,
-    "geom:longitude":-73.923709,
-    "intersection:latitude":40.763905,
-    "intersection:longitude":-73.946704,
+    "geom:bbox":"-73.9498099396,40.759858479,-73.9439209188,40.7647901094",
+    "geom:latitude":40.762966,
+    "geom:longitude":-73.947368,
+    "intersection:latitude":40.762966,
+    "intersection:longitude":-73.947368,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.763905,
-    "reversegeo:longitude":-73.946704,
+    "reversegeo:latitude":40.762966,
+    "reversegeo:longitude":-73.947368,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85845835,
         102191575,
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818040,
-    "wof:geomhash":"e1b57cd93ad8e5ab3fa1f52de8de8d50",
+    "wof:geomhash":"b3261a1113734679a4179358c03af37d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909803,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1496248595,
     "wof:name":"Main St  & Roosevelt Island Brg",
     "wof:parent_id":85845835,
     "wof:placetype":"intersection",
@@ -54,9 +55,9 @@
 },
   "bbox": [
     -73.94980993963013,
-    40.70531667430143,
-    -73.9083525,
+    40.75985847903817,
+    -73.94392091879891,
     40.7647901094205
 ],
-  "geometry": {"coordinates":[[[-73.90835250000001,40.70531667430143],[-73.94229161011455,40.75203545906567],[-73.94980993963013,40.76291529839284],[-73.94957355180249,40.7647901094205],[-73.94124381083947,40.76430764710378],[-73.90835250000001,40.74501427241377],[-73.90835250000001,40.70531667430143]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.94769757615794,40.75985847903817],[-73.94980993963013,40.76291529839284],[-73.94957355180249,40.7647901094205],[-73.94392091879891,40.76446270639241],[-73.943951,40.764434],[-73.945111,40.763086],[-73.94769757615794,40.75985847903817]]]],"type":"MultiPolygon"}
 }

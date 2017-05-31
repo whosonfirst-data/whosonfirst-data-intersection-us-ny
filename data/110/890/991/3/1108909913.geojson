@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.00001,
+    "geom:area":0.000003,
     "geom:area_square_m":93833.299227,
-    "geom:bbox":"-73.9185445133,40.85577577,-73.9083525,40.8639135717",
-    "geom:latitude":40.859935,
-    "geom:longitude":-73.913334,
-    "intersection:latitude":40.86302,
-    "intersection:longitude":-73.917555,
+    "geom:bbox":"-73.9185445133,40.8611787495,-73.9151278173,40.8639135717",
+    "geom:latitude":40.862541,
+    "geom:longitude":-73.916876,
+    "intersection:latitude":40.862541,
+    "intersection:longitude":-73.916876,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.86302,
-    "reversegeo:longitude":-73.917555,
+    "reversegeo:latitude":40.862541,
+    "reversegeo:longitude":-73.916876,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85826989,
         102191575,
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818043,
-    "wof:geomhash":"ae59fa3acd3d29a3f2245ca533397ecd",
+    "wof:geomhash":"ba993bcb67318763d76e47a5ccbccd22",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909913,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1496248595,
     "wof:name":"9th Ave  & W 206th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",
@@ -54,9 +55,9 @@
 },
   "bbox": [
     -73.91854451331074,
-    40.85577576996803,
-    -73.9083525,
+    40.86117874953959,
+    -73.91512781728288,
     40.86391357166496
 ],
-  "geometry": {"coordinates":[[[-73.90835250000001,40.85577576996803],[-73.91854451331074,40.86326510882259],[-73.91841131377632,40.86358537281945],[-73.91807010993331,40.86391357166496],[-73.90835250000001,40.85678828986592],[-73.90835250000001,40.85577576996803]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.91570525046041,40.86117874953959],[-73.91854451331074,40.86326510882259],[-73.91841131377632,40.86358537281945],[-73.91807010993331,40.86391357166496],[-73.91512781728288,40.86175618271712],[-73.91570525046041,40.86117874953959]]]],"type":"MultiPolygon"}
 }
