@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.825083,
     "reversegeo:longitude":-73.960899,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85869313,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911461,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"W 135th St  & Marginal St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

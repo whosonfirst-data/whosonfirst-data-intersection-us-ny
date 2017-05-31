@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.73292,
     "reversegeo:longitude":-74.015504,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108909691,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"Lincoln Hwy  & Christopher St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.767787,
     "reversegeo:longitude":-74.001117,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85882233,
         102191575,
@@ -61,7 +59,7 @@
         }
     ],
     "wof:id":1108910401,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"Lincoln Hwy  & W 48th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

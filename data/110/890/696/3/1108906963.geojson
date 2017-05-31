@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.703262,
     "reversegeo:longitude":-74.000228,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907215463,
         85865711,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108906963,
-    "wof:lastmodified":1496185342,
+    "wof:lastmodified":1496248594,
     "wof:name":"South St  & Beekman St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

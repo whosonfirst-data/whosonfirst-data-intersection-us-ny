@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.873868,
     "reversegeo:longitude":-73.916459,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85826989,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108907427,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"Park Ter W  & W 218th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

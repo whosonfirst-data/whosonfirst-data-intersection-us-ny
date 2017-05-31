@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.875912,
     "reversegeo:longitude":-73.913827,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865673,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108913649,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248596,
     "wof:name":"Adrian Ave  & Terrace View Ave",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

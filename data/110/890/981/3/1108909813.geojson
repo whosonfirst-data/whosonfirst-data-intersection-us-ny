@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.869666,
     "reversegeo:longitude":-73.911337,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85826989,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108909813,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"9th Ave  & W 218th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

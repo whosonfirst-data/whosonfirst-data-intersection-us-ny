@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.843154,
     "reversegeo:longitude":-73.932232,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85854625,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108913611,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248596,
     "wof:name":"W 175th St  & Amsterdam Ave",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

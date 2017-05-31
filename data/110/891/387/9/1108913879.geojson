@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.803389,
     "reversegeo:longitude":-73.974795,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108913879,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248596,
     "wof:name":"W 104th St  & Riverside Dr",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.777141,
     "reversegeo:longitude":-73.994078,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108914095,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248597,
     "wof:name":"Riverside Blvd  & W 62nd St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

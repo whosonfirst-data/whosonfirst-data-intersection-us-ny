@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.761611,
     "reversegeo:longitude":-74.006007,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85868039,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108908255,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"W 39th St  & Lincoln Hwy",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",

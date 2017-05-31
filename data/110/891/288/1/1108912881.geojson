@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.709833,
     "reversegeo:longitude":-74.021275,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85804741,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108912881,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"S End Ave  & W Thames St",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

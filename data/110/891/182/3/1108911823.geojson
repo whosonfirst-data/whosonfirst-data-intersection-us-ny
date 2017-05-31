@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.820007,
     "reversegeo:longitude":-73.964451,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85869509,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911823,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Hudson River Greenway  & St Clair Pl",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

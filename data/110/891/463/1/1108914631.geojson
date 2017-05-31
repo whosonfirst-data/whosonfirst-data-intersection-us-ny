@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.777782,
     "reversegeo:longitude":-73.938499,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907215779,
         85865691,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108914631,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248597,
     "wof:name":"E 90th St  & E End Ave",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.863898,
     "reversegeo:longitude":-73.915365,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85826989,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108910753,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"9th Ave  & W 207th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

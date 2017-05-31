@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.7364,
     "reversegeo:longitude":-74.013905,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108913917,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & Bank St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

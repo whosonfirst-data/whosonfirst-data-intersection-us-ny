@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.74189,
     "reversegeo:longitude":-74.012564,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907214383,
         85856577,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108911815,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & Bloomfield St",
     "wof:parent_id":907214383,
     "wof:placetype":"intersection",

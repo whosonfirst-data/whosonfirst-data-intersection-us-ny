@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.766661,
     "reversegeo:longitude":-74.001562,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85882233,
         102191575,
@@ -61,7 +59,7 @@
         }
     ],
     "wof:id":1108912141,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & W 46th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

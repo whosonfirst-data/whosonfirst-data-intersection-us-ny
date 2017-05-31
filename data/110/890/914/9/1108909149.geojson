@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.724274,
     "reversegeo:longitude":-74.016055,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865713,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108909149,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"Vestry St  & West St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

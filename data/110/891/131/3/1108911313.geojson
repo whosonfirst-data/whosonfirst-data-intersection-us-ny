@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.857913,
     "reversegeo:longitude":-73.943021,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907214331,
         85854625,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911313,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"W 186th St  & Chittenden Ave",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

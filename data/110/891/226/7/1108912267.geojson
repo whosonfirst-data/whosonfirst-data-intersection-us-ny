@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.809917,
     "reversegeo:longitude":-73.971066,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85869509,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108912267,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Riverside Dr  & W 114th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

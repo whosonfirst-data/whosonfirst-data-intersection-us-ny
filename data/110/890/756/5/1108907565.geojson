@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.816855,
     "reversegeo:longitude":-73.933572,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865555,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108907565,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"W 142nd St  & 5th Ave",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

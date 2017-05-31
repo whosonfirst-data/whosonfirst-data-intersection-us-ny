@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.688243,
     "reversegeo:longitude":-74.013019,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907131741,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108914603,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248597,
     "wof:name":"Barry Rd  & Evans Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.847228,
     "reversegeo:longitude":-73.948042,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907214331,
         85854625,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108912139,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Haven Ave  & W 173rd St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

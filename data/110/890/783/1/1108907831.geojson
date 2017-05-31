@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.710319,
     "reversegeo:longitude":-73.974268,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85831563,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108907831,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"Cherry St  & F D R Dr",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

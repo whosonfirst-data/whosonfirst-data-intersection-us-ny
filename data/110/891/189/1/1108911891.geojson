@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.774875,
     "reversegeo:longitude":-73.941891,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907215779,
         85865691,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911891,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"E End Ave  & E 88th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.825147,
     "reversegeo:longitude":-73.934972,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865555,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911889,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"7th Ave  & W 151st St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

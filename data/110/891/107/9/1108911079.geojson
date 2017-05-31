@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.715254,
     "reversegeo:longitude":-74.020403,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85804741,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911079,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"Vesey St  & River Ter",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

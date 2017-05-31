@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.839481,
     "reversegeo:longitude":-73.953374,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85854625,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108914825,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248597,
     "wof:name":"W 158th St Exn  & Henry Hudson Pkwy",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

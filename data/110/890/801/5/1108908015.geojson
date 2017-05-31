@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.75702,
     "reversegeo:longitude":-74.009707,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907138579,
         85810589,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108908015,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"Lincoln Hwy  & W 30th St",
     "wof:parent_id":907138579,
     "wof:placetype":"intersection",

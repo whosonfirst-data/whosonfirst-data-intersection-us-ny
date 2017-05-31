@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.78362,
     "reversegeo:longitude":-73.990543,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108911233,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"W 71st St  & Riverside Blvd",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

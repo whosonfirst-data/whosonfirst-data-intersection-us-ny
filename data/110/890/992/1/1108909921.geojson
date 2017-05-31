@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.708247,
     "reversegeo:longitude":-73.980029,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85831563,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108909921,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"South St  & Jackson St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

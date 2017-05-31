@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.876224,
     "reversegeo:longitude":-73.908619,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865673,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108909915,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"W 228th St  & Marble Hill Ln",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

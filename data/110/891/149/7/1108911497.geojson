@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.770204,
     "reversegeo:longitude":-73.998635,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85882233,
         102191575,
@@ -61,7 +59,7 @@
         }
     ],
     "wof:id":1108911497,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"W 52nd St  & Lincoln Hwy",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

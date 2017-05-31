@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.822627,
     "reversegeo:longitude":-73.934257,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865555,
         102191575,
@@ -63,7 +61,7 @@
         }
     ],
     "wof:id":1108910819,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"W 147th St  & Esplanade Gardens Plz",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

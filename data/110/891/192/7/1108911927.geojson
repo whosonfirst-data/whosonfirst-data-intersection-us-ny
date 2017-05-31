@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.847369,
     "reversegeo:longitude":-73.929526,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907212535,
         85854625,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911927,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Laurel Hill Ter  & Amsterdam Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.775816,
     "reversegeo:longitude":-73.996611,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -59,7 +57,7 @@
         }
     ],
     "wof:id":1108911009,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"12th Ave  & W 59th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",
