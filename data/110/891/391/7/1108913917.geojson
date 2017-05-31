@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.00001,
+    "geom:area":0.000008,
     "geom:area_square_m":91623.211538,
-    "geom:bbox":"-74.0241017417,40.7355874109,-74.0091036089,40.7370988337",
-    "geom:latitude":40.736459,
-    "geom:longitude":-74.015041,
-    "intersection:latitude":40.736004,
-    "intersection:longitude":-74.00993,
+    "geom:bbox":"-74.01891599,40.7355874109,-74.0091036089,40.7370988337",
+    "geom:latitude":40.7364,
+    "geom:longitude":-74.013905,
+    "intersection:latitude":40.7364,
+    "intersection:longitude":-74.013905,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.736004,
-    "reversegeo:longitude":-74.00993,
+    "reversegeo:latitude":40.7364,
+    "reversegeo:longitude":-74.013905,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818240,
-    "wof:geomhash":"f03b0943512c727f53b1eb0b8c2c353a",
+    "wof:geomhash":"f01874668918827925a612a2a3eb10ad",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913917,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & Bank St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.02410174167458,
+    -74.01891598998061,
     40.73558741085858,
     -74.00910360892202,
     40.73709883372956
 ],
-  "geometry": {"coordinates":[[[-74.00920349961052,40.73558741085858],[-74.02410174167458,40.73683068707058],[-74.01675643855134,40.73709883372956],[-74.00916323849498,40.73642143206492],[-74.00910360892202,40.73590032144907],[-74.00920349961052,40.73558741085858]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.00920349961052,40.73558741085858],[-74.01891598998061,40.73639792985703],[-74.01876248337182,40.73702560132413],[-74.01675643855134,40.73709883372956],[-74.00916323849498,40.73642143206492],[-74.00910360892202,40.73590032144907],[-74.00920349961052,40.73558741085858]]]],"type":"MultiPolygon"}
 }

@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000008,
+    "geom:area":0.000007,
     "geom:area_square_m":72183.022451,
-    "geom:bbox":"-74.0241539549,40.7308712514,-74.0095983364,40.7329055367",
-    "geom:latitude":40.731777,
-    "geom:longitude":-74.015077,
-    "intersection:latitude":40.731289,
-    "intersection:longitude":-74.01034,
+    "geom:bbox":"-74.019948152,40.7308712514,-74.0095983364,40.7325504217",
+    "geom:latitude":40.731682,
+    "geom:longitude":-74.014312,
+    "intersection:latitude":40.731682,
+    "intersection:longitude":-74.014312,
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.731289,
-    "reversegeo:longitude":-74.01034,
+    "reversegeo:latitude":40.731682,
+    "reversegeo:longitude":-74.014312,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818157,
-    "wof:geomhash":"97a5f35502b6cf4aa30fb15e4559a595",
+    "wof:geomhash":"c7f0fa32cf6a5c90261b586ebeed9b6c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912225,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & Morton St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.02415395487336,
+    -74.01994815202083,
     40.73087125143407,
     -74.00959833636395,
-    40.73290553666727
+    40.73255042174369
 ],
-  "geometry": {"coordinates":[[[-74.00969843505814,40.73087125143407],[-74.01445042370268,40.73124178953631],[-74.02415395487336,40.73290553666727],[-74.02132328523862,40.7326885782192],[-74.00959833636395,40.73158275779855],[-74.00966035992813,40.73092780747515],[-74.00969843505814,40.73087125143407]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.00969843505814,40.73087125143407],[-74.01445042370268,40.73124178953631],[-74.01994815202083,40.73218441851902],[-74.01985842025535,40.73255042174369],[-74.00959833636395,40.73158275779855],[-74.00966035992813,40.73092780747515],[-74.00969843505814,40.73087125143407]]]],"type":"MultiPolygon"}
 }

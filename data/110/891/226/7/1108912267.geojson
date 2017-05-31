@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000106,
+    "geom:area":0.000015,
     "geom:area_square_m":988450.780116,
-    "geom:bbox":"-74.0043587413,40.8068404169,-73.9658660406,40.8274576887",
-    "geom:latitude":40.816634,
-    "geom:longitude":-73.983349,
-    "intersection:latitude":40.807596,
-    "intersection:longitude":-73.966979,
+    "geom:bbox":"-73.9750295837,40.8068404169,-73.9658660406,40.8128381469",
+    "geom:latitude":40.809917,
+    "geom:longitude":-73.971066,
+    "intersection:latitude":40.809917,
+    "intersection:longitude":-73.971066,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.807596,
-    "reversegeo:longitude":-73.966979,
+    "reversegeo:latitude":40.809917,
+    "reversegeo:longitude":-73.971066,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85869509,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818158,
-    "wof:geomhash":"35aeb89b39b53e8d6aa73f62c5a6308b",
+    "wof:geomhash":"4c0d3c8560394df35a5a834cdefe58e8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912267,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1496248596,
     "wof:name":"Riverside Dr  & W 114th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.00435874128769,
+    -73.97502958365303,
     40.80684041687903,
     -73.96586604057529,
-    40.8274576886559
+    40.81283814688249
 ],
-  "geometry": {"coordinates":[[[-73.96614176207555,40.80684041687903],[-73.98280349981583,40.81389715286356],[-74.00435874128769,40.8274576886559],[-73.98034648341483,40.81786127040357],[-73.96586604057529,40.8072652638178],[-73.9659593361791,40.80704162722422],[-73.96614176207555,40.80684041687903]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.96614176207555,40.80684041687903],[-73.97502958365303,40.81060467072383],[-73.97488199999999,40.8108],[-73.97348191114092,40.81283814688249],[-73.96586604057529,40.8072652638178],[-73.9659593361791,40.80704162722422],[-73.96614176207555,40.80684041687903]]]],"type":"MultiPolygon"}
 }

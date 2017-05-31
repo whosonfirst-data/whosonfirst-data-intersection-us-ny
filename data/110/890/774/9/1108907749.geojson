@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000051,
+    "geom:area":0.000008,
     "geom:area_square_m":476822.222995,
-    "geom:bbox":"-74.026017,40.7888409616,-73.9790652584,40.8240430461",
-    "geom:latitude":40.804813,
-    "geom:longitude":-74.000679,
-    "intersection:latitude":40.789941,
-    "intersection:longitude":-73.980357,
+    "geom:bbox":"-73.9871571979,40.7888409616,-73.9790652584,40.7950699412",
+    "geom:latitude":40.791974,
+    "geom:longitude":-73.983151,
+    "intersection:latitude":40.791974,
+    "intersection:longitude":-73.983151,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.789941,
-    "reversegeo:longitude":-73.980357,
+    "reversegeo:latitude":40.791974,
+    "reversegeo:longitude":-73.983151,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817936,
-    "wof:geomhash":"4e0257500d69e4a76e03680e40a4f17e",
+    "wof:geomhash":"db730690d8ea825fc51c17db5c8b7fca",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907749,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1496248594,
     "wof:name":"W 86th St  & Riverside Dr",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",
@@ -53,10 +54,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -73.98715719791143,
     40.78884096164575,
     -73.97906525841789,
-    40.82404304606251
+    40.7950699412084
 ],
-  "geometry": {"coordinates":[[[-73.97955713336819,40.78884096164575],[-74.01098040881644,40.81152792616123],[-74.026017,40.82394752949876],[-74.026017,40.82404304606251],[-73.97906525841789,40.78950944712758],[-73.97915054080717,40.78930830941704],[-73.97955713336819,40.78884096164575]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.97955713336819,40.78884096164575],[-73.98715719791143,40.79432805336831],[-73.9866252837035,40.7950699412084],[-73.97906525841789,40.78950944712758],[-73.97915054080717,40.78930830941704],[-73.97955713336819,40.78884096164575]]]],"type":"MultiPolygon"}
 }

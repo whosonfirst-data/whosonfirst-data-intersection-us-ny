@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000007,
+    "geom:area":0.000005,
     "geom:area_square_m":65473.376922,
-    "geom:bbox":"-74.026017,40.7343464288,-74.009240701,40.7361634153",
-    "geom:latitude":40.735247,
-    "geom:longitude":-74.016813,
-    "intersection:latitude":40.734589,
-    "intersection:longitude":-74.010043,
+    "geom:bbox":"-74.0191977491,40.7343464288,-74.009240701,40.7356360664",
+    "geom:latitude":40.735007,
+    "geom:longitude":-74.013946,
+    "intersection:latitude":40.735007,
+    "intersection:longitude":-74.013946,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.734589,
-    "reversegeo:longitude":-74.010043,
+    "reversegeo:latitude":40.735007,
+    "reversegeo:longitude":-74.013946,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818150,
-    "wof:geomhash":"9fbf60e043af9397854ada547f7f6ed2",
+    "wof:geomhash":"1d8a61ec555d38f7262364d8cefc3317",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912073,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & Perry St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -74.01919774905731,
     40.73434642881215,
     -74.00924070104696,
-    40.73616341525402
+    40.73563606644771
 ],
-  "geometry": {"coordinates":[[[-74.00926571693424,40.73434642881215],[-74.026017,40.73586927272833],[-74.026017,40.73616341525402],[-74.00926409336662,40.73488565118898],[-74.00924070104696,40.73469955486373],[-74.00926571693424,40.73434642881215]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.00926571693424,40.73434642881215],[-74.01919774905731,40.735249340824],[-74.01910287120502,40.73563606644771],[-74.00926409336662,40.73488565118898],[-74.00924070104696,40.73469955486373],[-74.00926571693424,40.73434642881215]]]],"type":"MultiPolygon"}
 }

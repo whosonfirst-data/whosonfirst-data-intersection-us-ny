@@ -6,17 +6,18 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
     "geom:area_square_m":28684.844217,
-    "geom:bbox":"-73.9331018221,40.8037623634,-73.9292965927,40.8061395781",
-    "geom:latitude":40.804935,
-    "geom:longitude":-73.931352,
-    "intersection:latitude":40.804671,
-    "intersection:longitude":-73.932184,
+    "geom:bbox":"-73.9331018221,40.8037623634,-73.9297404213,40.8059302196",
+    "geom:latitude":40.804903,
+    "geom:longitude":-73.931408,
+    "intersection:latitude":40.804903,
+    "intersection:longitude":-73.931408,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.804671,
-    "reversegeo:longitude":-73.932184,
+    "reversegeo:latitude":40.804903,
+    "reversegeo:longitude":-73.931408,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865689,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818206,
-    "wof:geomhash":"43cc5064a12729ddcf3e4eb2ff94c5a1",
+    "wof:geomhash":"cea83bb84bb49abe74b6ef479a625224",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913237,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1496248596,
     "wof:name":"2nd Ave  & E 128th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",
@@ -57,8 +58,8 @@
   "bbox": [
     -73.9331018220725,
     40.80376236338927,
-    -73.92929659266389,
-    40.80613957813619
+    -73.92974042125702,
+    40.80593021964714
 ],
-  "geometry": {"coordinates":[[[-73.93165728750293,40.80376236338927],[-73.9331018220725,40.80490416546656],[-73.92929659266389,40.80613957813619],[-73.93165728750293,40.80376236338927]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.93165728750293,40.80376236338927],[-73.9331018220725,40.80490416546656],[-73.92994144365096,40.80593021964714],[-73.92987599999999,40.805853],[-73.92974042125702,40.80569264367466],[-73.93165728750293,40.80376236338927]]]],"type":"MultiPolygon"}
 }

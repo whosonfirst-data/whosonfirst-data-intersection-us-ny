@@ -6,17 +6,18 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":19961.879666,
-    "geom:bbox":"-73.9350180285,40.828089105,-73.9320500545,40.8303349218",
-    "geom:latitude":40.829483,
-    "geom:longitude":-73.933728,
-    "intersection:latitude":40.82816,
-    "intersection:longitude":-73.934938,
+    "geom:bbox":"-73.9350180285,40.828089105,-73.9331228131,40.8302337385",
+    "geom:latitude":40.829348,
+    "geom:longitude":-73.933965,
+    "intersection:latitude":40.829348,
+    "intersection:longitude":-73.933965,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.82816,
-    "reversegeo:longitude":-73.934938,
+    "reversegeo:latitude":40.829348,
+    "reversegeo:longitude":-73.933965,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865555,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818240,
-    "wof:geomhash":"8f81a0112937adeb479c41f8e7800015",
+    "wof:geomhash":"33ffe6d780e046d4391ae043269bd911",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913907,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1496248596,
     "wof:name":"Macombs Pl  & W 155th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",
@@ -57,8 +58,8 @@
   "bbox": [
     -73.9350180284576,
     40.82808910500852,
-    -73.93205005449025,
-    40.83033492184775
+    -73.9331228131456,
+    40.8302337385396
 ],
-  "geometry": {"coordinates":[[[-73.93501802845761,40.82808910500852],[-73.93406362497088,40.83015697922938],[-73.93205005449025,40.83033492184775],[-73.93489155853658,40.82809279756098],[-73.93501802845761,40.82808910500852]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.93501802845761,40.82808910500852],[-73.93406362497088,40.83015697922938],[-73.93319502877628,40.8302337385396],[-73.9331228131456,40.82948844822118],[-73.93489155853658,40.82809279756098],[-73.93501802845761,40.82808910500852]]]],"type":"MultiPolygon"}
 }

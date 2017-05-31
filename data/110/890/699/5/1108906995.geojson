@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000026,
+    "geom:area":0.000014,
     "geom:area_square_m":244429.976548,
-    "geom:bbox":"-74.026017,40.7294078908,-74.0098761047,40.7331487474",
-    "geom:latitude":40.731149,
-    "geom:longitude":-74.019216,
-    "intersection:latitude":40.729828,
-    "intersection:longitude":-74.010591,
+    "geom:bbox":"-74.0203883976,40.7294078908,-74.0098761047,40.7321844185",
+    "geom:latitude":40.730673,
+    "geom:longitude":-74.015785,
+    "intersection:latitude":40.730673,
+    "intersection:longitude":-74.015785,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.729828,
-    "reversegeo:longitude":-74.010591,
+    "reversegeo:latitude":40.730673,
+    "reversegeo:longitude":-74.015785,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817899,
-    "wof:geomhash":"0df47b879d35b5e075cd02bcf460ea33",
+    "wof:geomhash":"8756fb847aa9f04bbda2d8d43da1afd3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108906995,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1496248594,
     "wof:name":"Lincoln Hwy  & Clarkson St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.026017,
+    -74.02038839758403,
     40.72940789084409,
     -74.00987610470773,
-    40.73314874742213
+    40.73218441851902
 ],
-  "geometry": {"coordinates":[[[-74.00996982385499,40.72940789084409],[-74.026017,40.73091860826358],[-74.026017,40.73314874742213],[-74.02415395487336,40.73290553666727],[-74.01445042370268,40.73124178953631],[-74.00987610470773,40.73002928169307],[-74.00992510781516,40.72947398008627],[-74.00996982385499,40.72940789084409]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-74.00996982385499,40.72940789084409],[-74.02038839758403,40.7303887189148],[-74.01994815202083,40.73218441851902],[-74.01445042370268,40.73124178953631],[-74.00987610470773,40.73002928169307],[-74.00992510781516,40.72947398008627],[-74.00996982385499,40.72940789084409]]]],"type":"MultiPolygon"}
 }

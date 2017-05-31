@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.00001,
+    "geom:area":0.000006,
     "geom:area_square_m":89802.81721,
-    "geom:bbox":"-74.0089413509,40.7670749523,-73.9961604652,40.776086406",
-    "geom:latitude":40.771152,
-    "geom:longitude":-74.001569,
-    "intersection:latitude":40.767452,
-    "intersection:longitude":-73.996426,
+    "geom:bbox":"-74.0031468088,40.7670749523,-73.9961604652,40.7724649781",
+    "geom:latitude":40.769759,
+    "geom:longitude":-73.999609,
+    "intersection:latitude":40.769759,
+    "intersection:longitude":-73.999609,
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.767452,
-    "reversegeo:longitude":-73.996426,
+    "reversegeo:latitude":40.769759,
+    "reversegeo:longitude":-73.999609,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85882233,
         102191575,
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818160,
-    "wof:geomhash":"b725dd67c580597bafa36d10fe5875eb",
+    "wof:geomhash":"93e71f016a47ae675fe7c2a85d3028f8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108912305,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & W 51st St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",
@@ -68,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.00894135091816,
+    -74.00314680882366,
     40.76707495227578,
     -73.99616046523754,
-    40.77608640598229
+    40.77246497807077
 ],
-  "geometry": {"coordinates":[[[-73.99648431751189,40.76707495227578],[-73.99662685708019,40.76712319951731],[-74.00894135091816,40.77608640598229],[-74.00458599914397,40.77381547618207],[-73.99616046523754,40.7677356109154],[-73.99648431751189,40.76707495227578]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.99648431751189,40.76707495227578],[-73.99662685708019,40.76712319951731],[-74.00314680882366,40.77186880046423],[-74.00271446628456,40.77246497807077],[-73.99616046523754,40.7677356109154],[-73.99648431751189,40.76707495227578]]]],"type":"MultiPolygon"}
 }

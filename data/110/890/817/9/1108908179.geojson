@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.00001,
+    "geom:area":0.000005,
     "geom:area_square_m":94791.067924,
-    "geom:bbox":"-73.9346300647,40.8060482057,-73.9277449742,40.8108638305",
-    "geom:latitude":40.808476,
-    "geom:longitude":-73.931756,
-    "intersection:latitude":40.807051,
-    "intersection:longitude":-73.933695,
+    "geom:bbox":"-73.9346300647,40.8060482057,-73.9314544025,40.809460761",
+    "geom:latitude":40.807571,
+    "geom:longitude":-73.933002,
+    "intersection:latitude":40.807571,
+    "intersection:longitude":-73.933002,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.807051,
-    "reversegeo:longitude":-73.933695,
+    "reversegeo:latitude":40.807571,
+    "reversegeo:longitude":-73.933002,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865689,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817954,
-    "wof:geomhash":"85f520fee2895c8b63b95e52f12ec3e0",
+    "wof:geomhash":"430397128737889196349d1ff2d73c28",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908179,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1496248595,
     "wof:name":"3rd Ave  & Harlem River Dr",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",
@@ -57,8 +58,8 @@
   "bbox": [
     -73.93463006466943,
     40.80604820569636,
-    -73.92774497419568,
-    40.81086383050003
+    -73.93145440253102,
+    40.8094607610457
 ],
-  "geometry": {"coordinates":[[[-73.933442191697,40.80604820569636],[-73.93463006466943,40.80663352221942],[-73.93433762409323,40.80747649188852],[-73.93144524359714,40.80996890336092],[-73.92774497419568,40.81086383050003],[-73.933442191697,40.80604820569636]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.933442191697,40.80604820569636],[-73.93463006466943,40.80663352221942],[-73.93433762409323,40.80747649188852],[-73.93203492990618,40.8094607610457],[-73.931848,40.808624],[-73.931704,40.807979],[-73.931681,40.807955],[-73.93145440253102,40.80772840253103],[-73.933442191697,40.80604820569636]]]],"type":"MultiPolygon"}
 }

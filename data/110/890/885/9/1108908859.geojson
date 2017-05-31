@@ -4,19 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000014,
+    "geom:area":0.000009,
     "geom:area_square_m":135101.598602,
-    "geom:bbox":"-73.9774428561,40.7026797352,-73.9560349345,40.7151100826",
-    "geom:latitude":40.710637,
-    "geom:longitude":-73.970171,
-    "intersection:latitude":40.714617,
-    "intersection:longitude":-73.976863,
+    "geom:bbox":"-73.9774428561,40.7099089695,-73.969467109,40.7151100826",
+    "geom:latitude":40.712612,
+    "geom:longitude":-73.973681,
+    "intersection:latitude":40.712612,
+    "intersection:longitude":-73.973681,
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.714617,
-    "reversegeo:longitude":-73.976863,
+    "reversegeo:latitude":40.712612,
+    "reversegeo:longitude":-73.973681,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         85831563,
         102191575,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817983,
-    "wof:geomhash":"72a9dc730dc3c8253e86b300bd202c6c",
+    "wof:geomhash":"d80e6438b651e74eda702c6add17f926",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908859,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1496248595,
     "wof:name":"F D R Dr  & Delancey St S",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",
@@ -56,9 +57,9 @@
 },
   "bbox": [
     -73.97744285607834,
-    40.70267973519221,
-    -73.95603493448498,
+    40.70990896945269,
+    -73.96946710899016,
     40.71511008264345
 ],
-  "geometry": {"coordinates":[[[-73.95603493448498,40.70267973519221],[-73.97744285607834,40.71405122105703],[-73.97711289198222,40.71502433551002],[-73.97691546887395,40.71511008264345],[-73.95603493448498,40.70267973519221]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.96964466693932,40.70990896945269],[-73.97744285607834,40.71405122105703],[-73.97711289198222,40.71502433551002],[-73.97691546887395,40.71511008264345],[-73.96946710899016,40.71067601502943],[-73.969584,40.71017],[-73.96964466693932,40.70990896945269]]]],"type":"MultiPolygon"}
 }

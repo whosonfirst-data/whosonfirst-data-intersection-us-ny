@@ -6,17 +6,18 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":67028.274289,
-    "geom:bbox":"-73.9537019248,40.8467090097,-73.9414568508,40.8503045265",
-    "geom:latitude":40.848292,
-    "geom:longitude":-73.945605,
-    "intersection:latitude":40.847666,
-    "intersection:longitude":-73.942184,
+    "geom:bbox":"-73.9528931475,40.8467090097,-73.9414568508,40.8501352012",
+    "geom:latitude":40.848284,
+    "geom:longitude":-73.94557,
+    "intersection:latitude":40.848284,
+    "intersection:longitude":-73.94557,
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "reversegeo:latitude":40.847666,
-    "reversegeo:longitude":-73.942184,
+    "reversegeo:latitude":40.848284,
+    "reversegeo:longitude":-73.94557,
     "src:geom":"mapzen",
+    "src:geom_alt":[],
     "wof:belongsto":[
         907214331,
         85854625,
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818022,
-    "wof:geomhash":"81306c91a02129727be99afac095709d",
+    "wof:geomhash":"4de086f02caa7c73a502e601f20e78cc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909471,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1496248595,
     "wof:name":"Haven Ave  & W 176th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",
@@ -55,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.95370192481305,
+    -73.95289314752631,
     40.84670900966098,
     -73.94145685077143,
-    40.85030452646032
+    40.85013520119071
 ],
-  "geometry": {"coordinates":[[[-73.94159026611158,40.84670900966098],[-73.95370192481305,40.85030452646032],[-73.94177226937273,40.84792226039701],[-73.94145685077143,40.84742294909765],[-73.94159026611158,40.84670900966098]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[[-73.94159026611158,40.84670900966098],[-73.95289314752631,40.85006442950969],[-73.95285399596291,40.85013520119071],[-73.94177226937273,40.84792226039701],[-73.94145685077143,40.84742294909765],[-73.94159026611158,40.84670900966098]]]],"type":"MultiPolygon"}
 }
