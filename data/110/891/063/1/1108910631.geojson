@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.846303,
     "reversegeo:longitude":-73.93029,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85854625,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108910631,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"Amsterdam Ave  & W 180th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

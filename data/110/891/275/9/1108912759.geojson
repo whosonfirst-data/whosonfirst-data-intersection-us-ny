@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.717463,
     "reversegeo:longitude":-73.970576,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907189647,
         85816887,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108912759,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"E Houston St  & F D R Dr",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

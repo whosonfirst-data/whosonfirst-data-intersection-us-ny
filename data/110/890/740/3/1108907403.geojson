@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.807695,
     "reversegeo:longitude":-73.971625,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85869509,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108907403,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"Riverside Dr  & W 111th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

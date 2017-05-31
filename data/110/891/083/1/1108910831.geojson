@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.73353,
     "reversegeo:longitude":-74.014118,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108910831,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"W 10th St  & Lincoln Hwy",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

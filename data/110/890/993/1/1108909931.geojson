@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.765431,
     "reversegeo:longitude":-74.003937,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85882233,
         102191575,
@@ -61,7 +59,7 @@
         }
     ],
     "wof:id":1108909931,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"W 42nd St  & Lincoln Hwy",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

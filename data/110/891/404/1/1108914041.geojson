@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.875228,
     "reversegeo:longitude":-73.920195,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85826989,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108914041,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248597,
     "wof:name":"W 215th St  & Indian Rd",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

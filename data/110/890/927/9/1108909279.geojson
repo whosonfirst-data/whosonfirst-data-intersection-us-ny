@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.704803,
     "reversegeo:longitude":-73.998194,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907215463,
         85865711,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108909279,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"Dover St  & South St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

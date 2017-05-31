@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.736889,
     "reversegeo:longitude":-73.967862,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907189665,
         85868041,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108911903,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"F D R Dr  & E 28th St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.848284,
     "reversegeo:longitude":-73.94557,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907214331,
         85854625,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108909471,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"Haven Ave  & W 176th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

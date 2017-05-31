@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.730673,
     "reversegeo:longitude":-74.015785,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108906995,
-    "wof:lastmodified":1496185342,
+    "wof:lastmodified":1496248594,
     "wof:name":"Lincoln Hwy  & Clarkson St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

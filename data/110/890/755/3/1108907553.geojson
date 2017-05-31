@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.698564,
     "reversegeo:longitude":-74.005646,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865711,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108907553,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"South St  & Old Slip",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

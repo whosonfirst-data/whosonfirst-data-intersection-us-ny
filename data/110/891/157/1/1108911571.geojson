@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.759546,
     "reversegeo:longitude":-74.007892,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85868039,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911571,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & W 34th St",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",

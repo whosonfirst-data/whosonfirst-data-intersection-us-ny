@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.765289,
     "reversegeo:longitude":-74.001718,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85882233,
         102191575,
@@ -61,7 +59,7 @@
         }
     ],
     "wof:id":1108907465,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"Lincoln Hwy  & W 44th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

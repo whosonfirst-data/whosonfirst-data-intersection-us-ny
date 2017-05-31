@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.707771,
     "reversegeo:longitude":-73.987077,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85831563,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108913675,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248596,
     "wof:name":"Clinton St  & South St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

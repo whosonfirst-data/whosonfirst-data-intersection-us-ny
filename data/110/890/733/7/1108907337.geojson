@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.769853,
     "reversegeo:longitude":-73.941218,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85845835,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108907337,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"Main St  & Central Rd N",
     "wof:parent_id":85845835,
     "wof:placetype":"intersection",

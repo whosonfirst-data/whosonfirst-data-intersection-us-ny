@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.832415,
     "reversegeo:longitude":-73.935081,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85854625,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108909205,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"Frederick Douglass Blvd  & Harlem River Dr",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

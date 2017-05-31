@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.727978,
     "reversegeo:longitude":-73.966979,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907189647,
         85816887,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108913723,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248596,
     "wof:name":"E 14th St  & Ave D",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

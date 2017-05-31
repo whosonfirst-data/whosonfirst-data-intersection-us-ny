@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.820985,
     "reversegeo:longitude":-73.963269,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85869313,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108907689,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"W 125th St  & Marginal St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

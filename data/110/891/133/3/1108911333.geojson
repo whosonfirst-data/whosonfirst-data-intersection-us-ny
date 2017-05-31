@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.816767,
     "reversegeo:longitude":-73.966852,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85869509,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911333,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"Hudson River Greenway  & Henry Hudson Pkwy",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

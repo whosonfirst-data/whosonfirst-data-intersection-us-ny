@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.705677,
     "reversegeo:longitude":-74.022352,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85804741,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108910395,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"Battery Pl  & 1st Pl",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

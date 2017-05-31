@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.772689,
     "reversegeo:longitude":-73.998533,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865537,
         102191575,
@@ -61,7 +59,7 @@
         }
     ],
     "wof:id":1108907555,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"W 56th St  & Joe Dimaggio Hwy",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

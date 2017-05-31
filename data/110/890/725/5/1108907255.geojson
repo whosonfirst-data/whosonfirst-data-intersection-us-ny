@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.746376,
     "reversegeo:longitude":-74.012145,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85810589,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108907255,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"Lincoln Hwy  & W 18th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

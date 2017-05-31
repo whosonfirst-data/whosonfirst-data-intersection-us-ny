@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.783155,
     "reversegeo:longitude":-73.930862,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865689,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108911803,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"F D R Dr  & E 105th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

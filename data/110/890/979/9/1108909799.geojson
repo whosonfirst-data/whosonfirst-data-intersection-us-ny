@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.735631,
     "reversegeo:longitude":-74.01418,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85856577,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108909799,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"W 11th St  & Lincoln Hwy",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

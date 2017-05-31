@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.748786,
     "reversegeo:longitude":-73.963123,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907215757,
         907215785,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108913151,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248596,
     "wof:name":"E 48th St  & F D R Dr",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

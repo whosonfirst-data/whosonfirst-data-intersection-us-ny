@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.877176,
     "reversegeo:longitude":-73.910912,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865673,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108908489,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"Adrian Ave  & W 227th St",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

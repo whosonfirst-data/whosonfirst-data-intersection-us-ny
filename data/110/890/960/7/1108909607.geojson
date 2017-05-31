@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.70716,
     "reversegeo:longitude":-73.993641,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85869743,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108909607,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"South St  & Market Slip",
     "wof:parent_id":85869743,
     "wof:placetype":"intersection",

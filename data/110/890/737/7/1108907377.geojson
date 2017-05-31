@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.855743,
     "reversegeo:longitude":-73.923622,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907212535,
         85854625,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108907377,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"Amsterdam Ave  & Fort George Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.707472,
     "reversegeo:longitude":-73.990903,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85831563,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108913735,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248596,
     "wof:name":"Pike Slip  & South St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

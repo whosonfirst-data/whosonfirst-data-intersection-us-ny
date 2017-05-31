@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.731916,
     "reversegeo:longitude":-73.968149,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85851295,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108912331,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Ave C  & Stuyvesant Loop E",
     "wof:parent_id":85851295,
     "wof:placetype":"intersection",

@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.740867,
     "reversegeo:longitude":-74.014434,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907214383,
         85856577,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108911257,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248595,
     "wof:name":"Lincoln Hwy  & Gansevoort St",
     "wof:parent_id":907214383,
     "wof:placetype":"intersection",

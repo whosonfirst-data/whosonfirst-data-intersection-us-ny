@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.728947,
     "reversegeo:longitude":-74.01541,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865687,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108912343,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Lincoln Hwy  & W Houston St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

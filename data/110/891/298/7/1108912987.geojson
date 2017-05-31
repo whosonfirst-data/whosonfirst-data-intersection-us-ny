@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.74467,
     "reversegeo:longitude":-73.964611,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85836095,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108912987,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"E 41st St  & F D R Dr",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

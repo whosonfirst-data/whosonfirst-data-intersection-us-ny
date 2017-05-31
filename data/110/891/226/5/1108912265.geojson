@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.872598,
     "reversegeo:longitude":-73.933994,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85826989,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108912265,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Dyckman St  & Henry Hudson Pkwy",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

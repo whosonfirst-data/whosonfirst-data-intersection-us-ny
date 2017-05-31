@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.791974,
     "reversegeo:longitude":-73.983151,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108907749,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"W 86th St  & Riverside Dr",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

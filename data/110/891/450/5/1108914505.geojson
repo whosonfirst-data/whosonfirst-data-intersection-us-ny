@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.704166,
     "reversegeo:longitude":-73.999389,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907215463,
         85865711,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108914505,
-    "wof:lastmodified":1496185345,
+    "wof:lastmodified":1496248597,
     "wof:name":"Peck Slip  & South St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

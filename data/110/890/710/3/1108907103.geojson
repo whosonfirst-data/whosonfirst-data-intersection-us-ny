@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.805238,
     "reversegeo:longitude":-73.974226,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108907103,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248594,
     "wof:name":"Riverside Dr  & W 106th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

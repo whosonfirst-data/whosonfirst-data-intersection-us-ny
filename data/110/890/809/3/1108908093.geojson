@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.781708,
     "reversegeo:longitude":-73.934436,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85865689,
         102191575,
@@ -48,7 +46,7 @@
         }
     ],
     "wof:id":1108908093,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"F D R Dr  & E 102nd St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

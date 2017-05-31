@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.791295,
     "reversegeo:longitude":-73.984703,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         85853285,
         102191575,
@@ -46,7 +44,7 @@
         }
     ],
     "wof:id":1108911479,
-    "wof:lastmodified":1496185344,
+    "wof:lastmodified":1496248596,
     "wof:name":"Riverside Dr  & W 85th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

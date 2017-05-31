@@ -17,9 +17,7 @@
     "reversegeo:latitude":40.723053,
     "reversegeo:longitude":-73.967915,
     "src:geom":"mapzen",
-    "src:geom_alt":[
-        "mapzen"
-    ],
+    "src:geom_alt":[],
     "wof:belongsto":[
         907189647,
         85816887,
@@ -50,7 +48,7 @@
         }
     ],
     "wof:id":1108908715,
-    "wof:lastmodified":1496185343,
+    "wof:lastmodified":1496248595,
     "wof:name":"E 10th St  & F D R Dr",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",
