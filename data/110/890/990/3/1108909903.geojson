@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.785027,
     "reversegeo:longitude":-73.980666,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818043,
-    "wof:geomhash":"48c9dceeafed6ef14bcf95d93cc5794a",
+    "wof:geomhash":"89bdab1ca08e49b84c44dcf9749871ba",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909903,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947597,
     "wof:name":"W End Ave  & W 80th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

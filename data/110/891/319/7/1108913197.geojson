@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720498,
     "reversegeo:longitude":-73.989739,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818204,
-    "wof:geomhash":"3af8af11736e444e9084a837aec15255",
+    "wof:geomhash":"4ee2002144b3b5e3e9ec2c7feda9fae8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913197,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947605,
     "wof:name":"Rivington St  & Allen St",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

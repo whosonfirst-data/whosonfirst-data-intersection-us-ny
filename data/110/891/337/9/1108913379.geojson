@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.755193,
     "reversegeo:longitude":-73.971217,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818212,
-    "wof:geomhash":"a43170e9955fc90a05b0c1c4443b36f2",
+    "wof:geomhash":"183516de95c0964bd457bd4e94341bac",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913379,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947605,
     "wof:name":"3rd Ave  & E 49th St",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

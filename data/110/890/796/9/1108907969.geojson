@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.770478,
     "reversegeo:longitude":-73.966387,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817944,
-    "wof:geomhash":"a84cc4ff63c1ef7c08ffacb45a3a554b",
+    "wof:geomhash":"5d7be87104c8646bf1b03e3e508479c1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907969,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947593,
     "wof:name":"Madison Ave  & E 70th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

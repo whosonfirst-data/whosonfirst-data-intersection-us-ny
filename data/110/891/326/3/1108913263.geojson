@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.774679,
     "reversegeo:longitude":-73.982201,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818207,
-    "wof:geomhash":"4a5b9e52f19faf4ef58d5a701e645472",
+    "wof:geomhash":"930ce1065ea05c01012876e5cc094b35",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913263,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947605,
     "wof:name":"Broadway  & W 67th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.712903,
     "reversegeo:longitude":-73.986926,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818004,
-    "wof:geomhash":"888181f5f1324edbab011984850f971d",
+    "wof:geomhash":"9e9f6bbb8d8bdfbaf90ccbd6d9f19dba",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909247,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947596,
     "wof:name":"Clinton St  & Madison St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

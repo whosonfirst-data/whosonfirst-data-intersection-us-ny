@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.68555,
     "reversegeo:longitude":-74.020236,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818197,
-    "wof:geomhash":"125f936e9495fff8b6b3817bd4e5eae9",
+    "wof:geomhash":"2c689b565878bf47d08d5edcab30a495",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913035,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947604,
     "wof:name":"Craig Rd S  & Icarus Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

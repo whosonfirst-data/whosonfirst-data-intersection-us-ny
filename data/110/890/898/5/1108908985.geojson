@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.730669,
     "reversegeo:longitude":-73.998842,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817989,
-    "wof:geomhash":"266f606995c8a6a6768006c01e8c0a87",
+    "wof:geomhash":"7e4bb9856ba1d943ab82f5a155d8b41b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908985,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947595,
     "wof:name":"Sullivan St  & Washington Sq S",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

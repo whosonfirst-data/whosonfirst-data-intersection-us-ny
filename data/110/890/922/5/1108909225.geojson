@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.751419,
     "reversegeo:longitude":-73.987644,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818002,
-    "wof:geomhash":"ec9ca4b96465b8a37be1e59290d31975",
+    "wof:geomhash":"6d95a8c2974a6d2a783fba6ddf81630d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909225,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 36th St  & Broadway",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

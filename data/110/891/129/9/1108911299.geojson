@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.816361,
     "reversegeo:longitude":-73.954089,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818117,
-    "wof:geomhash":"ab5b295e430cf54daceaf12f103feb7a",
+    "wof:geomhash":"f36b39348196c1cb0f0a7c33cee412b5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911299,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947601,
     "wof:name":"W 131st St  & Amsterdam Ave",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

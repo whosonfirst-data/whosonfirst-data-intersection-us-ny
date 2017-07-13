@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.735723,
     "reversegeo:longitude":-74.006799,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818174,
-    "wof:geomhash":"77a1184dce88a8942aa2b180c3dfc4d3",
+    "wof:geomhash":"c3cf8d8fc7a98d5c1925e5242c06bfce",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912521,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 11th St  & Greenwich St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

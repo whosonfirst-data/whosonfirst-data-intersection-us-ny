@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713693,
     "reversegeo:longitude":-74.013759,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818238,
-    "wof:geomhash":"74cf52c809050f69c633efb3d3470cd6",
+    "wof:geomhash":"1bc2621f62557f25fed12d88a5a500f9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913863,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947606,
     "wof:name":"Vesey St  & West St",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

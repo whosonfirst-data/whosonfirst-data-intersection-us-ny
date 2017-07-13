@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.812201,
     "reversegeo:longitude":-73.942249,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818082,
-    "wof:geomhash":"69251403e38aa46cf1a3d878b12104ac",
+    "wof:geomhash":"b0681b7746e0fa715119bd96839eb11f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910759,
-    "wof:lastmodified":1490900147,
+    "wof:lastmodified":1499947599,
     "wof:name":"Lenox Ave  & W 132nd St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

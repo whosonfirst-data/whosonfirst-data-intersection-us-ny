@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.819662,
     "reversegeo:longitude":-73.960008,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817949,
-    "wof:geomhash":"55f5c8d9bbd9b78492709055e23fe6c9",
+    "wof:geomhash":"c77fbf1c662be1014d7532df8e5f2fdc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908067,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947593,
     "wof:name":"Henry Hudson Pkwy  & W 132nd St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.8453,
     "reversegeo:longitude":-73.938262,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817935,
-    "wof:geomhash":"4e2f5b217e17d033e53d63bcaa798828",
+    "wof:geomhash":"a20d7d36d068c959a82a2bdaf41f320a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907733,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947593,
     "wof:name":"Wadsworth Ave  & W 174th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

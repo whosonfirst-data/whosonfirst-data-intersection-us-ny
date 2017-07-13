@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.828349,
     "reversegeo:longitude":-73.949049,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817918,
-    "wof:geomhash":"1e4b77378ce27c2bdf82131b55b757df",
+    "wof:geomhash":"82cd8b19eeabd2e0839a2080f676f768",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907331,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947592,
     "wof:name":"W 148th St  & Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

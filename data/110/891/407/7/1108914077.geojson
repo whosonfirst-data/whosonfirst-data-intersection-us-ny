@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.830383,
     "reversegeo:longitude":-73.940167,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818254,
-    "wof:geomhash":"1e3842696fb28e5c13c8c18e74395af7",
+    "wof:geomhash":"9c6b67fbf863fb295eb94abee4a26a00",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914077,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947607,
     "wof:name":"St Nicholas Pl  & W 155th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

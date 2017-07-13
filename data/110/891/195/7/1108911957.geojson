@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.753481,
     "reversegeo:longitude":-73.978783,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818145,
-    "wof:geomhash":"f41f28adc3b4268a99d70dfb50db4bfa",
+    "wof:geomhash":"642c9ba45a0bf271af88b49715e6763c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911957,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947602,
     "wof:name":"Madison Ave  & E 43rd St",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

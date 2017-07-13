@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.794651,
     "reversegeo:longitude":-73.971788,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817920,
-    "wof:geomhash":"f2bad9f93f661b43839e9eeb46c51b52",
+    "wof:geomhash":"1b7763c96b08af9a2e6d57e94ee90aa3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907381,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947592,
     "wof:name":"Broadway  & W 96th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

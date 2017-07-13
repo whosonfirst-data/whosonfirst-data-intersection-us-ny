@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.808862,
     "reversegeo:longitude":-73.952125,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818168,
-    "wof:geomhash":"3489e51e3bf1a61cad016991b1156ba4",
+    "wof:geomhash":"9fcc51e1539e65e0a837c2ad104cc81c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912373,
-    "wof:lastmodified":1490900160,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 123rd St  & Frederick Douglass Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.744066,
     "reversegeo:longitude":-73.987746,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817983,
-    "wof:geomhash":"dba66be6b8a0f054efbc5db38f512e80",
+    "wof:geomhash":"28f6477b744721d01ed90f15f2921739",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908851,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947595,
     "wof:name":"5th Ave  & E 27th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

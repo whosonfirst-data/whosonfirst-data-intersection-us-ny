@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.767812,
     "reversegeo:longitude":-73.962014,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818003,
-    "wof:geomhash":"839fbd156f0c454dc12ef3b075b075d0",
+    "wof:geomhash":"7e1a240a886944b178d6c4af87b01f69",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909239,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947596,
     "wof:name":"3rd Ave  & E 69th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

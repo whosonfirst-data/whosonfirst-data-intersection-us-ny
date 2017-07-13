@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.760226,
     "reversegeo:longitude":-73.957626,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817946,
-    "wof:geomhash":"9ac3cd3fb410e0e0e3b2a4171a4649fa",
+    "wof:geomhash":"a1d940966730655deb3b992731e2eff4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908019,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947593,
     "wof:name":"E 62nd St  & F D R Dr",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

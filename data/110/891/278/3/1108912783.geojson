@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.767291,
     "reversegeo:longitude":-73.966607,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818186,
-    "wof:geomhash":"f8b8a5d6c48240c96e4791b3f4923567",
+    "wof:geomhash":"86a8a22527f398b054f83f590210df2c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912783,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947604,
     "wof:name":"E 66th St  & Park Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

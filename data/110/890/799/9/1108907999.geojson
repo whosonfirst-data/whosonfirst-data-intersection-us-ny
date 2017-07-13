@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.735797,
     "reversegeo:longitude":-74.001553,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817945,
-    "wof:geomhash":"f0f58601761d5ad62ed0b48a598010e7",
+    "wof:geomhash":"c0a397404a2e7cee1ff75487a317bcf7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907999,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947593,
     "wof:name":"7th Ave S  & Perry St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

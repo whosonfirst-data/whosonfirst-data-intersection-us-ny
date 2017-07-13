@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.805213,
     "reversegeo:longitude":-73.947352,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818057,
-    "wof:geomhash":"d8136b150daa01bcf39bde7b5b4d05b0",
+    "wof:geomhash":"cdc7e6bb642e6b3c347a92febeac99b1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910233,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947598,
     "wof:name":"Lenox Ave  & W 121st St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

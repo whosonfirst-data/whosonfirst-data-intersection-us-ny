@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.707387,
     "reversegeo:longitude":-74.005482,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818155,
-    "wof:geomhash":"ef5498bfe8aeb62acc4d91d4037f4cfb",
+    "wof:geomhash":"b543b314200d09e0ab108ec79e199666",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108912191,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947602,
     "wof:name":"Pearl St  & John St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

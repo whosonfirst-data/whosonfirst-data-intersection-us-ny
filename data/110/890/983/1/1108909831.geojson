@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721173,
     "reversegeo:longitude":-73.996575,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818040,
-    "wof:geomhash":"302f4a603849c25f471be7e2e938bae9",
+    "wof:geomhash":"dd8fa95c499c25310c223d6cd7263e05",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909831,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947597,
     "wof:name":"Kenmare St  & Mulberry St",
     "wof:parent_id":85869533,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.784476,
     "reversegeo:longitude":-73.967215,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818066,
-    "wof:geomhash":"11dd43638c1c57367af7b1678cd0c80f",
+    "wof:geomhash":"8947860622f4e65573c488964b4afcd4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910435,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947599,
     "wof:name":"85th St Transverse  & West Dr",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

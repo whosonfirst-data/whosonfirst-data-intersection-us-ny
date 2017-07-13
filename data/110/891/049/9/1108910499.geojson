@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.849994,
     "reversegeo:longitude":-73.938654,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818071,
-    "wof:geomhash":"7db8fb4df6395827aa3e50d792dfc227",
+    "wof:geomhash":"ee2be8ad1f9f105f327d232f898ccfea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910499,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947599,
     "wof:name":"Fort Washington Ave  & W 180th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

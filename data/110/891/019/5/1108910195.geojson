@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726409,
     "reversegeo:longitude":-73.986176,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818056,
-    "wof:geomhash":"b24a94757928e100b72de65755a7a3d9",
+    "wof:geomhash":"3e61e20b5df49e8ee9403b110631f68f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910195,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947598,
     "wof:name":"1st Ave  & E 6th St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

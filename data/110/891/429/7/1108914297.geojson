@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.764105,
     "reversegeo:longitude":-73.966813,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818261,
-    "wof:geomhash":"d61c4df93a824fe1752828924c75619d",
+    "wof:geomhash":"bd2d4b3528f4fd01108d848b9152cb2d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914297,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947607,
     "wof:name":"Lexington Ave  & E 62nd St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.830271,
     "reversegeo:longitude":-73.943923,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818202,
-    "wof:geomhash":"a4fac6de96e0025cba80f47f0d996c80",
+    "wof:geomhash":"7c85984a8799ea6de04a0913056f9e16",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913137,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947605,
     "wof:name":"Amsterdam Ave  & W 153rd St",
     "wof:parent_id":907215743,
     "wof:placetype":"intersection",

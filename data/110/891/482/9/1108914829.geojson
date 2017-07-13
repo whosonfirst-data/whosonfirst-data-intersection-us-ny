@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706459,
     "reversegeo:longitude":-74.015103,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818295,
-    "wof:geomhash":"4bf5b337cdd266ca7879a20a59cd0896",
+    "wof:geomhash":"ad49a6413c838f13242d2d7a3041fa45",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914829,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947608,
     "wof:name":"Washington St  & Morris St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.756688,
     "reversegeo:longitude":-73.961158,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818234,
-    "wof:geomhash":"59cad24c1ea2fd4aee7959f37475e84e",
+    "wof:geomhash":"48da39faf87da28d751839ac3969b2f8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913753,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947606,
     "wof:name":"E 56th St  & Sutton Pl S",
     "wof:parent_id":907215745,
     "wof:placetype":"intersection",

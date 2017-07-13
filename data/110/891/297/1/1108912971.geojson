@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.778765,
     "reversegeo:longitude":-73.981992,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818194,
-    "wof:geomhash":"65648ab6247439bad5655a8ebe95d876",
+    "wof:geomhash":"ca30e1490a3d3d695a0d511933d0208b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912971,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947604,
     "wof:name":"Broadway  & W 72nd St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

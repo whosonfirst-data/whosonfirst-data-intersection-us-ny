@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.779478,
     "reversegeo:longitude":-73.973571,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818188,
-    "wof:geomhash":"2a843b2195bcdd5fe4a270e335285c46",
+    "wof:geomhash":"11593673533bb7d632148e15b7f2b7f1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912843,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947604,
     "wof:name":"Central Park W  & W 77th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

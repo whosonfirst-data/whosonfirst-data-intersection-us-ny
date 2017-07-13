@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.808004,
     "reversegeo:longitude":-73.963903,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818063,
-    "wof:geomhash":"0110c74a7eebc4ee1754743c443a5c35",
+    "wof:geomhash":"a0169575a1f526999c3a6af089e10cd2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910391,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947599,
     "wof:name":"Broadway  & W 116th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

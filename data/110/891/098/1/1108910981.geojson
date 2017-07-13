@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.76674,
     "reversegeo:longitude":-73.996667,
     "src:geom":"mapzen",
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818091,
-    "wof:geomhash":"47b4315f948e031b9e994d62ebb10b39",
+    "wof:geomhash":"7d1922461b85925d901c294a8d708322",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108910981,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"12th Ave  & W 50th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

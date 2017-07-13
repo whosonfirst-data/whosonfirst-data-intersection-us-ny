@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.823887,
     "reversegeo:longitude":-73.952304,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817919,
-    "wof:geomhash":"7a0eca7994f740221dee7f4d54d10187",
+    "wof:geomhash":"9dce7fba6f4448f5857557fe71f022f7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907359,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947592,
     "wof:name":"W 141st St  & Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717661,
     "reversegeo:longitude":-74.007536,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817981,
-    "wof:geomhash":"d027972a283257a10a9d43379c840fde",
+    "wof:geomhash":"676ff1c5ef6af39965133bfe933f90ff",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908805,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947595,
     "wof:name":"W Broadway  & Worth St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

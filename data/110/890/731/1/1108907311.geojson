@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.811205,
     "reversegeo:longitude":-73.96157,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817917,
-    "wof:geomhash":"79a996aaf6618a6906f214e8d078ff79",
+    "wof:geomhash":"380610e56ab2fa33dd7302c51e35764d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907311,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947592,
     "wof:name":"Broadway  & W 121st St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

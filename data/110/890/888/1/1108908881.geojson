@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.709078,
     "reversegeo:longitude":-74.014054,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817985,
-    "wof:geomhash":"659ed9f3d86882cc557db62e7697b224",
+    "wof:geomhash":"d593767a672dc8bef51bc5f6b64dd434",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908881,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947595,
     "wof:name":"Washington St  & Carlisle St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.768596,
     "reversegeo:longitude":-73.967759,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818062,
-    "wof:geomhash":"447ac1797e15671fc226cca8d57f1ebd",
+    "wof:geomhash":"53d7c90659f33f312a1678f586b18c91",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910357,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947598,
     "wof:name":"Madison Ave  & E 67th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

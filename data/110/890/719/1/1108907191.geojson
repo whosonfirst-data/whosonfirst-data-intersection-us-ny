@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.72584,
     "reversegeo:longitude":-74.007557,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817907,
-    "wof:geomhash":"a4878f234571c98f7ba059eba96afce9",
+    "wof:geomhash":"76deb959070310ec655aab89cbd29893",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907191,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947591,
     "wof:name":"Spring St  & Hudson St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

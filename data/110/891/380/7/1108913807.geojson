@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.736668,
     "reversegeo:longitude":-73.997341,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818236,
-    "wof:geomhash":"29eae536ca795e9e7680114ff5c982bd",
+    "wof:geomhash":"60d3c0fc4619de0474602fc656d3fb62",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913807,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947606,
     "wof:name":"Ave of the Americas  & W 13th St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.875953,
     "reversegeo:longitude":-73.909417,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818173,
-    "wof:geomhash":"9a6434f7eb71ae1d3a96859d7c2c612f",
+    "wof:geomhash":"443b0b9f2296d8c1453bfc6a15b4086d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912489,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947603,
     "wof:name":"Marble Hill Ave  & Marble Hill Ln",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

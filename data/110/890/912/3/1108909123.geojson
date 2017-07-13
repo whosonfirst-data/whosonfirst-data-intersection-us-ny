@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.780282,
     "reversegeo:longitude":-73.981521,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817995,
-    "wof:geomhash":"580be9a86cff1b93a768c64574a41a12",
+    "wof:geomhash":"db668e5c4aff20f536ada5d0585c8934",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909123,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947596,
     "wof:name":"Broadway  & W 74th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

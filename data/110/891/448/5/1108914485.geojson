@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724494,
     "reversegeo:longitude":-73.981637,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818274,
-    "wof:geomhash":"a1309f08488ab0202543f8699acd28f4",
+    "wof:geomhash":"7da81e0fc23193248adf148b529e2d6f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108914485,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947608,
     "wof:name":"Ave B  & E 6th St",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

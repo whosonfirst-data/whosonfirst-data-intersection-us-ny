@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.707111,
     "reversegeo:longitude":-74.013961,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818274,
-    "wof:geomhash":"a98c5857d9012f2f0404b5b2dd763917",
+    "wof:geomhash":"987e76655a8c8dd72fb3e6fa9d972c1f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914469,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947608,
     "wof:name":"Edgar St  & Greenwich St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

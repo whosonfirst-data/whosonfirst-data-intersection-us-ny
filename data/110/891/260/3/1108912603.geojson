@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.788421,
     "reversegeo:longitude":-73.970763,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818177,
-    "wof:geomhash":"e36afa00fea702bedf21f90907e0b113",
+    "wof:geomhash":"b9b91be5c434cc9a28888fe7e78d02d7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912603,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947603,
     "wof:name":"Columbus Ave  & W 89th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

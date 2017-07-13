@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.747558,
     "reversegeo:longitude":-73.972738,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817925,
-    "wof:geomhash":"9af544afdfa7616162721b005490603e",
+    "wof:geomhash":"24547a3670a2dda7cfafcb0ce5e731d8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907513,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947592,
     "wof:name":"E 39th St  & Tunnel Entrance St",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

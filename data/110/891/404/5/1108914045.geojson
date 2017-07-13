@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.712799,
     "reversegeo:longitude":-73.997117,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818247,
-    "wof:geomhash":"2f84db2e0568ea3a1df661b2a82be62c",
+    "wof:geomhash":"a76d57f322e1cb36229115a883f72e39",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914045,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947607,
     "wof:name":"Catherine St  & Henry St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

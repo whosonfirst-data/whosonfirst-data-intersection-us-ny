@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.820572,
     "reversegeo:longitude":-73.946403,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818241,
-    "wof:geomhash":"ed30b76a2993c098ac9364e02eae38c4",
+    "wof:geomhash":"c426c260f0504d0b1a9c9c729def54d7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913939,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947606,
     "wof:name":"St Nicholas Ave  & W 140th St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

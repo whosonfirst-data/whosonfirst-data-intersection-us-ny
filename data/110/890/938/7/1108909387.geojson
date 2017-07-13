@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.716814,
     "reversegeo:longitude":-73.997763,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818016,
-    "wof:geomhash":"eb4c859121b14bd50a7bdf9788c68313",
+    "wof:geomhash":"38f690d9e21f75faa2706cd2b55950ea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909387,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947596,
     "wof:name":"Mott St  & Canal St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

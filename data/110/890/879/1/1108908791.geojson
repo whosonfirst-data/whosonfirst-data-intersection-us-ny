@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.686471,
     "reversegeo:longitude":-74.024111,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817981,
-    "wof:geomhash":"58f296cc35370f9ac0964e3c3842c4d4",
+    "wof:geomhash":"2dd2b47912f9e5b059ad015f9b34bfff",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908791,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947595,
     "wof:name":"Half Moon Rd  & Gresham Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

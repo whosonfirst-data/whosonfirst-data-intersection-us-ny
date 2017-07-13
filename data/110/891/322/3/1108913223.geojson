@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.752396,
     "reversegeo:longitude":-74.007595,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818205,
-    "wof:geomhash":"7632d1b447cb65bac0bedd394624a3e9",
+    "wof:geomhash":"20043360e7831445fc2de77616023a60",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913223,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947605,
     "wof:name":"12th Ave  & W 27th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

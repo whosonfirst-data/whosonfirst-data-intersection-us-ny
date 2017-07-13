@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.794808,
     "reversegeo:longitude":-73.944406,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818056,
-    "wof:geomhash":"41c1d1465a64fbf0523b84c53aebbefe",
+    "wof:geomhash":"bd431bdb1c692a6392b140a6da87ee01",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910199,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947598,
     "wof:name":"Lexington Ave  & E 110th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

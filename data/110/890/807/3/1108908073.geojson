@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.758037,
     "reversegeo:longitude":-73.960182,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817949,
-    "wof:geomhash":"cd496a0d50d8cc656535fd5b5f544e0c",
+    "wof:geomhash":"f6acdba08b9c11cc769c73bad107a08b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908073,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947593,
     "wof:name":"Sutton Pl  & E 58th St",
     "wof:parent_id":907215745,
     "wof:placetype":"intersection",

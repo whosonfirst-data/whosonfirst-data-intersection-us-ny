@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.688222,
     "reversegeo:longitude":-74.018438,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818041,
-    "wof:geomhash":"e8f675afd84c61a570e528e8e8423656",
+    "wof:geomhash":"504d9f30614018f3e323668e4c52e509",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909841,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947597,
     "wof:name":"Enright Rd  & Main St",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

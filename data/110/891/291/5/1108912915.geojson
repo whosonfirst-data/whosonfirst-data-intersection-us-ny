@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.704799,
     "reversegeo:longitude":-74.016691,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818192,
-    "wof:geomhash":"511693bce2a0368b46489dc5896dc415",
+    "wof:geomhash":"0dfd30882dfccbb395c1d7b51ddb26bd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912915,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947604,
     "wof:name":"Battery Park Viaduct  & Battery Pl",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

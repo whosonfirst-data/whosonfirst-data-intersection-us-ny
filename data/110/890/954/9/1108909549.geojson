@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.854915,
     "reversegeo:longitude":-73.936038,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818027,
-    "wof:geomhash":"dc8ac8572d41eab3df752433fefd6c03",
+    "wof:geomhash":"b16bc9b8d27a2a577e0b9289e26431d1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909549,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947597,
     "wof:name":"Overlook Ter  & W 187th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

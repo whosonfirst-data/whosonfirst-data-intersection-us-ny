@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.851392,
     "reversegeo:longitude":-73.941262,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817924,
-    "wof:geomhash":"d8a4b699ce88128f23716fa6fd808c7d",
+    "wof:geomhash":"fd4c4ca28cf64f06650e83882beae26f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907463,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947592,
     "wof:name":"Haven Ave  & W 181st St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

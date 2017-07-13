@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.793768,
     "reversegeo:longitude":-73.934108,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818221,
-    "wof:geomhash":"4fdf610d58dbaa38c542084c3a1a2651",
+    "wof:geomhash":"7b361b8ff7426ce5f8affd452b663232",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913501,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947605,
     "wof:name":"Pleasant Ave  & E 114th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

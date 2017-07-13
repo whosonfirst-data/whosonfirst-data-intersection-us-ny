@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.791569,
     "reversegeo:longitude":-73.946772,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817988,
-    "wof:geomhash":"65a221d843e2f209ffc43c02709fcb32",
+    "wof:geomhash":"007e0c40e3cc16581eb791a47f88173e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908957,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947595,
     "wof:name":"Lexington Ave  & E 105th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

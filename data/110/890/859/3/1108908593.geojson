@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.736465,
     "reversegeo:longitude":-73.986961,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817973,
-    "wof:geomhash":"a8ef5c02dcabf12b17f2de2a4b7bf7f4",
+    "wof:geomhash":"3ba233716f4f0fa6481c5e3819c13d91",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908593,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947595,
     "wof:name":"Irving Pl  & E 18th St",
     "wof:parent_id":85865705,
     "wof:placetype":"intersection",

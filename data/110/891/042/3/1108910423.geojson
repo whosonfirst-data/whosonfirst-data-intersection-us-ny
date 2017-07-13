@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.727328,
     "reversegeo:longitude":-74.00732,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818065,
-    "wof:geomhash":"6b1ebb9361313ebc8891e9cfabf62bec",
+    "wof:geomhash":"9344334393d4fa55cd1ae98f11fab282",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910423,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947599,
     "wof:name":"Charlton St  & Hudson St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

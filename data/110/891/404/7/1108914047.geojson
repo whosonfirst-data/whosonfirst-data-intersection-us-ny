@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.691086,
     "reversegeo:longitude":-74.012776,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818247,
-    "wof:geomhash":"0c9b279dc66d7ecbbc0d795ec057499f",
+    "wof:geomhash":"05ba07357ee7f7fe005ad9a8311d236f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914047,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947607,
     "wof:name":"Barry Rd  & Andes Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

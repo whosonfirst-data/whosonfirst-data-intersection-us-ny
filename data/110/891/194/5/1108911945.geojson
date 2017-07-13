@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.711008,
     "reversegeo:longitude":-74.003615,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818145,
-    "wof:geomhash":"11935a86e9b7cfdbe567fd1c3bb558c3",
+    "wof:geomhash":"8c05a5278ada4861576e5f09d0b5bf04",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911945,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947602,
     "wof:name":"Rose St  & Frankfort St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

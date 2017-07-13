@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.765675,
     "reversegeo:longitude":-73.976234,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817926,
-    "wof:geomhash":"e6da1ca224eee1dbd1bd3ca9dcff1afa",
+    "wof:geomhash":"379c9d7c4f34c66729e4401f851223bb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907517,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947592,
     "wof:name":"Central Park-Center Dr  & W 59 St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

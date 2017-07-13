@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715145,
     "reversegeo:longitude":-73.980286,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818223,
-    "wof:geomhash":"8a717b4eed917ebadfe8a0468f2401ac",
+    "wof:geomhash":"77b6d49f38cf54a19b6d749d3b75ad4f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913525,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947605,
     "wof:name":"Cannon St  & Broome St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

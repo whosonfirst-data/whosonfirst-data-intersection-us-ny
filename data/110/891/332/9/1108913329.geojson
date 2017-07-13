@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.858271,
     "reversegeo:longitude":-73.931818,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818210,
-    "wof:geomhash":"8c9c12469834c32d0cf03adfec5ad6b8",
+    "wof:geomhash":"597b6537cccb8ffa9de4b53303466c72",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913329,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947605,
     "wof:name":"Broadway  & W 193rd St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

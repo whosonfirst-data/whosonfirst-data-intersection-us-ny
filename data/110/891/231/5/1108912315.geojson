@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.810318,
     "reversegeo:longitude":-73.943625,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818161,
-    "wof:geomhash":"ef5933b16439a6194371a0c142be2f5b",
+    "wof:geomhash":"3f9c510f787fb386ebbad668c226000b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912315,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 129th St  & Malcolm X Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

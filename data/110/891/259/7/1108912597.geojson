@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.769271,
     "reversegeo:longitude":-73.969365,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818177,
-    "wof:geomhash":"b7aa6b286ec3cfe5d597d0b8810e3560",
+    "wof:geomhash":"76092ac710eb2e38483818ac6b922e2c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912597,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947603,
     "wof:name":"5th Ave  & E 67th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

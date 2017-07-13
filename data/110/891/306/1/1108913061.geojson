@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.742645,
     "reversegeo:longitude":-73.982462,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818198,
-    "wof:geomhash":"6343497e84a415c6db097cadedf8a6e6",
+    "wof:geomhash":"6b6f85290386b56fb550ca96de64c754",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913061,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947604,
     "wof:name":"Lexington Ave  & E 28th St",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

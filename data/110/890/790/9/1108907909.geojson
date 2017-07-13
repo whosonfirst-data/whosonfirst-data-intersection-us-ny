@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.722785,
     "reversegeo:longitude":-74.009654,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817942,
-    "wof:geomhash":"57395b35c9a2561dab02ae193e0d3bfe",
+    "wof:geomhash":"cd115e6cb96508c66304b847ac90ae1d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907909,
-    "wof:lastmodified":1490900182,
+    "wof:lastmodified":1499947593,
     "wof:name":"Vestry St  & Greenwich St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.851179,
     "reversegeo:longitude":-73.939236,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817935,
-    "wof:geomhash":"00736673498bce6ea8a2f42b3da620a3",
+    "wof:geomhash":"143f1dcb0ed9823d6008b584c801e497",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907713,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947593,
     "wof:name":"Pinehurst Ave  & W 181st St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

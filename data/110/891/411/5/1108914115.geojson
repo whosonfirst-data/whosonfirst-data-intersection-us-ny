@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.810094,
     "reversegeo:longitude":-73.953079,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818255,
-    "wof:geomhash":"172f63e8681910b1bf08333ad5d58806",
+    "wof:geomhash":"95b07eb36587ce6ce54bcb3744d5a413",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914115,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947607,
     "wof:name":"St Nicholas Ave  & W 124th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

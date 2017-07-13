@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.756455,
     "reversegeo:longitude":-73.995775,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817991,
-    "wof:geomhash":"415f252db40dd994a12b1bd8e9668ea6",
+    "wof:geomhash":"0cbd23245eb2feac1da6632ef98d977f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909039,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947596,
     "wof:name":"Dyer Ave  & W 38th St",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",

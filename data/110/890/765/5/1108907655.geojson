@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.718269,
     "reversegeo:longitude":-74.007052,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817932,
-    "wof:geomhash":"a991f8cf772827a4aadd818eb5cbee20",
+    "wof:geomhash":"78d4ab4be1f4a3a450e6bd3321862be4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907655,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947593,
     "wof:name":"W Broadway  & Leonard St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

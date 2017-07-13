@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715061,
     "reversegeo:longitude":-74.013232,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818167,
-    "wof:geomhash":"c1f7631951425c1540b859b44da4cbdc",
+    "wof:geomhash":"ce35bcb2f5c3d7e2ff1293a11a8307e0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912337,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947603,
     "wof:name":"West St  & Park Pl",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

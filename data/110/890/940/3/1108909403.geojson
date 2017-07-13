@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.714362,
     "reversegeo:longitude":-74.008387,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818017,
-    "wof:geomhash":"dd3cf74245065d56f1ec7f6cb860fbb6",
+    "wof:geomhash":"7eaf0a98eddffaf75fc6d2bce9241209",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909403,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947596,
     "wof:name":"Church St  & Warren St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

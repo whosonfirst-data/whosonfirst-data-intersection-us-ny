@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.765868,
     "reversegeo:longitude":-73.957412,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818028,
-    "wof:geomhash":"3ede788c3f64fb51cea639245324ee62",
+    "wof:geomhash":"8e66eaf6e42f074494d0aa861174fbcd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909551,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947597,
     "wof:name":"1st Ave  & E 69th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

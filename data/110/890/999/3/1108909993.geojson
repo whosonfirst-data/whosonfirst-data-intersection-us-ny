@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.742284,
     "reversegeo:longitude":-74.004416,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818047,
-    "wof:geomhash":"b8ac0327b1153d7987d5d7683b38ccf2",
+    "wof:geomhash":"c8852e29b31b625f4c5861230765ff90",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909993,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947598,
     "wof:name":"9th Ave  & W 16th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

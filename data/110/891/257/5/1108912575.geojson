@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.862103,
     "reversegeo:longitude":-73.930003,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818176,
-    "wof:geomhash":"dce46e4af11087977e3304b392b29780",
+    "wof:geomhash":"c23570c151dcdd0f2943554bb9846a47",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912575,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947603,
     "wof:name":"Broadway  & Sherman Ave",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.716541,
     "reversegeo:longitude":-73.996984,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817905,
-    "wof:geomhash":"ab9ac276c64d1fe2ea1df140cb49fd2b",
+    "wof:geomhash":"814217fa59e52b525fda73d780728376",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907153,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947591,
     "wof:name":"Elizabeth St  & Canal St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

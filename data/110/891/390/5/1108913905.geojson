@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.73884,
     "reversegeo:longitude":-73.985232,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818240,
-    "wof:geomhash":"f1486c72fb4390729c9e9fecc1607354",
+    "wof:geomhash":"d16689c47ceee3b7461868ab6bebfb4f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913905,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947606,
     "wof:name":"Lexington Ave  & E 22nd St",
     "wof:parent_id":85869245,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.761859,
     "reversegeo:longitude":-73.963424,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817954,
-    "wof:geomhash":"3631ca46adca2c6d961ce469af0c72dd",
+    "wof:geomhash":"57e320bae8c4e3f9f661629878baf8c9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908197,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947594,
     "wof:name":"2nd Ave  & E 61st St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.738796,
     "reversegeo:longitude":-73.977148,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817963,
-    "wof:geomhash":"41660685a46dab0bc465eb37227cdd20",
+    "wof:geomhash":"50d41727ba3cb9737d02837789535306",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908357,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947594,
     "wof:name":"1st Ave  & E 26th St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

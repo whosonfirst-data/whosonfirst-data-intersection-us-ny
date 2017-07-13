@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.750178,
     "reversegeo:longitude":-74.006072,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818058,
-    "wof:geomhash":"c06e1a96cc9a17288c7a6e553985bf3f",
+    "wof:geomhash":"85c26caa17cb415d828b52444924e2df",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910261,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947598,
     "wof:name":"W 25th St  & 11th Ave",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

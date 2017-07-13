@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.759689,
     "reversegeo:longitude":-73.977989,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818169,
-    "wof:geomhash":"ae3ac835c84557df2f47d8d56ceb2bd1",
+    "wof:geomhash":"8b873c142b4ae73bccd198a0082b406c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912403,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 51st St  & Rockefeller Plz",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

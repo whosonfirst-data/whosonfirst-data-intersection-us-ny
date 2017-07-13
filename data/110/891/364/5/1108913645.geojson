@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.725326,
     "reversegeo:longitude":-73.976212,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818229,
-    "wof:geomhash":"504647535b0b512fe489f997117cc8d5",
+    "wof:geomhash":"34f8f10861185b1fc38c907e2d134f09",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913645,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947606,
     "wof:name":"E 10th St  & Szold Pl",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

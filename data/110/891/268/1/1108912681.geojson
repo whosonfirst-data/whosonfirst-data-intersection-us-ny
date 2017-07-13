@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.745174,
     "reversegeo:longitude":-73.974748,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818181,
-    "wof:geomhash":"1aa7ce773f8068650634b06446eec4ca",
+    "wof:geomhash":"c7795c83326b4e8deda5783ea8e49efc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912681,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947604,
     "wof:name":"Tunnel Entrance St  & E 35th St",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

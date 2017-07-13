@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.714995,
     "reversegeo:longitude":-73.998866,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817898,
-    "wof:geomhash":"93223b00bf2acb9bf04ad70c4d97717e",
+    "wof:geomhash":"95231399d504c1a394475418b8d9e630",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108906973,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947591,
     "wof:name":"Pell St  & Mott St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

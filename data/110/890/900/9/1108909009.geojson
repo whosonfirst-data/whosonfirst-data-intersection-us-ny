@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724169,
     "reversegeo:longitude":-74.010223,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817990,
-    "wof:geomhash":"9906f26a3a435670893eb6cf653780ea",
+    "wof:geomhash":"d529cda31b98e77f0332e524b9a0dab3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909009,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947596,
     "wof:name":"Washington St  & Watts St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

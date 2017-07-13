@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.808238,
     "reversegeo:longitude":-73.952585,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818044,
-    "wof:geomhash":"b4a4fcb3c52d82f689d7e23ba15d7ffe",
+    "wof:geomhash":"addc81ba9b5bb2df270d6e9a19adc74e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909927,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947598,
     "wof:name":"Frederick Douglass Blvd  & W 122nd St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

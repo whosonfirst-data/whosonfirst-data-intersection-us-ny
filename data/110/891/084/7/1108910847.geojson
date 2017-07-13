@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.817959,
     "reversegeo:longitude":-73.960357,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818085,
-    "wof:geomhash":"c8ece607d46314e7945aa2b5dfff1fc8",
+    "wof:geomhash":"396dfd43fba035b9bf4d714acf4158cd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910847,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 125th St  & Riverside Dr",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

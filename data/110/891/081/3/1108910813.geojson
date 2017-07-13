@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.797932,
     "reversegeo:longitude":-73.933991,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818084,
-    "wof:geomhash":"1ff7664c9fb964a428cac303d80a3f8d",
+    "wof:geomhash":"dd7ded1b4a94b5e0f4cfb3cc3e2664ea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910813,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947599,
     "wof:name":"1st Ave  & E 119th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

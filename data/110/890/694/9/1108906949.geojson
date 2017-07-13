@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.786552,
     "reversegeo:longitude":-73.954656,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817896,
-    "wof:geomhash":"eded9f6dd5d5f09c1766bdab5807015b",
+    "wof:geomhash":"a6ec17ceaa20b7d59e0c8c8babf8a2b9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108906949,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947591,
     "wof:name":"Madison Ave  & E 95th St",
     "wof:parent_id":907196173,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.853479,
     "reversegeo:longitude":-73.935133,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818161,
-    "wof:geomhash":"e7313f68c1c6b1ce58d0dfc8b3d65467",
+    "wof:geomhash":"a3cf763f5ca231efcf04bf3f4b395263",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912313,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947603,
     "wof:name":"Bennett Ave  & W 186th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

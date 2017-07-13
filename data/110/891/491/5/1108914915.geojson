@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.733973,
     "reversegeo:longitude":-74.000357,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818299,
-    "wof:geomhash":"abea12a69077b36f5eca8557afa4adf9",
+    "wof:geomhash":"befb0218a0f2da934d078e50ece2c401",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914915,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947609,
     "wof:name":"Gay St  & Christopher St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.738219,
     "reversegeo:longitude":-73.985675,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817983,
-    "wof:geomhash":"e606da43e052e162b02e65b2ad074ca2",
+    "wof:geomhash":"c3377d737f883bbb8aa33782017ab569",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908847,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"Gramercy Park N  & Lexington Ave",
     "wof:parent_id":85865705,
     "wof:placetype":"intersection",

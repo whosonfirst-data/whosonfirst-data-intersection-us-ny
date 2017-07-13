@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717893,
     "reversegeo:longitude":-73.989473,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818256,
-    "wof:geomhash":"0083428b487eea2c01d10d8d88a09eee",
+    "wof:geomhash":"092748c35e5342da68e3dfe7b3f8a1a7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914149,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947607,
     "wof:name":"Broome St  & Ludlow St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

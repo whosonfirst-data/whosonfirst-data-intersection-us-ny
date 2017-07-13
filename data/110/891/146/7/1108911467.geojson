@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.780561,
     "reversegeo:longitude":-73.98021,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818125,
-    "wof:geomhash":"4a9f82fc799687ca9b34a43d76164830",
+    "wof:geomhash":"003db62e39b7355df6409f5ad68c246d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911467,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947601,
     "wof:name":"W 75th St  & Amsterdam Ave",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

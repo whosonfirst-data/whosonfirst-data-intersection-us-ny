@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.76457,
     "reversegeo:longitude":-73.973636,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817924,
-    "wof:geomhash":"2bff71c72eb97fca388723178d4288f8",
+    "wof:geomhash":"c7b0ec978972b903d410f40088269a3e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907459,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947592,
     "wof:name":"Central Park S  & Grand Army Plz",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

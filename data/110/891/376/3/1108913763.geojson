@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.723277,
     "reversegeo:longitude":-73.988451,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818234,
-    "wof:geomhash":"85c811a448e6d283832556894fc2b75c",
+    "wof:geomhash":"7a2f037d42bb85f168e88a72742d2f86",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913763,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947606,
     "wof:name":"1st Ave  & E 1st St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

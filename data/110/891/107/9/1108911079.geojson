@@ -14,7 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715254,
     "reversegeo:longitude":-74.020403,
     "src:geom":"mapzen",
@@ -45,7 +45,7 @@
         }
     ],
     "wof:id":1108911079,
-    "wof:lastmodified":1499912651,
+    "wof:lastmodified":1499947600,
     "wof:name":"Vesey St  & River Ter",
     "wof:parent_id":85878439,
     "wof:placetype":"intersection",

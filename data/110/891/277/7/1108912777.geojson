@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.77818,
     "reversegeo:longitude":-73.956546,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818186,
-    "wof:geomhash":"39b95e90bc6f9358e22de293a9f82463",
+    "wof:geomhash":"5620d917ccb5adda85c82c46b07ccceb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912777,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947604,
     "wof:name":"Lexington Ave  & E 84th St",
     "wof:parent_id":85865691,
     "wof:placetype":"intersection",

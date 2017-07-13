@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.810373,
     "reversegeo:longitude":-73.963477,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818050,
-    "wof:geomhash":"3ee43c51be0781ecb680e59d8c3791b2",
+    "wof:geomhash":"542ddaa7192f8a1f88f36aca74e02586",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910059,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947598,
     "wof:name":"W 119th St  & Claremont Ave",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

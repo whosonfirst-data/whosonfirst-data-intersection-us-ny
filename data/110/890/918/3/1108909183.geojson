@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721623,
     "reversegeo:longitude":-74.011743,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817998,
-    "wof:geomhash":"6b9fff3f50f9a8cc46f40925cfb405df",
+    "wof:geomhash":"293d9175475d1f50726133ba35a2f335",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909183,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947596,
     "wof:name":"Hubert St  & West St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706724,
     "reversegeo:longitude":-74.006781,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818261,
-    "wof:geomhash":"b8e187d098d7fd49107839376ccc188b",
+    "wof:geomhash":"61e040380497299e0b53474507a52401",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914295,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947607,
     "wof:name":"Pearl St  & Maiden Ln",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

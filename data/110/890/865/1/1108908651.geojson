@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.823981,
     "reversegeo:longitude":-73.946714,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817975,
-    "wof:geomhash":"98d3c076715de85b7c3596c93dd875a7",
+    "wof:geomhash":"39fdbae458275ae6179380f4698c6d99",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908651,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947595,
     "wof:name":"W 144th St  & Convent Ave",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

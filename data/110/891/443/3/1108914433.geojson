@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.748538,
     "reversegeo:longitude":-73.973141,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818268,
-    "wof:geomhash":"5f503e57a0a2d8bad1f41b6a1f842df3",
+    "wof:geomhash":"33f1e38046dd05c38d376a29d1ae5bff",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108914433,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947607,
     "wof:name":"E 40th St  & 2nd Ave",
     "wof:parent_id":907215751,
     "wof:placetype":"intersection",

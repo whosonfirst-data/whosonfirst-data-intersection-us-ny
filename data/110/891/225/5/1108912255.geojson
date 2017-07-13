@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.794579,
     "reversegeo:longitude":-73.973701,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818158,
-    "wof:geomhash":"575216a375a6b5802264acd9159cd4ed",
+    "wof:geomhash":"0b570d7ec35a1d5e71345b25124ad760",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912255,
-    "wof:lastmodified":1490900130,
+    "wof:lastmodified":1499947603,
     "wof:name":"W End Ave  & W 95th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

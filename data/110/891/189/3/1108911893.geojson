@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.727762,
     "reversegeo:longitude":-73.991285,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818142,
-    "wof:geomhash":"44bd90e07a1146c07a1e71ed44ecb855",
+    "wof:geomhash":"5075c00b7258384057a2835c845d0367",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911893,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947602,
     "wof:name":"Cooper Sq  & E 5th St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

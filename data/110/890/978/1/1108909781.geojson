@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.808958,
     "reversegeo:longitude":-73.940404,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818038,
-    "wof:geomhash":"b698162b31bfe148c668c4d28cbb77a1",
+    "wof:geomhash":"4040e06140629aa2662ebf7646f4c75b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909781,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947597,
     "wof:name":"W 129th St  & E 129th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

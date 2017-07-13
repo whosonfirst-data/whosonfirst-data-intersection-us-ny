@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.719245,
     "reversegeo:longitude":-73.981225,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818033,
-    "wof:geomhash":"5a16fce334ad0847396a91dfa39eb82b",
+    "wof:geomhash":"2d33feb463ad72e2c3586d5941b1f413",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909639,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947597,
     "wof:name":"Staten St Exn  & Stanton St Exn",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

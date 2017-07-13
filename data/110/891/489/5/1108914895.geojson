@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762805,
     "reversegeo:longitude":-73.96567,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818299,
-    "wof:geomhash":"104fcf603cbb3498aa0ced59c926700d",
+    "wof:geomhash":"841ef882ef37e814dbf23bb921dd8226",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914895,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947608,
     "wof:name":"3rd Ave  & E 61st St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

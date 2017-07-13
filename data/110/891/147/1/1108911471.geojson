@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":5,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.784718,
     "reversegeo:longitude":-73.958096,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818125,
-    "wof:geomhash":"7a9fec6aae9fbabadeab832e1694ddaa",
+    "wof:geomhash":"999dbb99b9f0473bf2c488f5d97f51bf",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911471,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947601,
     "wof:name":"5th Ave  & E 91st St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

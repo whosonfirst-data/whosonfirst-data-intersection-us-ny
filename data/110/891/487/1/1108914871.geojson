@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.723882,
     "reversegeo:longitude":-73.982083,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818298,
-    "wof:geomhash":"be6791f7abd1a79e37dfa7f93d6a936c",
+    "wof:geomhash":"2649dd25b1e1a3d17d505233c0eb5146",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108914871,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947608,
     "wof:name":"Ave B  & E 5th St",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

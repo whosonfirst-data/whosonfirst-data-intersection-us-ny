@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.796111,
     "reversegeo:longitude":-73.96144,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818036,
-    "wof:geomhash":"ed62e59e2886a26fe6c4d5512011761f",
+    "wof:geomhash":"3d5d2b58a3720dc9580631c58f7999d8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909711,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947597,
     "wof:name":"Central Park W  & W 103rd St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

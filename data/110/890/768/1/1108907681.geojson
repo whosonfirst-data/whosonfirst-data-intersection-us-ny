@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721473,
     "reversegeo:longitude":-73.983824,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817933,
-    "wof:geomhash":"e5b8a8db9928d200ab55c9e2696ea80b",
+    "wof:geomhash":"c6ac16518c29b8d5037f892868f25eec",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907681,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947593,
     "wof:name":"E Houston St  & Ave B",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

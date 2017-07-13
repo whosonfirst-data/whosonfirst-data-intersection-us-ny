@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.833861,
     "reversegeo:longitude":-73.948291,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818185,
-    "wof:geomhash":"2cdd744b6b0d7343b2743d785b9cc029",
+    "wof:geomhash":"8e1b01d433be9df771635a40719f2731",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912771,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947604,
     "wof:name":"Riverside Dr  & W 155th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

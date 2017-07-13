@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.769931,
     "reversegeo:longitude":-73.994603,
     "src:geom":"mapzen",
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817951,
-    "wof:geomhash":"fdc745c395b4f509d4598c18538418ce",
+    "wof:geomhash":"cb0282c6904a9e3975cc6d51cbd86377",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108908109,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947594,
     "wof:name":"12th Ave  & W 55th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

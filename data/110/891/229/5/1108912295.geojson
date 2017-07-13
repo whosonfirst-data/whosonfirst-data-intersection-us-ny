@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.739506,
     "reversegeo:longitude":-73.984749,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818160,
-    "wof:geomhash":"df577dde74701a91414cb5010b98a505",
+    "wof:geomhash":"38e828187a71ad17665992870d062d7f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912295,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1499947603,
     "wof:name":"E 23rd St  & Lexington Ave",
     "wof:parent_id":85869245,
     "wof:placetype":"intersection",

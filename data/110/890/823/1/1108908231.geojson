@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.731019,
     "reversegeo:longitude":-73.985909,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817956,
-    "wof:geomhash":"8240d73105cba7d85a355d76727b2c61",
+    "wof:geomhash":"c09a9b93691fad7c4d80770bbc74a778",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908231,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947594,
     "wof:name":"2nd Ave  & E 12th St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

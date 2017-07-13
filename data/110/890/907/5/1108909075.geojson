@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.716188,
     "reversegeo:longitude":-74.009205,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817992,
-    "wof:geomhash":"d854f35e3628d45eee3957d6d0024f5a",
+    "wof:geomhash":"7552d5cf61aea0843da23984b7fa4ed7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909075,
-    "wof:lastmodified":1490900180,
+    "wof:lastmodified":1499947596,
     "wof:name":"Reade St  & Hudson St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

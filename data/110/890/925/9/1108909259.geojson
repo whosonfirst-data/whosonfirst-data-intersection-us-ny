@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.801793,
     "reversegeo:longitude":-73.931292,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818006,
-    "wof:geomhash":"e5a3e77de27aceb28d7fbc4f04bd1f84",
+    "wof:geomhash":"503b7edf6acc69b9cd11719bd7ea676f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909259,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947596,
     "wof:name":"1st Ave  & E 125th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

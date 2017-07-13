@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.813938,
     "reversegeo:longitude":-73.948419,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817999,
-    "wof:geomhash":"58007439b0c4e7237787e284cc4b0508",
+    "wof:geomhash":"a31f69fbb9f31cc5019e15c48fa8662f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909199,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 131st St  & Frederick Douglass Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

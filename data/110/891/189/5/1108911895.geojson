@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.709425,
     "reversegeo:longitude":-74.005148,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818143,
-    "wof:geomhash":"2232e7d07a8cb5aac9b1d606f50a632b",
+    "wof:geomhash":"5b7618805c30a24cf04dcc7dc70f2da9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911895,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947602,
     "wof:name":"Ann St  & Gold St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.852476,
     "reversegeo:longitude":-73.929603,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818265,
-    "wof:geomhash":"cde20dd65c284c99dbbbb54059bfe04b",
+    "wof:geomhash":"801ec2c96e170fe70911e2ebbdb6be37",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914383,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947607,
     "wof:name":"Audubon Ave  & W 187th St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

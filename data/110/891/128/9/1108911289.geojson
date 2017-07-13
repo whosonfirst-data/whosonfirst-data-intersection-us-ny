@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.828042,
     "reversegeo:longitude":-73.942505,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818117,
-    "wof:geomhash":"4b2b15516a6c6bb7feff0631ea325eeb",
+    "wof:geomhash":"0a2c1253ce2e6b8ba70a1d7d2fd9aaa8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911289,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947600,
     "wof:name":"St Nicholas Ave  & W 151st St",
     "wof:parent_id":907215743,
     "wof:placetype":"intersection",

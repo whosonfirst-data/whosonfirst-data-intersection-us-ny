@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.734483,
     "reversegeo:longitude":-74.001389,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818120,
-    "wof:geomhash":"7e20b314b49f5e34614794ce2d2c1bc5",
+    "wof:geomhash":"18c31600f5bd8759f2fc072394ca6b2e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911367,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947601,
     "wof:name":"W 10th St  & Waverly Pl",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

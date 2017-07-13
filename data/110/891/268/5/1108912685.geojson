@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.81838,
     "reversegeo:longitude":-73.94698,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818181,
-    "wof:geomhash":"3d2ef7ef8a73af558e0ebfefedc024a8",
+    "wof:geomhash":"85a1bacce9ec1f4b27a8d2cc49ee2db1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912685,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947604,
     "wof:name":"W 137th St  & Edgecombe Ave",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

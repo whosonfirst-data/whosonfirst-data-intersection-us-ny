@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.733607,
     "reversegeo:longitude":-74.002858,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817935,
-    "wof:geomhash":"97590bfedd2d6e58e3d91bafc8e4e21c",
+    "wof:geomhash":"0caaa2e9169be02e16e7475b0c0ec13e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907709,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947593,
     "wof:name":"7th Ave S  & Christopher St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

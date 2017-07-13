@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713015,
     "reversegeo:longitude":-74.000891,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817936,
-    "wof:geomhash":"e600c6b098dcc6678ffffca0f93805c1",
+    "wof:geomhash":"3b663884938aefef5285e79e5718bd08",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907753,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947593,
     "wof:name":"Pearl St  & Park Row",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

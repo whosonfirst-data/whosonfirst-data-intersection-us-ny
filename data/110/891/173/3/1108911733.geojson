@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.744802,
     "reversegeo:longitude":-73.991419,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818136,
-    "wof:geomhash":"55b13b9a8436ad50b9b335eae012cfd2",
+    "wof:geomhash":"3c4ad839dfa2842c7cbc1cd140fa55f7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911733,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947601,
     "wof:name":"Ave of the Americas  & W 26th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

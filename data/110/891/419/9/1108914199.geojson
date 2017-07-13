@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.822019,
     "reversegeo:longitude":-73.953676,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818258,
-    "wof:geomhash":"2f7d2a69abfe31a0e57fcc0251e906ac",
+    "wof:geomhash":"570100cec6de523fa7d6930187ef6283",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914199,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947607,
     "wof:name":"W 138th St  & Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

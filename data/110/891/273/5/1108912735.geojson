@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.814144,
     "reversegeo:longitude":-73.955707,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818183,
-    "wof:geomhash":"8974279bee4c3a0295f81aaa23bbf53c",
+    "wof:geomhash":"fef3df4a6a9a06015441213574473f42",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912735,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947604,
     "wof:name":"Amsterdam Ave  & W 126th St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

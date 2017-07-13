@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.735205,
     "reversegeo:longitude":-73.985787,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818018,
-    "wof:geomhash":"543e41059bbd047a0c2e9c45b0350e3b",
+    "wof:geomhash":"3afcc24dd64ed4eea959fa5932201811",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909423,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947596,
     "wof:name":"3rd Ave  & E 17th St",
     "wof:parent_id":85865705,
     "wof:placetype":"intersection",

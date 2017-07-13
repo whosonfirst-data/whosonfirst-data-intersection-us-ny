@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.733813,
     "reversegeo:longitude":-73.980711,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818295,
-    "wof:geomhash":"5d1b7e4da16d1561ed184bad9ad2e2d9",
+    "wof:geomhash":"e3a7a40fa5753f4ef213e9362b23d380",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914819,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947608,
     "wof:name":"1st Ave  & E 18th St",
     "wof:parent_id":85851295,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.709044,
     "reversegeo:longitude":-74.008893,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817906,
-    "wof:geomhash":"50c7ecc19f67c3affa74c233db447164",
+    "wof:geomhash":"ab55d9b4f9d241d04da19c5b8e9f6656",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907161,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947591,
     "wof:name":"Maiden Ln  & Nassau St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

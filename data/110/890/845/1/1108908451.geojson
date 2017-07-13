@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.78517,
     "reversegeo:longitude":-73.973134,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817968,
-    "wof:geomhash":"07dd899a756491df4de881860d8cd8c1",
+    "wof:geomhash":"ed01efe91d885166e60b0ed11c3cdea7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908451,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947594,
     "wof:name":"Columbus Ave  & W 84th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

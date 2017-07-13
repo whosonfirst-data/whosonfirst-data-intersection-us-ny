@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.804256,
     "reversegeo:longitude":-73.962926,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818173,
-    "wof:geomhash":"10d804c7d339d158319f8344530d6964",
+    "wof:geomhash":"916cef15a01eea15f50e4dc8caef6787",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912511,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947603,
     "wof:name":"Amsterdam Ave  & W 112th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

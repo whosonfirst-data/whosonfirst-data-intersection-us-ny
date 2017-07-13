@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.709498,
     "reversegeo:longitude":-74.013889,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818227,
-    "wof:geomhash":"d84d55a54cb804a0df180634fef7628f",
+    "wof:geomhash":"a2851280e598ff2742a7d4656b02097a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913585,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947606,
     "wof:name":"Albany St  & Washington St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

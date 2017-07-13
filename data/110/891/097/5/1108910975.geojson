@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.729725,
     "reversegeo:longitude":-74.002171,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818091,
-    "wof:geomhash":"87b42fc2618f18a7317d30fe2b1b533d",
+    "wof:geomhash":"f44018156fc474b9b40ec61c824eaade",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910975,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"Ave of the Americas  & Bleecker St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

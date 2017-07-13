@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.776236,
     "reversegeo:longitude":-73.955869,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818141,
-    "wof:geomhash":"c8f4ed82e84de76b16699e5240a421be",
+    "wof:geomhash":"bce454af2d52663f278aacfe542eb079",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911851,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947602,
     "wof:name":"3rd Ave  & E 82nd St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

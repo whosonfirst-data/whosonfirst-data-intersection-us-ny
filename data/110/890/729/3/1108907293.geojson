@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.792185,
     "reversegeo:longitude":-73.968016,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817916,
-    "wof:geomhash":"0edba6f4eea6fcd68105e9c7d742ebe6",
+    "wof:geomhash":"a1c0148a448564d6c0f449d6011bf737",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907293,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947592,
     "wof:name":"Columbus Ave  & W 95th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

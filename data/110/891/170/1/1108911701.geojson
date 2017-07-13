@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.816185,
     "reversegeo:longitude":-73.957474,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818134,
-    "wof:geomhash":"e66e7cb396dc217b2b32a8541f425a0d",
+    "wof:geomhash":"5ce4327dea56db9f0b1a2785588a04f6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911701,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947601,
     "wof:name":"W 129th St  & W 126th St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

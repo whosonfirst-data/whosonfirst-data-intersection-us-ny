@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.795436,
     "reversegeo:longitude":-73.943948,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818037,
-    "wof:geomhash":"5662d247f1f719272aa6906724c1c0f2",
+    "wof:geomhash":"3368c6c5efd095a254e2d091334c5500",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909739,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947597,
     "wof:name":"Lexington Ave  & E 111th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

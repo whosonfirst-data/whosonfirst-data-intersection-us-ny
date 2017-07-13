@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.750661,
     "reversegeo:longitude":-73.987779,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818236,
-    "wof:geomhash":"e8ec20f71219a3afc65b2e74c3a22e13",
+    "wof:geomhash":"94b5b22964c8ed4631383e3631968c26",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913813,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947606,
     "wof:name":"Broadway  & W 35th St",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

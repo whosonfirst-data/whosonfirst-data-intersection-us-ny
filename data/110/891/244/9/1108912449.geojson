@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.776531,
     "reversegeo:longitude":-73.98843,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818171,
-    "wof:geomhash":"d4f77b3b845dd8a07a8593b1a075af96",
+    "wof:geomhash":"43da34c0d14453ea898cee40470792e2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912449,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947603,
     "wof:name":"Freedom Pl  & W 66th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

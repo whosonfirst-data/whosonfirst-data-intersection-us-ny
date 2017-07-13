@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.773031,
     "reversegeo:longitude":-73.978281,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818182,
-    "wof:geomhash":"b67bf073cda2ddf5ee9210a5b88e7d7a",
+    "wof:geomhash":"7dafbd055a5c49c3559307471f6f46cf",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912713,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947604,
     "wof:name":"Central Park W  & W 67th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

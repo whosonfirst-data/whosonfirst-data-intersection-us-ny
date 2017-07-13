@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.704883,
     "reversegeo:longitude":-74.015656,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817966,
-    "wof:geomhash":"895043bd37226ae48d588ec78d415d0a",
+    "wof:geomhash":"41216a38648fa115208ebac0a89a2571",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908401,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947594,
     "wof:name":"Battery Pl  & Washington St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

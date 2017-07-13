@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.788584,
     "reversegeo:longitude":-73.955275,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817901,
-    "wof:geomhash":"92cc6d59e2fc7b1a8bc13582d1f907e9",
+    "wof:geomhash":"3408d9e22c97b43edb672c3803fd709f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907047,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947591,
     "wof:name":"97th St Transverse  & E 97th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

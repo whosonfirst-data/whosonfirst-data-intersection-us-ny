@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.822073,
     "reversegeo:longitude":-73.949921,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817993,
-    "wof:geomhash":"6519ba1a05352dd64fb2a20519ef09d4",
+    "wof:geomhash":"ae49579fff90c9baa52dbcdd43f482a7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909091,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 140th St  & Amsterdam Ave",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.737233,
     "reversegeo:longitude":-73.975374,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818077,
-    "wof:geomhash":"28c83c2e359716166acd963c2e4173e3",
+    "wof:geomhash":"6e9a1bbb97598998c7642648b0e8fdc0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108910641,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947599,
     "wof:name":"E 25th St  & Asser Levy Pl",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.801332,
     "reversegeo:longitude":-73.950186,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818071,
-    "wof:geomhash":"a16787acc4a5f5429dc28cc9853f6732",
+    "wof:geomhash":"3b94eabe3b4b93d506f86cad13b8e0ac",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910507,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947599,
     "wof:name":"Lenox Ave  & W 115th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

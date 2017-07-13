@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.807773,
     "reversegeo:longitude":-73.945482,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818011,
-    "wof:geomhash":"67342ccd28b006c156dae23aa8454da2",
+    "wof:geomhash":"7ca656296604c9c9df6b803a4b9271bd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909311,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 125th St  & Malcolm X Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

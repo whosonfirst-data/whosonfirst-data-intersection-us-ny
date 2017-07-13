@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.744779,
     "reversegeo:longitude":-73.975881,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818103,
-    "wof:geomhash":"64918695780464efd68e688ccd9ebe56",
+    "wof:geomhash":"2ba1d8d0e67945bdc2b235a2016f8e0a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911167,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947600,
     "wof:name":"2nd Ave  & E 34th St",
     "wof:parent_id":85868041,
     "wof:placetype":"intersection",

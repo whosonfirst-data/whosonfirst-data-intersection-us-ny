@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.812575,
     "reversegeo:longitude":-73.950927,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818198,
-    "wof:geomhash":"24f68487acb415f9c9334b0fbe679f2d",
+    "wof:geomhash":"8e669f752cc8a621f698d734f2c47a2d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913075,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947604,
     "wof:name":"W 128th St  & St Nicholas Ave",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

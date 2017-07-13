@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.772654,
     "reversegeo:longitude":-73.955553,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818265,
-    "wof:geomhash":"cf5c8de813cea13cfad9be92c15eda9b",
+    "wof:geomhash":"1610f7058ebee08ab5f93a21e0c09852",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914403,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947607,
     "wof:name":"2nd Ave  & E 78th St",
     "wof:parent_id":85865691,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.864112,
     "reversegeo:longitude":-73.92125,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818280,
-    "wof:geomhash":"8001cf01ecc12c9ee9161cc152028543",
+    "wof:geomhash":"ee30ea6e96d2d5a5787ac59a0794ba41",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914605,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947608,
     "wof:name":"Post Ave  & W 204th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

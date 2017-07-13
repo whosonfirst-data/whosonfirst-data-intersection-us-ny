@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71552,
     "reversegeo:longitude":-74.009239,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818280,
-    "wof:geomhash":"621766795809dbd89d574d6d189964be",
+    "wof:geomhash":"1fb022bd1dcb766542b72e710875e659",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914611,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947608,
     "wof:name":"W Broadway  & Hudson St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

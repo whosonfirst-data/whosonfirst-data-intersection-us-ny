@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.714487,
     "reversegeo:longitude":-73.991225,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818228,
-    "wof:geomhash":"3dee21ed5b0c4cf7c16399181735a907",
+    "wof:geomhash":"4bcbc7e5ef92bdd7570ba1329f1a82fb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913621,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947606,
     "wof:name":"Division St  & Ludlow St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

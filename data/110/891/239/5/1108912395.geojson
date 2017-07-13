@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706051,
     "reversegeo:longitude":-74.007452,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818169,
-    "wof:geomhash":"8799129e5ba70ef5b82ada2a4871cdd1",
+    "wof:geomhash":"325596ef981f93c4f7230f731c131072",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912395,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947603,
     "wof:name":"Pearl St  & Pine St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

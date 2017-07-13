@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.866064,
     "reversegeo:longitude":-73.922498,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818285,
-    "wof:geomhash":"b6e47eaf9c52da08da1bc99740342d8f",
+    "wof:geomhash":"1bc32b83f18ad9b93c168644d7b30352",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914733,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947608,
     "wof:name":"Vermilyea Ave  & W 204th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

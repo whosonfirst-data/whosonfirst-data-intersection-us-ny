@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.748355,
     "reversegeo:longitude":-74.003684,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818092,
-    "wof:geomhash":"b704f06ec50c4a2b9af3b7a91ec4b30f",
+    "wof:geomhash":"14163f0c4605d66a7807551ab0ca75b4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911003,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947600,
     "wof:name":"10th Ave  & W 24th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

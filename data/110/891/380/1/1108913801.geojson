@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.824811,
     "reversegeo:longitude":-73.936787,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818236,
-    "wof:geomhash":"eac3f0f781909105c590c5f2bce73ef9",
+    "wof:geomhash":"d87bf6710e666af9fb2e0ca6dfd42899",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913801,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947606,
     "wof:name":"W 150th St  & Adam Clayton Powell Jr Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

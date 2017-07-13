@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.736611,
     "reversegeo:longitude":-74.005314,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817900,
-    "wof:geomhash":"1dd54ad3e26d2978f67824f6715c37a0",
+    "wof:geomhash":"6b90b1096bc37fe4204e912e03a2a8f0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108906999,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947591,
     "wof:name":"Bank St  & Bleecker St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

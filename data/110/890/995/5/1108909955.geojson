@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717596,
     "reversegeo:longitude":-73.996327,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818045,
-    "wof:geomhash":"c5f78874043e218a40832361103d5d0e",
+    "wof:geomhash":"66c16b41ae3567de0d0b6ef937e93fa0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909955,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947598,
     "wof:name":"Hester St  & Elizabeth St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

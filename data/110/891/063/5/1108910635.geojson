@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.809641,
     "reversegeo:longitude":-73.947839,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818077,
-    "wof:geomhash":"fe7c3a0c7b935c4595ce3b6afa99b53b",
+    "wof:geomhash":"66c8280ef71ca3f614cacb3ab55fceb5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910635,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947599,
     "wof:name":"7th Ave  & W 126th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.77402,
     "reversegeo:longitude":-73.954556,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818082,
-    "wof:geomhash":"d0c8abc95ac3bb0e145320bcca86fb77",
+    "wof:geomhash":"b53cea2438dca0d0fa5ca53c502e7da9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910769,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947599,
     "wof:name":"2nd Ave  & E 80th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

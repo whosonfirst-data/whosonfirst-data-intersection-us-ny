@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.780753,
     "reversegeo:longitude":-73.952575,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818265,
-    "wof:geomhash":"d196c5440e606da3bb993fa68d9cc618",
+    "wof:geomhash":"1dcf6475e2ef33a64fdc8390408aa58a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914401,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947607,
     "wof:name":"3rd Ave  & E 89th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

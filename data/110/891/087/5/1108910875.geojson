@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.802077,
     "reversegeo:longitude":-73.934062,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818086,
-    "wof:geomhash":"6a3914d1becae9c518f149c7942ff21c",
+    "wof:geomhash":"a6cc9cbdf09bb82ae33cdd31235c1358",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910875,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947600,
     "wof:name":"2nd Ave  & E 124th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

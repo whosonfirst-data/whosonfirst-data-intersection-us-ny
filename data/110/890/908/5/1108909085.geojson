@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.754251,
     "reversegeo:longitude":-73.968978,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817993,
-    "wof:geomhash":"54b07c50e8e4bc09e4dc0d139e6cbf2d",
+    "wof:geomhash":"783478d58a56cead2e5e1f22a1025bf1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909085,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947596,
     "wof:name":"2nd Ave  & E 49th St",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

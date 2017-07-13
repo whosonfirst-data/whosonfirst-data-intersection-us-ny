@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.795312,
     "reversegeo:longitude":-73.935912,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818050,
-    "wof:geomhash":"cd88076fe624b6430b4b040b18a6887c",
+    "wof:geomhash":"47905e738e3aec6c99784a663c30d6ba",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910057,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947598,
     "wof:name":"1st Ave  & E 115th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

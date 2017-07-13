@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.730558,
     "reversegeo:longitude":-74.010397,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818099,
-    "wof:geomhash":"9417925e9d5d1477783ffacc92e71931",
+    "wof:geomhash":"5672aef51e7de4fd77cc98466c56234b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911103,
-    "wof:lastmodified":1490900147,
+    "wof:lastmodified":1499947600,
     "wof:name":"Lincoln Hwy  & Leroy St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

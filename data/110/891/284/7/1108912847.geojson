@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.80761,
     "reversegeo:longitude":-73.95304,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818188,
-    "wof:geomhash":"1460101b01f9670d5068dbbecf55495a",
+    "wof:geomhash":"63e3bb2ae4307cebd00be7945c8f363f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912847,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947604,
     "wof:name":"Frederick Douglass Blvd  & W 121st St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

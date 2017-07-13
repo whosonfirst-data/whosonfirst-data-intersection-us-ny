@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.782706,
     "reversegeo:longitude":-73.971223,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818237,
-    "wof:geomhash":"6de8ac1fb650afa16a7fcd7feb37dec7",
+    "wof:geomhash":"849a16b5de0f3ec711fa7f694df37545",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913833,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947606,
     "wof:name":"W 82nd St  & Central Park W",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

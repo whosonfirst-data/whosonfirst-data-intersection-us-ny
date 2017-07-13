@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713646,
     "reversegeo:longitude":-74.003603,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818197,
-    "wof:geomhash":"1485d2a3adee1f56e900c85afa5b2618",
+    "wof:geomhash":"3a88ec941a14cb66eaef17752aaa6293",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913041,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947604,
     "wof:name":"Lafayette St  & Reade St",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

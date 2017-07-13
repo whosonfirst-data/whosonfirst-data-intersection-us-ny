@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.784565,
     "reversegeo:longitude":-73.951883,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817975,
-    "wof:geomhash":"e40d9b57e373f822d0087e1d3ea19580",
+    "wof:geomhash":"189bb27f8b9a5b0181739c396ae6c33a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908637,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947595,
     "wof:name":"Lexington Ave  & E 94th St",
     "wof:parent_id":907196173,
     "wof:placetype":"intersection",

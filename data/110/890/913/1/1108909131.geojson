@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.843437,
     "reversegeo:longitude":-73.941634,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817995,
-    "wof:geomhash":"b35642fc3a469d26c0c397ed2dc696e6",
+    "wof:geomhash":"84d35d4e595b14fe3e0f48b4199798f2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909131,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947596,
     "wof:name":"Fort Washington Ave  & W 170th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

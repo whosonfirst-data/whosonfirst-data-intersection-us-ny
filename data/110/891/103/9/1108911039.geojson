@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713618,
     "reversegeo:longitude":-74.006753,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818093,
-    "wof:geomhash":"bc41baedc481e9e02c347d2a0fe536df",
+    "wof:geomhash":"5cd100d97e851e73418ee4eebf19b7ad",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911039,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947600,
     "wof:name":"Warren St  & Broadway",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

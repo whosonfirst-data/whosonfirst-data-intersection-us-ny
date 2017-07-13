@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.739673,
     "reversegeo:longitude":-73.990945,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818057,
-    "wof:geomhash":"d17aef5f284c3620f15e1cf1d1bdf8a2",
+    "wof:geomhash":"3a500fbfc348d0f9b68c3542126c0c4e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910237,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947598,
     "wof:name":"E 20th St  & 5th Ave",
     "wof:parent_id":85869245,
     "wof:placetype":"intersection",

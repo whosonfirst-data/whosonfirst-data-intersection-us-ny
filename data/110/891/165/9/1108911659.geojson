@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.692086,
     "reversegeo:longitude":-74.018876,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818133,
-    "wof:geomhash":"cd986f0ca81984e267dae9f318778405",
+    "wof:geomhash":"3520328db2022c56f04807471dce9b41",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911659,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947601,
     "wof:name":"Hay Rd  & Kimball Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

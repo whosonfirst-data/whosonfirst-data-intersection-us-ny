@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.733214,
     "reversegeo:longitude":-73.991114,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818100,
-    "wof:geomhash":"cab16a590c7b4294bba056124f6f5429",
+    "wof:geomhash":"576a4e6e35e73c033d7a24f8b3321953",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911113,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947600,
     "wof:name":"E 12th St  & Broadway",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

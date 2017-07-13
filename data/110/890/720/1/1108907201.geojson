@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.704721,
     "reversegeo:longitude":-74.011558,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817907,
-    "wof:geomhash":"245fb6e94987edd3c96062a8c9adcd01",
+    "wof:geomhash":"a7470efa457844ce8a682af7ed20cfac",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907201,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947592,
     "wof:name":"Marketfield St  & Broad St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

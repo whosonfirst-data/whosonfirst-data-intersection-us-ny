@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.867016,
     "reversegeo:longitude":-73.92311,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818072,
-    "wof:geomhash":"3610c4e5e9a513a357868a0da67da0c3",
+    "wof:geomhash":"e1146013a7d1e4ef1c0b511d7d198508",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910523,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947599,
     "wof:name":"Broadway  & W 204th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

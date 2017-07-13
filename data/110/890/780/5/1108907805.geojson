@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.764842,
     "reversegeo:longitude":-73.970497,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817938,
-    "wof:geomhash":"73edf02082c13ef22da3e9cfa61ea081",
+    "wof:geomhash":"35cfc95b7152b1dd586df997311590f2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907805,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947593,
     "wof:name":"Madison Ave  & E 61st St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

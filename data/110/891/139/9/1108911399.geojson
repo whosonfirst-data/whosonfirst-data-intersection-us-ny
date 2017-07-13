@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.761175,
     "reversegeo:longitude":-73.957888,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818122,
-    "wof:geomhash":"5d4109d4e1e3bcb88327b8285776e219",
+    "wof:geomhash":"028e7e40c1c22608d4b6d2febf9a472e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911399,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947601,
     "wof:name":"E 63rd St  & York Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

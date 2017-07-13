@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.805136,
     "reversegeo:longitude":-73.945239,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818191,
-    "wof:geomhash":"75060f39050af4382ecb83590db693ca",
+    "wof:geomhash":"338fa5b14b2182cb4cbf0fef4760623f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912903,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947604,
     "wof:name":"Mount Morris Park W  & W 122nd St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

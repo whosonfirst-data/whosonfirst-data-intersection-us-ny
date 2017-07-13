@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.718017,
     "reversegeo:longitude":-73.999956,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817993,
-    "wof:geomhash":"3c9ed61a9f709b19725433f634e06294",
+    "wof:geomhash":"5ddf5485deb93e660da753f8b0a8b177",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909081,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947596,
     "wof:name":"Centre St  & Canal St",
     "wof:parent_id":85830947,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.714291,
     "reversegeo:longitude":-73.993951,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818066,
-    "wof:geomhash":"c1acbed29d8d84cfab49c936b85cb362",
+    "wof:geomhash":"8f7220b905f13135801a44e2f1b47e60",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910433,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947599,
     "wof:name":"Division St  & Eldridge St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

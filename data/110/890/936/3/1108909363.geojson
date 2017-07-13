@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.72658,
     "reversegeo:longitude":-73.99503,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818013,
-    "wof:geomhash":"2717b44d8959cd1a6d5444628ea873bb",
+    "wof:geomhash":"55281684892fe02e0cf051bec32f17c0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909363,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947596,
     "wof:name":"Shinbone Aly  & Jones Aly",
     "wof:parent_id":85865699,
     "wof:placetype":"intersection",

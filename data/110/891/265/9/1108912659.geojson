@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.752416,
     "reversegeo:longitude":-73.97837,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818180,
-    "wof:geomhash":"53118a8fa868d90af59d8f237fbfe276",
+    "wof:geomhash":"9c97cbfa1e7deaaa61a7cea65f94888f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912659,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947604,
     "wof:name":"E 42nd St  & Vanderbilt Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

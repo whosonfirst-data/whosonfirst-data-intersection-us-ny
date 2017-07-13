@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.723686,
     "reversegeo:longitude":-73.991139,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818098,
-    "wof:geomhash":"cad684e6a183e19e882da4d7cc0c8c0f",
+    "wof:geomhash":"beb815f7af583901c93dc23985e1eb6f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911091,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1499947600,
     "wof:name":"2nd Ave  & E Houston St",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

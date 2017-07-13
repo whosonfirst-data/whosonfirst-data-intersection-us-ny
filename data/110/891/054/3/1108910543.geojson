@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726935,
     "reversegeo:longitude":-73.999916,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818072,
-    "wof:geomhash":"1826be2d8772d68eda7141b7c0f33827",
+    "wof:geomhash":"a1bdf48c6d902532ccdaa915a2ab0668",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910543,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947599,
     "wof:name":"Laguardia Pl  & W Houston St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

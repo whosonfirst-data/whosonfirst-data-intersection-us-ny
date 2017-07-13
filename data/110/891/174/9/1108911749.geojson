@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.719296,
     "reversegeo:longitude":-74.008699,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818136,
-    "wof:geomhash":"3be2be1155439202d6a92e71c3458285",
+    "wof:geomhash":"37788fbdaad617fc42f7c0a47b213779",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911749,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947601,
     "wof:name":"Franklin St  & Hudson St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

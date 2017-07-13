@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.741408,
     "reversegeo:longitude":-73.983362,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817972,
-    "wof:geomhash":"0e46baccf9ba79318ee53b824edf6913",
+    "wof:geomhash":"ef6175da6d7589f5129d3f9c1f13462b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908577,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"Lexington Ave  & E 26th St",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

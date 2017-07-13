@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.771697,
     "reversegeo:longitude":-73.959182,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818254,
-    "wof:geomhash":"3b28e6222ae5f8f1274e1ae3df6ec38a",
+    "wof:geomhash":"02a5a4c6936bdbff2b148c9f4d779188",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914085,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947607,
     "wof:name":"3rd Ave  & E 75th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

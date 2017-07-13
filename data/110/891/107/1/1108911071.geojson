@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.735961,
     "reversegeo:longitude":-74.005126,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818096,
-    "wof:geomhash":"dff49911a94c9f5a6fc87d88af3ee366",
+    "wof:geomhash":"a4d4001dfb4f15594e1575d1faa49759",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911071,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 11th St  & Bleecker St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

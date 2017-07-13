@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.749823,
     "reversegeo:longitude":-73.972203,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817923,
-    "wof:geomhash":"e9cea9794a5b15fa2d96fa6beab8743a",
+    "wof:geomhash":"2e511c262d4e862e0d89341c563ada37",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907457,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947592,
     "wof:name":"2nd Ave  & E 42nd St",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

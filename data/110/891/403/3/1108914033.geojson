@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":5,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.776994,
     "reversegeo:longitude":-73.963729,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818246,
-    "wof:geomhash":"27f2f6f962bbc086a26d21d59b4738bd",
+    "wof:geomhash":"b0f939cf639281b212f913f0d5626ace",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914033,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947607,
     "wof:name":"East Dr  & 79th St Transverse",
     "wof:parent_id":85865691,
     "wof:placetype":"intersection",

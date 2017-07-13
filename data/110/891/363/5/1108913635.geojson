@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715952,
     "reversegeo:longitude":-73.986721,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818229,
-    "wof:geomhash":"f53372e8cdffb1dc86ee559d24a645fe",
+    "wof:geomhash":"c08f652ec60c750ed984b68c075bd25f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913635,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947606,
     "wof:name":"Grand St  & Clinton St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

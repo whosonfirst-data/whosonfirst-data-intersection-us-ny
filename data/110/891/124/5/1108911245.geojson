@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.747068,
     "reversegeo:longitude":-73.979238,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818113,
-    "wof:geomhash":"66d6c47db45f07f5b9fe762f165b198e",
+    "wof:geomhash":"8e53e2c340193d5bedae7d9c9ef13355",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911245,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947600,
     "wof:name":"Lexington Ave  & E 35th St",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

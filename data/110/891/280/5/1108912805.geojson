@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.857978,
     "reversegeo:longitude":-73.930904,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818187,
-    "wof:geomhash":"b332ea17bd026bf454f4d597f655e8e2",
+    "wof:geomhash":"25d58248ad13fa13620fe24555bd5292",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912805,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947604,
     "wof:name":"Broadway Ter  & W 193rd St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

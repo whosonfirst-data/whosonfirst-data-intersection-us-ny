@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.736691,
     "reversegeo:longitude":-73.99312,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818244,
-    "wof:geomhash":"e5dfc5a9c12c6eb857d2b4df5fadfc18",
+    "wof:geomhash":"542f39259a3e6bd23502d6d46a3cbbef",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914001,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947607,
     "wof:name":"W 15th St  & E 15th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

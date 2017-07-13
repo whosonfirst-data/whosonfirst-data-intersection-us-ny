@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.759787,
     "reversegeo:longitude":-73.976289,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818186,
-    "wof:geomhash":"9f8b9526d8497a6810ad69519121fa96",
+    "wof:geomhash":"e7689f22e3e2d1984d3ee70c73c68349",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912787,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947604,
     "wof:name":"W 52nd St  & E 52nd St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

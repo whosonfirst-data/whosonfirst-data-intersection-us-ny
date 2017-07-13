@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.748289,
     "reversegeo:longitude":-73.988177,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818167,
-    "wof:geomhash":"95a6604c12fac73a6bf34f4284f5bff5",
+    "wof:geomhash":"10d881a46e5dd3362ecbf581beb418fa",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108912355,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 32nd St  & Broadway",
     "wof:parent_id":907214343,
     "wof:placetype":"intersection",

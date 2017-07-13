@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.868686,
     "reversegeo:longitude":-73.923433,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817966,
-    "wof:geomhash":"db2f0a354d9d900398e0524f6307547d",
+    "wof:geomhash":"82c2ec048abff0309c7e81d4c6f0fadc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908393,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947594,
     "wof:name":"Seaman Ave  & Payson Ave",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

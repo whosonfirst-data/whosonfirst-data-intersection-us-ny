@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.756132,
     "reversegeo:longitude":-73.967607,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818223,
-    "wof:geomhash":"d8030c60810cbf887a269721639df608",
+    "wof:geomhash":"64b33162bb882be97241a28193571cb9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913531,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947606,
     "wof:name":"2nd Ave  & E 52nd St",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

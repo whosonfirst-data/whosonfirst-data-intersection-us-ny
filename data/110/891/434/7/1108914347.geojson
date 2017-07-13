@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.749052,
     "reversegeo:longitude":-73.995749,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818264,
-    "wof:geomhash":"61f577078553babc8642c3a56c01a6ed",
+    "wof:geomhash":"1ed0dde413d3ecedf0d7c9714d1b6c37",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914347,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947607,
     "wof:name":"W 29th St  & 8th Ave",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

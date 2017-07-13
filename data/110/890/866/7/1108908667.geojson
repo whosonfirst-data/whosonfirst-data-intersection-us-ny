@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.757968,
     "reversegeo:longitude":-73.985551,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817976,
-    "wof:geomhash":"f8adda7c13355f52be7f7016d4510cb9",
+    "wof:geomhash":"d8df7d6341dbe8376e5e87cc3cc4bdff",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908667,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947595,
     "wof:name":"Broadway  & W 45th St",
     "wof:parent_id":907216453,
     "wof:placetype":"intersection",

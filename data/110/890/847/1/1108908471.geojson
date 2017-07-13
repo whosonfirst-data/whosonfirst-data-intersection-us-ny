@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.732731,
     "reversegeo:longitude":-73.993814,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817968,
-    "wof:geomhash":"a5b4ba88265d4a62020dbb9a19191ac9",
+    "wof:geomhash":"c281186b96baa5e73f11d67908a61ab6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908471,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947594,
     "wof:name":"University Pl  & E 10th St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

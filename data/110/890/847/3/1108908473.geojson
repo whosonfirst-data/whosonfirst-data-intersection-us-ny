@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71787,
     "reversegeo:longitude":-73.997108,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817968,
-    "wof:geomhash":"faed6c1937eae88ae198c7df27d7d066",
+    "wof:geomhash":"3b32292daa54c5acf1fd0813f86b8d69",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908473,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947594,
     "wof:name":"Hester St  & Mott St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

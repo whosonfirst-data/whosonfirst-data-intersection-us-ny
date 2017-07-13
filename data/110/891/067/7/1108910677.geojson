@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.732329,
     "reversegeo:longitude":-73.979679,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818078,
-    "wof:geomhash":"6ef07a624093049e1f9663c7d8684473",
+    "wof:geomhash":"451c776acf9711d256ff418617404c15",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910677,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947599,
     "wof:name":"Stuyvesant Walk  & Stuyvesant Loop W",
     "wof:parent_id":85851295,
     "wof:placetype":"intersection",

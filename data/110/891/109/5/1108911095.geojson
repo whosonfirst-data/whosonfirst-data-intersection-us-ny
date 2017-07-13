@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.735534,
     "reversegeo:longitude":-74.001693,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818098,
-    "wof:geomhash":"a15ffd251d69c18e79c4bc5680d3e804",
+    "wof:geomhash":"8af25f30cf53ee03c83fb33a179ce651",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911095,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1499947600,
     "wof:name":"Waverly Pl  & 7th Ave S",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

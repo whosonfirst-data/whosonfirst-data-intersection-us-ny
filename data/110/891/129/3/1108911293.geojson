@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.773054,
     "reversegeo:longitude":-73.962402,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818117,
-    "wof:geomhash":"5d7fb90e9e266eeab5566226a7639b4d",
+    "wof:geomhash":"fa464db321a51087f4c74b0cc8997f87",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911293,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947601,
     "wof:name":"E 75th St  & Park Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

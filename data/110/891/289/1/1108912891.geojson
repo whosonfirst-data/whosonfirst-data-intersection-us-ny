@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.731209,
     "reversegeo:longitude":-73.995119,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818190,
-    "wof:geomhash":"f61103dc54644466784ae45adfec3779",
+    "wof:geomhash":"0791b0f3973500cd1e113bee46875c82",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912891,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947604,
     "wof:name":"University Pl  & Washington Mews",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

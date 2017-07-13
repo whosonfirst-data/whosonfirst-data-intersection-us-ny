@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.870148,
     "reversegeo:longitude":-73.916973,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817921,
-    "wof:geomhash":"69da74229e155b22ca880c8dc055c38f",
+    "wof:geomhash":"2dc541167e6274f9a56a5ff049d64fd1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907407,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947592,
     "wof:name":"Park Ter E  & W 215th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

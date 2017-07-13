@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.858744,
     "reversegeo:longitude":-73.930122,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818144,
-    "wof:geomhash":"c0bc617c0cc751aba163d305d97d4668",
+    "wof:geomhash":"f92a77b20ca0dfee58fd5a3c081e3536",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911923,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947602,
     "wof:name":"Bogardus Pl  & Hillside Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

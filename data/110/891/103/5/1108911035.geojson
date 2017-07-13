@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.846048,
     "reversegeo:longitude":-73.940241,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818093,
-    "wof:geomhash":"26fbe5b60da9ac5844081357c7e37d36",
+    "wof:geomhash":"dcbbd1cae07bc58004d8e593d8f15a65",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911035,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947600,
     "wof:name":"Fort Washington Ave  & W 174th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

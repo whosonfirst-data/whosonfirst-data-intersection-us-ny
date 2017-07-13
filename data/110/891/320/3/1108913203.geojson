@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.687619,
     "reversegeo:longitude":-74.022894,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818204,
-    "wof:geomhash":"9aeb29406b5741349c4d9b0488bd7a20",
+    "wof:geomhash":"fba1b9523fc45602f001a2af596b37be",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913203,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947605,
     "wof:name":"Gresham Rd  & Chincoteague Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.836557,
     "reversegeo:longitude":-73.943052,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817975,
-    "wof:geomhash":"e8bd0bf09fef273a1a4e8c5d923a324c",
+    "wof:geomhash":"1a40a75be1b3259c5ad2f9644d2bb625",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908653,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947595,
     "wof:name":"Broadway  & W 161st St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

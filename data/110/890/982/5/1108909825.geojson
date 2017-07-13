@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.763075,
     "reversegeo:longitude":-73.999553,
     "src:geom":"mapzen",
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818040,
-    "wof:geomhash":"97811aa8c3c96688aa12d6ee070977f1",
+    "wof:geomhash":"c05996e45e7f945450d1c7eab5ee2fea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108909825,
-    "wof:lastmodified":1490900180,
+    "wof:lastmodified":1499947597,
     "wof:name":"12th Ave  & W 44th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

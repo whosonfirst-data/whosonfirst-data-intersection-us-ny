@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.734477,
     "reversegeo:longitude":-74.008462,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818026,
-    "wof:geomhash":"c0532af1829bc0a9c6089e58dc5532c5",
+    "wof:geomhash":"e8ca82ede0d71576bbbc5c3a4de14814",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909533,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947597,
     "wof:name":"Washington St  & Charles Ln",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

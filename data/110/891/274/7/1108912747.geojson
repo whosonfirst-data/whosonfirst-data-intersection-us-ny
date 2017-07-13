@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.832766,
     "reversegeo:longitude":-73.945824,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818184,
-    "wof:geomhash":"2f0e8634175e96acdb2119b55c12f68b",
+    "wof:geomhash":"0143171c70f61799a936218c89a5edc7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912747,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947604,
     "wof:name":"Broadway  & W 155th St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

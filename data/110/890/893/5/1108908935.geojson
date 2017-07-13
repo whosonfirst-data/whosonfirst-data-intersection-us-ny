@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.733523,
     "reversegeo:longitude":-73.976571,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817987,
-    "wof:geomhash":"6f6a11c83811cba82193c6db376b2aac",
+    "wof:geomhash":"11c8f6068b6539269878ebee2bc8be5b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908935,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947595,
     "wof:name":"Stuyvesant Loop N  & E 20th St",
     "wof:parent_id":907157037,
     "wof:placetype":"intersection",

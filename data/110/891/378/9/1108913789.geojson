@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.829717,
     "reversegeo:longitude":-73.938588,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818236,
-    "wof:geomhash":"5ed711c5a2607cb9d03535faa0cc8e30",
+    "wof:geomhash":"42ccd5554ee86d309b3d3325f7cb4e7d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913789,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947606,
     "wof:name":"Bradhurst Ave  & W 155th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

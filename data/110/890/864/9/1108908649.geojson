@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.72422,
     "reversegeo:longitude":-74.004657,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817975,
-    "wof:geomhash":"783659aebf7a391abb45da0613ca9791",
+    "wof:geomhash":"ea4d3e2426b52ec94ea248768f8bcc07",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908649,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947595,
     "wof:name":"Ave of the Americas  & Broome St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

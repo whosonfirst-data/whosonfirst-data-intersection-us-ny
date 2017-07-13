@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.719339,
     "reversegeo:longitude":-73.985911,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818135,
-    "wof:geomhash":"b97d6cc54c8c11836b5a1e204561f3aa",
+    "wof:geomhash":"f51aea43372fc6b6090f5098ed6457d9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911725,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947601,
     "wof:name":"Rivington St  & Suffolk St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

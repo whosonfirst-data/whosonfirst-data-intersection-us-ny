@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.790213,
     "reversegeo:longitude":-73.975026,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818222,
-    "wof:geomhash":"25063950367013fe990a637a8c33af74",
+    "wof:geomhash":"ed1e53467110985bbbb34519807eddb7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913505,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947605,
     "wof:name":"Broadway  & W 89th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

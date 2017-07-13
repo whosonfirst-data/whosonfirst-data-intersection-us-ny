@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.800613,
     "reversegeo:longitude":-73.942285,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818169,
-    "wof:geomhash":"8b04b1d6d42647d0f2dd4c81efaba9e2",
+    "wof:geomhash":"6f3d377b491a865eb14e211bcc9d0778",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912397,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947603,
     "wof:name":"E 118th St  & Park Ave",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

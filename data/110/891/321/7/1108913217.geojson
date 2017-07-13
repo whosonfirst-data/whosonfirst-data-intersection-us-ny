@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.815526,
     "reversegeo:longitude":-73.959719,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818205,
-    "wof:geomhash":"f2fc90cb88693d1216449047b38dc6b9",
+    "wof:geomhash":"c61f4e1e27024e25baed4d1f79f144c5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913217,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947605,
     "wof:name":"Claremont Ave  & Tiemann Pl",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.821754,
     "reversegeo:longitude":-73.947238,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818086,
-    "wof:geomhash":"00c268f9425272d73e3a87562b54b1e8",
+    "wof:geomhash":"dd753491be7d7654508984de73a8d1fd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910855,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 141st St  & Hamilton Ter",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

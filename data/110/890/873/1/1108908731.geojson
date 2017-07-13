@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.757364,
     "reversegeo:longitude":-73.960671,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817978,
-    "wof:geomhash":"dd8c9022ecdfbbb553a5cecf767b3a74",
+    "wof:geomhash":"c19f753bbc91ca92ad19ccf0a80c4604",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908731,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947595,
     "wof:name":"Sutton Pl  & Sutton Pl S",
     "wof:parent_id":907215745,
     "wof:placetype":"intersection",

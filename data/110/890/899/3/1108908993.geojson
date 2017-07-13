@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.806353,
     "reversegeo:longitude":-73.953957,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817990,
-    "wof:geomhash":"72a8278c68659521e0dd23522f6e9db5",
+    "wof:geomhash":"11b24f1618467ae2444219eded916735",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908993,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947595,
     "wof:name":"W 119th St  & Frederick Douglass Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

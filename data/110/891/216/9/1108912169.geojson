@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.734208,
     "reversegeo:longitude":-73.974872,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818154,
-    "wof:geomhash":"cb9dc0ea4b3edc13bd7429b76c05c7ed",
+    "wof:geomhash":"881b1cb13278a4e12015ee1f17f3b16d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108912169,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947602,
     "wof:name":"Ave C  & Peter Cooper Rd",
     "wof:parent_id":907157037,
     "wof:placetype":"intersection",

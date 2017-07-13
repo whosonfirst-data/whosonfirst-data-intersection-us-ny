@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.812815,
     "reversegeo:longitude":-73.941803,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818173,
-    "wof:geomhash":"4e632b102f76e83f51fd4dc2807c1f75",
+    "wof:geomhash":"481c032ac09998e6094f86ebe9bab21f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912499,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 133rd St  & Malcolm X Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

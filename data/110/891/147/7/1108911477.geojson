@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.704549,
     "reversegeo:longitude":-74.014289,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818126,
-    "wof:geomhash":"b39d3805ff08ffbd5bbc7df6e9ef9add",
+    "wof:geomhash":"fd15e7b6a1a99e66eeb02f29030477e0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911477,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947601,
     "wof:name":"Broadway  & Battery Pl",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

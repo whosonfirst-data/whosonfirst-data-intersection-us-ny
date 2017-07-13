@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.789586,
     "reversegeo:longitude":-73.975484,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818254,
-    "wof:geomhash":"d151581bfaedf4cc29b280d61ec72911",
+    "wof:geomhash":"9e7a71fa539d457e6932f67140d9b092",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914087,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947607,
     "wof:name":"Broadway  & W 88th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.716023,
     "reversegeo:longitude":-73.991309,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817930,
-    "wof:geomhash":"fc73d923fbd46793414e9d4422f6b702",
+    "wof:geomhash":"b4105a218b8610b1e3719ecd2dd312a2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907605,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947592,
     "wof:name":"Hester St  & Orchard St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

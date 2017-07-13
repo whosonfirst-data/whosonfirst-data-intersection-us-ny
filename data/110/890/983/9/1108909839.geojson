@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.778313,
     "reversegeo:longitude":-73.962768,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818041,
-    "wof:geomhash":"3d9886937b4b1ce56480217913b8f5fc",
+    "wof:geomhash":"0f1c4a517b68d7950669f779df4f3c55",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909839,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947597,
     "wof:name":"E 81st St  & 5th Ave",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

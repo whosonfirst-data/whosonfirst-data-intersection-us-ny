@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.790296,
     "reversegeo:longitude":-73.969391,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818157,
-    "wof:geomhash":"f123135b2423e4ca79f92cac6ae8a5a2",
+    "wof:geomhash":"6c241337798fcb20aa6fb95bf8bfbdf6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912249,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 92nd St  & Columbus Ave",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

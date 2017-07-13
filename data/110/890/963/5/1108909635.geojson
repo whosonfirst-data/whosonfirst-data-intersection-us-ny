@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.734532,
     "reversegeo:longitude":-73.992266,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818033,
-    "wof:geomhash":"84fb3ec0260563615dbe1ae7b50252ff",
+    "wof:geomhash":"5a6286d5b109efafcf423fbfb4421cf3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909635,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947597,
     "wof:name":"University Pl  & E 13th St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

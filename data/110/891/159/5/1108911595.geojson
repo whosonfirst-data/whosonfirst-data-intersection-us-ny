@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.743782,
     "reversegeo:longitude":-73.973512,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818130,
-    "wof:geomhash":"67ed2f504c7170b3bf613f05c15929dc",
+    "wof:geomhash":"086f59c55d8a5c9ab7e0102dd92c3b66",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911595,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947601,
     "wof:name":"1st Ave  & E 34th St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

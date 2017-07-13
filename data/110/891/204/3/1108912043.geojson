@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.788695,
     "reversegeo:longitude":-73.93786,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818149,
-    "wof:geomhash":"6e6141ea1a207e8f7302c47e1550da2a",
+    "wof:geomhash":"ebfd2d7fe98641a0391942d76b26d47a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912043,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947602,
     "wof:name":"E 106th St  & F D R Dr",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.772866,
     "reversegeo:longitude":-73.98954,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818158,
-    "wof:geomhash":"228d816b0b29987b6fe5ab90bd5954f6",
+    "wof:geomhash":"5cf6e97c5a7d780cf218a12b02aa656e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912251,
-    "wof:lastmodified":1490900130,
+    "wof:lastmodified":1499947603,
     "wof:name":"W End Ave  & W 61st St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

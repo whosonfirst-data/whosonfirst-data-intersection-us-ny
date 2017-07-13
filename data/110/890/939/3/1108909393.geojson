@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.73245,
     "reversegeo:longitude":-74.009869,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818016,
-    "wof:geomhash":"fd42c14548a626710e46710e784d505f",
+    "wof:geomhash":"de600b5c0ea560929763031e2e2a96e3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909393,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947596,
     "wof:name":"Weehawken St  & Christopher St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

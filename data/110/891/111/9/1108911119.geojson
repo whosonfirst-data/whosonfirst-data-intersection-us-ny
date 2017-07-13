@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.752024,
     "reversegeo:longitude":-74.004722,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818101,
-    "wof:geomhash":"0b640a5fe55f79ab877c7ca65beb1719",
+    "wof:geomhash":"0229dc34a01eab890a3e8683555dbb66",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911119,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947600,
     "wof:name":"11th Ave  & W 28th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

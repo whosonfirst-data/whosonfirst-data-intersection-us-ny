@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.765253,
     "reversegeo:longitude":-73.995088,
     "src:geom":"mapzen",
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818128,
-    "wof:geomhash":"9be11231266d66e5c6b10b8f93899b8b",
+    "wof:geomhash":"5dd0ef78adfc9af80fc2823d0fab6a74",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108911533,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947601,
     "wof:name":"11th Ave  & W 49th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

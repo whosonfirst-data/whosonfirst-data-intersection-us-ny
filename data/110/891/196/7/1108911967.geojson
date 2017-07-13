@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.794203,
     "reversegeo:longitude":-73.962834,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818146,
-    "wof:geomhash":"380825ee39878c26d0e7f2c677804718",
+    "wof:geomhash":"30bcde9ee29526a6c3200054f184fc06",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911967,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947602,
     "wof:name":"Central Park W  & W 100th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

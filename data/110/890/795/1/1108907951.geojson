@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.74701,
     "reversegeo:longitude":-73.977188,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817944,
-    "wof:geomhash":"7e8dc1d55422854cf5712fd6bfa24980",
+    "wof:geomhash":"6f12daf794232f74f9932e5e4a68f8bb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907951,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947593,
     "wof:name":"3rd Ave  & E 36th St",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

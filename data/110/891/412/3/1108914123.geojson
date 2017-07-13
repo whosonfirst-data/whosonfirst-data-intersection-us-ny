@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.77349,
     "reversegeo:longitude":-73.989084,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818255,
-    "wof:geomhash":"4c89921aea0c18f8fe32017e5a978c90",
+    "wof:geomhash":"8e3472845398378aa63d295a450148fe",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914123,
-    "wof:lastmodified":1490900147,
+    "wof:lastmodified":1499947607,
     "wof:name":"W End Ave  & W 62nd St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

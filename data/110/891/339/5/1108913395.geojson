@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.729051,
     "reversegeo:longitude":-73.99064,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818213,
-    "wof:geomhash":"92dc808fd04ac6eafa5fbd80998873dd",
+    "wof:geomhash":"56b53a06716d770d72a5771ea9480e2f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913395,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947605,
     "wof:name":"E 7th St  & Cooper Sq",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.804995,
     "reversegeo:longitude":-73.934871,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817925,
-    "wof:geomhash":"5fabf4e5f345c169036111363111d467",
+    "wof:geomhash":"ddc658726207a22d65a5c93f0c059f55",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907493,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947592,
     "wof:name":"3rd Ave  & E 127th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

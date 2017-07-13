@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.798594,
     "reversegeo:longitude":-73.933516,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818025,
-    "wof:geomhash":"3caf5906c541e052983fba9e4cb33412",
+    "wof:geomhash":"d6f2c8aaf7a21e0c71eff94338a25a4d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909515,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947597,
     "wof:name":"1st Ave  & E 120th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

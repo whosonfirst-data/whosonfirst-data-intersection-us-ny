@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.854829,
     "reversegeo:longitude":-73.931315,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818230,
-    "wof:geomhash":"631bc81bde8cd9fb503904286a8c58ff",
+    "wof:geomhash":"1e7313dde1d55b2e1bca7ed970069aa2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913663,
-    "wof:lastmodified":1490900147,
+    "wof:lastmodified":1499947606,
     "wof:name":"Wadsworth Ave  & W 189th St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

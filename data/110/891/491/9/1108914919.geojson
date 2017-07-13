@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.73579,
     "reversegeo:longitude":-73.985361,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818300,
-    "wof:geomhash":"46302d1da495cd6b92af89381aaacfdd",
+    "wof:geomhash":"b688247dd02e14449fabb704061e2459",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914919,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947609,
     "wof:name":"3rd Ave  & E 18th St",
     "wof:parent_id":85865705,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.76844,
     "reversegeo:longitude":-73.989051,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818033,
-    "wof:geomhash":"dddbde479a7008c81ee3941ab8c78d0d",
+    "wof:geomhash":"53bfee115b92b13fff1dab6200a14888",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909637,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947597,
     "wof:name":"10th Ave  & W 56th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

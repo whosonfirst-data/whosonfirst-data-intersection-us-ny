@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.753474,
     "reversegeo:longitude":-73.992528,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818060,
-    "wof:geomhash":"474a46c85c46a8a23dcdf7aae8090c31",
+    "wof:geomhash":"bf022d8caf03e2715e84ae3bfb2e8d75",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108910303,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947598,
     "wof:name":"W 36th St  & 8th Ave",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

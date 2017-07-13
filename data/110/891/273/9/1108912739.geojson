@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.796004,
     "reversegeo:longitude":-73.935408,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818183,
-    "wof:geomhash":"eb5480d3cabf9c25700d89d9ac3ad6f2",
+    "wof:geomhash":"7c3bc4fce53cca18adaee5513f480772",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912739,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947604,
     "wof:name":"1st Ave  & Luis Munos Marin Blvd",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

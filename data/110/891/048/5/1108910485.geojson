@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.751883,
     "reversegeo:longitude":-73.977107,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818069,
-    "wof:geomhash":"c80265e337ca2fe40e8a63f0c4766b75",
+    "wof:geomhash":"790cefe75eb03533fd0a4eccfc40d30d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910485,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1499947599,
     "wof:name":"E 42nd St  & de Pew Pl",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

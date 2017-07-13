@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.739753,
     "reversegeo:longitude":-74.002523,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818083,
-    "wof:geomhash":"ae7cadeec286c2aba1f6540d46024dc0",
+    "wof:geomhash":"167367a0e96aa923e2bf7a247ba87c73",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910811,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947599,
     "wof:name":"W 14th St  & 8th Ave",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

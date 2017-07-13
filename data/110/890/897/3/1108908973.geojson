@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762915,
     "reversegeo:longitude":-73.985647,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817988,
-    "wof:geomhash":"1061303ea9150b3851f0f00361edde02",
+    "wof:geomhash":"2f375e12a962552d79d1abcfcfc96970",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908973,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947595,
     "wof:name":"W 51st St  & 8th Ave",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

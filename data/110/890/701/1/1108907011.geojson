@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.740853,
     "reversegeo:longitude":-73.985879,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817900,
-    "wof:geomhash":"820f5ab022029d4c3ade9f2a599e9b33",
+    "wof:geomhash":"924de95aeb4b069b340ed29252aeb56f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907011,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947591,
     "wof:name":"E 24th St  & Park Ave S",
     "wof:parent_id":85869245,
     "wof:placetype":"intersection",

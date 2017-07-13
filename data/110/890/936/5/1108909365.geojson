@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724082,
     "reversegeo:longitude":-73.978858,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818014,
-    "wof:geomhash":"f63c3c04af63dca92ab79835e71a16ec",
+    "wof:geomhash":"72b495099bc05fa79e217f31faf3c6ae",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909365,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947596,
     "wof:name":"Ave C  & E 7th St",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

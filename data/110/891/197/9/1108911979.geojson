@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.812624,
     "reversegeo:longitude":-73.963016,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818146,
-    "wof:geomhash":"787d11bb87344cc8fa2acf19e9ba40b9",
+    "wof:geomhash":"f60173f558fcdb5094abb37d1d6fb6da",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911979,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947602,
     "wof:name":"Riverside Dr  & W 122nd St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720433,
     "reversegeo:longitude":-73.999868,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818040,
-    "wof:geomhash":"cbe4676e7ff58f866c981eecaef52be1",
+    "wof:geomhash":"20d980afccf2237dc1bd7d5c92cc5626",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909823,
-    "wof:lastmodified":1490900180,
+    "wof:lastmodified":1499947597,
     "wof:name":"Grand St  & Crosby St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

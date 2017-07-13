@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.771147,
     "reversegeo:longitude":-73.967994,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818285,
-    "wof:geomhash":"0fc66fd67517a47025de7902022f6ce2",
+    "wof:geomhash":"4d82cb4c29ed6b36eab2a8ae61eca79e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914711,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947608,
     "wof:name":"5th Ave  & E 70th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724283,
     "reversegeo:longitude":-73.975598,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818120,
-    "wof:geomhash":"f75ee95c767c6622bad557b24c159146",
+    "wof:geomhash":"ddbfc74f784511887a60ff26f985692f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911373,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947601,
     "wof:name":"E 9th St  & Ave D",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

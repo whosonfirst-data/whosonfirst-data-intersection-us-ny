@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.742233,
     "reversegeo:longitude":-73.993292,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818089,
-    "wof:geomhash":"e6d2e46ece599219e6cc12f63ab056bb",
+    "wof:geomhash":"56421e467424422f45f06e04ca0298cd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910949,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947600,
     "wof:name":"Ave of the Americas  & W 22nd St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721025,
     "reversegeo:longitude":-74.005248,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818151,
-    "wof:geomhash":"80739afdfc19c207feb44b292dc0e143",
+    "wof:geomhash":"cb1cbf097dee51e5b74e91a0b24d18b3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912085,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947602,
     "wof:name":"Ave of the Americas  & York St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

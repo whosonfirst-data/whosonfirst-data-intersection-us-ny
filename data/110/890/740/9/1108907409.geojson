@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.728605,
     "reversegeo:longitude":-74.005314,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817921,
-    "wof:geomhash":"513ef5694f39045210eb9b9716bed877",
+    "wof:geomhash":"d56745bc9e1e31a1d5df8a846f96d0d0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907409,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947592,
     "wof:name":"W Houston St  & Varick St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

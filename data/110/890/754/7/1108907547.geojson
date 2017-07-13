@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726544,
     "reversegeo:longitude":-73.975339,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817927,
-    "wof:geomhash":"dc86768390437daf7f7a16d5febe2f44",
+    "wof:geomhash":"6e169d032ac5a1ac6f711d0ef87588fc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907547,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947592,
     "wof:name":"Haven Plz  & Szold Pl",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

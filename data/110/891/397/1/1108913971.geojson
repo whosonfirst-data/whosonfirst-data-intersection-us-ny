@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.800031,
     "reversegeo:longitude":-73.954854,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818243,
-    "wof:geomhash":"6668a3f56c0fc1ef5c774323222b2c4c",
+    "wof:geomhash":"bb5c2961f3e76442ed584bce88a9bb90",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913971,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947606,
     "wof:name":"W 111th St  & Adam Clayton Powell Jr Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

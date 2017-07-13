@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.750905,
     "reversegeo:longitude":-73.980674,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817905,
-    "wof:geomhash":"f80fd9c9f019bb45a783e6ba2a2b69b4",
+    "wof:geomhash":"6dce166702dd900aa60d29d111db59a0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907143,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947591,
     "wof:name":"E 39th St  & Madison Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

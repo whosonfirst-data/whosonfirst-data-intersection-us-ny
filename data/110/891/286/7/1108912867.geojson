@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.739631,
     "reversegeo:longitude":-74.006334,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818189,
-    "wof:geomhash":"6d37dee7537b985f84b5100376e1b99b",
+    "wof:geomhash":"5890fc0e369e2ad403e2f4c3d9eb066a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108912867,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947604,
     "wof:name":"9th Ave  & Little W 12th St",
     "wof:parent_id":907214383,
     "wof:placetype":"intersection",

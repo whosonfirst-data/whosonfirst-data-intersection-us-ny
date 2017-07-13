@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762235,
     "reversegeo:longitude":-73.989863,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818050,
-    "wof:geomhash":"a801dd24fc59efc784b5e3453917d60a",
+    "wof:geomhash":"d919c643d6c6a1ca2fa5a297e526c3bf",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910077,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947598,
     "wof:name":"9th Ave  & W 48th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

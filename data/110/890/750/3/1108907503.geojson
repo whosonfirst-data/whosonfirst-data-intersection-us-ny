@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762749,
     "reversegeo:longitude":-73.996913,
     "src:geom":"mapzen",
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817925,
-    "wof:geomhash":"7d6245473ce61fc728702b93e597f349",
+    "wof:geomhash":"c05c6449864908daa45543481b515ba8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108907503,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947592,
     "wof:name":"W 45th St  & 11th Ave",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

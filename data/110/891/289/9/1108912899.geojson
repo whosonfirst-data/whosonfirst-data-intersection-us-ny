@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.801741,
     "reversegeo:longitude":-73.96476,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818191,
-    "wof:geomhash":"8bafda19251a2b411c904f371f959b77",
+    "wof:geomhash":"4b386603708d285d8c5a9b1a91591a30",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912899,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947604,
     "wof:name":"Amsterdam Ave  & W 108th St",
     "wof:parent_id":907214381,
     "wof:placetype":"intersection",

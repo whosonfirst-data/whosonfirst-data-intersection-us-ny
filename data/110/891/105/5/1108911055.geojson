@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.802397,
     "reversegeo:longitude":-73.93677,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818094,
-    "wof:geomhash":"bd363557896d1b4dbf05924e2f9bd663",
+    "wof:geomhash":"5a860a849d59d700c942aceb8554782a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911055,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947600,
     "wof:name":"3rd Ave  & E 123rd St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

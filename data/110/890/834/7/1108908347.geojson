@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.789626,
     "reversegeo:longitude":-73.940066,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817963,
-    "wof:geomhash":"cfa0a3ea250e0b467d6c2b537f9a3ba6",
+    "wof:geomhash":"d5dd670e293b3117d27d44135d47f84f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908347,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947594,
     "wof:name":"1st Ave  & E 106th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

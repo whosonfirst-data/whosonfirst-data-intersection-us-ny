@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71442,
     "reversegeo:longitude":-73.992134,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817903,
-    "wof:geomhash":"21ed27ee6f1932eaacfb0d6db2c432de",
+    "wof:geomhash":"5338113360dc687ede7b5606717a54ef",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907093,
-    "wof:lastmodified":1490900182,
+    "wof:lastmodified":1499947591,
     "wof:name":"Division St  & Orchard St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

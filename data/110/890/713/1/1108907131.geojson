@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.780064,
     "reversegeo:longitude":-73.947049,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817905,
-    "wof:geomhash":"a4362aac46b5200aa6112fa98a61e75e",
+    "wof:geomhash":"25508037e456fec72d8d8e5785ebff5e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907131,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947591,
     "wof:name":"1st Ave  & E 91st St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

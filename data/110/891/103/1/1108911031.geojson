@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.804065,
     "reversegeo:longitude":-73.932663,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818093,
-    "wof:geomhash":"d2086889395ffd14ad5b80252ef28416",
+    "wof:geomhash":"4e70659879cfa662f89f2ad362d8353e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911031,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947600,
     "wof:name":"2nd Ave  & E 127th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

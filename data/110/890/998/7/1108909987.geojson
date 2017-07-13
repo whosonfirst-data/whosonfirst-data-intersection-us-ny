@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.80754,
     "reversegeo:longitude":-73.935106,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818047,
-    "wof:geomhash":"95d298e191ede7f2cf153d198b8d3cf1",
+    "wof:geomhash":"4be3c276bed757d69f8b47c6ff225d82",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909987,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947598,
     "wof:name":"Lexington Ave  & E 130th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

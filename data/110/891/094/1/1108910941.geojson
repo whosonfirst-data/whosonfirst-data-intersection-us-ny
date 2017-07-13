@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.708921,
     "reversegeo:longitude":-74.005262,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818089,
-    "wof:geomhash":"3a3faf48325959a86076e6b03507b391",
+    "wof:geomhash":"5c3639afbdd785f56b72e8f34cb46c7d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910941,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947600,
     "wof:name":"Ryders Aly  & Fulton St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

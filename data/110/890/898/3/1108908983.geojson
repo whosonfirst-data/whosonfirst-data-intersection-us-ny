@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.798129,
     "reversegeo:longitude":-73.948311,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817989,
-    "wof:geomhash":"5f5894e88dcf27fbdd24708944266dea",
+    "wof:geomhash":"5e9261ac9c0c409c2a6df0dae72971c7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908983,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947595,
     "wof:name":"E 112th St  & W 112th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762487,
     "reversegeo:longitude":-73.962974,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817929,
-    "wof:geomhash":"2bd52bc45cac2329df727f760b555097",
+    "wof:geomhash":"c9406cab4870f4a46185ab3f54949ac3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907589,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947592,
     "wof:name":"2nd Ave  & E 62nd St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

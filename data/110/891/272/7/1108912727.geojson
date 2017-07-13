@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.839174,
     "reversegeo:longitude":-73.943465,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818183,
-    "wof:geomhash":"5cd527339f30f854ec1cb407ed5dc009",
+    "wof:geomhash":"57d6127d0d5c3f90758edad2581db859",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912727,
-    "wof:lastmodified":1490900130,
+    "wof:lastmodified":1499947604,
     "wof:name":"Fort Washington Ave  & W 164th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

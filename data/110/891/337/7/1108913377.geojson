@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.781387,
     "reversegeo:longitude":-73.952122,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818212,
-    "wof:geomhash":"3cab32814a38b0896ab6631e4a54cc86",
+    "wof:geomhash":"62af9f73f6752a47ad7132c36bcda183",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913377,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947605,
     "wof:name":"3rd Ave  & E 90th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

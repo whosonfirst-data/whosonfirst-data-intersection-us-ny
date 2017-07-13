@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.730058,
     "reversegeo:longitude":-73.999367,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818035,
-    "wof:geomhash":"a4c8dc75088121a2caf69ceeee6c07eb",
+    "wof:geomhash":"2afb22779bf0f22fb291d54899bb2bd8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909695,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947597,
     "wof:name":"Sullivan St  & W 3rd St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

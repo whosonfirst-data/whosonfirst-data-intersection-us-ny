@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717619,
     "reversegeo:longitude":-74.000274,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817941,
-    "wof:geomhash":"f76e006e47bc2c37d07ef8a7accb762a",
+    "wof:geomhash":"3e629d66bfceb47521b8c2c9e7955429",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907879,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947593,
     "wof:name":"Walker St  & Centre St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

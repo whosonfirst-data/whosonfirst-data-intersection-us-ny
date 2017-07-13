@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.823507,
     "reversegeo:longitude":-73.941426,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818152,
-    "wof:geomhash":"bbee6b4e36deb0e19453e6608c4aa00c",
+    "wof:geomhash":"5672ae7720c74d757920d875bbaa0d52",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912125,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947602,
     "wof:name":"Frederick Douglass Blvd  & W 146th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

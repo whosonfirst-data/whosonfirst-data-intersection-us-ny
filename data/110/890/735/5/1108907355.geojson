@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.836407,
     "reversegeo:longitude":-73.948501,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817919,
-    "wof:geomhash":"c1d3beba9698889e8b6a13083b8fa574",
+    "wof:geomhash":"b1cd62ff61533a4950e06379d9b59f75",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907355,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947592,
     "wof:name":"W 158th St Exn  & W 158th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

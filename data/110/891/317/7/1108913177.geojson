@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724702,
     "reversegeo:longitude":-74.009317,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818203,
-    "wof:geomhash":"101b4857ae32f1e75887ebf7d22e6e16",
+    "wof:geomhash":"75017720c0cd4d69fd8f083dbd3689f3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913177,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947605,
     "wof:name":"Canal St  & Greenwich St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

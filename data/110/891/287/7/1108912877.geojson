@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71868,
     "reversegeo:longitude":-73.999423,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818189,
-    "wof:geomhash":"5d3bec2518d6fa6dc8bd00101bcc700b",
+    "wof:geomhash":"a11bbc0b5515f0f70686c36af1fbd30a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912877,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947604,
     "wof:name":"Hester St  & Centre St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

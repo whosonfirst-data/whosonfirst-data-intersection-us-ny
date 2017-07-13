@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.72805,
     "reversegeo:longitude":-74.007203,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818053,
-    "wof:geomhash":"809113d492e8c57f0ffcf1a97ea39d62",
+    "wof:geomhash":"26249a551f9c7acc386fb8760ad76ec1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910141,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947598,
     "wof:name":"King St  & Hudson St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

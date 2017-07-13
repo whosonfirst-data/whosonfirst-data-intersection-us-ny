@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726263,
     "reversegeo:longitude":-73.994403,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818005,
-    "wof:geomhash":"5b3fcfa7de517b5dfa8b7356ff7d8137",
+    "wof:geomhash":"5c2418b34609b4f0f7c1329a524fd6ca",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909257,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947596,
     "wof:name":"Lafayette St  & Jones Aly",
     "wof:parent_id":85865699,
     "wof:placetype":"intersection",

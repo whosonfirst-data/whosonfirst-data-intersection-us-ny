@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.68762,
     "reversegeo:longitude":-74.017753,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818160,
-    "wof:geomhash":"22b7299d34e9eb5ae1e2a6dae5d63b0c",
+    "wof:geomhash":"99e2f120f10218757a9f0e0aee02d48b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912301,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947603,
     "wof:name":"Main St  & Owasco Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

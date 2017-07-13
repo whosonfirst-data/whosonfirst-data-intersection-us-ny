@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706874,
     "reversegeo:longitude":-74.003649,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817954,
-    "wof:geomhash":"5cdaa05426fa5cefd2a08714811f27a6",
+    "wof:geomhash":"416db181d3251df29754679e8bd062dd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908177,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947594,
     "wof:name":"Front St  & Fulton St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

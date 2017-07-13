@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724403,
     "reversegeo:longitude":-73.995882,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818217,
-    "wof:geomhash":"268a007365c87dbd186239c61be3fbc6",
+    "wof:geomhash":"90ab2eba5a1b174e6c2e0ae850c57a00",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913461,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947605,
     "wof:name":"Lafayette St  & Jersey St",
     "wof:parent_id":85869533,
     "wof:placetype":"intersection",

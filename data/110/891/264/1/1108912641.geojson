@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.785881,
     "reversegeo:longitude":-73.948827,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818179,
-    "wof:geomhash":"34ac7032a66ee6a9999410ccad658f6c",
+    "wof:geomhash":"18775a603a5c29340a436d555193a0ca",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912641,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947603,
     "wof:name":"3rd Ave  & E 97th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

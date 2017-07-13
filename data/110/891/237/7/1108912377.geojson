@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.705543,
     "reversegeo:longitude":-74.009067,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818168,
-    "wof:geomhash":"7ed289a411da0886037c6ca4b6935edb",
+    "wof:geomhash":"1aa826043592ca5fff2c19c37529db0d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912377,
-    "wof:lastmodified":1490900160,
+    "wof:lastmodified":1499947603,
     "wof:name":"Exchange Pl  & Hanover St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

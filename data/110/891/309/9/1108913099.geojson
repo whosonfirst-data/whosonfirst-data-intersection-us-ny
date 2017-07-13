@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.802373,
     "reversegeo:longitude":-73.964301,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818199,
-    "wof:geomhash":"1d00f599253b4e652ce0f65db879c3dc",
+    "wof:geomhash":"ccd2bbd4ed3c7b3b088df32d2b52888b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913099,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947605,
     "wof:name":"Amsterdam Ave  & W 109th St",
     "wof:parent_id":907214381,
     "wof:placetype":"intersection",

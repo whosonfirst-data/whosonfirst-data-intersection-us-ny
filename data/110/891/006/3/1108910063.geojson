@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.821384,
     "reversegeo:longitude":-73.954139,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818050,
-    "wof:geomhash":"dd35be22c7adcb620adc3b123640b5f0",
+    "wof:geomhash":"ec66f2fa5ab271739970ad50a106f252",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910063,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947598,
     "wof:name":"Broadway  & W 137th St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

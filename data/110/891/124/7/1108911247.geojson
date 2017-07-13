@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.738172,
     "reversegeo:longitude":-73.977603,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818113,
-    "wof:geomhash":"f2bb6c125d048221e244743eda331935",
+    "wof:geomhash":"dd6cd6f589d5c55c9d76657409b3415b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911247,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947600,
     "wof:name":"1st Ave  & E 25th St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

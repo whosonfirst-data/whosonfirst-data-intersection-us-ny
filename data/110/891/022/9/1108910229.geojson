@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.87116,
     "reversegeo:longitude":-73.914009,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818057,
-    "wof:geomhash":"8493b8300b5544521a1906c48289d818",
+    "wof:geomhash":"6985f6d32b2913c04bf3f0fb5aa59693",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910229,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947598,
     "wof:name":"Broadway  & 10th Ave",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

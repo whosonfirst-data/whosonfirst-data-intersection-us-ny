@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.738504,
     "reversegeo:longitude":-73.991798,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818208,
-    "wof:geomhash":"6766f6ce21cd37be7487947ceae5e995",
+    "wof:geomhash":"f79902f3d902ce59e7b377bfa9c47cdb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913277,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947605,
     "wof:name":"E 18th St  & W 18th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

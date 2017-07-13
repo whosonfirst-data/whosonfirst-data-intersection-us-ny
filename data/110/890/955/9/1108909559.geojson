@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.782317,
     "reversegeo:longitude":-73.948501,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818028,
-    "wof:geomhash":"8e00a548877c912294f7ce1c150d9383",
+    "wof:geomhash":"5700cf81c235a0e4bf6096148f70d06a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909559,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947597,
     "wof:name":"2nd Ave  & E 93rd St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

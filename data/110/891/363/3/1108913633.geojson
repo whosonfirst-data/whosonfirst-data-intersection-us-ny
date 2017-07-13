@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.781126,
     "reversegeo:longitude":-73.983515,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818229,
-    "wof:geomhash":"33d83a0fb01fe1f72a27aebe07bf0a05",
+    "wof:geomhash":"90f19a41ac2c6628e88f8c5283dae13a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913633,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947606,
     "wof:name":"W End Ave  & W 74th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

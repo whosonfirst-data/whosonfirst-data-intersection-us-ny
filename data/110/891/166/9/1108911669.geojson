@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.716708,
     "reversegeo:longitude":-73.989155,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818133,
-    "wof:geomhash":"6f714602eaa77cf8be262a28c4b46460",
+    "wof:geomhash":"ae7ab0d554834cb9097efc34f5ab0117",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911669,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947601,
     "wof:name":"Grand St  & Essex St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

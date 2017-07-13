@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.844679,
     "reversegeo:longitude":-73.938855,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817900,
-    "wof:geomhash":"2fd8a7e3546fe7edd2e3897ba989c88e",
+    "wof:geomhash":"eff240c6a59200e4e1b4a9e490468335",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907021,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947591,
     "wof:name":"Broadway  & W 173rd St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

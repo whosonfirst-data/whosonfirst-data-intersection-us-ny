@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.779364,
     "reversegeo:longitude":-73.977369,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818091,
-    "wof:geomhash":"edcc0fc934b2eebb6f9236d67427561f",
+    "wof:geomhash":"1d7854e69c828000535206a34c2052cf",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910995,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 75th St  & Columbus Ave",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

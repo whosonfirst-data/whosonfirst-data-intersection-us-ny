@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.741628,
     "reversegeo:longitude":-74.00697,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818207,
-    "wof:geomhash":"ded4f2de3778c8285528af4e37dfcc03",
+    "wof:geomhash":"22827dfd2ba9b009e46a49497f68531d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913267,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947605,
     "wof:name":"Washington St  & W 14th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

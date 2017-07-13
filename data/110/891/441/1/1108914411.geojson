@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.841078,
     "reversegeo:longitude":-73.939766,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818266,
-    "wof:geomhash":"cae8f5e3b7b9453162d86190e364f8c2",
+    "wof:geomhash":"d7c195d1a01d90eaeb38b6f2c90f9b68",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914411,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947607,
     "wof:name":"Broadway  & W 168th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

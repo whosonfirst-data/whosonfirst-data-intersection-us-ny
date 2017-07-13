@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":5,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.712533,
     "reversegeo:longitude":-74.007666,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818017,
-    "wof:geomhash":"e35e0cd6ebb7a0d4d888e2db9b87666d",
+    "wof:geomhash":"1efb0f07e8d13e663691bb2928688b85",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909407,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947596,
     "wof:name":"Broadway  & Park Pl",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

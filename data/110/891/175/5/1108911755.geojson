@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.722384,
     "reversegeo:longitude":-74.003768,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818136,
-    "wof:geomhash":"e379fb173e83a30ff2162f9551e51113",
+    "wof:geomhash":"a6f5a11824429e29ae0c4ea47fd77b27",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911755,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947601,
     "wof:name":"Grand St  & W Broadway",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

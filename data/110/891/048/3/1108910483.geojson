@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.848735,
     "reversegeo:longitude":-73.932337,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818069,
-    "wof:geomhash":"7dd9e6e5267e1c4c1c920adaa7639773",
+    "wof:geomhash":"6ae1634dea0c9e9d7c60c7902de8d424",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910483,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1499947599,
     "wof:name":"W 181st St  & Audubon Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

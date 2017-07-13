@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.790814,
     "reversegeo:longitude":-73.976449,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817947,
-    "wof:geomhash":"49466bd34b4623bcbf5930ca8d5417e6",
+    "wof:geomhash":"39504927ac6371197132f1a6062d40b4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908047,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947593,
     "wof:name":"W End Ave  & W 89th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

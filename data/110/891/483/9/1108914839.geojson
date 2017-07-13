@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.787223,
     "reversegeo:longitude":-73.956262,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818296,
-    "wof:geomhash":"a8ef4bc6bc7a6ec9d457d42b1dd1505a",
+    "wof:geomhash":"487a41c5f53ba14a0d95aab989073317",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914839,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1499947608,
     "wof:name":"5th Ave  & E 95th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

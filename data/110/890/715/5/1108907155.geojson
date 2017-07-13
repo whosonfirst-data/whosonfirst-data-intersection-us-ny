@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715697,
     "reversegeo:longitude":-73.985867,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817905,
-    "wof:geomhash":"1b6db526083f31f580ea5b834079bb59",
+    "wof:geomhash":"35c915b14aac5a61dcf6c0bed875e676",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907155,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947591,
     "wof:name":"Grand St  & Attorney St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706234,
     "reversegeo:longitude":-74.014325,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817957,
-    "wof:geomhash":"0c0af9278fb07462418b8d994b7de37b",
+    "wof:geomhash":"5d05b802adf780fad2892a6c0d877c2d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908249,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947594,
     "wof:name":"Morris St  & Greenwich St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

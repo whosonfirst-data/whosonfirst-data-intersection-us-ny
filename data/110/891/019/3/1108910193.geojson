@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.869715,
     "reversegeo:longitude":-73.916078,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818056,
-    "wof:geomhash":"27962c643b614556cbf97efa6d9d7d5c",
+    "wof:geomhash":"126684d61d0db2b8920769f51ddab3e6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910193,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947598,
     "wof:name":"W 215th St  & Broadway",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

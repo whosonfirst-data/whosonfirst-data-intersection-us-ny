@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.804169,
     "reversegeo:longitude":-73.966701,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817918,
-    "wof:geomhash":"038778cb93cb207947edde19dd0a0fb1",
+    "wof:geomhash":"0a33a553218421f5b407581450939403",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907323,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947592,
     "wof:name":"Broadway  & Cathedral Pkwy",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715951,
     "reversegeo:longitude":-73.978909,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818264,
-    "wof:geomhash":"5c1ac778f6f00d337e0ed81a5cfe4763",
+    "wof:geomhash":"d769ef3dacce64f65bd21db2500713b9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914367,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947607,
     "wof:name":"Delancey St N  & Lewis St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.797888,
     "reversegeo:longitude":-73.973462,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818136,
-    "wof:geomhash":"534eb21b4a2c611be38955fe9e718e3e",
+    "wof:geomhash":"e66b195c0ba199a3b0c4b1879ed90e12",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911747,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947601,
     "wof:name":"Riverside Dr  & W 99th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

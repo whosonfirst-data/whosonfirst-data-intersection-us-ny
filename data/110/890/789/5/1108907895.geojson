@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720937,
     "reversegeo:longitude":-73.993795,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817941,
-    "wof:geomhash":"eba5fed6ed88d9e45b0aa45cef93ca24",
+    "wof:geomhash":"249800290cd533c4adb74cf6d2b4ed72",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907895,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947593,
     "wof:name":"Bowery  & Spring St",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

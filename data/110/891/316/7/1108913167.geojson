@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.869877,
     "reversegeo:longitude":-73.920897,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818203,
-    "wof:geomhash":"05b4bba6c5eb9d4d2f6e6a91189ddb4b",
+    "wof:geomhash":"772645b6edbc7be1143462945ccca45e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913167,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947605,
     "wof:name":"Seaman Ave  & Isham St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

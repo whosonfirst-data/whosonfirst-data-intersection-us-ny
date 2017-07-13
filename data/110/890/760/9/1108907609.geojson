@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.705031,
     "reversegeo:longitude":-74.013326,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817930,
-    "wof:geomhash":"d4bdf1ce3b7ea31ac7aad415f2e2b961",
+    "wof:geomhash":"736edf00a1813eaf00181f2a1c187a1c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907609,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947592,
     "wof:name":"Beaver St  & Broadway",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

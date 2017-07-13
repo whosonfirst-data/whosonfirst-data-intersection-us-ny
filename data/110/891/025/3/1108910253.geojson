@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.729685,
     "reversegeo:longitude":-73.998605,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818058,
-    "wof:geomhash":"232cc76435a658775074d18e06568130",
+    "wof:geomhash":"b83f7beb9dcb722a6d8603f186c12450",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910253,
-    "wof:lastmodified":1490900147,
+    "wof:lastmodified":1499947598,
     "wof:name":"Thompson St  & W 3rd St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

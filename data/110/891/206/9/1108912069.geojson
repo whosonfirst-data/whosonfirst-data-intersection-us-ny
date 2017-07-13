@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.859944,
     "reversegeo:longitude":-73.926786,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818150,
-    "wof:geomhash":"754c04045877b47ef2842b7ca5c50516",
+    "wof:geomhash":"c5a45c714618ae4d7ff65904130bea11",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912069,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947602,
     "wof:name":"Hillside Ave  & Sickles St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

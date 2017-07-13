@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.763645,
     "reversegeo:longitude":-73.977686,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817949,
-    "wof:geomhash":"795924c0b620c1755746fefd0f563d33",
+    "wof:geomhash":"3417f7b500d6d6e073ffb458ec3c1e7c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908071,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947593,
     "wof:name":"Ave of the Americas  & W 56th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

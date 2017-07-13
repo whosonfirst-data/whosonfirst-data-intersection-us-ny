@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.718114,
     "reversegeo:longitude":-74.010527,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817953,
-    "wof:geomhash":"4373a8c54bc0b4eaeeed7ef782e9a247",
+    "wof:geomhash":"f8580a01f84d571ab672848d4bb7cbfb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908173,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947594,
     "wof:name":"Jay St  & Greenwich St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

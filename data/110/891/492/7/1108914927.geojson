@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.718124,
     "reversegeo:longitude":-73.990233,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818300,
-    "wof:geomhash":"f7137a08f96182467a852d5eb330e8d0",
+    "wof:geomhash":"8affb83b2965a9baf74ea4052d4b33e6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914927,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947609,
     "wof:name":"Orchard St  & Broome St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

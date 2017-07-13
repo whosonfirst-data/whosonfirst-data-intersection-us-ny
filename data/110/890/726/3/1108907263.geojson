@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762806,
     "reversegeo:longitude":-73.993156,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817910,
-    "wof:geomhash":"c8787edf5e811aef75b57d50f4e46bd9",
+    "wof:geomhash":"85779faabe74033c79b598cfc52c11b7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907263,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947592,
     "wof:name":"10th Ave  & W 47th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

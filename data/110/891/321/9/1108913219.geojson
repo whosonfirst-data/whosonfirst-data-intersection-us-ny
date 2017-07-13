@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.82451,
     "reversegeo:longitude":-73.951853,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818205,
-    "wof:geomhash":"f3ec13a7d888eb3ef801093656423ca4",
+    "wof:geomhash":"a42fe763831c0e132a285f16f270f8d7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913219,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947605,
     "wof:name":"W 142nd St  & Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

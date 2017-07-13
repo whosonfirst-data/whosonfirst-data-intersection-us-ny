@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.78263,
     "reversegeo:longitude":-73.974985,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818040,
-    "wof:geomhash":"c504936a75f4a7d0c08050866c4826d7",
+    "wof:geomhash":"0844160ed99c9f628216d97269d78f4c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909807,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947597,
     "wof:name":"Columbus Ave  & W 80th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.826002,
     "reversegeo:longitude":-73.939602,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817978,
-    "wof:geomhash":"47fbfaa8e7d4b69076f9c139e22a8868",
+    "wof:geomhash":"0e6e8072967d967d76f75b15c67ef4cb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908735,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947595,
     "wof:name":"W 150th St  & Frederick Douglass Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

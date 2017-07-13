@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720323,
     "reversegeo:longitude":-73.994035,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818261,
-    "wof:geomhash":"df0d7425f3720edeb10efdd8160dbd57",
+    "wof:geomhash":"5ce5cc27e421d2a5a0262fad16870cfb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108914293,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947607,
     "wof:name":"Bowery  & Delancey St",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.771024,
     "reversegeo:longitude":-73.953649,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818146,
-    "wof:geomhash":"c3ec224dce9f5694b00fd8e7bbc21d3d",
+    "wof:geomhash":"a436b1cfb7c36eeed65526ef9f79a87b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911965,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947602,
     "wof:name":"1st Ave  & E 77th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

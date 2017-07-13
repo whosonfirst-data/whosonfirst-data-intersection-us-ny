@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720685,
     "reversegeo:longitude":-74.009307,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817973,
-    "wof:geomhash":"7dd4e0ffeb515ca83d5f1d4b70b32de1",
+    "wof:geomhash":"c7cf0ec5605aa91997f28f20e12326fa",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908613,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"Beach St  & Collister St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

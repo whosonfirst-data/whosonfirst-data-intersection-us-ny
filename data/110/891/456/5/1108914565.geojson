@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.738044,
     "reversegeo:longitude":-73.996337,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818279,
-    "wof:geomhash":"0ddb77e816939325cfeb47ed295bd224",
+    "wof:geomhash":"41a6888ea72d3c71a1e7a0ba733848a8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914565,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947608,
     "wof:name":"W 15th St  & 6th Ave",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

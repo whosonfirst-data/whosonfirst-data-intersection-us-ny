@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.805597,
     "reversegeo:longitude":-73.958182,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817924,
-    "wof:geomhash":"e88a4f6999d65784cdc02e8cad891d01",
+    "wof:geomhash":"552e9eb6a27fb61509a610ddaa9d5994",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907471,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947592,
     "wof:name":"Morningside Ave  & W 116th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

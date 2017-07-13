@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724136,
     "reversegeo:longitude":-73.992604,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817920,
-    "wof:geomhash":"969cd04245360b11796bc8c82d0af079",
+    "wof:geomhash":"70e1e014ca46a251f2b4ffd365ab4261",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907391,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947592,
     "wof:name":"E Houston St  & Bowery",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.761488,
     "reversegeo:longitude":-73.960607,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818100,
-    "wof:geomhash":"da3259988383560e923854ec19d68695",
+    "wof:geomhash":"a08c205d45cd83b9daf5c9b023258576",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911111,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947600,
     "wof:name":"1st Ave  & E 62nd St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

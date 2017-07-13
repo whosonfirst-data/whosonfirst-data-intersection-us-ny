@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.753929,
     "reversegeo:longitude":-73.997602,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817938,
-    "wof:geomhash":"db4bf630912eb1063ea26843f55c204b",
+    "wof:geomhash":"7254ca0e70f56df40f70ba4b9cd2871a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907801,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947593,
     "wof:name":"W 34th St  & Dyer Ave",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

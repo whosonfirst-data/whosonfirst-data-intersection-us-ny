@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.77741,
     "reversegeo:longitude":-73.9788,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818286,
-    "wof:geomhash":"84e887c660b5da16c8c99fd152237010",
+    "wof:geomhash":"98d9649e93876669f1ebc3ab7a8fe644",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914763,
-    "wof:lastmodified":1490900160,
+    "wof:lastmodified":1499947608,
     "wof:name":"Columbus Ave  & W 72nd St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

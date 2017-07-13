@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.850188,
     "reversegeo:longitude":-73.939638,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818238,
-    "wof:geomhash":"2a56fff8df7dae1b5e935ba0de59655e",
+    "wof:geomhash":"08267d5fc62180dbf3e2dc64e40d7e55",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913867,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947606,
     "wof:name":"Pinehurst Ave  & W 180th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

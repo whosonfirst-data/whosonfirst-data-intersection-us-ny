@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.810856,
     "reversegeo:longitude":-73.939018,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818170,
-    "wof:geomhash":"71fb8c3ff6361ceaa768a8bc905cad08",
+    "wof:geomhash":"9c5529418ebd9da865bbb1dbc348ecf6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912421,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947603,
     "wof:name":"5th Ave  & E 132nd St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

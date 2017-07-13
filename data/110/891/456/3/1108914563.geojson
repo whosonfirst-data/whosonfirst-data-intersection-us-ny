@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.742901,
     "reversegeo:longitude":-73.992805,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818279,
-    "wof:geomhash":"48dea446777abf772fb98169378e44dc",
+    "wof:geomhash":"991ad3f0d8919a671e5d9ea815719f01",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914563,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947608,
     "wof:name":"Ave of the Americas  & W 23rd St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

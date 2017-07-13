@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.75587,
     "reversegeo:longitude":-73.97282,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818030,
-    "wof:geomhash":"07f16f93eda6662823c25a11feac1cc4",
+    "wof:geomhash":"ec7d4e3c611e5b9320631c9c41869846",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909579,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947597,
     "wof:name":"Lexington Ave  & E 49th St",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721354,
     "reversegeo:longitude":-74.004635,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818232,
-    "wof:geomhash":"bd6e6857e38a74b8d3fbe716cbc89541",
+    "wof:geomhash":"1f035709b9c6e6fc611f385c6a25d5c5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913691,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947606,
     "wof:name":"W Broadway  & Canal St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

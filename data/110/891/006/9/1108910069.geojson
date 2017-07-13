@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726601,
     "reversegeo:longitude":-74.007434,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818050,
-    "wof:geomhash":"847db8a7263c2387d2d9432f218e42f0",
+    "wof:geomhash":"1f7480505f0060257a89db90266392a3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910069,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947598,
     "wof:name":"Vandam St  & Hudson St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

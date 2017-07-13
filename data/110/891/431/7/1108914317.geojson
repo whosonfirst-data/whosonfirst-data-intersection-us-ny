@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721462,
     "reversegeo:longitude":-73.988523,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818263,
-    "wof:geomhash":"a0ac87b105bc412bb7dd59e0a96a2af5",
+    "wof:geomhash":"3daaaf140167658a42ca8b8901702bba",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914317,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947607,
     "wof:name":"Orchard St  & Stanton St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

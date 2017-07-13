@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.76348,
     "reversegeo:longitude":-73.967272,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818239,
-    "wof:geomhash":"5a83e12f4248682a1c0fd43c3d8483b3",
+    "wof:geomhash":"c2c0cab12ec9e597aadfd928549c08bc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913893,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947606,
     "wof:name":"Lexington Ave  & E 61st St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

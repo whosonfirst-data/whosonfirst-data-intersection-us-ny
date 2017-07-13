@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71774,
     "reversegeo:longitude":-74.004154,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818299,
-    "wof:geomhash":"528039abe2af7691be6003f981ad92e6",
+    "wof:geomhash":"ce3719a295c400620a2028ce9ad43993",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914913,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947609,
     "wof:name":"Franklin St  & Franklin Pl",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

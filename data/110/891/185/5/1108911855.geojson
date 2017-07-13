@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.783161,
     "reversegeo:longitude":-73.980473,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818141,
-    "wof:geomhash":"2cf6f715f7c3290e69e0bed4a40a98b2",
+    "wof:geomhash":"7d06096ea6db2d1a6ea7638a447c7a9b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911855,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947602,
     "wof:name":"W 78th St  & Broadway",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

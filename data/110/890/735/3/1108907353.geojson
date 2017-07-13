@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":5,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.81458,
     "reversegeo:longitude":-73.947947,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817919,
-    "wof:geomhash":"2de96b4eb6f94bbfa2159523d7faef19",
+    "wof:geomhash":"15dd3577e558ae7a4c5f2410ce57c105",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907353,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947592,
     "wof:name":"Frederick Douglass Blvd  & W 132nd St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

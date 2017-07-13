@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.759207,
     "reversegeo:longitude":-73.984638,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818197,
-    "wof:geomhash":"eddf656657b8e76f4222bec6eb2a822f",
+    "wof:geomhash":"35497dc19983cbadad05f159a6768529",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913047,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947604,
     "wof:name":"7th Ave  & W 47th St",
     "wof:parent_id":907216453,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.803228,
     "reversegeo:longitude":-73.944597,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817960,
-    "wof:geomhash":"2ea31689147e786cca67faf64424f76f",
+    "wof:geomhash":"b6d068a9ca4771d2e030aeac08adf32a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908285,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947594,
     "wof:name":"W 120th St  & E 120th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

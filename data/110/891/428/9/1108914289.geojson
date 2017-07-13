@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.803957,
     "reversegeo:longitude":-73.948273,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818261,
-    "wof:geomhash":"d9b7ed9ed2f2dc31ab4281c9424511db",
+    "wof:geomhash":"8cc991553fbc1b00e4245d0aae9fc4d7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914289,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947607,
     "wof:name":"W 119th St  & Malcolm X Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

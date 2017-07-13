@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.743326,
     "reversegeo:longitude":-73.984078,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817988,
-    "wof:geomhash":"3c8e30399941fcbc23614ffead20ce19",
+    "wof:geomhash":"52985d4c4297ca2cec4f05affcda6250",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908961,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947595,
     "wof:name":"E 28th St  & Park Ave S",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

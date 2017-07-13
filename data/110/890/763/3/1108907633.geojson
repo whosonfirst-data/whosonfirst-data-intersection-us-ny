@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.754318,
     "reversegeo:longitude":-73.986865,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817931,
-    "wof:geomhash":"1e99eb903dc8fd4841a5638361c3c138",
+    "wof:geomhash":"fecaf8f95cd8c2b22aec0c927acc9bb2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907633,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947592,
     "wof:name":"Broadway  & W 40th St",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

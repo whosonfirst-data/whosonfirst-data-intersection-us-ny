@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.746038,
     "reversegeo:longitude":-73.990518,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817928,
-    "wof:geomhash":"e6ceab831c135c940914a6b76f48680a",
+    "wof:geomhash":"96401de5ef0e8d06a6a391bc1539d710",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907551,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947592,
     "wof:name":"Ave of the Americas  & W 28th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

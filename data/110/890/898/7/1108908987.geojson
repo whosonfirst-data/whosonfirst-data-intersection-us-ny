@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.744186,
     "reversegeo:longitude":-73.991871,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817989,
-    "wof:geomhash":"ef452a9cdd2e0f7db407f7be2d7213e2",
+    "wof:geomhash":"d17511930b58e39aedad4305a6595627",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908987,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947595,
     "wof:name":"W 25th St  & 6th Ave",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

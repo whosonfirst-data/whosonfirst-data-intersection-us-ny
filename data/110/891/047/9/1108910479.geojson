@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.808446,
     "reversegeo:longitude":-73.944994,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818068,
-    "wof:geomhash":"cbdb4e354bf1a141f91da7fe8a2de460",
+    "wof:geomhash":"aa2426f2b8fff8d6dd9fbb95eadefa36",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910479,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947599,
     "wof:name":"Lenox Ave  & W 126th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

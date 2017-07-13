@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.838559,
     "reversegeo:longitude":-73.945856,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817997,
-    "wof:geomhash":"86484a538432ec3acdfd818b995dbc59",
+    "wof:geomhash":"8fc2d9673472e26803a5df1ade9d10ed",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909173,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947596,
     "wof:name":"Riverside Dr  & W 162nd St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

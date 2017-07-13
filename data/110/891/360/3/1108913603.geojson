@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.869001,
     "reversegeo:longitude":-73.92032,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818227,
-    "wof:geomhash":"b51a7dd224a288780f9e1400c59e650a",
+    "wof:geomhash":"d65b6743f13172d9796cea8999e45505",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913603,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947606,
     "wof:name":"Isham St  & Cooper St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

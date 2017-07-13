@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.783242,
     "reversegeo:longitude":-73.97454,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818239,
-    "wof:geomhash":"b611e2f2a7902eab5fb231adb46ef04e",
+    "wof:geomhash":"0fa29ba2ac463f0b173d2e1e47e9f1ac",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913883,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947606,
     "wof:name":"Columbus Ave  & W 81st St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713319,
     "reversegeo:longitude":-73.999157,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818297,
-    "wof:geomhash":"c6c09709da06024cd4fcea1dd4389666",
+    "wof:geomhash":"babce6de02191a0630f9b0d66814ba38",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914863,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947608,
     "wof:name":"James St  & Park Row",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

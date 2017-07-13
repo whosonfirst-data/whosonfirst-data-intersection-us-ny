@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.745286,
     "reversegeo:longitude":-73.988729,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817907,
-    "wof:geomhash":"3d913245a1a6270842cff88b79293dde",
+    "wof:geomhash":"1d6a59496488894a8697d86be939b083",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907203,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947592,
     "wof:name":"Broadway  & W 28th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",
