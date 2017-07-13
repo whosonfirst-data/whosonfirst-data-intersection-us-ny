@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.831471,
     "reversegeo:longitude":-73.946769,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818115,
-    "wof:geomhash":"75dbcf78aa8ee790455508eaa4185dd4",
+    "wof:geomhash":"c46f4262ecc948570714d45f411ee0a2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911261,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947600,
     "wof:name":"Broadway  & W 153rd St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

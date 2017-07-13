@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713638,
     "reversegeo:longitude":-73.987062,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818153,
-    "wof:geomhash":"ab608e10651acaf131fdf8ec48621185",
+    "wof:geomhash":"45e4be71761c9388ee0cc0f745acf65a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912145,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947602,
     "wof:name":"Clinton St  & Henry St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

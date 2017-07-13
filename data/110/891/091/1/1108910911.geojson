@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.737554,
     "reversegeo:longitude":-73.978052,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818088,
-    "wof:geomhash":"049dd1aa871b2fa85e7ed93afcd0ea7d",
+    "wof:geomhash":"e94a173cf161595314d08e75fb0a29d4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108910911,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947600,
     "wof:name":"1st Ave  & E 24th St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

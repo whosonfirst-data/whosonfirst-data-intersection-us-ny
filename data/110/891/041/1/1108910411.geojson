@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713715,
     "reversegeo:longitude":-73.99802,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818064,
-    "wof:geomhash":"c868d71975fe95212c134fb437744786",
+    "wof:geomhash":"4e58783fbe51a8d4292c81bedf28bcf2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910411,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947599,
     "wof:name":"St James Pl  & Chatham Sq",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

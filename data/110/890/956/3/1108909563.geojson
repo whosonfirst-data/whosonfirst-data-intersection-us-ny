@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.730039,
     "reversegeo:longitude":-73.991068,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818028,
-    "wof:geomhash":"c3f1770bb3846cb74a92c41b9b11d019",
+    "wof:geomhash":"4ede47b19225fba4c39f038839785acb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909563,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947597,
     "wof:name":"E 8th St  & Lafayette St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

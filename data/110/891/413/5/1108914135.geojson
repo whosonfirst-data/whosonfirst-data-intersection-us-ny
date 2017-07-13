@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.73324,
     "reversegeo:longitude":-74.000703,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818256,
-    "wof:geomhash":"6e0784a79aa55416b16dd64456280e04",
+    "wof:geomhash":"d6d9854717e89fa18f4ea6709bedcbe0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914135,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1499947607,
     "wof:name":"Waverly Pl  & Gay St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

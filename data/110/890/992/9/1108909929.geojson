@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.732929,
     "reversegeo:longitude":-74.000066,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818044,
-    "wof:geomhash":"a0a0c53e10b5237911b4dc50c2f6c79f",
+    "wof:geomhash":"54be6e1b6c484aba44177c421bbef385",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909929,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947598,
     "wof:name":"Waverly Pl  & 6th Ave",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

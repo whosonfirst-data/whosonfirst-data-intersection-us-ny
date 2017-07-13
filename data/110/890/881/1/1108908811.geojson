@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.736005,
     "reversegeo:longitude":-73.993617,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817982,
-    "wof:geomhash":"b3a005064394f2cb05a048c277d1cc64",
+    "wof:geomhash":"355992a1d5f00a7e2fee0a413850dfa9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908811,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"5th Ave  & W 14th St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

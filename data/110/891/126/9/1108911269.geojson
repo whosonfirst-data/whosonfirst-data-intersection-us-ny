@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.735539,
     "reversegeo:longitude":-74.003342,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818116,
-    "wof:geomhash":"5c3c8880ba951d325550443bea93186d",
+    "wof:geomhash":"3acf0a14291d38a8a60dfde19d9a5eea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911269,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947600,
     "wof:name":"Perry St  & W 4th St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

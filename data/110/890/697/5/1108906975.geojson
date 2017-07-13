@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.804356,
     "reversegeo:longitude":-73.957317,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817899,
-    "wof:geomhash":"ee995171333136e42775d179d859bfab",
+    "wof:geomhash":"da110609a3f30646608e9c1e894edb9c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108906975,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947591,
     "wof:name":"Manhattan Ave  & W 115th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

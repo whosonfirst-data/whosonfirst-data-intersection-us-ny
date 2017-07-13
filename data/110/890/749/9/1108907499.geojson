@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.710579,
     "reversegeo:longitude":-74.007376,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817925,
-    "wof:geomhash":"863926f373cdb12ea0f8f6f4019880ba",
+    "wof:geomhash":"2219fb7146591cf34930abdcc075edad",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907499,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947592,
     "wof:name":"Ann St  & Nassau St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.765136,
     "reversegeo:longitude":-73.973156,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818238,
-    "wof:geomhash":"3c395ebe9135418cfd262d1a7d83f25e",
+    "wof:geomhash":"f80005995377cf143bff54cb0a14fcae",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913851,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947606,
     "wof:name":"Grand Army Plz  & Doris C Freedman Pl",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

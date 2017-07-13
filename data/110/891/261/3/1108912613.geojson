@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.786596,
     "reversegeo:longitude":-73.968385,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818178,
-    "wof:geomhash":"f4fb28e95e5c3ce0de2d61ae1a3319f0",
+    "wof:geomhash":"677e131617635a2ee508539844db4123",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912613,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947603,
     "wof:name":"Central Park W  & W 88th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

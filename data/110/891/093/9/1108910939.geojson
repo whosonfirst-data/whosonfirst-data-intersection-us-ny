@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.853582,
     "reversegeo:longitude":-73.932228,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818089,
-    "wof:geomhash":"bc74879d47a2a9fcc91d45d400e7b66f",
+    "wof:geomhash":"842e55131299803879192d270c0dd5c7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910939,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"Wadsworth Ave  & W 187th St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

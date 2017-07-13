@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.772299,
     "reversegeo:longitude":-73.986238,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818116,
-    "wof:geomhash":"b45165c54aef67713650d6708ffb2c80",
+    "wof:geomhash":"117216f8fdcb2dcdeb6c67cd3d25ee0a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911271,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 62nd St  & Amsterdam Ave",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

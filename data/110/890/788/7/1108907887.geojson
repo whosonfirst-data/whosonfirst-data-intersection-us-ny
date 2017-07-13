@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.7993,
     "reversegeo:longitude":-73.941126,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817941,
-    "wof:geomhash":"55a4720d3287e3e53ec1f7f9e8a76085",
+    "wof:geomhash":"778a0c9b9b6a1a8baa7e134393e8a857",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907887,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947593,
     "wof:name":"Lexington Ave  & E 117th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

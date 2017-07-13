@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713941,
     "reversegeo:longitude":-74.012328,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817900,
-    "wof:geomhash":"fe1275b2c6bb518463ed1362b2f33014",
+    "wof:geomhash":"6d6b9bdf7990918b0cc6937fbc023aac",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907025,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947591,
     "wof:name":"Barclay St  & Washington St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

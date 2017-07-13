@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.770423,
     "reversegeo:longitude":-73.964319,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817900,
-    "wof:geomhash":"8c911ef4d0ea765c5e209a6c325997cc",
+    "wof:geomhash":"91751572772c35ec1756c939d0b4a788",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907003,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947591,
     "wof:name":"E 71st St  & Park Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

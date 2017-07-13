@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71733,
     "reversegeo:longitude":-73.999449,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817930,
-    "wof:geomhash":"0ac20cd7cc5a13e886b041142558df05",
+    "wof:geomhash":"65c1cbeed90efefe43c5bfae2e487905",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907599,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947592,
     "wof:name":"Walker St  & Baxter St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

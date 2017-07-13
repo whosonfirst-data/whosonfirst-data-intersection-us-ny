@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.801844,
     "reversegeo:longitude":-73.959147,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818299,
-    "wof:geomhash":"3ca43763ec626cb4825533f66718e747",
+    "wof:geomhash":"cd6ba56c7de62dcbbfb2c49578a10078",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914909,
-    "wof:lastmodified":1490900147,
+    "wof:lastmodified":1499947609,
     "wof:name":"W 111th St  & Manhattan Ave",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

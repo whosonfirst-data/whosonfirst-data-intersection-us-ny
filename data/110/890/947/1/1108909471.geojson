@@ -14,7 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.848284,
     "reversegeo:longitude":-73.94557,
     "src:geom":"mapzen",
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1108909471,
-    "wof:lastmodified":1499909569,
+    "wof:lastmodified":1499947597,
     "wof:name":"Haven Ave  & W 176th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.852322,
     "reversegeo:longitude":-73.938776,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818084,
-    "wof:geomhash":"2fcb7d7f64e32491d93d70b34f026379",
+    "wof:geomhash":"5880ad931ef88d430c6e53e129215a97",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910827,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947599,
     "wof:name":"Pinehurst Ave  & W 183rd St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

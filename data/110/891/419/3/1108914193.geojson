@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.793325,
     "reversegeo:longitude":-73.974616,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818258,
-    "wof:geomhash":"dd33881a814d0cdd4ed8b4783362ff3d",
+    "wof:geomhash":"a7a73d4747fb236ff8061140a143cac6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914193,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947607,
     "wof:name":"W End Ave  & W 93rd St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

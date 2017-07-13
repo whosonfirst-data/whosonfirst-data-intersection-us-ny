@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.719005,
     "reversegeo:longitude":-74.005174,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818083,
-    "wof:geomhash":"5846a71bb61b36f801039073836f0ee8",
+    "wof:geomhash":"fd7dbcc48fb72b667f9ba231597bd408",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910803,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947599,
     "wof:name":"Ave of the Americas  & White St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

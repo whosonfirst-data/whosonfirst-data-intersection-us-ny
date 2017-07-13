@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.794179,
     "reversegeo:longitude":-73.944866,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817949,
-    "wof:geomhash":"2be92ef8da21bd799ea714c67522811f",
+    "wof:geomhash":"d6006806a2f5b9dfd19cb51966d5c1b1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908069,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947593,
     "wof:name":"Lexington Ave  & E 109th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

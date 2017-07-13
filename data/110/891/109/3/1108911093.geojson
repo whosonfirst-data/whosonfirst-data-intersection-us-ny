@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.743095,
     "reversegeo:longitude":-73.974015,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818098,
-    "wof:geomhash":"44a6b5836c15fcb1fe094803925a884b",
+    "wof:geomhash":"fca3ddd69ba9fbda22062e341cd8e58d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911093,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1499947600,
     "wof:name":"1st Ave  & E 33rd St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

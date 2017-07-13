@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.817061,
     "reversegeo:longitude":-73.955803,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818038,
-    "wof:geomhash":"91626093aea6deb340c411cc9ee0a665",
+    "wof:geomhash":"f7146775225eb1d95b2484b68e90a213",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909779,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947597,
     "wof:name":"W 131st St  & Old Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

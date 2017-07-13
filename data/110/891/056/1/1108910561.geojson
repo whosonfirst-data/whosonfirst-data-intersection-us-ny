@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.852611,
     "reversegeo:longitude":-73.936545,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818073,
-    "wof:geomhash":"0d48a561130bc995ac75ef1c1505f976",
+    "wof:geomhash":"c94639842b4f39aa347329ea2cd2e4b0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910561,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947599,
     "wof:name":"W 184th St  & Overlook Ter",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

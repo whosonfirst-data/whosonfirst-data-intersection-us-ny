@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.704775,
     "reversegeo:longitude":-74.009747,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817917,
-    "wof:geomhash":"b892db1548e8983e8475697ebff57afa",
+    "wof:geomhash":"1824e421ff0c8352eaec278f49515e0a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907309,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947592,
     "wof:name":"Stone St  & William St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

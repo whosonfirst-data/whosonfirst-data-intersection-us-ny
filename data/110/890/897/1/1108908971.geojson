@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.710221,
     "reversegeo:longitude":-74.007745,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817988,
-    "wof:geomhash":"06c5362c1b814ccd4f421039e177e960",
+    "wof:geomhash":"7d1e25ef18aa54b492fe1a11c7682336",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908971,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947595,
     "wof:name":"Nassau St  & Fulton St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

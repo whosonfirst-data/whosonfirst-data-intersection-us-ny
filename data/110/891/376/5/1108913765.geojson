@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.759841,
     "reversegeo:longitude":-73.984174,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818234,
-    "wof:geomhash":"c6b9f8bfa49c7309687bd5fc66ff5010",
+    "wof:geomhash":"7353fb869b234612ca75cc058a241d97",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913765,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947606,
     "wof:name":"7th Ave  & W 48th St",
     "wof:parent_id":907216453,
     "wof:placetype":"intersection",

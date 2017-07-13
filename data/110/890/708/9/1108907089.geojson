@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.722283,
     "reversegeo:longitude":-73.980168,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817903,
-    "wof:geomhash":"1a7d58a34d5eb26491471676ce2b6a68",
+    "wof:geomhash":"4168a93c0598185f105803c94240c185",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907089,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947591,
     "wof:name":"Ave C  & E 4th St",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

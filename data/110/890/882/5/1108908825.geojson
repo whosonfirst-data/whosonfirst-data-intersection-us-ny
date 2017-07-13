@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.865593,
     "reversegeo:longitude":-73.918107,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817982,
-    "wof:geomhash":"87091cbc2d12aff4b6a408c1cbd3d232",
+    "wof:geomhash":"927cfd98757a6aef7a309de14c1cb0f6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908825,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947595,
     "wof:name":"10th Ave  & Isham St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.719892,
     "reversegeo:longitude":-73.972191,
     "src:geom":"mapzen",
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":1108911999,
-    "wof:lastmodified":1496248596,
+    "wof:lastmodified":1499947602,
     "wof:name":"E 4 Walk  & F D R Dr",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

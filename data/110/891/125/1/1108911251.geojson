@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713958,
     "reversegeo:longitude":-74.003094,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818114,
-    "wof:geomhash":"3e713861b0ba6e5cf8aae659b2ec6581",
+    "wof:geomhash":"52277a60fc261a78427e82e9ffc3a411",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911251,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"Centre St  & Duane St",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

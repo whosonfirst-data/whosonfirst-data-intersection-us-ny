@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.741351,
     "reversegeo:longitude":-73.981312,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818131,
-    "wof:geomhash":"8144e17ccff2fb0613e7454628e6b954",
+    "wof:geomhash":"6ba9f1b11e13c32b2cc2e6057c7c4855",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911617,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947601,
     "wof:name":"3rd Ave  & E 27th St",
     "wof:parent_id":907215457,
     "wof:placetype":"intersection",

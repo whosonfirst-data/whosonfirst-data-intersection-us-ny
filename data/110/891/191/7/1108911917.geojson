@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.834114,
     "reversegeo:longitude":-73.941118,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818143,
-    "wof:geomhash":"9c0bf2e8358965363750c483e72bfc03",
+    "wof:geomhash":"236d4cde4b17a44b5182ac38906f5d5f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911917,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947602,
     "wof:name":"W 159th St  & Amsterdam Ave",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

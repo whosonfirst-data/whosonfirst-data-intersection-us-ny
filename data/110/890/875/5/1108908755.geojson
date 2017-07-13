@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.732448,
     "reversegeo:longitude":-74.005463,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817979,
-    "wof:geomhash":"8f8cb40e0734c897832e5a92770a29f4",
+    "wof:geomhash":"e1824a1f3aca2c91e23183349ba83f0d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908755,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947595,
     "wof:name":"Bedford St  & Grove St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706379,
     "reversegeo:longitude":-74.009502,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817939,
-    "wof:geomhash":"5ac0cf750f1d40b86b62bae9433497a7",
+    "wof:geomhash":"4695dda7269fda48ae479134d34ce8a4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907819,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947593,
     "wof:name":"William St  & Wall St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.723942,
     "reversegeo:longitude":-73.987968,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818147,
-    "wof:geomhash":"0b25c9626095fe6f994ccc9f730b50cb",
+    "wof:geomhash":"0d586d17501bc8ddcdd0b693e469a54a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912015,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947602,
     "wof:name":"1st Ave  & E 2nd St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

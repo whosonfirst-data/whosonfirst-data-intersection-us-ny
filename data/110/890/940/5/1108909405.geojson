@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.748178,
     "reversegeo:longitude":-74.007413,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818017,
-    "wof:geomhash":"3ab35c4e8a42f9cad9221efb1ebd473d",
+    "wof:geomhash":"116ee833b062c17ce19491ad4af28e48",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909405,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 22nd St  & 11th Ave",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

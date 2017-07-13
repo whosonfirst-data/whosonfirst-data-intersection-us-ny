@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":5,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.844686,
     "reversegeo:longitude":-73.940795,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818041,
-    "wof:geomhash":"724189aab57886472e34976d05485d06",
+    "wof:geomhash":"1fb2fdfc021ee84d389c283116c20c00",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909851,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947597,
     "wof:name":"Fort Washington Ave  & W 172nd St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

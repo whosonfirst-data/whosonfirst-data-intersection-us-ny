@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.755516,
     "reversegeo:longitude":-73.983624,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818262,
-    "wof:geomhash":"23b152e1dd548f52d22df779b704a5fd",
+    "wof:geomhash":"c1c66d037cee5dd396cec83f9f390a3d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108914303,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947607,
     "wof:name":"Ave of the Americas  & W 43rd St",
     "wof:parent_id":907216453,
     "wof:placetype":"intersection",

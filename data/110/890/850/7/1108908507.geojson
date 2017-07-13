@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.734872,
     "reversegeo:longitude":-74.007012,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817970,
-    "wof:geomhash":"3178a298a6ce5d92330030782398b2fc",
+    "wof:geomhash":"4891c9fd1d08ad2437d3771f10fa0de7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908507,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947594,
     "wof:name":"Greenwich Ct  & Greenwich St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

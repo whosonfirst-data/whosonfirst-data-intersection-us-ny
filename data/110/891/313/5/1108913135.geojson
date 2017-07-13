@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.712798,
     "reversegeo:longitude":-74.011663,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818202,
-    "wof:geomhash":"ad2c1b6dbee2bad3e533d8316b5171c8",
+    "wof:geomhash":"016cefbc7d96861b6f007953cc7a1781",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913135,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947605,
     "wof:name":"Vesey St  & W Broadway",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

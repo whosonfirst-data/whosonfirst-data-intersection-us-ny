@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.8037,
     "reversegeo:longitude":-73.935817,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818153,
-    "wof:geomhash":"60ea5eadcaabcd09de458c8116df136f",
+    "wof:geomhash":"5f6c2cb91df5bf7d9a49930d5361fde3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912157,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947602,
     "wof:name":"3rd Ave  & E 125th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

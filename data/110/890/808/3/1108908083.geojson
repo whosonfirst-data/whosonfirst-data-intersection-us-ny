@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.729857,
     "reversegeo:longitude":-74.003956,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817950,
-    "wof:geomhash":"00e990ecb11859b5d65723200d1d74dd",
+    "wof:geomhash":"e21be5849c2e1abe785989faaaf97e54",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908083,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947593,
     "wof:name":"Bedford St  & Carmine St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

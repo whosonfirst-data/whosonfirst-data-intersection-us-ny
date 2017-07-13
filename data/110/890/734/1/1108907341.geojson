@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.751406,
     "reversegeo:longitude":-74.005178,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817919,
-    "wof:geomhash":"925a5ca360bbd809107e66294a83a13c",
+    "wof:geomhash":"f7176400b3a9f0699638862b0e321739",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907341,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947592,
     "wof:name":"11th Ave  & W 27th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.81848,
     "reversegeo:longitude":-73.955294,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818153,
-    "wof:geomhash":"640f374224edd0582932940356fa20ff",
+    "wof:geomhash":"7ec94d54694c6ab58e23e729693c4f57",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912155,
-    "wof:lastmodified":1490900154,
+    "wof:lastmodified":1499947602,
     "wof:name":"W 133rd St  & Old Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

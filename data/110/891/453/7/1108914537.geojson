@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.745816,
     "reversegeo:longitude":-74.005535,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818277,
-    "wof:geomhash":"23295bb403c4543962ff770bf4470f04",
+    "wof:geomhash":"b072619da46f52e308e3cc8c1187e922",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914537,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947608,
     "wof:name":"10th Ave  & W 20th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

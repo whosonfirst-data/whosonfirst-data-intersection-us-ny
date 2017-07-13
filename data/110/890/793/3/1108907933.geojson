@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.785344,
     "reversegeo:longitude":-73.957636,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817943,
-    "wof:geomhash":"2f9b9a3e3ac6e7c90da0e8540eea1979",
+    "wof:geomhash":"c161d508ee8dbc0980a57b847909346a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907933,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947593,
     "wof:name":"5th Ave  & E 92nd St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

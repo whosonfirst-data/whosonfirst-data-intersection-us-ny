@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.738139,
     "reversegeo:longitude":-74.00647,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818255,
-    "wof:geomhash":"89c296ca9a4a38a9a8033d77cc393c79",
+    "wof:geomhash":"6d291f844d8dac058c1364b1c448291b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914099,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947607,
     "wof:name":"Jane St  & Greenwich St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.740187,
     "reversegeo:longitude":-73.986366,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817895,
-    "wof:geomhash":"7506d66b9836d248b5fd61db69a1a4a1",
+    "wof:geomhash":"1fa97e185b2a949719346301d37f5541",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108906937,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947591,
     "wof:name":"E 23rd St  & Park Ave S",
     "wof:parent_id":85869245,
     "wof:placetype":"intersection",

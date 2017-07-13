@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.732612,
     "reversegeo:longitude":-73.998278,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818294,
-    "wof:geomhash":"42177a0cf5b5a651a9d9b21530916778",
+    "wof:geomhash":"b98b612271a1749a6196632ddcad1eea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914797,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947608,
     "wof:name":"Macdougal Aly  & Mac Dougal St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

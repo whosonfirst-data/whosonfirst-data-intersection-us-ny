@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.751748,
     "reversegeo:longitude":-73.970804,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817975,
-    "wof:geomhash":"2aaa648b55c9e701a1330f80143b4213",
+    "wof:geomhash":"2b6167ec20433a2a8656f77dcb84cdfe",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908655,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947595,
     "wof:name":"2nd Ave  & E 45th St",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

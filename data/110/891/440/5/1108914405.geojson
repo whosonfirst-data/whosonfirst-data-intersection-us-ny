@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.734012,
     "reversegeo:longitude":-73.984773,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818266,
-    "wof:geomhash":"52130175cd18f29a578ff08dc524aa98",
+    "wof:geomhash":"c68058ff6ccf92aabec4389aaf69127e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914405,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947607,
     "wof:name":"Rutherford Pl  & E 16th St",
     "wof:parent_id":85865705,
     "wof:placetype":"intersection",

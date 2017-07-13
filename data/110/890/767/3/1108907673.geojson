@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.779292,
     "reversegeo:longitude":-73.981135,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817932,
-    "wof:geomhash":"59964bed38c5d14bb3e08a95b56b97e6",
+    "wof:geomhash":"2e85b0fd093ce6504d74953a0cd5ffab",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907673,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947593,
     "wof:name":"Amsterdam Ave  & W 73rd St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

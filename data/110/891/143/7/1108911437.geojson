@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.806981,
     "reversegeo:longitude":-73.9535,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818123,
-    "wof:geomhash":"9ce88d99d3754b36d2ac0fdb1ee58dc6",
+    "wof:geomhash":"f7ab6e408cb982f99ea6f2bba1558bcf",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911437,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947601,
     "wof:name":"W 120th St  & Frederick Douglass Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.818424,
     "reversegeo:longitude":-73.945141,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817905,
-    "wof:geomhash":"a55cfa83ac09fdff3a6e30557ddbdb9e",
+    "wof:geomhash":"466a6d2058d193d998edb81b5323e5cc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907133,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947591,
     "wof:name":"W 138th St  & Frederick Douglass Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

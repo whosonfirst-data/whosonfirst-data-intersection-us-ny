@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.742863,
     "reversegeo:longitude":-74.003969,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818082,
-    "wof:geomhash":"e5a84e7669056a54b9c292ea88be9452",
+    "wof:geomhash":"0bd9f6903563e459675773697f523177",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910767,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947599,
     "wof:name":"9th Ave  & W 17th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

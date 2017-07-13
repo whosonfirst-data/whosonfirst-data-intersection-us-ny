@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.734094,
     "reversegeo:longitude":-74.008491,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818161,
-    "wof:geomhash":"30aaa2ee2518829eafba709adc0bfa36",
+    "wof:geomhash":"350298dd7f38a9e9c8207cfd0808aeaf",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912319,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947603,
     "wof:name":"Charles St  & Washington St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.792096,
     "reversegeo:longitude":-73.973653,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818054,
-    "wof:geomhash":"c35742aea9aa19537d8df9167d080cf0",
+    "wof:geomhash":"cb39ef91aa082364ae646c1b5ca9f5d8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910163,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947598,
     "wof:name":"W 92nd St  & Broadway",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

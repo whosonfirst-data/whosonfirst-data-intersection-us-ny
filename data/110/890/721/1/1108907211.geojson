@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.756498,
     "reversegeo:longitude":-73.972362,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817907,
-    "wof:geomhash":"b59a3c2b1fafb29df9d22d4ede4342da",
+    "wof:geomhash":"49b4f7d974c8734fbbab728c04a2b65f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907211,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947592,
     "wof:name":"Lexington Ave  & E 50th St",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

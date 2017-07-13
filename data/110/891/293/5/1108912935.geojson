@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.781316,
     "reversegeo:longitude":-73.946131,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818193,
-    "wof:geomhash":"96154e8a82524fe3ee9d2ddd293de5e3",
+    "wof:geomhash":"e0e240693294d5f35c90eab912d639dc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912935,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947604,
     "wof:name":"1st Ave  & E 93rd St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

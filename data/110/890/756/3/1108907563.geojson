@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.815156,
     "reversegeo:longitude":-73.957829,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817929,
-    "wof:geomhash":"d16d09443f136aeeb9b9e42f419664d1",
+    "wof:geomhash":"19273d74a4d1090f6ce1533ca94556b3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907563,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947592,
     "wof:name":"W 125th St  & Old Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

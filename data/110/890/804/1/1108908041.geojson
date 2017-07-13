@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.740393,
     "reversegeo:longitude":-73.979077,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817947,
-    "wof:geomhash":"0b5f9ec705e69af0667fdfd9cda8c3f7",
+    "wof:geomhash":"ce1dc199d2815b7ee1ceb139a997a60f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908041,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947593,
     "wof:name":"2nd Ave  & E 27th St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

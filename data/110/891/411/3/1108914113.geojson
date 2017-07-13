@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.728068,
     "reversegeo:longitude":-73.998955,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818255,
-    "wof:geomhash":"a889bbefffffcb2ff996514a42eee79b",
+    "wof:geomhash":"875105d3b64d146eeb80c201490c54f9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914113,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947607,
     "wof:name":"Laguardia Pl  & Bleecker St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

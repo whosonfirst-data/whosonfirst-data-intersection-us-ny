@@ -14,7 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724274,
     "reversegeo:longitude":-74.016055,
     "src:geom":"mapzen",
@@ -40,7 +40,7 @@
         }
     ],
     "wof:id":1108909149,
-    "wof:lastmodified":1499912646,
+    "wof:lastmodified":1499947596,
     "wof:name":"Vestry St  & West St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

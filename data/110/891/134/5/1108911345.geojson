@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.8651,
     "reversegeo:longitude":-73.921884,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818119,
-    "wof:geomhash":"e2d1a471c4ece188652b0719870e6c5e",
+    "wof:geomhash":"e17bca87ba71503b8b34f7cb6107fa1d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911345,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947601,
     "wof:name":"Sherman Ave  & W 204th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.772873,
     "reversegeo:longitude":-73.972522,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817969,
-    "wof:geomhash":"000cfcab47035590fded87ce4529ef8e",
+    "wof:geomhash":"aab18391823afd194bf4adbc789a015a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908491,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947594,
     "wof:name":"Center Dr  & Central Park Driveway",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

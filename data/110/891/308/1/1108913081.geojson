@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.691814,
     "reversegeo:longitude":-74.018875,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818199,
-    "wof:geomhash":"90237394af726fafa701b8599ddd1395",
+    "wof:geomhash":"1a820d2162c72675a4ffa61bc2af9568",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913081,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947604,
     "wof:name":"Hay Rd  & Comfort Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

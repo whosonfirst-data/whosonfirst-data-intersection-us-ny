@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.751577,
     "reversegeo:longitude":-73.982275,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818091,
-    "wof:geomhash":"148c6f9b3abfe9701dd47f086c15f4bd",
+    "wof:geomhash":"d493b17a1a591181825ebb392afee111",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108910971,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 39th St  & E 39th St",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

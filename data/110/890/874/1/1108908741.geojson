@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.705624,
     "reversegeo:longitude":-74.006766,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817978,
-    "wof:geomhash":"61539596059def8cf8e455b0cec6e81b",
+    "wof:geomhash":"686a178949f4abe28ee1ec427d50832a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908741,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"Water St  & Pine St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

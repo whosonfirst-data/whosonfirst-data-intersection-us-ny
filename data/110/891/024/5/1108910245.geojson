@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720969,
     "reversegeo:longitude":-73.982167,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818058,
-    "wof:geomhash":"e2afc97dda565479ab0f9cd55a4ffe66",
+    "wof:geomhash":"e6331f85385dfdecc83bbf8e525b64ea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910245,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947598,
     "wof:name":"E Houston St  & Ridge St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

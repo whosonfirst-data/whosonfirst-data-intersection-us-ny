@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721632,
     "reversegeo:longitude":-73.993523,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818172,
-    "wof:geomhash":"1a1bbeaae2a607a7fc18a6210adaa881",
+    "wof:geomhash":"b7eb96914c9328542bf5a3a800f7ef07",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108912481,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947603,
     "wof:name":"Rivington St  & Bowery",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

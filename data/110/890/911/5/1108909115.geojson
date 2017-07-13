@@ -14,7 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726164,
     "reversegeo:longitude":-74.010856,
     "src:geom":"mapzen",
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108909115,
-    "wof:lastmodified":1499912649,
+    "wof:lastmodified":1499947596,
     "wof:name":"Lincoln Hwy  & Spring St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

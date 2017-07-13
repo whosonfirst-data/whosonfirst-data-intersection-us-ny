@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.843902,
     "reversegeo:longitude":-73.942696,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818147,
-    "wof:geomhash":"9a9dee56ca21f8bd5c4d613d656d843e",
+    "wof:geomhash":"431c49bd8cfb1475ced1b4aac158d51d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911989,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947602,
     "wof:name":"Haven Ave  & W 170th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

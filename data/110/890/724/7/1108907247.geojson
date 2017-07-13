@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.828729,
     "reversegeo:longitude":-73.942206,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817909,
-    "wof:geomhash":"8917ae89b082797991cd8b9a2fa7a1f7",
+    "wof:geomhash":"99e204e21aa57f866d0bff09487e8713",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907247,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947592,
     "wof:name":"St Nicholas Ave  & W 152nd St",
     "wof:parent_id":907215743,
     "wof:placetype":"intersection",

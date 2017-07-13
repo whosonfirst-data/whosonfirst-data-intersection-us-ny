@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721576,
     "reversegeo:longitude":-73.997761,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817971,
-    "wof:geomhash":"6a02a4f64c5f401b21c2556797a24cd0",
+    "wof:geomhash":"33f3261dc745ceeaefd3243e3c514726",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908537,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947594,
     "wof:name":"Lafayette St  & Kenmare St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

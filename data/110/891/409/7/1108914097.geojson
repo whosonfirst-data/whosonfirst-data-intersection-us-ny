@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.874662,
     "reversegeo:longitude":-73.911088,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818254,
-    "wof:geomhash":"550df49ae884335efda45501f7d8dddd",
+    "wof:geomhash":"6dc6300befb5190743562d3a79a9a7cd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914097,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947607,
     "wof:name":"Marble Hill Ave  & W 225th St",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

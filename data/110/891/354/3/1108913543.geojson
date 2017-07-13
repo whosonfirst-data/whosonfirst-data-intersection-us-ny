@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.772373,
     "reversegeo:longitude":-73.960783,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818224,
-    "wof:geomhash":"c97b4101d36c72ac7d0f7ba01a880f7e",
+    "wof:geomhash":"e3bd16d5c0367e20d19337054925c3cb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913543,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947606,
     "wof:name":"Lexington Ave  & E 75th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

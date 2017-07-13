@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726988,
     "reversegeo:longitude":-73.985753,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818235,
-    "wof:geomhash":"fe06eabb9481d24a6eb83f032e824cd7",
+    "wof:geomhash":"899eb723f1fdfd997c419cfe3f364818",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913779,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947606,
     "wof:name":"1st Ave  & E 7th St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

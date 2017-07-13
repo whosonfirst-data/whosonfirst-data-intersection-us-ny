@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.856808,
     "reversegeo:longitude":-73.928266,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818260,
-    "wof:geomhash":"a4161edee366f6ca33f3be9f561eb85e",
+    "wof:geomhash":"74a2a3111be606af3b55c76343c2e5e3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914239,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947607,
     "wof:name":"Fort George Hill  & Fort George Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

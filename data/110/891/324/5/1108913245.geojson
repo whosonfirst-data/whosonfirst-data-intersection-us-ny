@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.785247,
     "reversegeo:longitude":-73.953503,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818207,
-    "wof:geomhash":"aae5f4bdf19fa85e079cb60e7c955367",
+    "wof:geomhash":"1fd23ba69b9960ff2ef79868821c6f57",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913245,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947605,
     "wof:name":"E 94th St  & Park Ave",
     "wof:parent_id":907196173,
     "wof:placetype":"intersection",

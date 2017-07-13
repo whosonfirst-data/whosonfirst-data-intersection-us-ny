@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.784044,
     "reversegeo:longitude":-73.956487,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817936,
-    "wof:geomhash":"6553a2ad55f898e03f01c708c693ba14",
+    "wof:geomhash":"a2ebd6cc30b68e66620d8205fd26746c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907765,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947593,
     "wof:name":"Madison Ave  & E 91st St",
     "wof:parent_id":907196173,
     "wof:placetype":"intersection",

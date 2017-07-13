@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.767816,
     "reversegeo:longitude":-73.989505,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817967,
-    "wof:geomhash":"09b23bd17ac82c00fbd2a5b322a31de7",
+    "wof:geomhash":"323f3dd11887f8c8cb9fd43ab391a351",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908437,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947594,
     "wof:name":"W 55th St  & 10th Ave",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

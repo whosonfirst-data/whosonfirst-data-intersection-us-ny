@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.739243,
     "reversegeo:longitude":-73.999185,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818186,
-    "wof:geomhash":"d9f3b26cb8422a34cc9bf1e64a222c68",
+    "wof:geomhash":"62a98ec3f8a44110b91b552251ac0554",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912791,
-    "wof:lastmodified":1490900147,
+    "wof:lastmodified":1499947604,
     "wof:name":"W 15th St  & 7th Ave",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

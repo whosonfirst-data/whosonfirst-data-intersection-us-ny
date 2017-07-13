@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.806707,
     "reversegeo:longitude":-73.964848,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818011,
-    "wof:geomhash":"e6857c41774d639b8ea1301aa235ba13",
+    "wof:geomhash":"3764ea574ea3cddc7c4e6dc0fe737d38",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909303,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947596,
     "wof:name":"Broadway  & W 114th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

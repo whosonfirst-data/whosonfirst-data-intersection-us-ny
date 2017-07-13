@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.787222,
     "reversegeo:longitude":-73.952058,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818030,
-    "wof:geomhash":"c712511c0833bc4bad631ae745df3418",
+    "wof:geomhash":"0b644617341b3c4c71e6c6ec731624f3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909581,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947597,
     "wof:name":"E 97th St  & Park Ave",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

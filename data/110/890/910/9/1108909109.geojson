@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.708791,
     "reversegeo:longitude":-74.00086,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817994,
-    "wof:geomhash":"74d914eae7baf0f10a3987c8064b4d1a",
+    "wof:geomhash":"7658549fb4569755f32f15adb30ccfb9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909109,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947596,
     "wof:name":"Water St  & Dover St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.742839,
     "reversegeo:longitude":-74.000275,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817930,
-    "wof:geomhash":"915a529ed1f6d0ffd6db760f9296845f",
+    "wof:geomhash":"910ae2de5b6f42ca9d845862b0024b55",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907617,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947592,
     "wof:name":"8th Ave  & W 19th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

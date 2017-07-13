@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720318,
     "reversegeo:longitude":-74.012139,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818260,
-    "wof:geomhash":"8fd859943657e93b3cb9b8bc93aed378",
+    "wof:geomhash":"db41f8fd350e92b5d232ed3d9e6d0395",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914241,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947607,
     "wof:name":"N Moore St  & West St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

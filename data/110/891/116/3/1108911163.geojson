@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.711017,
     "reversegeo:longitude":-74.010801,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818103,
-    "wof:geomhash":"c387362404255117112effc1284979f4",
+    "wof:geomhash":"6ac2223b7973ea39a38baa8778c0ac33",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911163,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947600,
     "wof:name":"Dey St  & Church St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

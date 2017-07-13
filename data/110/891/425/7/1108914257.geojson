@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706407,
     "reversegeo:longitude":-74.004558,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818260,
-    "wof:geomhash":"a84566ab4a359fa0603a695c983c77cf",
+    "wof:geomhash":"ae932ea902af1a2dd0b73889578416bb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108914257,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947607,
     "wof:name":"John St  & Front St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

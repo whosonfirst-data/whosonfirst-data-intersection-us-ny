@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.739077,
     "reversegeo:longitude":-74.003083,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818062,
-    "wof:geomhash":"b35623a20fb19efb7e2204bbb858b54d",
+    "wof:geomhash":"7daf1c9c7b378d471ec25ffdceed44f1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910365,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947599,
     "wof:name":"W 13th St  & 8th Ave",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

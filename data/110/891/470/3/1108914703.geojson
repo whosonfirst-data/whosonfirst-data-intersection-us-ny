@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.760231,
     "reversegeo:longitude":-73.961522,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818284,
-    "wof:geomhash":"1a9a8cf30766e2087f4d89d6067f08e1",
+    "wof:geomhash":"b412149f6d09330af65d6de4f2356f5d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914703,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947608,
     "wof:name":"1st Ave  & E 60th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

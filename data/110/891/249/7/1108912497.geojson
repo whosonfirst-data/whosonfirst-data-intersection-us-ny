@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.779145,
     "reversegeo:longitude":-73.944775,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818173,
-    "wof:geomhash":"069d2a00b6342f6b2c0f1adeeb20083d",
+    "wof:geomhash":"19d0dc4c19de18e27a87b6401b63ab76",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912497,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947603,
     "wof:name":"E 91st St  & York Ave",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.776058,
     "reversegeo:longitude":-73.983505,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818061,
-    "wof:geomhash":"6ebdade5f8beaf6b54273005f89e08f3",
+    "wof:geomhash":"87fb4656faae7e938c1416e54fadf58d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910321,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947598,
     "wof:name":"Amsterdam Ave  & W 68th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

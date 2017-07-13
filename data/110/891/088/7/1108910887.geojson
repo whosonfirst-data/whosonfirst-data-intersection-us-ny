@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.756655,
     "reversegeo:longitude":-73.978565,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818087,
-    "wof:geomhash":"3a333812fa16845eda8a6b437d6130a2",
+    "wof:geomhash":"e958bb8ad424b294316d4a33a64d7c1e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108910887,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 47th St  & E 47th St",
     "wof:parent_id":907132695,
     "wof:placetype":"intersection",

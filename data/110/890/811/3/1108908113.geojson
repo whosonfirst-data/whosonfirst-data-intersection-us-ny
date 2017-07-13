@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721596,
     "reversegeo:longitude":-73.974763,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817951,
-    "wof:geomhash":"707a9afdd778072418e9cd07d8da8cb3",
+    "wof:geomhash":"5393faf9c22ca80d53c3a3f30bdd91ea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908113,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947594,
     "wof:name":"F D R Dr  & E 6th St",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.857841,
     "reversegeo:longitude":-73.932043,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818234,
-    "wof:geomhash":"d8d9e20fc7d94b9a47cad16a606c16cf",
+    "wof:geomhash":"a480b5deffb63936c8688a1414187480",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913747,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947606,
     "wof:name":"Broadway  & W 192nd St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

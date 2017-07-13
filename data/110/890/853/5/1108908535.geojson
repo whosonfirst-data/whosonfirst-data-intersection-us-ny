@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.769765,
     "reversegeo:longitude":-73.974544,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817971,
-    "wof:geomhash":"15ffb84752263653ef8a43d679932bad",
+    "wof:geomhash":"2d4376f6389c27c5df254e739740261f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908535,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947594,
     "wof:name":"65th St Transverse  & Center Dr",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

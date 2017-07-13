@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.704285,
     "reversegeo:longitude":-74.007671,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818264,
-    "wof:geomhash":"b579d0f1af661956443c48a80a5b2e57",
+    "wof:geomhash":"bef51c7fe766983fdd7f1e04dc0511da",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914343,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947607,
     "wof:name":"Gouverneur Ln  & Front St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

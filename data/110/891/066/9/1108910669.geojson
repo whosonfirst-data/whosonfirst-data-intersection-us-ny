@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.710826,
     "reversegeo:longitude":-74.003384,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818078,
-    "wof:geomhash":"d933229816c8bd709f423a93d96926d6",
+    "wof:geomhash":"4a433009bb09e63cc3d0cb9f1b6c5a1d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910669,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947599,
     "wof:name":"Frankfort St  & Gold St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713903,
     "reversegeo:longitude":-73.983998,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818238,
-    "wof:geomhash":"cd8e19d6f5cf493ffaaf6d3480e60d6e",
+    "wof:geomhash":"34568cdff76fe267307d5fa16f78696a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913849,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947606,
     "wof:name":"Gouverneur St  & Henry St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

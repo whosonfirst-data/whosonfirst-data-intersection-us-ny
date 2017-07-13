@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.765357,
     "reversegeo:longitude":-73.9659,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817980,
-    "wof:geomhash":"939479804bd5644090f87989ac310b9e",
+    "wof:geomhash":"3b57a15ecbe4bc701e6e8d3835491a7c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908761,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947595,
     "wof:name":"Lexington Ave  & E 64th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

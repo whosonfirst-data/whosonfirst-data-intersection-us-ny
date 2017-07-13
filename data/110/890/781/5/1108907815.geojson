@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.809525,
     "reversegeo:longitude":-73.937881,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817938,
-    "wof:geomhash":"330ecbfe851c5aee7c76c8f64b45dd93",
+    "wof:geomhash":"03ee7427a39c4a1579b3f5c4cb2444d8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907815,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947593,
     "wof:name":"E 131st St  & Madison Ave",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713984,
     "reversegeo:longitude":-74.004406,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817991,
-    "wof:geomhash":"d37fe876897b2bb151a3c06fc0e6272f",
+    "wof:geomhash":"31140e126a242a567bb827e36e666012",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909051,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947596,
     "wof:name":"Elk St  & Reade St",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.850506,
     "reversegeo:longitude":-73.932861,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818283,
-    "wof:geomhash":"1cea90878cb2e6a7d0d1a94387c3b58e",
+    "wof:geomhash":"2d0b115a5d9596ccd4ad984b9cfdfb1f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914663,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947608,
     "wof:name":"St Nicholas Ave  & W 183rd St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

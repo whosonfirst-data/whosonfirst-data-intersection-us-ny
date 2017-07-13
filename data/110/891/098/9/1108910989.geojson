@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.786941,
     "reversegeo:longitude":-73.979288,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818091,
-    "wof:geomhash":"d842a12378788428ea2a2b0f3c96544c",
+    "wof:geomhash":"7b9017c85e671ef315364c267f467c21",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910989,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"W End Ave  & W 83rd St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

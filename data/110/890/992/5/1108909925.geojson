@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.729344,
     "reversegeo:longitude":-74.003657,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818044,
-    "wof:geomhash":"c1c352e97c1d4cbb3b70ab733ac806c0",
+    "wof:geomhash":"e98c944a00df801f7315a0580b748aa9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909925,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947598,
     "wof:name":"Bedford St  & Downing St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.711211,
     "reversegeo:longitude":-73.989938,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817939,
-    "wof:geomhash":"b60e84866ba89d63ee91265b7e1dc5b6",
+    "wof:geomhash":"641d617a499610fadd4c9fb67e655fb4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907843,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947593,
     "wof:name":"Rutgers Slip  & Cherry St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

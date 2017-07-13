@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.740024,
     "reversegeo:longitude":-74.005291,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817990,
-    "wof:geomhash":"0be28bdb91d12dcf5b94219ab50a39b8",
+    "wof:geomhash":"8dbd10d9b09d06752bc48c89b32196f4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909015,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 13th St  & Hudson St",
     "wof:parent_id":907214383,
     "wof:placetype":"intersection",

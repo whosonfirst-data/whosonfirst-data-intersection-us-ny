@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.871746,
     "reversegeo:longitude":-73.913318,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817945,
-    "wof:geomhash":"daa0cd7eabfbe73f1ddf51fd03db0c2f",
+    "wof:geomhash":"f439c16497c3803d2228c9e0692b4c7d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907981,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947593,
     "wof:name":"W 219th St  & Broadway",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

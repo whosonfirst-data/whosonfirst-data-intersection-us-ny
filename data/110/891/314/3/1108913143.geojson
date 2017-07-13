@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.780692,
     "reversegeo:longitude":-73.946591,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818202,
-    "wof:geomhash":"0c76d96f18b95ae345e3518af181dd88",
+    "wof:geomhash":"68b0cce3c0e042f664285e0afae0f9a5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913143,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947605,
     "wof:name":"1st Ave  & E 92nd St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

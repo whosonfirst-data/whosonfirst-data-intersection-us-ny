@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.745421,
     "reversegeo:longitude":-73.990968,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818048,
-    "wof:geomhash":"624954b467e11da92a373568d8c4f7f2",
+    "wof:geomhash":"f6a77c27c2a3f2372ba7a2d97f177a24",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910035,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947598,
     "wof:name":"Ave of the Americas  & W 27th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

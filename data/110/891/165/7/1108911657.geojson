@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.714294,
     "reversegeo:longitude":-74.011527,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818133,
-    "wof:geomhash":"de2baf89e10590f7ddeb6359240eb517",
+    "wof:geomhash":"00c7830164d663a298b002a248a50b43",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911657,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947601,
     "wof:name":"Greenwich St  & Park Pl",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

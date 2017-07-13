@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706012,
     "reversegeo:longitude":-74.008813,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818017,
-    "wof:geomhash":"add6d7c22319abdbc480f5aa84dd8c98",
+    "wof:geomhash":"fa0e94ad07e2e5d3b33607ab0e6437ad",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909415,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947596,
     "wof:name":"Wall St  & Hanover St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

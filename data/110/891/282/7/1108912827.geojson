@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.81337,
     "reversegeo:longitude":-73.948832,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818187,
-    "wof:geomhash":"a74de9f711d1631147788f4adc1a6d92",
+    "wof:geomhash":"3732f8eef73d9f349afb030105a06e09",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912827,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947604,
     "wof:name":"W 130th St  & Frederick Douglass Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

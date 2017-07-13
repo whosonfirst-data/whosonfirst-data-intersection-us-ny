@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.684791,
     "reversegeo:longitude":-74.021911,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818160,
-    "wof:geomhash":"401943d83acf4fbb233002bdc330fa5d",
+    "wof:geomhash":"66e463eda9c03499935b56738652b9bd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912299,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1499947603,
     "wof:name":"Craig Rd S  & Half Moon Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

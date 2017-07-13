@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.82289,
     "reversegeo:longitude":-73.955733,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817917,
-    "wof:geomhash":"535eb16423f657367e091b1820b76820",
+    "wof:geomhash":"aeddfc85c1c3045fe34251f7ae949483",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907305,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947592,
     "wof:name":"W 138th St  & Riverside Dr",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.758663,
     "reversegeo:longitude":-73.959722,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818278,
-    "wof:geomhash":"f18c5199f2da9fbf8e272db6ca72e925",
+    "wof:geomhash":"ac1d89fdea08d59b70152ce4f242c302",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914545,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947608,
     "wof:name":"Sutton Pl  & E 59th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

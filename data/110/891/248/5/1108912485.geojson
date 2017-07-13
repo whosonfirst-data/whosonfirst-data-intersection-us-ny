@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.749117,
     "reversegeo:longitude":-73.974516,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818173,
-    "wof:geomhash":"836c49a4f8f76885058c009f257bc7d0",
+    "wof:geomhash":"c2c03f2b571bb76bab0dea466d5b4177",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912485,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947603,
     "wof:name":"E 40th St  & Tunnel Exit St",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

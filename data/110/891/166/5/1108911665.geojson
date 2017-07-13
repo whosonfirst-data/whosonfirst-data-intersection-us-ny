@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.725797,
     "reversegeo:longitude":-73.99761,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818133,
-    "wof:geomhash":"7bfe4ec1298341a27869752539d17bb6",
+    "wof:geomhash":"1168c7f1e98e5284259cc565f8fc5868",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911665,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947601,
     "wof:name":"W Houston St  & Mercer St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

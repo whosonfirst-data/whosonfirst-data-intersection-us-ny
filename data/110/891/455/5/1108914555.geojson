@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.773099,
     "reversegeo:longitude":-73.964474,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818278,
-    "wof:geomhash":"901d99048c793c597009872f9a7794df",
+    "wof:geomhash":"202762c0bce073e04f2bb13d1024c8b0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914555,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947608,
     "wof:name":"E 74th St  & Madison Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

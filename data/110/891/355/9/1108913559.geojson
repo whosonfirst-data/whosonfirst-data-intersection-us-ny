@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.780172,
     "reversegeo:longitude":-73.955093,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818226,
-    "wof:geomhash":"a27051a27841ec4d7ef59f0e46e3c04a",
+    "wof:geomhash":"6cfe795994a242f3800c3a305cc17cce",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913559,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947606,
     "wof:name":"Lexington Ave  & E 87th St",
     "wof:parent_id":907196173,
     "wof:placetype":"intersection",

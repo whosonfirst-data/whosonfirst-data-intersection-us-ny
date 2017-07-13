@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.757747,
     "reversegeo:longitude":-73.959487,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818045,
-    "wof:geomhash":"831a74a9ac6b8446161ff8273f7d70f2",
+    "wof:geomhash":"417149d0718ce73e265995a15952b396",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909949,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947598,
     "wof:name":"Riverview Ter  & Sutton Sq",
     "wof:parent_id":907215745,
     "wof:placetype":"intersection",

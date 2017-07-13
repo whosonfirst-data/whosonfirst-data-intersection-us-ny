@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.826334,
     "reversegeo:longitude":-73.938459,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818013,
-    "wof:geomhash":"7a5fe6714e796e5a1431ab6455a22f48",
+    "wof:geomhash":"756ba4335c201527db3e8ee5cce21388",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909357,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947596,
     "wof:name":"Macombs Pl  & W 151st St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

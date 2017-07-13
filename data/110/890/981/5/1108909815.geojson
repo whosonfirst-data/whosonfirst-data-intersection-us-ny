@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.688446,
     "reversegeo:longitude":-74.023856,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818040,
-    "wof:geomhash":"037fc821b0d0c428b7370f13c6aaaffe",
+    "wof:geomhash":"64f91ea31b82aff69dc888351d5782df",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909815,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947597,
     "wof:name":"Craig Rd N  & Bear Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.712646,
     "reversegeo:longitude":-73.989971,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817978,
-    "wof:geomhash":"0026ca6e184a461f68df1123600ffd96",
+    "wof:geomhash":"932b074e07759699b1c5746058749b6d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908725,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947595,
     "wof:name":"Rutgers St  & Madison St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

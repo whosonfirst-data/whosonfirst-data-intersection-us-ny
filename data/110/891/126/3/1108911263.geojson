@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.785661,
     "reversegeo:longitude":-73.980204,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818116,
-    "wof:geomhash":"16ca46df57169642b99569ed56f8071f",
+    "wof:geomhash":"b99f9332ca051dfa207dd82da13f7fbd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911263,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947600,
     "wof:name":"W End Ave  & W 81st St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

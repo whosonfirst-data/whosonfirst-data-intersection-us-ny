@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.815306,
     "reversegeo:longitude":-73.943699,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818170,
-    "wof:geomhash":"da0c58a0856462ef0bd7aaeafdc9044c",
+    "wof:geomhash":"15da30de6d7bc616f36cb182279b4c76",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912427,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 135th St  & Adam Clayton Powell Jr Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

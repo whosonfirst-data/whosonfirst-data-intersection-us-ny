@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.760855,
     "reversegeo:longitude":-73.95708,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818092,
-    "wof:geomhash":"692e6809c15d38096f636ea89aa4283c",
+    "wof:geomhash":"5aef2a9508872adfd8ae8ab34cb7daf7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911013,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947600,
     "wof:name":"E 63rd St  & F D R Dr",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

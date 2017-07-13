@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.718692,
     "reversegeo:longitude":-74.00933,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817939,
-    "wof:geomhash":"cdafe1b101dab37214c69bba9897db10",
+    "wof:geomhash":"0730416ebf2ca5dd72f5dd541e8da6d1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907827,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947593,
     "wof:name":"Harrison St  & Staple St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

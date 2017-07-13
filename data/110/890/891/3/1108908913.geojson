@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.795988,
     "reversegeo:longitude":-73.968956,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817986,
-    "wof:geomhash":"37bc89cfd4911e7393376fed95dc3153",
+    "wof:geomhash":"9a61fa4e482d5f50fb3b2694a4524f76",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908913,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947595,
     "wof:name":"Amsterdam Ave  & W 99th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

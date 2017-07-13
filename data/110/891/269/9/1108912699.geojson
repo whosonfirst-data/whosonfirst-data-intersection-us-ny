@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715159,
     "reversegeo:longitude":-74.002115,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818182,
-    "wof:geomhash":"f1ba5e552283bbba1b551a2a6ce1509e",
+    "wof:geomhash":"330658da7ede86c0bc24aa987418d120",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912699,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947604,
     "wof:name":"Worth St  & Centre St",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

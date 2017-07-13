@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.732643,
     "reversegeo:longitude":-73.981562,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818207,
-    "wof:geomhash":"c634a6635493f94280498865aa7cccd6",
+    "wof:geomhash":"edf585a1d7f515c861da0c70652a45ea",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913253,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947605,
     "wof:name":"1st Ave  & Stuyvesant Loop W",
     "wof:parent_id":85851295,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.845439,
     "reversegeo:longitude":-73.93868,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817904,
-    "wof:geomhash":"3c83d2bdc7c9b4c5fde2114352ca936e",
+    "wof:geomhash":"722ca9333e25d9a7acaa819c68f6ff14",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907107,
-    "wof:lastmodified":1490900180,
+    "wof:lastmodified":1499947591,
     "wof:name":"Broadway  & W 174th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

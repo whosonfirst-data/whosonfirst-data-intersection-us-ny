@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.691794,
     "reversegeo:longitude":-74.018364,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818181,
-    "wof:geomhash":"c4bca73d1d7ed80bed2b6378c438f904",
+    "wof:geomhash":"338709ba30fae18c333cf9ef3e866301",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912673,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947604,
     "wof:name":"Comfort Rd  & Tampa Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

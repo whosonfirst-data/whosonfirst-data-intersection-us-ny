@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.707228,
     "reversegeo:longitude":-74.003941,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818060,
-    "wof:geomhash":"7a02c02525a138072687b28d8ed042e8",
+    "wof:geomhash":"891e306c0cf588ed2bdd79c3f8712ce3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108910311,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947598,
     "wof:name":"Water St  & Fulton St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762184,
     "reversegeo:longitude":-73.993609,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818052,
-    "wof:geomhash":"fec3b0bb0210200cf7c5928ff906abfb",
+    "wof:geomhash":"380053757a98b640f50ade982b347495",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910123,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947598,
     "wof:name":"10th Ave  & W 46th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

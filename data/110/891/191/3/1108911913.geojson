@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.817595,
     "reversegeo:longitude":-73.95319,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818143,
-    "wof:geomhash":"5702920ca9a27740a3b796d1b50426eb",
+    "wof:geomhash":"58207ea63ec5a32ce43a3898306ff7a8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911913,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947602,
     "wof:name":"W 133rd St  & Amsterdam Ave",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

@@ -14,7 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.722322,
     "reversegeo:longitude":-74.011736,
     "src:geom":"mapzen",
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108908871,
-    "wof:lastmodified":1499912647,
+    "wof:lastmodified":1499947595,
     "wof:name":"West St  & Laight St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

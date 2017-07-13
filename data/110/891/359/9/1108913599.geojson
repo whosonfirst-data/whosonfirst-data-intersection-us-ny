@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717409,
     "reversegeo:longitude":-73.987879,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818227,
-    "wof:geomhash":"47122d133c030aff3e081a8dec14c218",
+    "wof:geomhash":"bb709f2800dbde1a12c33374bfd7bb2c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913599,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947606,
     "wof:name":"Norfolk St  & Broome St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

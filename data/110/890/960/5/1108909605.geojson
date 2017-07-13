@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.821264,
     "reversegeo:longitude":-73.946078,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818031,
-    "wof:geomhash":"2acdb4d4006476fb3557c764d66c31cd",
+    "wof:geomhash":"8fbb3d81b1e58e36a4eb34fdfdad6540",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909605,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947597,
     "wof:name":"W 141st St  & St Nicholas Ave",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

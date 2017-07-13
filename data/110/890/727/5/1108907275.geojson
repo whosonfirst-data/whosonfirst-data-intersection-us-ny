@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.737566,
     "reversegeo:longitude":-74.009814,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817911,
-    "wof:geomhash":"3ed60e77df5d45fc4aca84763735f262",
+    "wof:geomhash":"5582fdb8f251d46a0f7646f365ecb5d4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907275,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947592,
     "wof:name":"Lincoln Hwy  & W 12th St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

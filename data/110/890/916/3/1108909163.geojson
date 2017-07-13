@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.705547,
     "reversegeo:longitude":-74.007949,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817997,
-    "wof:geomhash":"256d7e4321fb2250bd148fdea106d6c5",
+    "wof:geomhash":"194969a101fe18e9119a86ec4cf51beb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909163,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947596,
     "wof:name":"Pearl St  & Wall St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

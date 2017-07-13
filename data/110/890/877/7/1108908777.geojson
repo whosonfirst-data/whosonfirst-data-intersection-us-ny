@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.780553,
     "reversegeo:longitude":-73.944265,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817980,
-    "wof:geomhash":"9dcf9cd0d9959c2a4d8db02669a1f059",
+    "wof:geomhash":"a6c9b6c28ea58cd8b48741e83d9c73fa",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908777,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"F D R Dr  & E 93rd St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

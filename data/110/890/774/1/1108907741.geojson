@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.785866,
     "reversegeo:longitude":-73.950927,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817936,
-    "wof:geomhash":"8d7bfdbaf84aa2582157497c71441bf1",
+    "wof:geomhash":"10312eb755277411b2ad7ca2c8d9079e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907741,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947593,
     "wof:name":"Lexington Ave  & E 96th St",
     "wof:parent_id":907196173,
     "wof:placetype":"intersection",

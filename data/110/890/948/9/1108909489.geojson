@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71646,
     "reversegeo:longitude":-74.013064,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818023,
-    "wof:geomhash":"89765d68919205a8f85574125b64d90e",
+    "wof:geomhash":"c49283ae6b1ce8e8366f77ef0085cfda",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909489,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947597,
     "wof:name":"Warren St  & West St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

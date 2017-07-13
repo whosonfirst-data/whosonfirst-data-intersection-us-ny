@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.764324,
     "reversegeo:longitude":-73.977196,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818122,
-    "wof:geomhash":"b9e78034ab379ea925339cd3c7af6f24",
+    "wof:geomhash":"5b31ad24359138a588d92f39721122ce",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911419,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947601,
     "wof:name":"Ave of the Americas  & W 57th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

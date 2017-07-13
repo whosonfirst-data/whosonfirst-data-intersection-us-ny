@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713796,
     "reversegeo:longitude":-74.008832,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818230,
-    "wof:geomhash":"35dd3cdef72d7a8a293003b8404ef572",
+    "wof:geomhash":"46113d9d003f372b5fc5b7ffddc79f80",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913659,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947606,
     "wof:name":"Church St  & Murray St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

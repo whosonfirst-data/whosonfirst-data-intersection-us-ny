@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.805761,
     "reversegeo:longitude":-73.944783,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817967,
-    "wof:geomhash":"69f56424b9cc80aa1ea84e1730957d08",
+    "wof:geomhash":"515ab6de61000add3f4f5b68a84a68df",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908429,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947594,
     "wof:name":"W 123rd St  & Mount Morris Park W",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

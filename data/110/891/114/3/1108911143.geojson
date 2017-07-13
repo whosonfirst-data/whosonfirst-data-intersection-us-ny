@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.779788,
     "reversegeo:longitude":-73.9707,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818102,
-    "wof:geomhash":"6e71cc830f2c239ae01a23741438760b",
+    "wof:geomhash":"7596daf243eb12ac00895b0db24ef8b9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911143,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"West Dr  & Central Park Driveway",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.746004,
     "reversegeo:longitude":-73.994262,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817983,
-    "wof:geomhash":"64292c5ca201241a9ae2e2e0000aeea0",
+    "wof:geomhash":"8fbc1dc398a68c64f561c11436436e3c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908849,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"7th Ave  & W 26th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.7484,
     "reversegeo:longitude":-73.999938,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818046,
-    "wof:geomhash":"b25b5993b21521057132a7a77aabdaaa",
+    "wof:geomhash":"320c6ba17c3f96676962a0ac9c188ac9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909975,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947598,
     "wof:name":"9th Ave  & W 26th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

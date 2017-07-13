@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.810209,
     "reversegeo:longitude":-73.939494,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818175,
-    "wof:geomhash":"26d03622e07e82120c9f4146142f38b6",
+    "wof:geomhash":"062853e1ab1165341865a1a017b150d2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912539,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 131st St  & E 131st St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

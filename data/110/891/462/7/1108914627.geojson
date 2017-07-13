@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717092,
     "reversegeo:longitude":-74.00909,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818281,
-    "wof:geomhash":"7ece504a64086b4541684a71e346100c",
+    "wof:geomhash":"ccf0b87176f97f83c26be702a848498a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914627,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1499947608,
     "wof:name":"Hudson St  & Duane St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.773873,
     "reversegeo:longitude":-73.982222,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817963,
-    "wof:geomhash":"820834cccb1ba21a2c3fe832f58b00c7",
+    "wof:geomhash":"86ea6c1bb95b8e5db718458a93f458d8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908353,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947594,
     "wof:name":"Broadway  & W 66th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

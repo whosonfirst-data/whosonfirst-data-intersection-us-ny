@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.809404,
     "reversegeo:longitude":-73.957245,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817925,
-    "wof:geomhash":"e7c1cbd343dd0677f59f3c54c87e4663",
+    "wof:geomhash":"59370c40628bd9998c8b1f1e7ab81c33",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907507,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947592,
     "wof:name":"Morningside Dr  & W 121st St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.864639,
     "reversegeo:longitude":-73.9289,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818056,
-    "wof:geomhash":"e386e36389c5001044ba69694bb42989",
+    "wof:geomhash":"804d4e106464fb11fef85ce020d63c47",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910203,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947598,
     "wof:name":"Broadway  & Arden St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

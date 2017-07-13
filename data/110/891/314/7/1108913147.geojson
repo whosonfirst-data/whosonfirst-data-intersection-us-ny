@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.750992,
     "reversegeo:longitude":-73.990623,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818202,
-    "wof:geomhash":"1389d5a205b73cba336c4ffa65258a1a",
+    "wof:geomhash":"d9061adb9846abf83cfea80a3d1aaf62",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913147,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947605,
     "wof:name":"W 34th St  & Penn Plz",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

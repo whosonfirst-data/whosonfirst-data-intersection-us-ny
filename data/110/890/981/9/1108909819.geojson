@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.756971,
     "reversegeo:longitude":-74.004805,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818040,
-    "wof:geomhash":"27094edf7296ab99c4fac5ef5215be4c",
+    "wof:geomhash":"9a07174988f19b5b58e4599dd3c6d878",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909819,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947597,
     "wof:name":"12th Ave  & W 34th St",
     "wof:parent_id":907138579,
     "wof:placetype":"intersection",

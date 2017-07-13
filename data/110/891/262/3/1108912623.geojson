@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.849895,
     "reversegeo:longitude":-73.93331,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818178,
-    "wof:geomhash":"48fb7a10e43b3bf881b57e6b9f4eab3b",
+    "wof:geomhash":"2de17be92926e0d29cd9da9d950b0f3f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912623,
-    "wof:lastmodified":1490900158,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 182nd St  & St Nicholas Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

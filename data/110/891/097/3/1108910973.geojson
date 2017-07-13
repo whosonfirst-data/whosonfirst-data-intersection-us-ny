@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.848184,
     "reversegeo:longitude":-73.941364,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818091,
-    "wof:geomhash":"1bb5259a63abd9114719227a565f4f4f",
+    "wof:geomhash":"21518da2e7086187451b06d0c9dd4fd0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910973,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 177th St  & Cabrini Blvd",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

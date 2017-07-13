@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.747823,
     "reversegeo:longitude":-73.996648,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818065,
-    "wof:geomhash":"70f31b9597f9b772db9ebd5f91de3145",
+    "wof:geomhash":"460cd42fac24b80662ca53c9f3a6ab96",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910427,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947599,
     "wof:name":"W 27th St  & 8th Ave",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

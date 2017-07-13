@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.750112,
     "reversegeo:longitude":-73.968908,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818193,
-    "wof:geomhash":"0f3e8627c95653c112bbd07edaff0601",
+    "wof:geomhash":"de4f73e1ae220503987c2d46defc05e0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108912939,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947604,
     "wof:name":"1st Ave  & E 44th St",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

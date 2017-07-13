@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.727157,
     "reversegeo:longitude":-74.005545,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818124,
-    "wof:geomhash":"98e5f93643352698dc5de44f9c4d07f8",
+    "wof:geomhash":"918c57c14737929cd58594d3affe0926",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911459,
-    "wof:lastmodified":1490900160,
+    "wof:lastmodified":1499947601,
     "wof:name":"Charlton St  & Varick St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

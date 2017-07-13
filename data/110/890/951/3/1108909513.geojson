@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.818236,
     "reversegeo:longitude":-73.952721,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818025,
-    "wof:geomhash":"f66e03f42281b4622ac5a8d35f364f74",
+    "wof:geomhash":"c25d10f76e0a56d036cc0f2fb8fc543c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909513,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947597,
     "wof:name":"Amsterdam Ave  & W 134th St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

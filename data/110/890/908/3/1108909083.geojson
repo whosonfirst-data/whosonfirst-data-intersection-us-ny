@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.803071,
     "reversegeo:longitude":-73.938371,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817993,
-    "wof:geomhash":"e1b4a2107f3f2bfd83c696983c4a90e5",
+    "wof:geomhash":"f551a722d126dc5962728fbdc4439942",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909083,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947596,
     "wof:name":"Lexington Ave  & E 123rd St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

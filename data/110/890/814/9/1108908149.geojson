@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.763365,
     "reversegeo:longitude":-73.982818,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817952,
-    "wof:geomhash":"13dba31401d27c6d5389abf02aa18a3b",
+    "wof:geomhash":"ca4d05543a5cfdda68b9b250037e8586",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908149,
-    "wof:lastmodified":1490900180,
+    "wof:lastmodified":1499947594,
     "wof:name":"Broadway  & W 53rd St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

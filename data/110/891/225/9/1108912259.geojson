@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.813375,
     "reversegeo:longitude":-73.956269,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818158,
-    "wof:geomhash":"0d90a12d45f986be173bb3afc88c042f",
+    "wof:geomhash":"bac5a52df94f39fc2fc2a7af6463c206",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912259,
-    "wof:lastmodified":1490900130,
+    "wof:lastmodified":1499947603,
     "wof:name":"W 125th St  & Amsterdam Ave",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

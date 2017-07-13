@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.758981,
     "reversegeo:longitude":-73.995943,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817920,
-    "wof:geomhash":"8376a5388b3face5a4165ebec9f5b103",
+    "wof:geomhash":"c01cd05b1a2179a93b97eb231850823f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907395,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947592,
     "wof:name":"10th Ave  & W 41st St",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",

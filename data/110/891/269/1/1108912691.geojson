@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.769634,
     "reversegeo:longitude":-73.948393,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818181,
-    "wof:geomhash":"b50786056a8bb888f64fff86410044be",
+    "wof:geomhash":"4c1eb81e673f4002d872c6afc48910dc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912691,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947604,
     "wof:name":"E 78th St  & F D R Dr",
     "wof:parent_id":85865691,
     "wof:placetype":"intersection",

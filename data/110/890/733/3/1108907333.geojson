@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762417,
     "reversegeo:longitude":-73.956983,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817918,
-    "wof:geomhash":"e64318f118b7920c1bea2b3575d668b7",
+    "wof:geomhash":"2db14d0d844e954746133f5b35d8707f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907333,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947592,
     "wof:name":"E 65th St  & York Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

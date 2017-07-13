@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.73755,
     "reversegeo:longitude":-74.006487,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818285,
-    "wof:geomhash":"644f0eb1c85d941a2637ee5a094494be",
+    "wof:geomhash":"d98d2a6ad53ee5a9bdf0a5d858c426ed",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914721,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947608,
     "wof:name":"W 12th St  & Greenwich St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

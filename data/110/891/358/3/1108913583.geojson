@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.834491,
     "reversegeo:longitude":-73.940049,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818227,
-    "wof:geomhash":"b009b3d5b879a0570c53972ae386056d",
+    "wof:geomhash":"f5ce0d06423735065605165cd09f2731",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913583,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947606,
     "wof:name":"St Nicholas Ave  & W 160th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

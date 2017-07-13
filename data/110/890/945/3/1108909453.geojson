@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.708797,
     "reversegeo:longitude":-74.010846,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818021,
-    "wof:geomhash":"82e0b4ee31d28f1bb2f8e0497b10a73e",
+    "wof:geomhash":"57ecf12090a190098a6c70bf2539c83a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909453,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947597,
     "wof:name":"Broadway  & Cedar St",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

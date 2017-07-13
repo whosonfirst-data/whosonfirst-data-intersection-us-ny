@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.745797,
     "reversegeo:longitude":-73.982279,
     "src:geom":"mapzen",
@@ -35,7 +36,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818117,
-    "wof:geomhash":"6785fa8992b07a9ede12f97261b95785",
+    "wof:geomhash":"09990f064b1b007756ade09e20514648",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108911309,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947601,
     "wof:name":"E 32nd St  & Park Ave S",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

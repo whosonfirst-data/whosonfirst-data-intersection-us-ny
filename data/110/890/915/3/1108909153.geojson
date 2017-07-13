@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.82643,
     "reversegeo:longitude":-73.950453,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817996,
-    "wof:geomhash":"31695569d32d15fdb99d99b34e9e8e95",
+    "wof:geomhash":"063be2e5066408988c22f133c5c35806",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909153,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 145th St  & Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715438,
     "reversegeo:longitude":-73.985013,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818105,
-    "wof:geomhash":"9b212a22bdf978a1353367157f152bb7",
+    "wof:geomhash":"19a46b78072915d9a54737c34c2b5760",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911187,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947600,
     "wof:name":"Grand St  & Ridge St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

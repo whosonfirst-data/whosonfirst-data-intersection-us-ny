@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.752197,
     "reversegeo:longitude":-73.981822,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818161,
-    "wof:geomhash":"48ef09030ee5391b1eefa413b7677028",
+    "wof:geomhash":"bc4b09e8bcc2bc6fbf841a3657a8dcc3",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912333,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947603,
     "wof:name":"E 40th St  & W 40th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

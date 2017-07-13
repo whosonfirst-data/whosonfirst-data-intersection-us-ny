@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.765545,
     "reversegeo:longitude":-73.954701,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818204,
-    "wof:geomhash":"3091f538690a71746917144e99d54fb3",
+    "wof:geomhash":"57a4a724d21a35baca2601b2ef137c1d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913187,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947605,
     "wof:name":"E 70th St  & York Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

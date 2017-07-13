@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.703695,
     "reversegeo:longitude":-74.010645,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817927,
-    "wof:geomhash":"a318b8d57c3bcb507bc0c90934fdd57d",
+    "wof:geomhash":"ef675784e11f6a5f541d7de06512a059",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907535,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947592,
     "wof:name":"Pearl St  & Coenties Slip",
     "wof:parent_id":85865711,
     "wof:placetype":"intersection",

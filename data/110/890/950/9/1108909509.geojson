@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.760418,
     "reversegeo:longitude":-73.975831,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818024,
-    "wof:geomhash":"bdaa29f1d4a71d63416ed69a61077cee",
+    "wof:geomhash":"96fb2d54063c8e59536fa1d8b8884e29",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909509,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947597,
     "wof:name":"W 53rd St  & E 53rd St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

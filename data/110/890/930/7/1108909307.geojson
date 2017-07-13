@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.775677,
     "reversegeo:longitude":-73.964687,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818011,
-    "wof:geomhash":"4dc21f605e157974b416a1a0a8b0e607",
+    "wof:geomhash":"aa8befda89326a9bdde69f10298871b8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909307,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947596,
     "wof:name":"5th Ave  & E 77th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

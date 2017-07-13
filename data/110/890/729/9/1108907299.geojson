@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.767109,
     "reversegeo:longitude":-73.981717,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817917,
-    "wof:geomhash":"68cb4f6d35911a2046501f795f34883b",
+    "wof:geomhash":"3db22ffc723cb3a86a76cb19bf43e925",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907299,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947592,
     "wof:name":"W 58th St  & Broadway",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

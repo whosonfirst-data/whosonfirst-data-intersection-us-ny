@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.805063,
     "reversegeo:longitude":-73.941167,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818207,
-    "wof:geomhash":"e99c98cbad17e80d10fe7075d12ccb99",
+    "wof:geomhash":"025accec3e126f03632873d9e0ee80e7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913255,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947605,
     "wof:name":"Madison Ave  & E 124th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

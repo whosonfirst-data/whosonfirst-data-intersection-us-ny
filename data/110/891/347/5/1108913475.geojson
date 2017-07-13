@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.735391,
     "reversegeo:longitude":-73.974912,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818218,
-    "wof:geomhash":"bd8355013a4fa296fc7aaf80cbc1e028",
+    "wof:geomhash":"912f3ec1e09a9d7eff4679674d523d6d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913475,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947605,
     "wof:name":"E 23rd St  & F D R Dr",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

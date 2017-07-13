@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.76104,
     "reversegeo:longitude":-73.975373,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818203,
-    "wof:geomhash":"7dc67a17bb3959a7a0585d6590d66d8c",
+    "wof:geomhash":"931cd3c7a4b585dc06b09d69bfbdce0e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913173,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947605,
     "wof:name":"W 54th St  & E 54th St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

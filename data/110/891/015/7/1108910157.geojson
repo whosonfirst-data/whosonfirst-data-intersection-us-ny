@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721621,
     "reversegeo:longitude":-74.002208,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818053,
-    "wof:geomhash":"df0cfafd0f4e626f1144ab4a03cc0653",
+    "wof:geomhash":"a15ab79ca65de3c0fa4584def2877545",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910157,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947598,
     "wof:name":"Grand St  & Greene St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.79668,
     "reversegeo:longitude":-73.934913,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818101,
-    "wof:geomhash":"df1e75a67c3f0bdb244a96c92ed488ed",
+    "wof:geomhash":"d7c4fa9d954dff611d807c2affc148f5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911125,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947600,
     "wof:name":"1st Ave  & E 117th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

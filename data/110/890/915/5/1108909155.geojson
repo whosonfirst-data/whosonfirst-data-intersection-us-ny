@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.742142,
     "reversegeo:longitude":-73.987056,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817997,
-    "wof:geomhash":"cc3d42bd0521fcc86b746272abcb0cc0",
+    "wof:geomhash":"849c34f1822abd1db1335eda09eebd0f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909155,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947596,
     "wof:name":"E 25th St  & Madison Square Plz",
     "wof:parent_id":85869245,
     "wof:placetype":"intersection",

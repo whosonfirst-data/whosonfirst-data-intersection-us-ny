@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.799309,
     "reversegeo:longitude":-73.943238,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818160,
-    "wof:geomhash":"944b0d6bfb7e633409a62e0767f72186",
+    "wof:geomhash":"08fe7a349396e54f74fc9f60e9556007",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912297,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1499947603,
     "wof:name":"Luis Munoz Marin Blvd  & Park Ave",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

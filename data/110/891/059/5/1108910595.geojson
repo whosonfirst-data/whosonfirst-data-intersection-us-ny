@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.72881,
     "reversegeo:longitude":-73.995061,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818075,
-    "wof:geomhash":"9d5fe168f35d1bf88ceb8b954ffd47bf",
+    "wof:geomhash":"f2cca62e04c9e18e73f428a3620a2b66",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910595,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947599,
     "wof:name":"W 4th St  & Mercer St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

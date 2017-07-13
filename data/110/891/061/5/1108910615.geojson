@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.739412,
     "reversegeo:longitude":-74.00539,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818076,
-    "wof:geomhash":"fe43b008c92124d9c8ee5dfaa092de85",
+    "wof:geomhash":"fb097079406f9be6ae0900e577ed1964",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108910615,
-    "wof:lastmodified":1490900130,
+    "wof:lastmodified":1499947599,
     "wof:name":"Gansevoort St  & Hudson St",
     "wof:parent_id":907214383,
     "wof:placetype":"intersection",

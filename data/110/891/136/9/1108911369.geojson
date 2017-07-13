@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.771099,
     "reversegeo:longitude":-73.965934,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818120,
-    "wof:geomhash":"53e06becdbc9a8056fb9cdd45a7b4068",
+    "wof:geomhash":"59fafbe4a78512c456998dbaa4bc563a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911369,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947601,
     "wof:name":"E 71st St  & Madison Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

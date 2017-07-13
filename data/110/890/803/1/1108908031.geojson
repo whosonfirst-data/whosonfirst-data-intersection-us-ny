@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.868482,
     "reversegeo:longitude":-73.918561,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817946,
-    "wof:geomhash":"45e6fb41f3698304b2f3a181b08e7a23",
+    "wof:geomhash":"5f47e2c05dc6d70de4402a353f233c25",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908031,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947593,
     "wof:name":"W 212th St  & Broadway",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

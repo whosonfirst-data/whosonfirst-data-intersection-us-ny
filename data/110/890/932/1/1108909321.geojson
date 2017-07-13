@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.752041,
     "reversegeo:longitude":-73.967698,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818012,
-    "wof:geomhash":"7b9c8a6e748cb92cc06cc7b5de7e63c2",
+    "wof:geomhash":"22cebba13f0a6d35900aa67e2167fcdf",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909321,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947596,
     "wof:name":"1st Ave  & E 47th St",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

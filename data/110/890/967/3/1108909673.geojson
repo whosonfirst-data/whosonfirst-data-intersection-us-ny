@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.753607,
     "reversegeo:longitude":-73.987089,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818034,
-    "wof:geomhash":"48e155053ec142fb4d15255b86716823",
+    "wof:geomhash":"961cf64a1bf7996fca58f42cca1630ed",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909673,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947597,
     "wof:name":"W 39th St  & Broadway",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

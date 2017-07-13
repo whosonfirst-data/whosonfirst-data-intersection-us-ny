@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.765489,
     "reversegeo:longitude":-73.997575,
     "src:geom":"mapzen",
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818228,
-    "wof:geomhash":"8275378fd039d3862abb272d8975bfd0",
+    "wof:geomhash":"4c9d87a591cc2299460ff029fed828b9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108913623,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947606,
     "wof:name":"12th Ave  & W 48th St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

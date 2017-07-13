@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.824132,
     "reversegeo:longitude":-73.940971,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817983,
-    "wof:geomhash":"06c7c6647a498ad253082f24de20460f",
+    "wof:geomhash":"e2035b55d449fd3941fe6c88b43022a9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908857,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947595,
     "wof:name":"Frederick Douglass Blvd  & W 147th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

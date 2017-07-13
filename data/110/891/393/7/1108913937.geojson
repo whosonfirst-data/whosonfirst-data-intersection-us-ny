@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.750766,
     "reversegeo:longitude":-73.974449,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818241,
-    "wof:geomhash":"42c8040ec710f6034892b2a6138ee042",
+    "wof:geomhash":"a950e2dbcdf532638187a96073015bbb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913937,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947606,
     "wof:name":"E 42nd St  & 3rd Ave",
     "wof:parent_id":907215757,
     "wof:placetype":"intersection",

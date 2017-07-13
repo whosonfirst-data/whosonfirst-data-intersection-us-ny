@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.773531,
     "reversegeo:longitude":-73.985332,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817972,
-    "wof:geomhash":"f0f27a4a9998e2a8c856f2be99a298ca",
+    "wof:geomhash":"f4ba0a7aa830e8e2f42ab8a296b94792",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908557,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"Amsterdam Ave  & W 64th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.785925,
     "reversegeo:longitude":-73.955114,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818189,
-    "wof:geomhash":"b554f302275d8958c1cb98f19f86dc4d",
+    "wof:geomhash":"f32804666ef6380009826946b9daade8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912871,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947604,
     "wof:name":"Madison Ave  & E 94th St",
     "wof:parent_id":907196173,
     "wof:placetype":"intersection",

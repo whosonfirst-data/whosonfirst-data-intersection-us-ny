@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.759114,
     "reversegeo:longitude":-73.97468,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818029,
-    "wof:geomhash":"64e7a77e3dac7a6146e994b5d9e3b01e",
+    "wof:geomhash":"ab9e5120300921f66391a0592e2cee06",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909565,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947597,
     "wof:name":"E 52nd St  & Madison Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

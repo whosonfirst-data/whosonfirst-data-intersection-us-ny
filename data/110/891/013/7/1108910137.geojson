@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.815404,
     "reversegeo:longitude":-73.939909,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818052,
-    "wof:geomhash":"ad9246cf44e175391593474e070280e2",
+    "wof:geomhash":"a770ddf30319940b71b3794255f595de",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910137,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947598,
     "wof:name":"W 137th St  & Malcolm X Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

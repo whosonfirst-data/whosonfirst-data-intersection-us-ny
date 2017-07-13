@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726931,
     "reversegeo:longitude":-73.996659,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818157,
-    "wof:geomhash":"31e4c4731d6d484aded70be3701856dc",
+    "wof:geomhash":"c20859dca9e019ed94ab1d7caa98dbc4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912235,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947603,
     "wof:name":"Mercer St  & Bleecker St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

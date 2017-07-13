@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.764737,
     "reversegeo:longitude":-73.988032,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817932,
-    "wof:geomhash":"33d037ceb0370b515cd0144a9e914736",
+    "wof:geomhash":"abf7926297cb0b968ad6c8d047d8c4c2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907669,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947593,
     "wof:name":"9th Ave  & W 52nd St",
     "wof:parent_id":85882233,
     "wof:placetype":"intersection",

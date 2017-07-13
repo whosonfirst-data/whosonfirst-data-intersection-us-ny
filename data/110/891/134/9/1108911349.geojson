@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.778551,
     "reversegeo:longitude":-73.951248,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818119,
-    "wof:geomhash":"3911f06ad93d08b6e080a7a7f7b46387",
+    "wof:geomhash":"54c0f0fa107826b5a32b6715b82fd0d7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911349,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947601,
     "wof:name":"2nd Ave  & E 87th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.819673,
     "reversegeo:longitude":-73.944231,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817945,
-    "wof:geomhash":"33f379b309f92d2642a5b3ff199fe562",
+    "wof:geomhash":"0cb1187c027d32741dfd6e3547849242",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907987,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947593,
     "wof:name":"Frederick Douglass Blvd  & W 140th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

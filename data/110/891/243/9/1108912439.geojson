@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720745,
     "reversegeo:longitude":-73.986158,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818171,
-    "wof:geomhash":"c647631bb7c2f456bfe94f20c34e092e",
+    "wof:geomhash":"0bd240919e3c26d926b13984810938a2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912439,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947603,
     "wof:name":"Norfolk St  & Stanton St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

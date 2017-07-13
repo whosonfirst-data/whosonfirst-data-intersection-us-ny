@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706704,
     "reversegeo:longitude":-74.016071,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818075,
-    "wof:geomhash":"eabe4d62e3d547faaa1ff6bad78167c6",
+    "wof:geomhash":"01e474e8a2370aa34a5ed70aefda354a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910591,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947599,
     "wof:name":"Battery Park Viaduct  & West St",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

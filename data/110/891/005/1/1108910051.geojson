@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.820294,
     "reversegeo:longitude":-73.943778,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818049,
-    "wof:geomhash":"9dff26e223c0d80069f8c7704b67537c",
+    "wof:geomhash":"29b0b7ec746b46bff7b30eecbe55c3e2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910051,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947598,
     "wof:name":"W 141st St  & Frederick Douglass Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

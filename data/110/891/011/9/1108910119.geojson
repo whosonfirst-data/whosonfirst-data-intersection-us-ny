@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.74347,
     "reversegeo:longitude":-74.007238,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818052,
-    "wof:geomhash":"fe13dfd4de8daa160eafc6b48c731e20",
+    "wof:geomhash":"dbaad2e4a0eef06600eb8484533d590c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910119,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947598,
     "wof:name":"10th Ave  & W 16th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

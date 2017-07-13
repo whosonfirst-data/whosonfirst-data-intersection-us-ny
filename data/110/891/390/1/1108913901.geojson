@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.741548,
     "reversegeo:longitude":-73.989576,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818239,
-    "wof:geomhash":"5f9e3eb0228fe5915e41f2e5f319a6a7",
+    "wof:geomhash":"cbf0e550deda991c9ac4b0b0b87610b7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913901,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947606,
     "wof:name":"E 23rd St  & W 23rd St",
     "wof:parent_id":85869245,
     "wof:placetype":"intersection",

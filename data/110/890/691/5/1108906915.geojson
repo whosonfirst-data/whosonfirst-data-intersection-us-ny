@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.763588,
     "reversegeo:longitude":-73.971411,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817894,
-    "wof:geomhash":"df1a50c32ba7f185cb27208b7e162c68",
+    "wof:geomhash":"a234a90e3724db1a034624bff73f474c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108906915,
-    "wof:lastmodified":1490900174,
+    "wof:lastmodified":1499947591,
     "wof:name":"E 59th St  & Madison Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

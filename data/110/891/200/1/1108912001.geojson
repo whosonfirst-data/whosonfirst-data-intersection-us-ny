@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.761609,
     "reversegeo:longitude":-73.97075,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818147,
-    "wof:geomhash":"ef20963d3ba06df8bd05414ab6f09d56",
+    "wof:geomhash":"8b325c680b0c5e0921ce78158aa3e1e6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912001,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947602,
     "wof:name":"E 57th St  & Park Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

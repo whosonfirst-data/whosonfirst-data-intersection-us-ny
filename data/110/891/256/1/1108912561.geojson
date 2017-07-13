@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.863777,
     "reversegeo:longitude":-73.931756,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818176,
-    "wof:geomhash":"4f3df4688dc37414b82f0ebc786efcbc",
+    "wof:geomhash":"9dbdc49f0d47132b1b6069f5dbd57743",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912561,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947603,
     "wof:name":"Margaret Corbin Dr  & Ft Tryon Pl",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

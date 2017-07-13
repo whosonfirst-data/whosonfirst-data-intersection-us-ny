@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.711951,
     "reversegeo:longitude":-74.006075,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817924,
-    "wof:geomhash":"25255947e83d683c6bc26d15ceeaace4",
+    "wof:geomhash":"b221d469ee24f6c792ee0b7863c1a958",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907481,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947592,
     "wof:name":"Spruce St  & Park Row",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

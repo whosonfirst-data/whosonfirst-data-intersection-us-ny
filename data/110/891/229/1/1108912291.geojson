@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.711754,
     "reversegeo:longitude":-73.992457,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818159,
-    "wof:geomhash":"dc83cf88927f683e05c26c7fda819693",
+    "wof:geomhash":"ab4b86378124c285b3dbd79d2e1a23f4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912291,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1499947603,
     "wof:name":"Monroe St  & Pike St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

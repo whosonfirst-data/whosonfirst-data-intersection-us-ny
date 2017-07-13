@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.773656,
     "reversegeo:longitude":-73.977827,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818116,
-    "wof:geomhash":"5d0fa171042373b224f20997589f6d60",
+    "wof:geomhash":"ed2dd4751ccfd0b884bc5c3c9752f6f5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108911277,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947600,
     "wof:name":"Central Park W  & W 68th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

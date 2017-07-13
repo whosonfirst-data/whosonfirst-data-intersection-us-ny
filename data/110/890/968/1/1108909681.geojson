@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.804206,
     "reversegeo:longitude":-73.968647,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818035,
-    "wof:geomhash":"eb40c9d4783d14b3d42f4752e40f0ff7",
+    "wof:geomhash":"c407d2c454acd65379edc1550750152f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909681,
-    "wof:lastmodified":1490900182,
+    "wof:lastmodified":1499947597,
     "wof:name":"Riverside Dr  & W 109th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.769997,
     "reversegeo:longitude":-73.994772,
     "src:geom":"mapzen",
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818228,
-    "wof:geomhash":"896a289f475690e607e73e4d3967e4f4",
+    "wof:geomhash":"82e9f5057dd59cb9fc89bc45e90a1a5e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108913617,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947606,
     "wof:name":"W 55th St  & Joe Dimaggio Hwy",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

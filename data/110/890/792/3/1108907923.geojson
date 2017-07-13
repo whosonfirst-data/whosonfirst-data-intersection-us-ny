@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.790365,
     "reversegeo:longitude":-73.965632,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817942,
-    "wof:geomhash":"4e23c3a45b6602415790b3ecd5308c90",
+    "wof:geomhash":"892615495e90e21e8aa7733af437c40a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907923,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947593,
     "wof:name":"Central Park W  & W 94th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

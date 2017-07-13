@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.731706,
     "reversegeo:longitude":-74.000954,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818211,
-    "wof:geomhash":"7086e2ac925496b92641e5328fa7e8ae",
+    "wof:geomhash":"f7e77590919e17926268cd40a42f44f1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913357,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947605,
     "wof:name":"Ave of the Americas  & W 4th St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

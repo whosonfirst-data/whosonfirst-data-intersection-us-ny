@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71517,
     "reversegeo:longitude":-74.000528,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818124,
-    "wof:geomhash":"d55f7a3b169830f5752d93caa2073577",
+    "wof:geomhash":"c44eb43af25a7997c5991a25af4c5e97",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911457,
-    "wof:lastmodified":1490900160,
+    "wof:lastmodified":1499947601,
     "wof:name":"Baxter St  & Hogan Pl",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

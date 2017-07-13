@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.75352,
     "reversegeo:longitude":-73.963406,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817989,
-    "wof:geomhash":"d8e200f82ffecf1f216fb9b4c6a245ab",
+    "wof:geomhash":"dd6fd4bfc298cd2436a94d6025b08a11",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908979,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947595,
     "wof:name":"E 51st Street Pedestrian Xing  & F D R Dr",
     "wof:parent_id":907189661,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.862614,
     "reversegeo:longitude":-73.928599,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818281,
-    "wof:geomhash":"c7bba7b993bfbc8881d8a71e300cf710",
+    "wof:geomhash":"674a3324d0452882b8c83985934b209b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914613,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947608,
     "wof:name":"Sickles St  & Sherman Ave",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

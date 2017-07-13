@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.798719,
     "reversegeo:longitude":-73.959537,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817936,
-    "wof:geomhash":"8f6e76a18f87a4a5a5b89b8a12f06235",
+    "wof:geomhash":"c5df5c39b6e555f9fa1a6f0d94ef4781",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907737,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947593,
     "wof:name":"Central Park W  & W 107th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

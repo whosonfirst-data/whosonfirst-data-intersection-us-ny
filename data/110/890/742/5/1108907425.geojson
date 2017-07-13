@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.750451,
     "reversegeo:longitude":-73.987294,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817922,
-    "wof:geomhash":"544f9d283a9557df8c49b0c97c32ec65",
+    "wof:geomhash":"5799978657871f250ddc9e950bad18bb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907425,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947592,
     "wof:name":"Ave of the Americas  & W 35th St",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

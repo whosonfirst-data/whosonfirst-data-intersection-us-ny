@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.727867,
     "reversegeo:longitude":-73.993147,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818117,
-    "wof:geomhash":"561d47d712d25b056a3d89539105de47",
+    "wof:geomhash":"687ebc92917c1d519b9bc071a90bb85d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911295,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947601,
     "wof:name":"Lafayette St  & E 4th St",
     "wof:parent_id":85865699,
     "wof:placetype":"intersection",

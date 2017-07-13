@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724616,
     "reversegeo:longitude":-73.991634,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818236,
-    "wof:geomhash":"2ac868a0c1e8361e8b85c6b4881f987f",
+    "wof:geomhash":"e0938fbad5b0c3ebbe3eb895e8e43999",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913785,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947606,
     "wof:name":"Extra Pl  & E 1st St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

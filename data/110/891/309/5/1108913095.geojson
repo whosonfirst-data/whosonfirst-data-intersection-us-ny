@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.786497,
     "reversegeo:longitude":-73.948378,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818199,
-    "wof:geomhash":"9b4b9ae521f5dd8e67627ce5b3ef1796",
+    "wof:geomhash":"bab1184500773647e335e81b369bcb46",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913095,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947604,
     "wof:name":"3rd Ave  & E 98th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

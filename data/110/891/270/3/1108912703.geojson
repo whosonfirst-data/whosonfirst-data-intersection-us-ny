@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.71787,
     "reversegeo:longitude":-73.976027,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818182,
-    "wof:geomhash":"d206be067385742f482f441eb177676b",
+    "wof:geomhash":"27ccc4c904b5bede95e71ff092497e87",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912703,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947604,
     "wof:name":"Baruch Pl  & Mangin St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

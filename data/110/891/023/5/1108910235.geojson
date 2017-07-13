@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.783844,
     "reversegeo:longitude":-73.979987,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818057,
-    "wof:geomhash":"cb5abbf2afdbcb0484bd6a628117d7e8",
+    "wof:geomhash":"27ca56f6b55ea709d20fca4de7ca3c28",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910235,
-    "wof:lastmodified":1490900143,
+    "wof:lastmodified":1499947598,
     "wof:name":"W 79th St  & Broadway",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

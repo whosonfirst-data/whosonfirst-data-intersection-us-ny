@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.759625,
     "reversegeo:longitude":-73.970081,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817924,
-    "wof:geomhash":"9b3191512b936a5c763a0ae9263dca03",
+    "wof:geomhash":"5721d1d9c2e8def6df762b0acbc36159",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907479,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947592,
     "wof:name":"Lexington Ave  & E 55th St",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

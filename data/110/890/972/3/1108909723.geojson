@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.73733,
     "reversegeo:longitude":-73.992654,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818037,
-    "wof:geomhash":"202458e6f6dfe3d153091bfbf6bc506b",
+    "wof:geomhash":"0a3ca7a41c28513ae709c73afa3a1078",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909723,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947597,
     "wof:name":"5th Ave  & W 16th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

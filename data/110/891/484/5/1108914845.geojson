@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.760312,
     "reversegeo:longitude":-73.971696,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818296,
-    "wof:geomhash":"7ab43d4d016e8669b92d42e1dc3e383e",
+    "wof:geomhash":"31a0e5d1aa19111b0f6ef933de548c5a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914845,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947608,
     "wof:name":"E 55th St  & Park Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

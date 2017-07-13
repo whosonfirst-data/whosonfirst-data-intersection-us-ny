@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.738761,
     "reversegeo:longitude":-74.002405,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818192,
-    "wof:geomhash":"ebe4e8c6dab5b802e15ed88f27fc06a9",
+    "wof:geomhash":"06c4295c8e11124f8715ca5ff2914a37",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912911,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947604,
     "wof:name":"Greenwich Ave  & W 13th St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

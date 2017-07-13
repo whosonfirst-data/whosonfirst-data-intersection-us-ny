@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.727304,
     "reversegeo:longitude":-73.997404,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818083,
-    "wof:geomhash":"95273d86a4365ebd088c2d68f6284060",
+    "wof:geomhash":"c4a4f9ee19c471b0d9db19448fd44dc4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910789,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947599,
     "wof:name":"Greene St  & Bleecker St",
     "wof:parent_id":420529189,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.787753,
     "reversegeo:longitude":-73.947461,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818085,
-    "wof:geomhash":"355b4512585de011b889557f69f858a7",
+    "wof:geomhash":"669ab45c9951e5355e976f16345340fa",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910839,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1499947600,
     "wof:name":"3rd Ave  & E 100th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

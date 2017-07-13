@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.754678,
     "reversegeo:longitude":-73.975807,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817986,
-    "wof:geomhash":"2ef2a9187aee820ba00a0be4a7928c2b",
+    "wof:geomhash":"fa7c53bfcf67354e89526954500af638",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908915,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947595,
     "wof:name":"E 46th St  & Park Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.733215,
     "reversegeo:longitude":-74.003032,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818077,
-    "wof:geomhash":"f45f518a0349a4b1fa97dcdacbbc9711",
+    "wof:geomhash":"70f985c7a40489f5f2ff8a5f64a302b1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910651,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947599,
     "wof:name":"7th Ave S  & Grove St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.848626,
     "reversegeo:longitude":-73.934239,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818238,
-    "wof:geomhash":"3fb895cf7931b6014c784173875d07a0",
+    "wof:geomhash":"835e94c2b9818630bc7c99b8e984c700",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913845,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947606,
     "wof:name":"St Nicholas Ave  & W 180th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.76624,
     "reversegeo:longitude":-73.960233,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818211,
-    "wof:geomhash":"1cc15cb6eab321e303f4a3805d504f31",
+    "wof:geomhash":"0727755adbe88d46eee1741620083c64",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913349,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947605,
     "wof:name":"2nd Ave  & E 68th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

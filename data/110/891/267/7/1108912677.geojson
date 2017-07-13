@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715649,
     "reversegeo:longitude":-73.977917,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818181,
-    "wof:geomhash":"443a99a182a0ed545e2e99970421faf8",
+    "wof:geomhash":"6ecbcd4448281167f1d35f44f43591f7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912677,
-    "wof:lastmodified":1490900145,
+    "wof:lastmodified":1499947604,
     "wof:name":"Delancy St N  & Baruch Dr",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

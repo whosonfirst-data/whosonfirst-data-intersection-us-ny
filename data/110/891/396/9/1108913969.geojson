@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.86915,
     "reversegeo:longitude":-73.922145,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818242,
-    "wof:geomhash":"56bbea851a5509f5bc3af6233566a724",
+    "wof:geomhash":"8cabc0d45698e36566ea0c53e240213d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913969,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947606,
     "wof:name":"Seaman Ave  & W 207th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

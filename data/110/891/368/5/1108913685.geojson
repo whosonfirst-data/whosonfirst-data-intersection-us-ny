@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.825898,
     "reversegeo:longitude":-73.939351,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818231,
-    "wof:geomhash":"7b9bb3d4ecc56b651011feb1a7bcaa23",
+    "wof:geomhash":"28c7badcb6d779c19451290ca467d3b2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913685,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947606,
     "wof:name":"Macombs Pl  & W 150th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

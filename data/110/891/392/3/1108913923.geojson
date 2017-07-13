@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.718457,
     "reversegeo:longitude":-73.994808,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818241,
-    "wof:geomhash":"61e199ef119d215a1524bc1d817c6538",
+    "wof:geomhash":"af57bf63cb40ddba95f6a5743cacb224",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913923,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947606,
     "wof:name":"Grand St  & Bowery",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

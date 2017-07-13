@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":5,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.806127,
     "reversegeo:longitude":-73.967373,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818146,
-    "wof:geomhash":"c224075bcae41aa5a7529b14338b03b9",
+    "wof:geomhash":"23a78440c99c4d763684855627e3bbbc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911973,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947602,
     "wof:name":"Riverside Dr  & W 112th St",
     "wof:parent_id":85869509,
     "wof:placetype":"intersection",

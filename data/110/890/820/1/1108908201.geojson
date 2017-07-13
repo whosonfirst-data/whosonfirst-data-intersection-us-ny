@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.805725,
     "reversegeo:longitude":-73.954416,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817954,
-    "wof:geomhash":"6af147035a316ab0f2719863a7144236",
+    "wof:geomhash":"4fe50818867e3af9a48f6d22fc8ca122",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908201,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947594,
     "wof:name":"Frederick Douglass Blvd  & W 118th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

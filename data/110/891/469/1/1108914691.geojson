@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717702,
     "reversegeo:longitude":-74.002386,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818284,
-    "wof:geomhash":"889187b0df2c1282f3a25b0c1a490210",
+    "wof:geomhash":"40d7e5b3c6cf328e80877e99f2635378",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914691,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947608,
     "wof:name":"Cortlandt Aly  & White St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

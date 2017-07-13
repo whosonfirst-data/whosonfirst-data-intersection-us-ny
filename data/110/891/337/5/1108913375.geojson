@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.795588,
     "reversegeo:longitude":-73.950158,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818212,
-    "wof:geomhash":"ad14e17c72e06252e055116cea67ab0c",
+    "wof:geomhash":"d826b87c73a68f272b88bfb7400efe16",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913375,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947605,
     "wof:name":"5th Ave  & E 108th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

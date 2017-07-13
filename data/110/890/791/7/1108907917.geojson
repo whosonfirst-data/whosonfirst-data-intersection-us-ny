@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.810765,
     "reversegeo:longitude":-73.952591,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817942,
-    "wof:geomhash":"8753e80cc64b5614d492724bd9bdcf8f",
+    "wof:geomhash":"3ef7fd346666e5d0b6c3336cddc8c73f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907917,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947593,
     "wof:name":"W 125th St  & St Nicholas Ave",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

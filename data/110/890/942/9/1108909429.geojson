@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717658,
     "reversegeo:longitude":-73.99222,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818018,
-    "wof:geomhash":"2146e647a338dcc50ffcd7cec551385d",
+    "wof:geomhash":"abae8368c65d50a007ad1a76bb5aaf55",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108909429,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947596,
     "wof:name":"Grand St  & Eldridge St",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

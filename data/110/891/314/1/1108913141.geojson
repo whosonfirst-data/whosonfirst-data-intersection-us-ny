@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.739088,
     "reversegeo:longitude":-73.991375,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818202,
-    "wof:geomhash":"675284b0176f7c20c3f1c38967e3fd10",
+    "wof:geomhash":"a78cbfe72f17b6cc7ce75abc018df4e6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913141,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947605,
     "wof:name":"5th Ave  & W 19th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

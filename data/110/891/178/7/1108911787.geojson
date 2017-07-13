@@ -14,7 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.718124,
     "reversegeo:longitude":-74.014999,
     "src:geom":"mapzen",
@@ -46,7 +46,7 @@
         }
     ],
     "wof:id":1108911787,
-    "wof:lastmodified":1499912649,
+    "wof:lastmodified":1499947602,
     "wof:name":"River Ter  & Chambers St",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

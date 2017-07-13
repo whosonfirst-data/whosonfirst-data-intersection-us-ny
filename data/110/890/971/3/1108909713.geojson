@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.747882,
     "reversegeo:longitude":-73.975422,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818036,
-    "wof:geomhash":"250f34b7a767cc91799a574f7a55f3bd",
+    "wof:geomhash":"8b4df1187e5beaced16138e5a459040b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909713,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947597,
     "wof:name":"E 38th St  & Tunnel Exit St",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

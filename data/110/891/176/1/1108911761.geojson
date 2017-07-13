@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.725685,
     "reversegeo:longitude":-73.980768,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818137,
-    "wof:geomhash":"4cfec53f6a2ee567d5a749e640ce6c3e",
+    "wof:geomhash":"f7f59f6da62cace4dcf4e70f933e5f06",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911761,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947602,
     "wof:name":"E 8th St  & Ave B",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

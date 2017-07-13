@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.790999,
     "reversegeo:longitude":-73.949303,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817976,
-    "wof:geomhash":"813c6b56819233e080fc74d60272e33f",
+    "wof:geomhash":"9de5e140041a00d2d4168349722ceec2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908691,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947595,
     "wof:name":"E 103rd St  & Park Ave",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

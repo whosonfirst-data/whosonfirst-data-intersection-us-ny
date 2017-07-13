@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.815767,
     "reversegeo:longitude":-73.956597,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818234,
-    "wof:geomhash":"c9147b7c0609049d9891c30ccc1ac1a8",
+    "wof:geomhash":"5589b493dfabbeef5969334c1f25789a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913755,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947606,
     "wof:name":"W 129th St  & Old Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

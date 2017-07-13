@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.770249,
     "reversegeo:longitude":-73.947794,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817992,
-    "wof:geomhash":"cc7b66edac9a92d80263098507dff7ad",
+    "wof:geomhash":"bad1c4e8c23cef22d12ec0d8e82246c5",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909061,
-    "wof:lastmodified":1490900166,
+    "wof:lastmodified":1499947596,
     "wof:name":"E 79th St  & F D R Dr",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

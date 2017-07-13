@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.765413,
     "reversegeo:longitude":-73.967974,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817965,
-    "wof:geomhash":"d0bceb24b192fbdade85253dec6f6569",
+    "wof:geomhash":"92c2dad7625de6234677a65a5c5594dc",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908371,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947594,
     "wof:name":"E 63rd St  & Park Ave",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721921,
     "reversegeo:longitude":-73.990041,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818213,
-    "wof:geomhash":"85966e1d93322e4a4c9babad61e78ea7",
+    "wof:geomhash":"87353cb880c79e685957f9f8b53c1d57",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913387,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1499947605,
     "wof:name":"Stanton St  & Eldridge St",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

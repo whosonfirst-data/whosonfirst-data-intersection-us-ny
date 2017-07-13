@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.828986,
     "reversegeo:longitude":-73.93896,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818093,
-    "wof:geomhash":"a7b0e982c399395d81ebb000cdb19fce",
+    "wof:geomhash":"3953c89c06301ead7db1ca5d9870f650",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911025,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 154th St  & Bradhurst Ave",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

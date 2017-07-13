@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.732318,
     "reversegeo:longitude":-74.001663,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817930,
-    "wof:geomhash":"52a13b16be13bedd45b5ed2cb04a0f71",
+    "wof:geomhash":"9f03afe748edf0853df141b7d4b1eb24",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907603,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947592,
     "wof:name":"Jones St  & W 4th St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.813458,
     "reversegeo:longitude":-73.939325,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818259,
-    "wof:geomhash":"f3622d1b41d8c4ae172c9a6640b220c4",
+    "wof:geomhash":"8d30fb46f58684d00892ba6af8f6fc9e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914229,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947607,
     "wof:name":"W 135th St  & Lenox Terrace Pl",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

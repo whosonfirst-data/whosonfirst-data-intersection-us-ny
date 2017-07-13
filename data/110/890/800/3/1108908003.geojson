@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.711364,
     "reversegeo:longitude":-73.996782,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817945,
-    "wof:geomhash":"3ec532da52f4a346b886ee01cf4ada16",
+    "wof:geomhash":"89506ee55f1cd6c9d6aa5b7014e0fb12",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908003,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947593,
     "wof:name":"Catherine Slip  & Monroe St",
     "wof:parent_id":907212755,
     "wof:placetype":"intersection",

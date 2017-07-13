@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.800479,
     "reversegeo:longitude":-73.957798,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818203,
-    "wof:geomhash":"306b179a5a946f52ed2154a02f8255e2",
+    "wof:geomhash":"f843d6b72944f0579d1c8429c3e716a2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913169,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947605,
     "wof:name":"Central Park N  & Frederick Douglass Cir",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

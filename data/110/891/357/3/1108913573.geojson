@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.692672,
     "reversegeo:longitude":-74.018229,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818226,
-    "wof:geomhash":"649ac00975527e4651742ec55499041d",
+    "wof:geomhash":"d6da6437ae467f6614d2ce5ea16f8c01",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913573,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947606,
     "wof:name":"Hay Rd  & Andes Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706484,
     "reversegeo:longitude":-74.016732,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818244,
-    "wof:geomhash":"b00407aaec94b31f0aacc35c09f3da0a",
+    "wof:geomhash":"18356cd087eee912d2bc3ef6124584eb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914015,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947607,
     "wof:name":"Little West St  & 2nd Pl",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

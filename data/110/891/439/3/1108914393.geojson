@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.766609,
     "reversegeo:longitude":-73.964988,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818265,
-    "wof:geomhash":"74e9f6f0ff4c8184b2c872c77547622e",
+    "wof:geomhash":"9677e3a3f2548abb0a2188746549e5c7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914393,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947607,
     "wof:name":"Lexington Ave  & E 66th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

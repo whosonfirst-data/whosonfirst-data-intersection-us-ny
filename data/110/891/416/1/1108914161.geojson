@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.755909,
     "reversegeo:longitude":-73.994468,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818257,
-    "wof:geomhash":"59ac550d8605fe3768c5660dfceb4df4",
+    "wof:geomhash":"570cb2a113e99ccb6d035bf57d3cade9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914161,
-    "wof:lastmodified":1490900147,
+    "wof:lastmodified":1499947607,
     "wof:name":"9th Ave  & W 38th St",
     "wof:parent_id":85868039,
     "wof:placetype":"intersection",

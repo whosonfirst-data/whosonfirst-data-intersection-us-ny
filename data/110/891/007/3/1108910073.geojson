@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.787222,
     "reversegeo:longitude":-73.967927,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818050,
-    "wof:geomhash":"77286407a590273d3b657c03d1a09cda",
+    "wof:geomhash":"28b076d1f56bacd86e699a79df5f9504",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910073,
-    "wof:lastmodified":1490900133,
+    "wof:lastmodified":1499947598,
     "wof:name":"Central Park W  & W 89th St",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

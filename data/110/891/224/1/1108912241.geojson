@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.721395,
     "reversegeo:longitude":-73.992731,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818157,
-    "wof:geomhash":"11db00728c69cab1d9e4eb2c3d76f831",
+    "wof:geomhash":"0c374a7bfcbed80fc62421502015a639",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108912241,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947603,
     "wof:name":"Freeman Aly  & Rivington St",
     "wof:parent_id":907189673,
     "wof:placetype":"intersection",

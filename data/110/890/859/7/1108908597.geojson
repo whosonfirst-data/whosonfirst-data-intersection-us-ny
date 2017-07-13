@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.750959,
     "reversegeo:longitude":-73.982724,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817973,
-    "wof:geomhash":"374407048d170ed8643a5d1a84a2ab14",
+    "wof:geomhash":"d882bfcfa1b648894d3418632c922840",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908597,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947595,
     "wof:name":"E 38th St  & W 38th St",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.73602,
     "reversegeo:longitude":-73.982267,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818032,
-    "wof:geomhash":"1126629e9f49e3f486b4913115dd417e",
+    "wof:geomhash":"86656b75cd2b79a7b7e55967182793fd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909625,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947597,
     "wof:name":"2nd Ave  & E 20th St",
     "wof:parent_id":85865705,
     "wof:placetype":"intersection",

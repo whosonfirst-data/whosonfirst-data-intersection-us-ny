@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.768485,
     "reversegeo:longitude":-73.955502,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818107,
-    "wof:geomhash":"ba714b566c318e9c891e67d8e1cd554d",
+    "wof:geomhash":"538b2851f8169bd5f4c3badd5014b1a7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911205,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947600,
     "wof:name":"1st Ave  & E 73rd St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

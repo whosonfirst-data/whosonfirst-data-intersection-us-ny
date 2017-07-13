@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.749483,
     "reversegeo:longitude":-73.975383,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817967,
-    "wof:geomhash":"61b63d8b52f0f7d59e24bef531b58889",
+    "wof:geomhash":"1b5125ba2a88cbcb226845cb6d9aaf24",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908419,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947594,
     "wof:name":"E 40th St  & 3rd Ave",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

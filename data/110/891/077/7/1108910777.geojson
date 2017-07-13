@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.75146,
     "reversegeo:longitude":-73.978159,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818082,
-    "wof:geomhash":"638f8ad47e044d04429842ed80ca23f4",
+    "wof:geomhash":"a493dde63694c0586e8a9cc4ba34347c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910777,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947599,
     "wof:name":"E 41st St  & Park Ave",
     "wof:parent_id":85836095,
     "wof:placetype":"intersection",

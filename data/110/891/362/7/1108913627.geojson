@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.68639,
     "reversegeo:longitude":-74.021242,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818229,
-    "wof:geomhash":"45499b4fc175ad964076b7f6d1330f29",
+    "wof:geomhash":"342850b7d329fb266d2992562f4c6217",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913627,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947606,
     "wof:name":"Enright Rd  & Icarus Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

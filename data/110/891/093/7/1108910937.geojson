@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.824739,
     "reversegeo:longitude":-73.954347,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818089,
-    "wof:geomhash":"6f3078e7552175c96146143f2035df8c",
+    "wof:geomhash":"daf52d1fd349ad13a73e5490d6483564",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910937,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"W 141st St  & Riverside Dr",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

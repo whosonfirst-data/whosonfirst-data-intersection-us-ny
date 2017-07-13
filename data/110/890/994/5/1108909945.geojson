@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.767321,
     "reversegeo:longitude":-73.976448,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818045,
-    "wof:geomhash":"572bff732782172068fa788f0e219299",
+    "wof:geomhash":"0d218e288137f31c90f79124081b0a4b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909945,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947598,
     "wof:name":"Central Park-Center Dr  & Center Dr",
     "wof:parent_id":420529187,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.729429,
     "reversegeo:longitude":-73.978001,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817985,
-    "wof:geomhash":"332c88a7eb4a5028bd76cf752b7f6593",
+    "wof:geomhash":"491a10b2bd8fc099a54323d495fa2bee",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908885,
-    "wof:lastmodified":1490900164,
+    "wof:lastmodified":1499947595,
     "wof:name":"E 14th St  & Ave B",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

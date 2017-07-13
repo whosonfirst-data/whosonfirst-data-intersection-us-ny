@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.769469,
     "reversegeo:longitude":-73.949936,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817977,
-    "wof:geomhash":"5e9b31a5cf6f6a8f55e32e6372a3f2cc",
+    "wof:geomhash":"917a48ddac532c92f70d14f65630736b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908707,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947595,
     "wof:name":"E 77th St  & Cherokee Pl",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

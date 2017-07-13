@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.872254,
     "reversegeo:longitude":-73.912594,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818243,
-    "wof:geomhash":"1412d92359ecae7badc78af44c415081",
+    "wof:geomhash":"27e8aa740f894710c86737af65d9af02",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108913975,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947606,
     "wof:name":"Broadway  & W 220th St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

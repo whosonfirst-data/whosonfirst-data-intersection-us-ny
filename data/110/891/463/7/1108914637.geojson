@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.707671,
     "reversegeo:longitude":-74.003108,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818281,
-    "wof:geomhash":"821ad1445622fd94b332b22ad1772277",
+    "wof:geomhash":"1081286353fdecced959ea49941529f2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108914637,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947608,
     "wof:name":"Water St  & Beekman St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

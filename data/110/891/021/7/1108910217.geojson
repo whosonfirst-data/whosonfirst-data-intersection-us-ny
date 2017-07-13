@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.719903,
     "reversegeo:longitude":-74.0026,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818056,
-    "wof:geomhash":"4155300a356e71c895ce24d061025a5f",
+    "wof:geomhash":"72e294730a6d6adb2ac06f364fd37010",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910217,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947598,
     "wof:name":"Mercer St  & Canal St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

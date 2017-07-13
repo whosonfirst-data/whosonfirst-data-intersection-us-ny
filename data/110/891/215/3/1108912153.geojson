@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.816318,
     "reversegeo:longitude":-73.957828,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818153,
-    "wof:geomhash":"c7b936ce10e4eded3afd97790bb70e1f",
+    "wof:geomhash":"874063280f1bba9341f93aa6af0aac0a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912153,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947602,
     "wof:name":"Broadway  & W 129th St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

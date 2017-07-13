@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.789168,
     "reversegeo:longitude":-73.952743,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818300,
-    "wof:geomhash":"d3e60b61050d74710af2451e9d94d17d",
+    "wof:geomhash":"8814fcd2d6e093dc2d731aca532b85fb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914917,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947609,
     "wof:name":"E 99th St  & Madison Ave",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

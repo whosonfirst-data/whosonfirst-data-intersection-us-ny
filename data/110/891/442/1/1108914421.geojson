@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.759619,
     "reversegeo:longitude":-73.961966,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818266,
-    "wof:geomhash":"7d3beabb3b107cf99f3a4bcbc4814b9d",
+    "wof:geomhash":"f2af33c28ae1c4658862a569335d1e9a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914421,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947607,
     "wof:name":"1st Ave  & E 59th St",
     "wof:parent_id":907214349,
     "wof:placetype":"intersection",

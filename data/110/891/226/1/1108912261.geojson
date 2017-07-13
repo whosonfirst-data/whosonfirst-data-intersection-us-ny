@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.732012,
     "reversegeo:longitude":-73.982022,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818158,
-    "wof:geomhash":"c17a7e0af2a88ffdbf6547f41982b9fa",
+    "wof:geomhash":"fd8f490826dd60162d12e320ed75fddd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912261,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947603,
     "wof:name":"1st Ave  & E 15th St",
     "wof:parent_id":85851295,
     "wof:placetype":"intersection",

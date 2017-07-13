@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.827657,
     "reversegeo:longitude":-73.93969,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818261,
-    "wof:geomhash":"80a61630ad2b1b52a91dd4dd1f182342",
+    "wof:geomhash":"1420564b463045e75da8c488e3dab166",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914283,
-    "wof:lastmodified":1490900134,
+    "wof:lastmodified":1499947607,
     "wof:name":"Bradhurst Ave  & W 152nd St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

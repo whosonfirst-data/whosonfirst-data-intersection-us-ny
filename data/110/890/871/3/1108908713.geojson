@@ -14,7 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.849476,
     "reversegeo:longitude":-73.945947,
     "src:geom":"mapzen",
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1108908713,
-    "wof:lastmodified":1499909570,
+    "wof:lastmodified":1499947595,
     "wof:name":"Haven Ave  & W 177th St",
     "wof:parent_id":907214331,
     "wof:placetype":"intersection",

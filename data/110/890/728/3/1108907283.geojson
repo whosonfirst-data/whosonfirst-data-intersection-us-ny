@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.741642,
     "reversegeo:longitude":-74.004861,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817916,
-    "wof:geomhash":"c69d6ba54cfa297cb016696bb2660ec1",
+    "wof:geomhash":"fae008a9245d9e780bb9db7d553ceae8",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907283,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947592,
     "wof:name":"9th Ave  & W 15th St",
     "wof:parent_id":85810589,
     "wof:placetype":"intersection",

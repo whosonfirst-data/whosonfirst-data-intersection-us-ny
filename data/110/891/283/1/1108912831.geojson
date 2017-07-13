@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.685139,
     "reversegeo:longitude":-74.021137,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818188,
-    "wof:geomhash":"7a722edb841f1e582a696582e38c9540",
+    "wof:geomhash":"b630aad4de6153be2b68c3503b373543",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108912831,
-    "wof:lastmodified":1490900141,
+    "wof:lastmodified":1499947604,
     "wof:name":"Yeaton Rd  & Craig Rd S",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

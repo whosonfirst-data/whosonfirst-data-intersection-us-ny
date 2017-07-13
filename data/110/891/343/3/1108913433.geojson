@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.712463,
     "reversegeo:longitude":-73.992402,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818214,
-    "wof:geomhash":"374ceadbc31d4d38987b1a5339f2009d",
+    "wof:geomhash":"b008c8da082369fbf29c05c109692179",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913433,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947605,
     "wof:name":"Madison St  & Pike St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

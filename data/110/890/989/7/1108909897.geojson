@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.875044,
     "reversegeo:longitude":-73.912266,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818043,
-    "wof:geomhash":"de755b0e6539852ed5fe85aa61c33f4e",
+    "wof:geomhash":"23536c9ff8117d7fc84eec9769ac78b7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909897,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947597,
     "wof:name":"Jacobus Pl  & W 225th St",
     "wof:parent_id":85865673,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.712769,
     "reversegeo:longitude":-73.988484,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818224,
-    "wof:geomhash":"b067b3c35c94897d336667b3a43b2cb0",
+    "wof:geomhash":"1aaf5b5d48a4857b5a101346d28a15c6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913549,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947606,
     "wof:name":"Jefferson St  & Madison St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.709542,
     "reversegeo:longitude":-74.001641,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817900,
-    "wof:geomhash":"d8398a5cd36b46c9c7f06ec53349902e",
+    "wof:geomhash":"aa386a2a4fc362df7c0d44efc243b5fb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108907027,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947591,
     "wof:name":"Pearl St  & Frankfort St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

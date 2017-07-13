@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.800584,
     "reversegeo:longitude":-73.932061,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817950,
-    "wof:geomhash":"b0e0f4e602424bf00bbaed62a0a20ea3",
+    "wof:geomhash":"e051a1b0ddadfe2fc5e03791fee900f4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908087,
-    "wof:lastmodified":1490900163,
+    "wof:lastmodified":1499947593,
     "wof:name":"1st Ave  & Paladino Ave",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

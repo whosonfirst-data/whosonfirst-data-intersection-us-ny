@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713591,
     "reversegeo:longitude":-74.001413,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817973,
-    "wof:geomhash":"416c4a19c877947262bf70b0fe9250b4",
+    "wof:geomhash":"11121ec8fb4e27bf1280287aad4587fd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908601,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947595,
     "wof:name":"Pearl St  & Cardinal Hayes Pl",
     "wof:parent_id":85865569,
     "wof:placetype":"intersection",

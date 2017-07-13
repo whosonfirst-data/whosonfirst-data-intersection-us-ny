@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.815326,
     "reversegeo:longitude":-73.935756,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818068,
-    "wof:geomhash":"6cee7dcdbf5fa3148928dfbba28713ec",
+    "wof:geomhash":"61da0bce9b1457d8dfe0a4141ebaf8a7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910463,
-    "wof:lastmodified":1490900136,
+    "wof:lastmodified":1499947599,
     "wof:name":"W 139th St  & E 139th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

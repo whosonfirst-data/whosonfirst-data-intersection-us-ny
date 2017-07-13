@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.759391,
     "reversegeo:longitude":-73.985072,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818228,
-    "wof:geomhash":"71ce5377f5a8220e57d369c42cfa15c4",
+    "wof:geomhash":"e5a240a01e09ab6d3093783a18035152",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913609,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947606,
     "wof:name":"Broadway  & W 47th St",
     "wof:parent_id":907216453,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.837296,
     "reversegeo:longitude":-73.946806,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817972,
-    "wof:geomhash":"5ad33fd42fc6757b9535ca3b4b9752d1",
+    "wof:geomhash":"5ebf83e41c00e08b8e70e57769ed84c4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908555,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"Riverside Dr  & W 160th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

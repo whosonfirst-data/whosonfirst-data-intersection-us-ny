@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.779808,
     "reversegeo:longitude":-73.984476,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818264,
-    "wof:geomhash":"18dcfbd73ec11d11365a6886bd60a01b",
+    "wof:geomhash":"c0cb4a3076b7b8f656359d51774451e1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914365,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947607,
     "wof:name":"W End Ave  & W 72nd St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

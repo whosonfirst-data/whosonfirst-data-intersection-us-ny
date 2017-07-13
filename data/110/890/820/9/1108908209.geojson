@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.738165,
     "reversegeo:longitude":-73.983632,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817955,
-    "wof:geomhash":"a8b482a58ec5f99f186ed3c4701a10c1",
+    "wof:geomhash":"6210c38b28e4037172a5c5bbfa635f05",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908209,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947594,
     "wof:name":"3rd Ave  & E 22nd St",
     "wof:parent_id":85865705,
     "wof:placetype":"intersection",

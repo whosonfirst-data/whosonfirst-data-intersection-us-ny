@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.730623,
     "reversegeo:longitude":-73.99064,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818233,
-    "wof:geomhash":"8a1d53a42b76229791df90cc396c2b41",
+    "wof:geomhash":"91a66d41b162a66e129c531943aec3cb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913731,
-    "wof:lastmodified":1490900160,
+    "wof:lastmodified":1499947606,
     "wof:name":"Lafayette St  & Wanamaker Pl",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

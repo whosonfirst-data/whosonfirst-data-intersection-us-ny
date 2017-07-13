@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.783192,
     "reversegeo:longitude":-73.984452,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818047,
-    "wof:geomhash":"18285302f59d0ff88ee0bae6771d3131",
+    "wof:geomhash":"dfe3aa7e09c95b1cc0be2938e4d9236c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910011,
-    "wof:lastmodified":1490900142,
+    "wof:lastmodified":1499947598,
     "wof:name":"Riverside Dr  & W 76th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

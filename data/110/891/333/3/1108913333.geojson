@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.753367,
     "reversegeo:longitude":-73.974648,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818211,
-    "wof:geomhash":"3160895578afe72a6714686ff32c7088",
+    "wof:geomhash":"ccfb5c729aca155da6a4b8d17923e292",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913333,
-    "wof:lastmodified":1490900151,
+    "wof:lastmodified":1499947605,
     "wof:name":"Lexington Ave  & E 45th St",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

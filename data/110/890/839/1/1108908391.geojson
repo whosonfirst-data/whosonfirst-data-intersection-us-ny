@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.723682,
     "reversegeo:longitude":-74.003635,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817966,
-    "wof:geomhash":"f441d20e0bdc95b4bd416d9d03fd6f93",
+    "wof:geomhash":"af52cd70412ebd40e073385e4312951c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908391,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947594,
     "wof:name":"Thompson St  & Broome St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

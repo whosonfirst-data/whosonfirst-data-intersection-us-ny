@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.726878,
     "reversegeo:longitude":-74.003122,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817932,
-    "wof:geomhash":"385dfc3c32a516c665f311f23532dcba",
+    "wof:geomhash":"4c698830276642012abb04c07a84d57c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907657,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947593,
     "wof:name":"Macdougal St  & Charlton St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

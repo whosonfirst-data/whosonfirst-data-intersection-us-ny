@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.752895,
     "reversegeo:longitude":-73.989243,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818209,
-    "wof:geomhash":"859e647ca836e1e6710b272d7404c1f6",
+    "wof:geomhash":"f501b96a2fa0e7a10f6f2b49438c8188",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108913309,
-    "wof:lastmodified":1490900156,
+    "wof:lastmodified":1499947605,
     "wof:name":"W 37th St  & Fashion Ave",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

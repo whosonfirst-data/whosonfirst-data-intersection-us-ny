@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.817545,
     "reversegeo:longitude":-73.956931,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817983,
-    "wof:geomhash":"638b9a7434659a39a839a9519ac1c82f",
+    "wof:geomhash":"0c93d601d7f3455df84e153c0b41d2d9",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908841,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"W 131st St  & Broadway",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

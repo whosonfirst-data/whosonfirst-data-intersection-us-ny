@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.730007,
     "reversegeo:longitude":-73.987359,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818231,
-    "wof:geomhash":"5a05192083ea483e20fa7cb676d0d55c",
+    "wof:geomhash":"8c7163eed9932f0c3f28014389d828f4",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108913673,
-    "wof:lastmodified":1490900148,
+    "wof:lastmodified":1499947606,
     "wof:name":"E 10th St  & Stuyvesant St",
     "wof:parent_id":85816887,
     "wof:placetype":"intersection",

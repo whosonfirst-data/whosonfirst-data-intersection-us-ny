@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.798564,
     "reversegeo:longitude":-73.963361,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818062,
-    "wof:geomhash":"cbdc1f5d15c05f25268b0cf50a38ce99",
+    "wof:geomhash":"c9a749068ff61709b238aa5f758d0474",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910355,
-    "wof:lastmodified":1490900144,
+    "wof:lastmodified":1499947598,
     "wof:name":"Columbus Ave  & W 105th St",
     "wof:parent_id":907214381,
     "wof:placetype":"intersection",

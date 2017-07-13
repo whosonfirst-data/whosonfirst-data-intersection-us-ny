@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.830846,
     "reversegeo:longitude":-73.947226,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817976,
-    "wof:geomhash":"4701dedde92e60f406ace657143e0412",
+    "wof:geomhash":"5710fe53a8ab2290c20475e8e5c5ba19",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908669,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947595,
     "wof:name":"Broadway  & W 152nd St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

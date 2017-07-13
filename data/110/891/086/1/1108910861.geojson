@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.860242,
     "reversegeo:longitude":-73.92842,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818086,
-    "wof:geomhash":"76d76b60d7c34938026d5437e0b27a67",
+    "wof:geomhash":"9d1304abbf2b664bfd60eb8b48ae558c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910861,
-    "wof:lastmodified":1490900150,
+    "wof:lastmodified":1499947600,
     "wof:name":"Nagle Ave  & Ellwood St",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

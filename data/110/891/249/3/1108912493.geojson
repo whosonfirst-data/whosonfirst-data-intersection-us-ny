@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.742259,
     "reversegeo:longitude":-73.977673,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818173,
-    "wof:geomhash":"89d5e9f768eed467627338293bafba4b",
+    "wof:geomhash":"27db26706d191e7597e6ec1e4fcbc2cf",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108912493,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947603,
     "wof:name":"2nd Ave  & E 30th St",
     "wof:parent_id":907189665,
     "wof:placetype":"intersection",

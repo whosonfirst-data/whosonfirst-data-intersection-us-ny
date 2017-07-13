@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713055,
     "reversegeo:longitude":-74.007225,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817929,
-    "wof:geomhash":"3715db4964648af0203c9fbe4c995c22",
+    "wof:geomhash":"d8d588c7011566694685af2318214489",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907585,
-    "wof:lastmodified":1490900178,
+    "wof:lastmodified":1499947592,
     "wof:name":"Broadway  & Murray St",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

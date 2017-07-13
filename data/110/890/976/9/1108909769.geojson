@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762967,
     "reversegeo:longitude":-73.973968,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818038,
-    "wof:geomhash":"541ef71db3e900db352e5d069a49d2a9",
+    "wof:geomhash":"e270021519d204577dde1bf85014d453",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909769,
-    "wof:lastmodified":1490900172,
+    "wof:lastmodified":1499947597,
     "wof:name":"E 57th St  & W 57th St",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

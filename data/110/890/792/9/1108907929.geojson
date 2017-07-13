@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.719083,
     "reversegeo:longitude":-73.985074,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817942,
-    "wof:geomhash":"14594a32620d9ab4e4039666f9635d0f",
+    "wof:geomhash":"6d9e529b0fa0789afb0cb000f9690d3e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907929,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947593,
     "wof:name":"Clinton St  & Rivington St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

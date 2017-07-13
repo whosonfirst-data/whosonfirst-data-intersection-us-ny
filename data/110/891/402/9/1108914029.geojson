@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.72255,
     "reversegeo:longitude":-74.006298,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818246,
-    "wof:geomhash":"e7b9161873eba2b8c4ef871014ad2bbe",
+    "wof:geomhash":"29b1baab09fd742007f2666634fd37e7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914029,
-    "wof:lastmodified":1490900146,
+    "wof:lastmodified":1499947607,
     "wof:name":"Varick St  & Canal St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

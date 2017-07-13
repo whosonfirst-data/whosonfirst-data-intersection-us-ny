@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.866336,
     "reversegeo:longitude":-73.925005,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818056,
-    "wof:geomhash":"285124014bf05ab7e7b9b88494f26c06",
+    "wof:geomhash":"87792fcc226ecbe687005aed764dbc8b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910209,
-    "wof:lastmodified":1490900132,
+    "wof:lastmodified":1499947598,
     "wof:name":"Academy St  & Broadway",
     "wof:parent_id":85826989,
     "wof:placetype":"intersection",

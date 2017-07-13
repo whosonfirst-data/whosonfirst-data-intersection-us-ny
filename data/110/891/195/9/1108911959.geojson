@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.756606,
     "reversegeo:longitude":-73.976504,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818146,
-    "wof:geomhash":"5473acbd354449914bc3bd16fe71fdf6",
+    "wof:geomhash":"2d8ca3390bda490be3bfbafe6f368e6c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911959,
-    "wof:lastmodified":1490900153,
+    "wof:lastmodified":1499947602,
     "wof:name":"E 48th St  & Madison Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.811509,
     "reversegeo:longitude":-73.946475,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818008,
-    "wof:geomhash":"7adad435800167e8b94b3d1353bf844e",
+    "wof:geomhash":"865db73e12c3c6de87cb64380d9214d1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909289,
-    "wof:lastmodified":1490900170,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 129th St  & Adam Clayton Powell Jr Blvd",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

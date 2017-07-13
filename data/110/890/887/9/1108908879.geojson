@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.713846,
     "reversegeo:longitude":-74.010561,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817985,
-    "wof:geomhash":"6290901792de2dc09254957d84256452",
+    "wof:geomhash":"91fa7f761280d515dd7b69617bc9ccda",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908879,
-    "wof:lastmodified":1490900173,
+    "wof:lastmodified":1499947595,
     "wof:name":"W Broadway  & Park Pl",
     "wof:parent_id":85865713,
     "wof:placetype":"intersection",

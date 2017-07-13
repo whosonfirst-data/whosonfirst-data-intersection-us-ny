@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.729725,
     "reversegeo:longitude":-73.980858,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817952,
-    "wof:geomhash":"fee576a6efe1b526ece865076e46def9",
+    "wof:geomhash":"43626fef5d734c22a7194c262415f0f7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908141,
-    "wof:lastmodified":1490900180,
+    "wof:lastmodified":1499947594,
     "wof:name":"E 13th St  & Ave A",
     "wof:parent_id":907189647,
     "wof:placetype":"intersection",

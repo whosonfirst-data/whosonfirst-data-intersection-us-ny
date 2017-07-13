@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.776876,
     "reversegeo:longitude":-73.949374,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818061,
-    "wof:geomhash":"cf71d2fb859bc138af2526605c468fd4",
+    "wof:geomhash":"4151b0d879d32cbc83ade14736d19c62",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910333,
-    "wof:lastmodified":1490900161,
+    "wof:lastmodified":1499947598,
     "wof:name":"1st Ave  & E 86th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

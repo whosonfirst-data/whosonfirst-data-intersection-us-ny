@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.797679,
     "reversegeo:longitude":-73.93728,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818152,
-    "wof:geomhash":"425120b823a575f7885a97354000f2da",
+    "wof:geomhash":"13f0f7686c1bd7c0706b7b34db0b3b04",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912115,
-    "wof:lastmodified":1490900131,
+    "wof:lastmodified":1499947602,
     "wof:name":"2nd Ave  & E 117th St",
     "wof:parent_id":85865689,
     "wof:placetype":"intersection",

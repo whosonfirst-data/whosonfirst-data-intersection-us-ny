@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.724552,
     "reversegeo:longitude":-74.001933,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818034,
-    "wof:geomhash":"7a89412734e1e17665b49dc867b0176d",
+    "wof:geomhash":"5dc9be75a53683bf227e8de05f03a535",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909669,
-    "wof:lastmodified":1490900167,
+    "wof:lastmodified":1499947597,
     "wof:name":"W Broadway  & Spring St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",

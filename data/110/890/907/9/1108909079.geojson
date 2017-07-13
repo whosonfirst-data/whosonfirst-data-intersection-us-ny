@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.717565,
     "reversegeo:longitude":-73.979979,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817992,
-    "wof:geomhash":"f4001ee46ac372893dbde1469f3a89e6",
+    "wof:geomhash":"9c27825066e4a22ad019a7142012cd9d",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909079,
-    "wof:lastmodified":1490900180,
+    "wof:lastmodified":1499947596,
     "wof:name":"Rivington St  & Columbia St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

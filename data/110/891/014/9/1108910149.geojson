@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.757749,
     "reversegeo:longitude":-73.971451,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818053,
-    "wof:geomhash":"b7ef2a3dd6d87732da69de5e30e613bc",
+    "wof:geomhash":"e1ae77443d705e0a8bba6eb3634522d1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910149,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947598,
     "wof:name":"E 52nd St  & Lexington Ave",
     "wof:parent_id":907215785,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715856,
     "reversegeo:longitude":-73.994955,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817991,
-    "wof:geomhash":"75f54d6483337e1e4a4cb36378e6fef1",
+    "wof:geomhash":"444db8dc5f1e4b085bbf575b90763c0f",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909045,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947596,
     "wof:name":"Chrystie St  & Canal St",
     "wof:parent_id":85810885,
     "wof:placetype":"intersection",

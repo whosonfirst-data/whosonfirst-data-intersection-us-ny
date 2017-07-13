@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.81776,
     "reversegeo:longitude":-73.947441,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818119,
-    "wof:geomhash":"08123c22b52ce5a99290ef9b283be57c",
+    "wof:geomhash":"e1bc0b7694c441b024f2abe47006a391",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911355,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947601,
     "wof:name":"Edgecombe Ave  & W 136th St",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

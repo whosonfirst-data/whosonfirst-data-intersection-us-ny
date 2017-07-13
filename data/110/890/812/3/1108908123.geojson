@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.772212,
     "reversegeo:longitude":-73.982182,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817951,
-    "wof:geomhash":"aeb84665e352270263f8d36fdc91adfa",
+    "wof:geomhash":"dae86ff35246d8563d5dc8a7b7a9b723",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108908123,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947594,
     "wof:name":"Broadway  & W 64th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

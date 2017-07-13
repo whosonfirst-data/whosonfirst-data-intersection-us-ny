@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.775564,
     "reversegeo:longitude":-73.950339,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818187,
-    "wof:geomhash":"9db3ed51f20983fc4a7e5a215dea5e58",
+    "wof:geomhash":"102e2afccf2baa7a04984ed3ed5e30d1",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108912821,
-    "wof:lastmodified":1490900137,
+    "wof:lastmodified":1499947604,
     "wof:name":"1st Ave  & E 84th St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.735134,
     "reversegeo:longitude":-74.006069,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817901,
-    "wof:geomhash":"cfdbd548a5f3ae5435d297f0ab1efe28",
+    "wof:geomhash":"80266a094d3fc75d66a2f620c7f2bb4b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907045,
-    "wof:lastmodified":1490900175,
+    "wof:lastmodified":1499947591,
     "wof:name":"Perry St  & Hudson St",
     "wof:parent_id":85856577,
     "wof:placetype":"intersection",

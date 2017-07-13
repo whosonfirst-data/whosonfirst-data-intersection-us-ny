@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.820965,
     "reversegeo:longitude":-73.939566,
     "src:geom":"mapzen",
@@ -35,7 +36,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818209,
-    "wof:geomhash":"a9e21ed68de3086fa088b21259b9abd8",
+    "wof:geomhash":"26b3d6970297037a6442a7ed7c041682",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1108913311,
-    "wof:lastmodified":1490900152,
+    "wof:lastmodified":1499947605,
     "wof:name":"W 144th St  & Adam Clayton Powell Jr Blvd",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

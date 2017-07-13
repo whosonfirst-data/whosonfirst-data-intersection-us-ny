@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":3,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.841087,
     "reversegeo:longitude":-73.937929,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818257,
-    "wof:geomhash":"97f9fa14ae037c43d0cf9ce523640707",
+    "wof:geomhash":"7639c957f82264758b6ae01a3e5ef91a",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108914159,
-    "wof:lastmodified":1490900149,
+    "wof:lastmodified":1499947607,
     "wof:name":"W 169th St  & Audubon Ave",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

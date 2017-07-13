@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.715146,
     "reversegeo:longitude":-73.978377,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817906,
-    "wof:geomhash":"f0c8555e4313578642349e05da0e3131",
+    "wof:geomhash":"229d109ca31fc96d415956ac93055cc6",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907165,
-    "wof:lastmodified":1490900169,
+    "wof:lastmodified":1499947591,
     "wof:name":"Baruch Pl  & Delancey St S",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.821301,
     "reversegeo:longitude":-73.957929,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817969,
-    "wof:geomhash":"2916c59eec373e4b7f381bd4f0ac46c7",
+    "wof:geomhash":"76b5f5b19fd73455b87d201fbbe371f2",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108908483,
-    "wof:lastmodified":1490900181,
+    "wof:lastmodified":1499947594,
     "wof:name":"12th Ave  & W 135th St",
     "wof:parent_id":85869313,
     "wof:placetype":"intersection",

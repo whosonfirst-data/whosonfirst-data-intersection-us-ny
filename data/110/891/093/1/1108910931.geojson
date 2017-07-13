@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.83238,
     "reversegeo:longitude":-73.940883,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818088,
-    "wof:geomhash":"1a435950d700257b20024dcd7d3d2793",
+    "wof:geomhash":"7d351f1b8ff4d9da3b72fc2fca08e0d7",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108910931,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947600,
     "wof:name":"St Nicholas Ave  & W 157th St",
     "wof:parent_id":85854625,
     "wof:placetype":"intersection",

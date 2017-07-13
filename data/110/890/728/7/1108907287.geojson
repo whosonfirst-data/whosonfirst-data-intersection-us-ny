@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.781429,
     "reversegeo:longitude":-73.954176,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817916,
-    "wof:geomhash":"e7f0327da5d5fa2cadd3e894deab8e26",
+    "wof:geomhash":"ad0e35b7f5cad7d6469054ca327bf0aa",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907287,
-    "wof:lastmodified":1490900171,
+    "wof:lastmodified":1499947592,
     "wof:name":"Lexington Ave  & E 89th St",
     "wof:parent_id":907196173,
     "wof:placetype":"intersection",

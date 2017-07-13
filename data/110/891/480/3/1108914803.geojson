@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.851863,
     "reversegeo:longitude":-73.928151,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818294,
-    "wof:geomhash":"c376aeeb5aa90b2e32da3769e404ea03",
+    "wof:geomhash":"3432e7d89c349c6ad62e58b9db2b8f53",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914803,
-    "wof:lastmodified":1490900159,
+    "wof:lastmodified":1499947608,
     "wof:name":"Amsterdam Ave  & W 187th St",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.829186,
     "reversegeo:longitude":-73.935155,
     "src:geom":"mapzen",
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":1108914625,
-    "wof:lastmodified":1496248597,
+    "wof:lastmodified":1499947608,
     "wof:name":"W 155th St  & Harlem River Dr",
     "wof:parent_id":85865555,
     "wof:placetype":"intersection",

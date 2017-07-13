@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.716671,
     "reversegeo:longitude":-73.983321,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817921,
-    "wof:geomhash":"dbc7911300cacaa7827d4b57d63e9707",
+    "wof:geomhash":"ba046250c53bb9c83b7ba864fad533fe",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108907411,
-    "wof:lastmodified":1490900177,
+    "wof:lastmodified":1499947592,
     "wof:name":"Pitt St  & Delancey St S",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

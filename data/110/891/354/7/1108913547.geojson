@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.762537,
     "reversegeo:longitude":-74.000296,
     "src:geom":"mapzen",
@@ -34,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818224,
-    "wof:geomhash":"93d1001109ac7d9213d27445169c620c",
+    "wof:geomhash":"4c99e4c2e3379a3976f0e305aaa25fdd",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1108913547,
-    "wof:lastmodified":1490900157,
+    "wof:lastmodified":1499947606,
     "wof:name":"12th Ave  & W 43rd St",
     "wof:parent_id":-1,
     "wof:placetype":"intersection",

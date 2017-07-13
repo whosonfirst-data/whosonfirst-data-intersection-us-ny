@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.7517,
     "reversegeo:longitude":-73.986399,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818119,
-    "wof:geomhash":"b29a93625e274d31b6ba0de6d44bc685",
+    "wof:geomhash":"8ed83758d00c973da2a398afab082e3e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108911351,
-    "wof:lastmodified":1490900138,
+    "wof:lastmodified":1499947601,
     "wof:name":"Ave of the Americas  & W 37th St",
     "wof:parent_id":907212749,
     "wof:placetype":"intersection",

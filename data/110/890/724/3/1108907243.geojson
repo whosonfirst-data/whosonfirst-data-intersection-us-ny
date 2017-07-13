@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.781751,
     "reversegeo:longitude":-73.981064,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817909,
-    "wof:geomhash":"073d043a9402e79a478e69101778eca4",
+    "wof:geomhash":"8d4d8cf8fb5af1a998b8b01196743a92",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108907243,
-    "wof:lastmodified":1490900165,
+    "wof:lastmodified":1499947592,
     "wof:name":"Broadway  & W 76th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

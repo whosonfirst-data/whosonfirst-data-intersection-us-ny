@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":2,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.781062,
     "reversegeo:longitude":-73.949419,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818051,
-    "wof:geomhash":"92edffa05db9feca2e91f5e12ebf0334",
+    "wof:geomhash":"001e4e8c43b89bf9d9d118318b2e458e",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108910091,
-    "wof:lastmodified":1490900139,
+    "wof:lastmodified":1499947598,
     "wof:name":"2nd Ave  & E 91st St",
     "wof:parent_id":907215779,
     "wof:placetype":"intersection",

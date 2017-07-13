@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.688243,
     "reversegeo:longitude":-74.013019,
     "src:geom":"mapzen",
@@ -44,7 +45,7 @@
         }
     ],
     "wof:id":1108914603,
-    "wof:lastmodified":1496248597,
+    "wof:lastmodified":1499947608,
     "wof:name":"Barry Rd  & Evans Rd",
     "wof:parent_id":907131741,
     "wof:placetype":"intersection",

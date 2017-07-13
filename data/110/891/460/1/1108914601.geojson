@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.856606,
     "reversegeo:longitude":-73.928411,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818280,
-    "wof:geomhash":"5d19f4f2930a91894e525f947c226da2",
+    "wof:geomhash":"85686dde8c896cf7ff853fba24692d17",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108914601,
-    "wof:lastmodified":1490900135,
+    "wof:lastmodified":1499947608,
     "wof:name":"Wadsworth Ave  & St Nicholas Ave",
     "wof:parent_id":907212535,
     "wof:placetype":"intersection",

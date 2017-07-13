@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.777923,
     "reversegeo:longitude":-73.982118,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818017,
-    "wof:geomhash":"76699152f393306c048194c7c5a23fd4",
+    "wof:geomhash":"0bace35d17e43eee2239685007e6209c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909417,
-    "wof:lastmodified":1490900176,
+    "wof:lastmodified":1499947596,
     "wof:name":"W 71st St  & Amsterdam Ave",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

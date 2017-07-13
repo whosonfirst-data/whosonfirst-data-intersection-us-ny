@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.718947,
     "reversegeo:longitude":-73.975452,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818092,
-    "wof:geomhash":"39cffb3d37c695c4cd29519f484cf68c",
+    "wof:geomhash":"81c872ed179a4e4fb689b37e35f6142b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911001,
-    "wof:lastmodified":1490900140,
+    "wof:lastmodified":1499947600,
     "wof:name":"E Houston St  & Mangin St",
     "wof:parent_id":85831563,
     "wof:placetype":"intersection",

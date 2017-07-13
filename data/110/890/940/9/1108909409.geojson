@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.773602,
     "reversegeo:longitude":-73.981573,
     "src:geom":"mapzen",
@@ -29,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818017,
-    "wof:geomhash":"7e38e945f5aa16ce5db91d9c6bdd0e9e",
+    "wof:geomhash":"750ed1aed6b61aefe69974bf7659893b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -43,7 +44,7 @@
         }
     ],
     "wof:id":1108909409,
-    "wof:lastmodified":1490900179,
+    "wof:lastmodified":1499947596,
     "wof:name":"Columbus Ave  & W 66th St",
     "wof:parent_id":85853285,
     "wof:placetype":"intersection",

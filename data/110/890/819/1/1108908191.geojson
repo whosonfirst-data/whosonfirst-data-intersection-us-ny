@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":0,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.706853,
     "reversegeo:longitude":-74.005003,
     "src:geom":"mapzen",
@@ -31,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490817954,
-    "wof:geomhash":"c244f21cec967151e84a7970ad3208b0",
+    "wof:geomhash":"8d6e034ffd9e1ab70e0a55b767d8d297",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -47,7 +48,7 @@
         }
     ],
     "wof:id":1108908191,
-    "wof:lastmodified":1490900162,
+    "wof:lastmodified":1499947594,
     "wof:name":"Water St  & John St",
     "wof:parent_id":907215463,
     "wof:placetype":"intersection",

@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":4,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.704826,
     "reversegeo:longitude":-74.016656,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818032,
-    "wof:geomhash":"4f9971f3abd1909e3870136488719524",
+    "wof:geomhash":"f4cdd21665ed246f3b3c55d122fbf43b",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108909615,
-    "wof:lastmodified":1490900168,
+    "wof:lastmodified":1499947597,
     "wof:name":"Battery Pl  & West St",
     "wof:parent_id":85804741,
     "wof:placetype":"intersection",

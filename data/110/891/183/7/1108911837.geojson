@@ -14,6 +14,7 @@
     "iso:country":"US",
     "mz:colour_id":1,
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "reversegeo:latitude":40.720341,
     "reversegeo:longitude":-74.002221,
     "src:geom":"mapzen",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1490818140,
-    "wof:geomhash":"79b481221ef252ee1229144b28564c73",
+    "wof:geomhash":"8f1a731811b1999f1da98ebf0cc60bc0",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":1108911837,
-    "wof:lastmodified":1490900155,
+    "wof:lastmodified":1499947602,
     "wof:name":"Howard St  & Mercer St",
     "wof:parent_id":85865687,
     "wof:placetype":"intersection",
