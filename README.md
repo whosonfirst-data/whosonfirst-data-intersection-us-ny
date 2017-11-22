@@ -9,3 +9,4 @@ This is experimental work. Proceed with caution.
 ## See also
 
 * https://whosonfirst.mapzen.com/
+* https://github.com/whosonfirst/whosonfirst-intersections
