@@ -2,6 +2,8 @@
 # 1. Variables at the top of the Makefile.
 # 2. Targets are listed alphabetically. No, really.
 
+OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
+
 WHEREAMI = $(shell pwd)
 WHOAMI = $(shell basename $(WHEREAMI))
 WHATAMI = $(shell echo $(WHOAMI) | awk -F '-' '{print $$3}')
@@ -9,57 +11,26 @@ WHATAMI_REALLY = $(shell basename `pwd` | sed 's/whosonfirst-data-//')
 
 YMD = $(shell date "+%Y%m%d")
 
-UNAME_S := $(shell uname -s)
-
 archive: meta-scrub
 	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
-bin:
-	mkdir -p bin
-ifeq ($(UNAME_S),Darwin)
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/darwin/wof-build-metafiles
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/darwin/wof-build-metafiles.sha256
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/darwin/wof-build-concordances
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/darwin/wof-build-concordances.sha256
-	make bin-verify
-else ifeq ($(UNAME_S),Linux)
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/linux/wof-build-metafiles
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/linux/wof-build-metafiles.sha256
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/linux/wof-build-concordances
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/linux/wof-build-concordances.sha256
-	make bin-verify
-else ifeq ($(UNAME_S),Windows)
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/windows/wof-build-metafiles
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/windows/wof-build-metafiles.sha256
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/windows/wof-build-concordances
-	cd bin && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/windows/wof-build-concordances.sha256
-	@echo "Skipping the SHA-256 verification, because Windows"
+concordances:
+ifeq ($(OS),darwin)
+	bin/$(OS)/wof-build-concordances
+else ifeq ($(OS),linux)
+	bin/$(OS)/wof-build-concordances
+else ifeq ($(OS),windows)
+	bin/$(OS)/wof-build-concordances
 else
 	echo "this OS is not supported yet"
 	exit 1
 endif
 
-bin-verify:
-	cd bin && shasum -a 256 -c wof-build-metafiles.sha256
-	cd bin && shasum -a 256 -c wof-build-concordances.sha256
-	chmod +x bin/wof-build-metafiles
-	chmod +x bin/wof-build-concordances
-	rm bin/wof-build-metafiles.sha256
-	rm bin/wof-build-concordances.sha256
-
 count:
 	find ./data -name '*.geojson' -print | wc -l
 
-docs:
-	curl -s -o LICENSE.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/LICENSE-SHORT.md
-	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
-
 githash:
 	git log --pretty=format:'%H' -n 1
-
-gitignore:
-	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore
-	curl -s -o meta/.gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore-meta
 
 gitlf:
 	if ! test -f .gitattributes; then touch .gitattributes; fi
@@ -72,14 +43,22 @@ else
 	@echo "Git linefeed hoohah already set"
 endif
 
-gitlfs-track-meta:
-	git-lfs track meta/*-latest.csv
-
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
 
 ia:
 	ia upload $(WHOAMI)-$(YMD) $(src)/$(WHOAMI)-$(YMD).tar.bz2 --metadata="title:$(WHOAMI)-$(YMD)" --metadata="licenseurl:http://creativecommons.org/licenses/by/4.0/" --metadata="date:$(YMD)" --metadata="subject:geo;mapzen;whosonfirst" --metadata="creator:Who's On First (Mapzen)"
+
+install-hooks:
+	if test ! -f .git/hooks/post-merge; then echo "#!/bin/sh" > .git/hooks/post-merge; chmod 755 .git/hooks/post-merge; fi
+ifeq ($(shell grep 'whosonfirst-data post-merge hooks' .git/hooks/post-merge | wc -l), 0)
+	echo "" >> .git/hooks/post-merge
+	curl -s https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/meta/git/hooks/post-merge >> .git/hooks/post-merge
+else
+	@echo "whosonfirst-data post-merge hooks already installed"
+endif
+	curl -s -o .git/hooks/post-merge-whosonfirst https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/meta/git/hooks/post-merge-whosonfirst
+	chmod 755 .git/hooks/post-merge-whosonfirst
 
 internetarchive:
 	$(MAKE) dest=$(src) archive
@@ -89,11 +68,58 @@ internetarchive:
 list-empty:
 	find data -type d -empty -print
 
+metafiles:
+ifeq ($(OS),darwin)
+	bin/$(OS)/wof-build-metafiles
+else ifeq ($(OS),linux)
+	bin/$(OS)/wof-build-metafiles
+else ifeq ($(OS),windows)
+	bin/$(OS)/wof-build-metafiles
+else
+	echo "this OS is not supported yet"
+	exit 1
+endif
+
 prune:
 	git gc --aggressive --prune
 
 rm-empty:
 	find data -type d -empty -print -delete
+
+scrub: rm-empty prune
+
+tools:
+	make tools-fetch TARGET=darwin
+	make tools-verify TARGET=darwin
+	make tools-fetch TARGET=linux
+	make tools-verify TARGET=linux
+	make tools-fetch TARGET=windows
+	@echo "Skipping the SHA-256 verification, because Windows"
+
+tools-fetch:
+	mkdir -p bin/$(TARGET)
+	cd bin/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/$(TARGET)/wof-build-metafiles
+	cd bin/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/$(TARGET)/wof-build-metafiles.sha256
+	cd bin/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/$(TARGET)/wof-build-concordances
+	cd bin/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/$(TARGET)/wof-build-concordances.sha256
+
+tools-verify:
+	cd bin/$(TARGET) && shasum -a 256 -c wof-build-metafiles.sha256
+	cd bin/$(TARGET) && shasum -a 256 -c wof-build-concordances.sha256
+	chmod +x bin/$(TARGET)/wof-build-metafiles
+	chmod +x bin/$(TARGET)/wof-build-concordances
+	rm bin/$(TARGET)/wof-build-metafiles.sha256
+	rm bin/$(TARGET)/wof-build-concordances.sha256
+
+update-all: update-docs update-gitignore update-makefile
+
+update-docs:
+	curl -s -o LICENSE.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/LICENSE-SHORT.md
+	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
+
+update-gitignore:
+	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore
+	curl -s -o meta/.gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore-meta
 
 update-makefile:
 	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile

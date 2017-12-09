@@ -7,4 +7,5 @@ Makefile.*
 .changed-*
 .merge-*
 bin
+!bin/*/wof-*
 *.svg
