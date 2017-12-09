@@ -16,11 +16,11 @@ archive: meta-scrub
 
 concordances:
 ifeq ($(OS),darwin)
-	bin/$(OS)/wof-build-concordances
+	utils/$(OS)/wof-build-concordances
 else ifeq ($(OS),linux)
-	bin/$(OS)/wof-build-concordances
+	utils/$(OS)/wof-build-concordances
 else ifeq ($(OS),windows)
-	bin/$(OS)/wof-build-concordances
+	utils/$(OS)/wof-build-concordances
 else
 	echo "this OS is not supported yet"
 	exit 1
@@ -70,11 +70,11 @@ list-empty:
 
 metafiles:
 ifeq ($(OS),darwin)
-	bin/$(OS)/wof-build-metafiles
+	utils/$(OS)/wof-build-metafiles
 else ifeq ($(OS),linux)
-	bin/$(OS)/wof-build-metafiles
+	utils/$(OS)/wof-build-metafiles
 else ifeq ($(OS),windows)
-	bin/$(OS)/wof-build-metafiles
+	utils/$(OS)/wof-build-metafiles
 else
 	echo "this OS is not supported yet"
 	exit 1
@@ -99,17 +99,17 @@ tools:
 tools-fetch:
 	mkdir -p bin/$(TARGET)
 	cd bin/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/$(TARGET)/wof-build-metafiles
-	cd bin/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/$(TARGET)/wof-build-metafiles.sha256
-	cd bin/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/$(TARGET)/wof-build-concordances
-	cd bin/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/$(TARGET)/wof-build-concordances.sha256
+	cd utils/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-meta/master/dist/$(TARGET)/wof-build-metafiles.sha256
+	cd utils/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/$(TARGET)/wof-build-concordances
+	cd utils/$(TARGET) && curl -s -O https://raw.githubusercontent.com/whosonfirst/go-whosonfirst-concordances/master/dist/$(TARGET)/wof-build-concordances.sha256
 
 tools-verify:
-	cd bin/$(TARGET) && shasum -a 256 -c wof-build-metafiles.sha256
-	cd bin/$(TARGET) && shasum -a 256 -c wof-build-concordances.sha256
-	chmod +x bin/$(TARGET)/wof-build-metafiles
-	chmod +x bin/$(TARGET)/wof-build-concordances
-	rm bin/$(TARGET)/wof-build-metafiles.sha256
-	rm bin/$(TARGET)/wof-build-concordances.sha256
+	cd utils/$(TARGET) && shasum -a 256 -c wof-build-metafiles.sha256
+	cd utils/$(TARGET) && shasum -a 256 -c wof-build-concordances.sha256
+	chmod +x utils/$(TARGET)/wof-build-metafiles
+	chmod +x utils/$(TARGET)/wof-build-concordances
+	rm utils/$(TARGET)/wof-build-metafiles.sha256
+	rm utils/$(TARGET)/wof-build-concordances.sha256
 
 update-all: update-docs update-gitignore update-makefile
 
@@ -128,3 +128,9 @@ ifeq ($(shell echo $(WHATAMI) | wc -l), 1)
 	if test -f $(WHEREAMI)/Makefile.$(WHATAMI).local;then  echo "\n# appending Makefile.$(WHATAMI).local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI).local >> Makefile; fi
 endif
 	if test -f $(WHEREAMI)/Makefile.local; then echo "\n# appending Makefile.local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.local >> Makefile; fi
+
+update-meta:
+	if test ! -d meta; then mkdir meta; fi
+	rm -f meta/*.csv
+	curl -s -o meta/README.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/meta/README.md
+	curl -s -o meta/.gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore-meta
